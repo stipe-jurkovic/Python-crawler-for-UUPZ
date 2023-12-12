@@ -1,3 +1,4 @@
+import asyncio
 import json
 import requests
 import time
@@ -46,7 +47,7 @@ def imgDownload(url, name):
         print(f"Image downloaded and saved to {file_path}")
     else:
         print(f"Failed to download image. Status code: {response.status_code}")
-
+filename = 'njuskalo_scrapefirst50.csv'
 
 def listingFetchParse(url, headerNumber):
     
@@ -85,7 +86,6 @@ def listingFetchParse(url, headerNumber):
         for index, price in enumerate(pricet):
             if ("class" in price.attrs):
                 if ("ClassifiedDetailSummary-priceDomestic" in price["class"]):
-                    print("  ", price.text.rsplit("/")[0].strip())
                     listingjson["price"] = price.text.rsplit("/")[0].strip().split(",")[0].strip()
         
 
@@ -97,17 +97,11 @@ def listingFetchParse(url, headerNumber):
                 if ("ClassifiedDetailPropertyGroups--standard" in div["class"]):
                     grijanje = div.findAll("section")
                     for index, grija in enumerate(grijanje):
-                        print(grija.findAll("h3")[0].text)
                         divuli = grija.findAll("div")[0].findAll("ul")[0]
                         if grija.findAll("h3")[0].text == "Kupaonica i WC":
-                            print(divuli.findAll("li")[0].text.rsplit(":")[0].strip())
-                            print(divuli.findAll("li")[0].text.rsplit(":")[1].strip())
                             listingjson["bathrooms with toilet"] = divuli.findAll("li")[0].text.rsplit(":")[1].strip()
                             if len(divuli.findAll("li"))>1:
-                                print(divuli.findAll("li")[1].text.rsplit(":")[0].strip())
-                                print(divuli.findAll("li")[1].text.rsplit(":")[1].strip())
                                 listingjson["toilets"] = divuli.findAll("li")[1].text.rsplit(":")[1].strip()
-                            print("b")
         for index, script in enumerate(scripts):
             jsona = script.text.rsplit("app.boot.push(")[1].strip().split(");")[0].strip()
             jsonl = json.loads(jsona)
@@ -125,22 +119,16 @@ def listingFetchParse(url, headerNumber):
         for index, span in enumerate(spans):
             if ("data-qa" in span.attrs):
                 if ("location" in span["data-qa"]):
-                    print("  ", span.text.rsplit(",")[1].strip())
                     listingjson["location"] = span.text.rsplit(",")[1].strip()
                 elif ( "flatBuildingType" in span["data-qa"]):
-                    print("  ", span.text)
                     listingjson["flatBuildingtype"] = span.text
                 elif ("flatFloorCount" in span["data-qa"]):
-                    print("  ", span.text)
                     listingjson["flatFloorCount"] = span.text
                 elif ("numberOfRooms" in span["data-qa"]):
-                    print("  ", span.text)
                     listingjson["numberOfRooms"] = span.text
                 elif ("buildingFloorPosition" in span["data-qa"]):
-                    print("  ", span.text)
                     listingjson["buildingFloorPosition"] = span.text
                 elif ("livingArea" in span["data-qa"]):
-                    print("  ", span.text.rsplit(",")[0].strip())
                     listingjson["livingArea"] = span.text.rsplit(",")[0].strip()
             
     else:
@@ -149,10 +137,9 @@ def listingFetchParse(url, headerNumber):
     
 
 
-def main():
+def main(url):
     # Define the URL you want to crawl
-    url = "https://www.njuskalo.hr/prodaja-stanova"
-    headerNumber = 620
+    headerNumber = 250
 
     # Send an HTTP GET request to the URL
     response = requests.get(url, headers=headers[headerNumber])
@@ -168,9 +155,8 @@ def main():
         EntityListItems = soup.findAll(class_="EntityList--Regular")
         lis = EntityListItems[0].findAll("li")
         i = 0
-        with open('njuskalo_scrape.csv', 'w', newline='', encoding='utf-8') as csvfile:
+        with open(filename, 'a', newline='', encoding='utf-8') as csvfile:
             spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-            spamwriter.writerow(["price", "lat", "lng", "location", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "buildingFloorPosition", "livingArea", "url", "bathrooms with toilet", "toilets"])
             for index, li in enumerate(lis):
                 if "data-href" in li.attrs:
                     i += 1
@@ -191,5 +177,13 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    with open(filename, 'a', newline='', encoding='utf-8') as csvfile:
+        spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+        #spamwriter.writerow(["price", "lat", "lng", "location", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "buildingFloorPosition", "livingArea", "url", "bathrooms with toilet", "toilets"])       
+    i=2
+    main("https://www.njuskalo.hr/prodaja-stanova")
+    while i<50:
+        print("page: ", i)
+        main("https://www.njuskalo.hr/prodaja-stanova?page="+str(i))
+        i+=1
     headersfile.close()
