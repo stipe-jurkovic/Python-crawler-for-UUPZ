@@ -5,11 +5,6 @@ from bs4 import BeautifulSoup
 import os
 import re
 import csv
-import fake_useragent
-
-# Get a random browser user-agent string
-ua = fake_useragent.UserAgent()
-print(ua.random)
 
 headersfile = open("./user_agents.txt", "r")
 headers = headersfile.read()
@@ -55,8 +50,6 @@ def imgDownload(url, name):
 
 def listingFetchParse(url, headerNumber):
     
-    print(ua.random)
-    
     # Get a random User-Agent string
     response = requests.get(url, headers=headers[headerNumber]	)
     headerNumberWorked = headerNumber
@@ -80,7 +73,9 @@ def listingFetchParse(url, headerNumber):
             "numberOfRooms": "",
             "buildingFloorPosition": "",
             "livingArea": "",
-            "url": ""
+            "url": "",
+            "bathrooms with toilet": "",
+            "toilets": ""
         }
 
         with open("saved_webpage.html", "w", encoding="utf-8") as file:
@@ -92,21 +87,39 @@ def listingFetchParse(url, headerNumber):
                 if ("ClassifiedDetailSummary-priceDomestic" in price["class"]):
                     print("  ", price.text.rsplit("/")[0].strip())
                     listingjson["price"] = price.text.rsplit("/")[0].strip().split(",")[0].strip()
+        
 
-        divforscript = soup.findAll("div")
-        for index, div in enumerate(divforscript):
+        divz = soup.findAll("div")
+        for index, div in enumerate(divz):
             if ("class" in div.attrs):
                 if ("content-main" in div["class"]):
                     scripts = div.findAll("script")
-
+                if ("ClassifiedDetailPropertyGroups--standard" in div["class"]):
+                    grijanje = div.findAll("section")
+                    for index, grija in enumerate(grijanje):
+                        print(grija.findAll("h3")[0].text)
+                        divuli = grija.findAll("div")[0].findAll("ul")[0]
+                        if grija.findAll("h3")[0].text == "Kupaonica i WC":
+                            print(divuli.findAll("li")[0].text.rsplit(":")[0].strip())
+                            print(divuli.findAll("li")[0].text.rsplit(":")[1].strip())
+                            listingjson["bathrooms with toilet"] = divuli.findAll("li")[0].text.rsplit(":")[1].strip()
+                            if len(divuli.findAll("li"))>1:
+                                print(divuli.findAll("li")[1].text.rsplit(":")[0].strip())
+                                print(divuli.findAll("li")[1].text.rsplit(":")[1].strip())
+                                listingjson["toilets"] = divuli.findAll("li")[1].text.rsplit(":")[1].strip()
+                            print("b")
         for index, script in enumerate(scripts):
             jsona = script.text.rsplit("app.boot.push(")[1].strip().split(");")[0].strip()
             jsonl = json.loads(jsona)
-
-            if "values" in jsonl.values() and "mapData" in jsonl["values"].values() and "defaultMarker" in jsonl["values"]["mapData"].values():
+            if (("values" in jsonl.keys()) and isinstance(jsonl["values"], dict) and 
+                ("mapData" in jsonl["values"].keys()) and isinstance(jsonl["values"]["mapData"], dict)
+                  and ("defaultMarker" in jsonl["values"]["mapData"].keys())):
+                
                 defmark = jsonl["values"]["mapData"]["defaultMarker"]
+
                 listingjson["lat"] = defmark["lat"]
                 listingjson["lng"] = defmark["lng"]
+        
         spans = soup.findAll("span")
         i = 0
         for index, span in enumerate(spans):
@@ -139,7 +152,7 @@ def listingFetchParse(url, headerNumber):
 def main():
     # Define the URL you want to crawl
     url = "https://www.njuskalo.hr/prodaja-stanova"
-    headerNumber = 575
+    headerNumber = 620
 
     # Send an HTTP GET request to the URL
     response = requests.get(url, headers=headers[headerNumber])
@@ -157,7 +170,7 @@ def main():
         i = 0
         with open('njuskalo_scrape.csv', 'w', newline='', encoding='utf-8') as csvfile:
             spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-            spamwriter.writerow(["price", "lat", "lng", "location", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "buildingFloorPosition", "livingArea", "url"])
+            spamwriter.writerow(["price", "lat", "lng", "location", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "buildingFloorPosition", "livingArea", "url", "bathrooms with toilet", "toilets"])
             for index, li in enumerate(lis):
                 if "data-href" in li.attrs:
                     i += 1
@@ -169,7 +182,7 @@ def main():
                     time.sleep(1)
                     rowToWrite, headerNumber = listingFetchParse("https://www.njuskalo.hr" + li["data-href"], headerNumber)  
                     rowToWrite["url"] = "https://www.njuskalo.hr" + li["data-href"]	
-                    rowToWrite = (rowToWrite["price"], rowToWrite["lat"], rowToWrite["lng"], rowToWrite["location"], rowToWrite["flatBuildingtype"], rowToWrite["flatFloorCount"], rowToWrite["numberOfRooms"], rowToWrite["buildingFloorPosition"], rowToWrite["livingArea"], rowToWrite["url"])
+                    rowToWrite = (rowToWrite["price"], rowToWrite["lat"], rowToWrite["lng"], rowToWrite["location"], rowToWrite["flatBuildingtype"], rowToWrite["flatFloorCount"], rowToWrite["numberOfRooms"], rowToWrite["buildingFloorPosition"], rowToWrite["livingArea"], rowToWrite["url"], rowToWrite["bathrooms with toilet"], rowToWrite["toilets"])
                     if(rowToWrite):
                         spamwriter.writerow(rowToWrite)
 
