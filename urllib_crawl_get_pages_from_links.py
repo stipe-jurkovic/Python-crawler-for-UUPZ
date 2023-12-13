@@ -154,8 +154,8 @@ def parseListingsAndToCsv(headerNumber, linenum, url):
 if __name__ == "__main__":
     now = datetime.now()
 
-    
-    filenameread = 'csvovi/bjelovarsko-bilogorska/njuskalo_scrape_listing_links_bjelovarsko-bilogorska_13-12-2023_22-45-53.csv'
+    filenameread = 'csvovi/dubrovacko-neretvanska/njuskalo_scrape_listing_links_dubrovacko-neretvanska_13-12-2023_22-45-53.csv'
+
     # dd/mm/YYH:M:S
     dt_string = now.strftime("_%d-%m-%Y_%H-%M-%S")
     print("date and time =", dt_string)

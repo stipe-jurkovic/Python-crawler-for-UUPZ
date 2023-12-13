@@ -1,0 +1,369 @@
+linenum,price,lat,lng,location,flatBuildingtype,flatFloorCount,numberOfRooms,buildingFloorPosition,livingArea,url,bathrooms with toilet,toilets
+1,300.000 €,42.653831885751,18.092158454557,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,5.,72,https://www.njuskalo.hr/nekretnine/stan-gruzu-oglas-41708595,1,1
+2,429.000 €,42.617069612961,17.999570408984,Dubrovnik,U kući,Jednoetažni,2-sobni,Prizemlje,87,https://www.njuskalo.hr/nekretnine/njuskalo-oglas-40760042,,
+3,279.000 €,42.659134,18.076555,Dubrovnik,U stambenoj zgradi,Jednoetažni,1-sobni,3.,37,https://www.njuskalo.hr/nekretnine/atraktivan-apartman-parking-garaza-top-recenzije-oglas-41485160,1,1
+4,245.000 €,42.694649434592,18.046898414543,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,2-sobni,2.,69,https://www.njuskalo.hr/nekretnine/stan-zaton-69.00-m2-novogradnja-oglas-42066048,2,1
+5,1.500 €,43.04804999020212,17.631832117355945,Metković,U stambenoj zgradi,Jednoetažni,3-sobni,2.,136,https://www.njuskalo.hr/nekretnine/stambeno-poslovni-prostor-136-m2-oglas-41033005,1,
+6,1.800 €,43.04396332400551,17.634280184767633,Metković,U kući,Jednoetažni,1-sobni,,260,https://www.njuskalo.hr/nekretnine/stambeni-prostor-260-m2-oglas-41033040,1,
+7,435.000 €,42.94611083966,17.165863576367,Korčula,U kući,Jednoetažni,3-sobni,2.,79,https://www.njuskalo.hr/nekretnine/korcula-luksuzan-komforan-trosoban-apartman-150-metara-mora-oglas-40731716,1,
+8,160.000 €,42.94815368271478,17.1331797351421,Korčula,U stambenoj zgradi,Jednoetažni,1-sobni,1.,54,https://www.njuskalo.hr/nekretnine/korcula-domince-jednosoban-stan-novogradnja-54m-oglas-40399204,1,1
+9,178.374 €,42.583446218876,18.215243895721,Konavle,U stambenoj zgradi,Višeetažni,2-sobni,3.,57,https://www.njuskalo.hr/nekretnine/stan-cavtat-57.54-m2-novogradnja-oglas-41696457,1,1
+10,135.375 €,42.944632328089,17.533134485584,Slivno,U stambenoj zgradi,Jednoetažni,2-sobni,2.,54,https://www.njuskalo.hr/nekretnine/prodaja-stan-43.26m2-komarna-oglas-41593896,1,
+11,126.925 €,42.944663742645,17.533134485584,Slivno,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,50,https://www.njuskalo.hr/nekretnine/prodaja-stan-38.94m2-komarna-oglas-41593895,1,
+12,178.025 €,42.944255352161,17.533220316272,Slivno,U stambenoj zgradi,Jednoetažni,3-sobni,2.,71,https://www.njuskalo.hr/nekretnine/prodaja-stan-71.21m2-komarna-oglas-41593894,1,
+13,270.000 €,,,Blato,U kući,Dvoetažni,3-sobni,2.,56,https://www.njuskalo.hr/nekretnine/korcula-dvoetazni-stan-apartman-samoj-plazi-izvrsna-oglas-41221614,1,1
+14,100.000 €,42.946922345317,17.167794997488,Korčula,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,35,https://www.njuskalo.hr/nekretnine/jednosoban-stan-atraktivnoj-lokaciji-otok-korcula-oglas-42258853,1,1
+15,220.000 €,42.948669795438,17.169417013023,Korčula,U stambenoj zgradi,Jednoetažni,3-sobni,1.,77,https://www.njuskalo.hr/nekretnine/dvosoban-stan-atraktivnoj-lokaciji-otok-korcula-oglas-42258854,2,2
+16,579.000 €,42.658377865284,18.078910498588,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,,89,https://www.njuskalo.hr/nekretnine/ekskluzivna-prodaja-prekrasan-moderan-stan-pogledom-marinu-frapa-oglas-42101869,2,
+17,580.000 €,42.65676087336,18.079842712273,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,,102,https://www.njuskalo.hr/nekretnine/luksuzan-trosoban-stan-prekrasnim-pogledom-more-dubrovnik-oglas-42101866,2,
+18,395.000 €,42.644224170063,18.115734687341,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,,85,https://www.njuskalo.hr/nekretnine/ekskluzivna-ponuda-trosobni-stan-balkonom-pogledom-more-zlat-oglas-42101864,1,1
+19,330.000 €,42.640468897053,18.110988820831,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,,61,https://www.njuskalo.hr/nekretnine/sarmantan-stan-potkrovlju-korak-straduna-dubrovnik-centar-oglas-42101867,1,
+20,6.500 €,42.656515412688,18.079664716617,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,,79,https://www.njuskalo.hr/nekretnine/novogradnja-komforni-stan-blizini-setnice-lapad-dubrovnik-oglas-42101865,1,
+21,392.000 €,42.690863963854,18.047986208166,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,2-sobni,,76,https://www.njuskalo.hr/nekretnine/novogradnja-pogledom-more-jednosoban-stan-blizini-dubrovnika-z-oglas-42101863,1,
+22,415.000 €,42.625416190601,18.209264204653,Župa Dubrovačka,U kući,Jednoetažni,5+ sobni,,127,https://www.njuskalo.hr/nekretnine/cetverosobni-stan-renoviran-moderno-ureden-pogledom-more-oko-oglas-42101860,2,
+23,218.000 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,,62,https://www.njuskalo.hr/nekretnine/dvosobni-stan-prekrasnom-terasom-pogledom-more-vrhunskoj-lok-oglas-41676314,1,
+24,750.000 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,,137,https://www.njuskalo.hr/nekretnine/stan-atraktivnoj-lokaciji-velikim-vrtom-centru-grada-dubrovnik-oglas-41250483,2,
+25,770.000 €,42.642250857924,18.107066198471,Dubrovnik,U stambenoj zgradi,Jednoetažni,5+ sobni,4.,134,https://www.njuskalo.hr/nekretnine/cetverosoban-stan-jedinstvenoj-lokaciji-neposredna-blizina-straduna-oglas-41237346,1,1
+26,399.000 €,42.644181757512,18.118336839433,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,2.,68,https://www.njuskalo.hr/nekretnine/moderan-dvosoban-stan-ocaravajucim-pogledom-otok-lokrum-oglas-40482960,1,
+27,210.000 €,42.856324807506,17.684336722118,Ston,U kući,Višeetažni,3-sobni,Prizemlje,150,https://www.njuskalo.hr/nekretnine/ston-hodilje-stan-kamenoj-kuci-rivi-oglas-40984251,1,
+28,185.000 €,42.991092696902,17.128703959402,Orebić,U stambenoj zgradi,Višeetažni,2-sobni,Prizemlje,58,https://www.njuskalo.hr/nekretnine/peljesac-kuciste-lijepi-jednosobni-stan-blizu-plaze-58-m2-oglas-40072134,1,2
+29,280.000 €,42.584402082549,18.212169441196,Konavle,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,85,https://www.njuskalo.hr/nekretnine/cavtat-moderan-obiteljski-stan-65-m2-oglas-40950233,2,
+30,188.000 €,42.67663398689,18.112344715677,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,2-sobni,,51,https://www.njuskalo.hr/nekretnine/dubrovnik-mokosica-jednosoban-prostrani-stan-51-m2-oglas-41326255,1,
+31,160.000 €,42.62678624042225,18.160298517535885,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,1.,47,https://www.njuskalo.hr/nekretnine/prodaje-se-potpuno-namjesten-stan-zupi-dubrovackoj-oglas-41988381,1,
+32,234.000 €,42.62275116084529,18.215093618863065,Župa Dubrovačka,U stambenoj zgradi,Višeetažni,2-sobni,,57,https://www.njuskalo.hr/nekretnine/novogradnja-prodaju-vise-stanova-zupi-dubrovackoj-oglas-39905008,1,
+33,369.000 €,42.947760472629,17.167760689105,Korčula,U stambenoj zgradi,Jednoetažni,4-sobni,,129,https://www.njuskalo.hr/nekretnine/korcula-dvoetazni-penthouse-novogradnji-pogled-more-129-m2-oglas-40513702,2,1
+34,315.000 €,42.981085,17.489409,Slivno,U kući,Jednoetažni,4-sobni,3.,99,https://www.njuskalo.hr/nekretnine/prodaja-stan-duba-duba-1-6-4s-99m2-oglas-42267707,,
+35,153.000 €,42.945709,17.145225,Korčula,U kući,Jednoetažni,4-sobni,1.,90,https://www.njuskalo.hr/nekretnine/veliki-stan-pogledom-prirodu-korcula-90-m2-oglas-42267706,,
+36,120.000 €,42.945654,17.133677,Korčula,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,37,https://www.njuskalo.hr/nekretnine/stan-zrnovu-korcula-moguca-kupnja-putem-kredita-oglas-42267704,,
+37,380.000 €,42.788392,17.885075,Dubrovačko Primorje,U kući,Jednoetažni,3-sobni,Prizemlje,72,https://www.njuskalo.hr/nekretnine/stan-pogledom-pored-plaze-72.54-m2-dubrovacko-primorje-slano-oglas-42267702,,
+38,99.575 €,42.9592365,16.7191104,Vela Luka,U stambenoj zgradi,Jednoetažni,1-sobni,Visoko prizemlje,39,https://www.njuskalo.hr/nekretnine/prekrasan-jednosobni-stan-novogradnji-vela-luka-oglas-42267171,1,
+39,110.000 €,43.055238404379,17.450559608033,Ploče,U kući,Jednoetažni,2-sobni,Visoko prizemlje,110,https://www.njuskalo.hr/nekretnine/stablina-ploce-stan-apartman-110-m2-okucnicom-video-oglas-42263430,1,
+40,138.000 €,43.03591242115006,17.639744035176538,Metković,U stambenoj zgradi,Jednoetažni,3-sobni,2.,93,https://www.njuskalo.hr/nekretnine/stan-metkovic-93.00-m2-oglas-38394113,1,1
+41,437.815 €,42.94682259367245,17.1707713477292,Korčula,U stambenoj zgradi,Dvoetažni,3-sobni,2.,140,https://www.njuskalo.hr/nekretnine/korcula-140.00-m2-novogradnja-dvoetazan-stan-pogledom-more-oglas-41093040,2,2
+42,369.000 €,42.946822593672,17.170771347729,Korčula,U stambenoj zgradi,Dvoetažni,3-sobni,2.,126,https://www.njuskalo.hr/nekretnine/korcula-126.00-m2-novogradnja-dvoetazan-cetverosoban-stan-pogled-oglas-41080531,2,2
+43,219.000 €,42.675425720824,18.113392710613,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,3-sobni,1.,84,https://www.njuskalo.hr/nekretnine/dubrovnik-okolica-obuljeno-trosoban-stan-nkp-84-m2-oglas-41109330,,
+44,772.000 €,42.9393916,16.7918946,Blato,U stambenoj zgradi,Jednoetažni,2-sobni,2.,193,https://www.njuskalo.hr/nekretnine/penthouse-bazenom-plazu-korcula-oglas-40575532,2,1
+45,380.000 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,87,https://www.njuskalo.hr/nekretnine/prostrani-stan-adaptaciju-plocama-dubrovnik-oglas-39080748,2,
+46,1.150.000 €,42.942235762126,17.105704121608,Korčula,U stambenoj zgradi,Jednoetažni,2-sobni,1.,168,https://www.njuskalo.hr/nekretnine/korcula-luksuzan-dvosoban-stan-pogledom-more-nkp-168.76m2-oglas-37716057,,
+47,518.000 €,42.958997842951,16.716728206181,Vela Luka,U stambenoj zgradi,Jednoetažni,3-sobni,3.,148,https://www.njuskalo.hr/nekretnine/korcula-prekrasan-stan-zadnjem-katu-pogledom-more-oglas-37326299,,
+48,422.000 €,42.658056045845,18.075159238573,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,111,https://www.njuskalo.hr/nekretnine/dubrovnik-lapad-dva-stana-ukupne-povrsine-111-m2-oglas-39832622,,
+49,518.000 €,42.958997842951,16.716728206181,Vela Luka,U stambenoj zgradi,Jednoetažni,3-sobni,2.,148,https://www.njuskalo.hr/nekretnine/korcula-komforan-trosoban-stan-1-red-more-oglas-37326297,,
+50,518.000 €,42.960254120019,16.716728198419,Vela Luka,U stambenoj zgradi,Jednoetažni,3-sobni,1.,148,https://www.njuskalo.hr/nekretnine/korcula-luksuzan-trosoban-stan-more-oglas-37326311,,
+51,131.200 €,43.054903482761,17.650565984557,Metković,U stambenoj zgradi,Višeetažni,2-sobni,3.,65,https://www.njuskalo.hr/nekretnine/metkovic-przine-dvosobni-stanovi-treci-kat-oglas-39181503,,
+52,131.200 €,43.054903482761,17.650565984557,Metković,U stambenoj zgradi,Višeetažni,2-sobni,2.,65,https://www.njuskalo.hr/nekretnine/metkovic-przine-dvosobni-stanovi-drugi-kat-oglas-39181486,,
+53,540.000 €,42.942235762126,17.105704121608,Korčula,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,99,https://www.njuskalo.hr/nekretnine/korcula-komforan-jednosoban-stan-pogledom-vrt-izgradnji-oglas-37716130,,
+54,528.937 €,42.958997842951,16.716728206181,Vela Luka,U stambenoj zgradi,Jednoetažni,3-sobni,2.,152,https://www.njuskalo.hr/nekretnine/korcula-moderan-trosoban-stan-lijepim-pogledom-more-oglas-37326300,,
+55,528.937 €,42.960254120019,16.716728198419,Vela Luka,U stambenoj zgradi,Jednoetažni,3-sobni,1.,152,https://www.njuskalo.hr/nekretnine/korcula-moderan-trosoban-stan-lijepoj-poziciji-oglas-37326307,,
+56,540.000 €,42.942235762126,17.105704121608,Korčula,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,87,https://www.njuskalo.hr/nekretnine/korcula-komforan-jednosoban-stan-pogledom-vrt-izgradnji-oglas-37716133,,
+57,528.937 €,42.958997842951,16.716728206181,Vela Luka,U stambenoj zgradi,Jednoetažni,3-sobni,3.,153,https://www.njuskalo.hr/nekretnine/korcula-moderan-trosoban-stan-otvorenim-pogledom-more-oglas-37326306,,
+58,131.200 €,43.054903482761,17.650565984557,Metković,U stambenoj zgradi,Višeetažni,2-sobni,1.,65,https://www.njuskalo.hr/nekretnine/metkovic-przine-dvosobni-stanovi-prvi-kat-oglas-39181507,,
+59,131.200 €,43.054903482761,17.650565984557,Metković,U stambenoj zgradi,Višeetažni,2-sobni,4.,65,https://www.njuskalo.hr/nekretnine/metkovic-przine-dvosobni-stanovi-cetvrti-kat-oglas-39181491,,
+60,490.000 €,42.642453617882,18.107237719936,Dubrovnik,U stambenoj zgradi,Dvoetažni,3-sobni,Prizemlje,60,https://www.njuskalo.hr/nekretnine/prodaja-stana-starom-gradu-oglas-37397506,1,
+61,580.000 €,42.664631792658,18.066683891324,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,1.,102,https://www.njuskalo.hr/nekretnine/lapadu-prodaja-trosobnog-stana-pogledom-more-oglas-41528976,2,
+62,115.000 €,42.99908298794405,17.28388541791187,Trpanj,U kući,Jednoetažni,1-sobni,Visoko prizemlje,184,https://www.njuskalo.hr/nekretnine/trpanj-peljesac-stan-apartman-renovaciju-pogledom-more-oglas-42259885,1,
+63,3.300 €,42.627556538898,18.162136668504,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,4-sobni,Visoko prizemlje,90,https://www.njuskalo.hr/nekretnine/zupa-dubrovacka-cibaca-dvosoban-stan-garsonijera-parkirno-mjesto-oglas-40996632,2,
+64,469.000 €,42.659595461747,18.090962978925,Dubrovnik,U stambenoj zgradi,Dvoetažni,4-sobni,4.,120,https://www.njuskalo.hr/nekretnine/dubrovnik-gruz-dvoetazni-stan-odlicnim-rasporedom-120-m2-oglas-39713161,2,
+65,229.500 €,42.627547878568,18.160525629533,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,3-sobni,,82,https://www.njuskalo.hr/nekretnine/novogradnja-dvosobni-stan-oglas-39268411,1,1
+66,201.350 €,42.62695404972,18.162524477002,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,67,https://www.njuskalo.hr/nekretnine/dvosobni-stan-zupa-dubrovacka-blizina-dubrovnika-oglas-40100998,1,
+67,375.000 €,42.988008284979,17.156487289013,Orebić,U stambenoj zgradi,Jednoetažni,5+ sobni,Prizemlje,146,https://www.njuskalo.hr/nekretnine/korcula-orebic-pogorje-2-stana-88-58-m2-350-m2-okucnice-oglas-36053858,2,
+68,250.000 €,42.949955837515,17.143750696008,Korčula,U stambenoj zgradi,Jednoetažni,3-sobni,1.,75,https://www.njuskalo.hr/nekretnine/korcula-domince-prekrasan-stan-novogradnji-73-m2-oglas-41982822,2,
+69,230.000 €,42.946687297677,17.170036687064,Korčula,U stambenoj zgradi,Jednoetažni,3-sobni,1.,76,https://www.njuskalo.hr/nekretnine/korcula-dvosobni-stan-novogradnji-pogled-more-76-m2-oglas-42259062,1,1
+70,570.000 €,42.675664367003,18.130042630467,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,3-sobni,,160,https://www.njuskalo.hr/nekretnine/veliki-penthouse-prostranom-taracom-oglas-42258756,3,
+71,250.000 €,42.654649597652,18.092825081934,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,,57,https://www.njuskalo.hr/nekretnine/dvosobni-stan-parkirnim-mjestom-oglas-42258755,1,
+72,165.000 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,1-sobni,Potkrovlje,36,https://www.njuskalo.hr/nekretnine/jednosoban-stan-terasom-kantafig-oglas-42258750,1,
+73,177.000 €,42.658924,18.091072,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,8.,43,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-gruz-43.19m-oglas-41365970,1,
+74,593.750 €,42.93832059173,17.10128644674,Korčula,U stambenoj zgradi,Jednoetažni,4-sobni,1.,91,https://www.njuskalo.hr/nekretnine/zrnovo-otok-korcula-luksuzan-stan-1-katu-pogledom-more-oglas-42258651,2,1
+75,645.000 €,42.640262664794,18.109179036747,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,1.,93,https://www.njuskalo.hr/nekretnine/dubrovnik-stari-grad-izuzetna-veliki-sta-funkciji-hostela-oglas-41676022,4,
+76,218.000 €,42.655033,18.09175,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,4.,63,https://www.njuskalo.hr/nekretnine/jedinstvena-dvosobni-stan-prekrasnim-pogledom-oglas-41659689,1,
+77,165.000 €,42.582281707004,18.215514375769,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,1.,50,https://www.njuskalo.hr/nekretnine/stan-cavtat-50.00-m2-oglas-41621964,1,
+78,225.000 €,42.69273359508051,18.045715061525897,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,3-sobni,,87,https://www.njuskalo.hr/nekretnine/trosobni-stan-balkonom-parkingom-zaton-87m2-novogradnja-1kat-oglas-41054441,2,1
+79,500.000 €,42.64200244891,18.10663267598,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,1.,59,https://www.njuskalo.hr/nekretnine/stan-prodaju-unutar-zidina-59.00-m2-oglas-40319035,2,
+80,410.000 €,42.658524279578,18.078279862058,Dubrovnik,U kući,Jednoetažni,3-sobni,Prizemlje,115,https://www.njuskalo.hr/nekretnine/stan-lapadu-zasebnom-garonijerom-115.00-m2-oglas-39115123,2,
+81,490.000 €,42.642794299988,18.108108752564,Dubrovnik,U stambenoj zgradi,Dvoetažni,3-sobni,1.,60,https://www.njuskalo.hr/nekretnine/stan-gradu-prvi-red-zidina-oglas-37399217,1,
+82,579.000 €,42.655891540677,18.076610980081,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,1.,102,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-102.00-m2-oglas-41543528,,
+83,339.000 €,42.651439805616796,18.08918023574196,Dubrovnik,U kući,Jednoetažni,2-sobni,1.,75,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-75.00-m2-oglas-41217004,1,1
+84,348.600 €,42.651439805617,18.089180235742,Dubrovnik,U kući,Jednoetažni,2-sobni,Visoko potkrovlje,83,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-83.00-m2-oglas-41216434,1,1
+85,850.000 €,42.64051773718306,18.10603950410843,Dubrovnik,U kući,Dvoetažni,4-sobni,2.,100,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-stari-grad-2-etazni-stan-renoviranje-odlicna-poz-oglas-40866021,1,
+86,385.000 €,42.64485482394655,18.113558370620638,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,Visoko prizemlje,60,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-60.00-m2-oglas-40761604,1,
+87,456.000 €,42.64200244891,18.10663267598,Dubrovnik,U kući,Dvoetažni,2-sobni,1.,51,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-51.00-m2-oglas-36734185,2,
+88,309.000 €,42.64969663486,18.096898173706,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,1.,79,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-79.00-m2-oglas-29272571,1,
+89,1 €,42.699229711669545,18.01416569736986,Dubrovnik - Okolica,U stambenoj zgradi,Dvoetažni,3-sobni,1.,122,https://www.njuskalo.hr/nekretnine/stan-orasac-122-m2-novogradnja-oglas-26610527,,
+90,480.000 €,42.642120917972,18.117077668747,Dubrovnik,U kući,Jednoetažni,3-sobni,Prizemlje,120,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-115-m2-oglas-26593674,,
+91,192.200 €,42.57412491186393,18.226925234585362,Konavle,U stambenoj zgradi,Jednoetažni,1-sobni,1.,62,https://www.njuskalo.hr/nekretnine/stan-cavtat-62.00-m2-novogradnja-oglas-40791354,1,
+92,550.000 €,42.703071707109956,18.00916767300896,Dubrovnik - Okolica,U stambenoj zgradi,Višeetažni,3-sobni,1.,140,https://www.njuskalo.hr/nekretnine/dubrovnik-sest-stanova-tri-etaze-novogradnji-oglas-24235236,,
+93,1 €,42.730387518857,17.646827353967,Mljet,U stambenoj zgradi,Jednoetažni,5+ sobni,,1.060,https://www.njuskalo.hr/nekretnine/mljet-projekt-luksuzni-kompleks-dvije-stambene-zgrade-11-sta-oglas-40958833,5+,
+94,176.280 €,43.0532801,17.6493431,Metković,U stambenoj zgradi,Jednoetažni,3-sobni,3.,90,https://www.njuskalo.hr/nekretnine/metkovic-centar-prekrasan-dvoetazni-stan-oglas-42025532,,
+95,10 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,1.,59,https://www.njuskalo.hr/nekretnine/trosobni-stan-starom-gradu-oglas-39448881,2,
+96,10 €,,,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,3-sobni,Potkrovlje,110,https://www.njuskalo.hr/nekretnine/novogradnja-penthouse-mlinima-oglas-38494735,3,
+97,492.000 €,42.955771194439,16.683060948152,Vela Luka,U stambenoj zgradi,Jednoetažni,4-sobni,1.,148,https://www.njuskalo.hr/nekretnine/vela-luka-luksuzan-stan-1b-1-katu-prvi-red-mora-oglas-42251047,3,1
+98,535.200 €,42.955610605733,16.681045787079,Vela Luka,U stambenoj zgradi,Jednoetažni,4-sobni,3.,148,https://www.njuskalo.hr/nekretnine/vela-luka-luksuzan-stan-3b-3-katu-prvi-red-mora-oglas-42251046,3,1
+99,514.000 €,42.956844764726,16.680314792129,Vela Luka,U stambenoj zgradi,Jednoetažni,4-sobni,2.,152,https://www.njuskalo.hr/nekretnine/vela-luka-luksuzan-stan-2a-2-katu-prvi-red-mora-oglas-42251044,3,1
+100,514.000 €,42.954154296039,16.68007157519,Vela Luka,U stambenoj zgradi,Jednoetažni,4-sobni,2.,148,https://www.njuskalo.hr/nekretnine/vela-luka-luksuzan-stan-2b-2-katu-prvi-red-mora-oglas-42251043,3,1
+101,535.200 €,42.956659338667,16.682074955265,Vela Luka,U stambenoj zgradi,Jednoetažni,4-sobni,3.,153,https://www.njuskalo.hr/nekretnine/vela-luka-luksuzan-stan-3a-3-katu-prvi-red-mora-oglas-42251042,3,1
+102,492.000 €,42.954200321402,16.681391721624,Vela Luka,U stambenoj zgradi,Jednoetažni,4-sobni,1.,152,https://www.njuskalo.hr/nekretnine/vela-luka-luksuzan-stan-1a-1-katu-prvi-red-mora-oglas-42251040,3,1
+103,425.000 €,42.939410442372,17.098966720543,Korčula,U stambenoj zgradi,Jednoetažni,3-sobni,1.,98,https://www.njuskalo.hr/nekretnine/otok-korcula-zrnovo-luksuzan-stan-1-katu-pogledom-more-oglas-42251038,2,1
+104,285.000 €,42.65278974459,18.088156430008,Dubrovnik,U stambenoj zgradi,Dvoetažni,2-sobni,4.,66,https://www.njuskalo.hr/nekretnine/dubrovnik-stan-66-m2-izvrsnoj-lokaciji-pogledom-more-oglas-42244498,,
+105,159.999 €,42.627872,18.175581,Župa Dubrovačka,U stambenoj zgradi,Dvoetažni,3-sobni,1.,85,https://www.njuskalo.hr/nekretnine/stan-zupi-cibaca-povoljno-prodaje-vlasnik-oglas-41983154,1,
+106,120.000 €,42.653604362459,18.160454173373,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,,58,https://www.njuskalo.hr/nekretnine/stan-brgat-donji-58.00-m2-novogradnja-oglas-40320878,1,1
+107,95.000 €,43.045789299466,17.631485160003,Metković,U stambenoj zgradi,Jednoetažni,3-sobni,2.,69,https://www.njuskalo.hr/nekretnine/prodaje-se-stan-centru-metkovica-iznad-fine-2s-db-zamjena-manj-oglas-40589542,1,
+108,267.964 €,42.574124911864,18.226925234585,Konavle,U stambenoj zgradi,Jednoetažni,4-sobni,Visoko potkrovlje,86,https://www.njuskalo.hr/nekretnine/stan-cavtat-86.00-m2-novogradnja-visoko-potkrovlje-oglas-40781664,2,
+109,296.701 €,42.574124911864,18.226925234585,Konavle,U stambenoj zgradi,Jednoetažni,4-sobni,2.,95,https://www.njuskalo.hr/nekretnine/stan-cavtat-95.00-m2-novogradnja-oglas-40781629,2,
+110,296.701 €,42.574124911864,18.226925234585,Konavle,U stambenoj zgradi,Jednoetažni,4-sobni,1.,95,https://www.njuskalo.hr/nekretnine/stan-cavtat-95.00-m2-novogradnja-oglas-40781580,2,
+111,193.502 €,42.574124911864,18.226925234585,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,2.,62,https://www.njuskalo.hr/nekretnine/stan-cavtat-62.00-m2-novogradnja-oglas-40744356,1,
+112,175.000 €,42.5553016,18.268837,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,2.,64,https://www.njuskalo.hr/nekretnine/cilipi-stan-dvije-spavace-sobe-parking-mjestom-oglas-39611276,,
+113,10 €,,,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,70,https://www.njuskalo.hr/nekretnine/novogradnja-dvosobni-stan-mlinima-zupa-dubrovacka-oglas-38478028,1,
+114,10 €,,,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,1.,65,https://www.njuskalo.hr/nekretnine/novogradnja-dvosobni-stan-mlinima-zupa-dubrovacka-oglas-38478025,1,
+115,10 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,1.,71,https://www.njuskalo.hr/nekretnine/prostrani-obiteljski-stan-tik-uvale-lapad-oglas-38180734,2,
+116,96.000 €,42.945709,17.145225,Korčula,U kući,Jednoetažni,2-sobni,2.,50,https://www.njuskalo.hr/nekretnine/manji-stan-pogledom-more-korcula-50.26-m2-oglas-42217390,,
+117,193.502 €,42.583446218876,18.215243895721,Konavle,U stambenoj zgradi,Višeetažni,2-sobni,1.,62,https://www.njuskalo.hr/nekretnine/stan-cavtat-62.42-m2-novogradnja-oglas-41697817,1,
+118,95.000 €,43.04997911225884,17.641517195797277,Metković,U stambenoj zgradi,Jednoetažni,3-sobni,,77,https://www.njuskalo.hr/nekretnine/stan-metkovic-77.00-m2-oglas-38885861,,
+119,665.000 €,42.9083474147,16.777064106135,Korčula,U stambenoj zgradi,Jednoetažni,3-sobni,Suteren,160,https://www.njuskalo.hr/nekretnine/korcula-novogradnja-stan-nkp-160.3-m2-prvi-red-mora-oglas-40542745,,
+120,228.000 €,42.676138077814,18.110285840469,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,2-sobni,Suteren,56,https://www.njuskalo.hr/nekretnine/dubrovnik-mokosica-moderan-stan-parkirnim-mjestom-56-m2-oglas-39242778,1,
+121,260.000 €,42.652647243399,18.085620079815,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,86,https://www.njuskalo.hr/nekretnine/stan-ulica-ante-starcevica-69-dubrovnik-86.00-m2-oglas-40230719,,
+122,1.220.000 €,42.641020298695,18.109299290779,Dubrovnik,U kući,Višeetažni,5+ sobni,,163,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-163.00-m2-oglas-41300024,4,
+123,309.000 €,42.982280681683,17.490399608772,Slivno,U stambenoj zgradi,Jednoetažni,4-sobni,3.,102,https://www.njuskalo.hr/nekretnine/stan-prodaja-novogradnja-duba-4-soban-102-m2-oglas-41485616,2,
+124,800.000 €,42.643072520342,18.081215430732,Dubrovnik,U stambenoj zgradi,Višeetažni,5+ sobni,1.,220,https://www.njuskalo.hr/nekretnine/top-ponuda-dubrovnik-5s-garaza-pm-red-mora-oglas-41365532,3,2
+125,465.000 €,42.656524711055,18.079027445163,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,101,https://www.njuskalo.hr/nekretnine/dubrovnik-lapad-stan-101-m2-parking-mjesto-oglas-42201003,1,1
+126,449.190 €,42.664749113033,18.068899508554,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,1.,72,https://www.njuskalo.hr/nekretnine/stan-solitudu-pogled-more-oglas-42200693,1,
+127,502.175 €,42.663212778526,18.066180137682,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,94,https://www.njuskalo.hr/nekretnine/stan-solitudu-oglas-42200692,2,
+128,375.915 €,42.663745611459,18.06898362058,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,65,https://www.njuskalo.hr/nekretnine/stan-solitudu-oglas-42200691,1,
+129,808.000 €,42.641833601402,18.106478351368,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,,135,https://www.njuskalo.hr/nekretnine/luksuzan-stan-135m2-stradun-dubrovnik-prodaja-oglas-36197209,2,
+130,966.500 €,42.904083139927565,16.803399932253313,Korčula,U stambenoj zgradi,Dvoetažni,4-sobni,Penthouse,310,https://www.njuskalo.hr/nekretnine/korcula-luksuzan-penthouse-bazenom-prvi-red-plaze-parking-oglas-41426344,2,1
+131,240.000 €,,,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,2-sobni,Suteren,61,https://www.njuskalo.hr/nekretnine/stan-orasac-61-m2-oglas-39849388,1,
+132,220.000 €,,,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,3-sobni,1.,87,https://www.njuskalo.hr/nekretnine/stan-zaton-novogradnja-oglas-41917809,1,
+133,640.000 €,42.9393916,16.7918946,Blato,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,160,https://www.njuskalo.hr/nekretnine/luksuzan-stan-prvi-red-mora-korcula-oglas-40491472,2,1
+134,360.000 €,42.62266444030913,18.168146085503498,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,3-sobni,2.,79,https://www.njuskalo.hr/nekretnine/dubrovnik-trosoban-stan-80m2-oglas-41135299,1,
+135,150.000 €,42.95129641987026,17.14523976841797,Korčula,U stambenoj zgradi,Jednoetažni,3-sobni,1.,60,https://www.njuskalo.hr/nekretnine/stan-korcula-60.00-m2-oglas-42194736,1,
+136,220.000 €,42.58032,18.21173,Konavle,U kući,Jednoetažni,3-sobni,Visoko prizemlje,85,https://www.njuskalo.hr/nekretnine/stan-cavtat-65.00-m2-novogradnja-oglas-40046228,2,
+137,665.000 €,,,Korčula,U stambenoj zgradi,Jednoetažni,3-sobni,Suteren,160,https://www.njuskalo.hr/nekretnine/otok-korcula-novogradnja-luksuzan-3s-stan-160-m2-terasom-bazen-oglas-41341786,2,3
+138,800.000 €,,,Korčula,U stambenoj zgradi,Jednoetažni,3-sobni,1.,193,https://www.njuskalo.hr/nekretnine/otok-korcula-novogradnja-luksuzan-3s-dvoetazni-penthouse-193-m2-oglas-41341785,2,3
+139,560.000 €,,,Korčula,U stambenoj zgradi,Jednoetažni,3-sobni,1.,134,https://www.njuskalo.hr/nekretnine/otok-korcula-novogradnja-luksuzan-3s-stan-134-m2-terasom-bazen-oglas-41341784,2,3
+140,239.925 €,42.954521855116,16.68284995819,Vela Luka,U stambenoj zgradi,Jednoetažni,3-sobni,,70,https://www.njuskalo.hr/nekretnine/deluxe-stan-bazenom-ekskluzivna-oaza-plazi-srcu-korcule-oglas-42179183,,
+141,494.563 €,42.9297182,16.888644,Korčula,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,100,https://www.njuskalo.hr/nekretnine/luksuzan-stan-prvi-red-mora-korcula-oglas-39849426,2,1
+142,350.000 €,42.582397658753,18.212329771159,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,74,https://www.njuskalo.hr/nekretnine/moderno-ureden-dvosoban-stan-cavtatu-otvoreni-pogled-more-oglas-39979657,1,
+143,800.000 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,1.,110,https://www.njuskalo.hr/nekretnine/ekskluzivna-prodaja-trosoban-komforan-stan-terasom-pogledom-oglas-41416239,,
+144,168.919 €,42.582494249807,18.217309060521,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,Potkrovlje,54,https://www.njuskalo.hr/nekretnine/cavtat-moderan-2s-stan-54.00-m2-novogradnja-parking-oglas-40800332,1,
+145,178.374 €,42.582494249807,18.217309060521,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,Potkrovlje,57,https://www.njuskalo.hr/nekretnine/cavtat-moderan-2s-stan-57.00-m2-novogradnja-parking-oglas-40800272,1,
+146,186.248 €,42.582494249807,18.217309060521,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,2.,60,https://www.njuskalo.hr/nekretnine/cavtat-moderan-2s-stan-60.00-m2-novogradnja-parking-balkon-oglas-40800217,1,
+147,193.502 €,42.582494249807,18.217309060521,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,2.,62,https://www.njuskalo.hr/nekretnine/cavtat-moderan-2s-stan-62.00-m2-novogradnja-parking-balkon-oglas-40800180,1,
+148,191.704 €,42.582494249807,18.217309060521,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,1.,61,https://www.njuskalo.hr/nekretnine/cavtat-moderni-2s-stan-61.00-m2-novogradnja-parking-balkon-oglas-40800142,1,
+149,193.502 €,42.582494249807,18.217309060521,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,1.,62,https://www.njuskalo.hr/nekretnine/cavtat-moderni-2s-stan-62.00-m2-novogradnja-parking-balkon-oglas-40800093,1,
+150,267.964 €,42.582494249807,18.217309060521,Konavle,U stambenoj zgradi,Jednoetažni,4-sobni,Potkrovlje,86,https://www.njuskalo.hr/nekretnine/cavtat-4s-stan-86.00-m2-novogradnja-parking-oglas-40799768,1,1
+151,296.701 €,42.582494249807,18.217309060521,Konavle,U stambenoj zgradi,Jednoetažni,4-sobni,2.,95,https://www.njuskalo.hr/nekretnine/cavtat-4s-stan-95.00-m2-novogradnja-parking-balkoni-oglas-40799674,1,1
+152,269.997,42.582494249807,18.217309060521,Konavle,U stambenoj zgradi,Jednoetažni,4-sobni,1.,95,https://www.njuskalo.hr/nekretnine/cavtat-4s-stan-95.00-m2-novogradnja-balkoni-parking-oglas-40799559,1,1
+153,645.000 €,42.6417647,18.1083831,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,1.,93,https://www.njuskalo.hr/nekretnine/dubrovnik-stari-grad-stan-93-m2-oglas-41925125,,
+154,75.000 €,43.032152458136,17.500726087406,Ploče,U kući,Dvoetažni,1-sobni,,60,https://www.njuskalo.hr/nekretnine/stan-komin-60.00-m2-oglas-42157824,2,
+155,830.000 €,42.645939740798,18.087828632788,Dubrovnik,U stambenoj zgradi,Jednoetažni,5+ sobni,1.,178,https://www.njuskalo.hr/nekretnine/prodaja-dubrovnik-peterosoban-stan-garaza-terasa-oglas-39979585,3,3
+156,620.000 €,42.581648716482,18.213411917356,Konavle,U kući,Jednoetažni,4-sobni,1.,160,https://www.njuskalo.hr/nekretnine/stan-cavtatu-pogled-more-oglas-41791675,4,
+157,440.000 €,42.646569708592,18.101502178626,Dubrovnik,U kući,Jednoetažni,2-sobni,Prizemlje,88,https://www.njuskalo.hr/nekretnine/stan-dubrovniku-oglas-41525919,1,
+158,580.000 €,42.661950997264,18.070809866868,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,,102,https://www.njuskalo.hr/nekretnine/stan-solitudu-pogled-more-oglas-41517960,2,
+159,550.000 €,42.674464108874,18.132526753796,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,3-sobni,,140,https://www.njuskalo.hr/nekretnine/stan-rozatu-penthouse-oglas-41272292,2,3
+160,168.919 €,42.580550233735,18.211471048533,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,3.,57,https://www.njuskalo.hr/nekretnine/stanovi-cavtatu-novogradnja-oglas-40787212,1,
+161,210.000 €,42.640098904422,18.107794039739,Dubrovnik,U kući,Jednoetažni,Garsonijera,Prizemlje,23,https://www.njuskalo.hr/nekretnine/apartman-staroj-gradskoj-jezgri-oglas-39393080,1,
+162,310.000 €,42.640915796376,18.106295431231,Dubrovnik,U kući,Jednoetažni,3-sobni,Visoko potkrovlje,60,https://www.njuskalo.hr/nekretnine/stan-starom-gradu-oglas-38849575,1,
+163,320.000 €,42.648425705428,18.098720178076,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,1.,80,https://www.njuskalo.hr/nekretnine/dvosoban-stan-ilijinoj-glavici-oglas-38787632,1,
+164,290.000 €,42.62439060431,18.207351002853,Župa Dubrovačka,U kući,Jednoetažni,4-sobni,,158,https://www.njuskalo.hr/nekretnine/stan-mlinima-pogled-more-oglas-38728928,2,1
+165,687.500 €,42.701466394056,18.008282772548,Dubrovnik - Okolica,U kući,Jednoetažni,4-sobni,,150,https://www.njuskalo.hr/nekretnine/luksuzni-stanovi-orascu-pogled-more-oglas-38600506,3,
+166,800.000 €,42.648063026885,18.079772649751,Dubrovnik,U kući,Jednoetažni,4-sobni,,178,https://www.njuskalo.hr/nekretnine/luksuzan-dvoetazni-stan-gorici-pogled-more-oglas-38600496,2,
+167,550.000 €,42.64347024465,18.115916937323,Dubrovnik,U kući,Jednoetažni,4-sobni,1.,103,https://www.njuskalo.hr/nekretnine/stan-plocama-pogled-more-oglas-38600495,2,
+168,420.000 €,42.62576699729,18.20923693569,Župa Dubrovačka,U kući,Jednoetažni,4-sobni,Visoko potkrovlje,102,https://www.njuskalo.hr/nekretnine/stan-mlinima-oglas-38600483,3,
+169,1.000.000 €,42.642236387313,18.105225402229,Dubrovnik,U kući,Jednoetažni,4-sobni,,170,https://www.njuskalo.hr/nekretnine/stan-pilama-oglas-38600482,4,
+170,265.000 €,42.5762101,18.2424217,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,2.,82,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-82.83-m2-oglas-39674570,,
+171,219.000 €,42.5762101,18.2424217,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,1.,70,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-70-m2-oglas-39674610,,
+172,265.000 €,42.5762101,18.2424217,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,1.,82,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-82.83-m2-oglas-39674600,,
+173,225.000 €,42.5762101,18.2424217,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,1.,72,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-72-m2-oglas-39674540,,
+174,144.000 €,42.5762101,18.2424217,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,43,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-43-m2-oglas-39674568,,
+175,267,42.583446218876,18.215243895721,Konavle,U stambenoj zgradi,Višeetažni,4-sobni,3.,86,https://www.njuskalo.hr/nekretnine/stan-cavtat-86.44-m2-novogradnja-oglas-41698042,1,1
+176,115.000 €,43.05232432699035,17.64549136161804,Metković,U stambenoj zgradi,Jednoetažni,3-sobni,4.,69,https://www.njuskalo.hr/nekretnine/povoljno-trosoban-stan-metkovic-69.52m2-odlican-raspored-soba-oglas-40338704,1,
+177,222.000 €,42.5762101,18.2424217,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,71,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-71-m2-oglas-39674587,,
+178,153.000 €,42.5762101,18.2424217,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,3.,47,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-47-m2-oglas-39674611,,
+179,829.000 €,42.638729049561,18.107794160502,Dubrovnik,U kući,Višeetažni,5+ sobni,,178,https://www.njuskalo.hr/nekretnine/dubrovnik-elitni-troetazni-stan-vili-1-red-mora-oglas-32651296,3,
+180,165.000 €,42.5762101,18.2424217,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,50,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-50.56-m2-oglas-39674599,,
+181,190.000 €,42.5762101,18.2424217,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,1.,60,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-60-m2-oglas-39674536,,
+182,440.000 €,42.957473826871,17.116703793828,Korčula,U stambenoj zgradi,Jednoetažni,3-sobni,2.,116,https://www.njuskalo.hr/nekretnine/korcula-uvala-vrbovica-dvosoban-stan-novogradnji-oglas-40619878,2,
+183,95.760 €,43.054903482761,17.650565984557,Metković,U stambenoj zgradi,Višeetažni,1-sobni,1.,47,https://www.njuskalo.hr/nekretnine/metkovic-przine-jednosobni-stanovi-prvi-kat-oglas-39181476,,
+184,270.000 €,42.5812683,18.2175941,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,140,https://www.njuskalo.hr/nekretnine/cavtat-novogradnja-stan-140m2-prizemlje-s1-oglas-40941962,,
+185,10 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,1.,89,https://www.njuskalo.hr/nekretnine/prostrani-stan-mirnom-dijelu-grada-oglas-40964780,1,
+186,400.000 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,Penthouse,70,https://www.njuskalo.hr/nekretnine/dubrovnik-fantastican-luksuzan-penthouse-terasom-oglas-26310128,1,
+187,360.000 €,,,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,1.,75,https://www.njuskalo.hr/nekretnine/dvosobni-stan-garazom-cibaca-oglas-42117969,1,
+188,123.125 €,42.953792950264,16.680051719602,Vela Luka,U stambenoj zgradi,Jednoetažni,2-sobni,,49,https://www.njuskalo.hr/nekretnine/stan-more-oglas-42110497,1,
+189,2.000 €,43.025578253445,17.604830598885,Metković,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,90,https://www.njuskalo.hr/nekretnine/stan-metkovic-90.00-m2-novogradnja-oglas-41806259,1,1
+190,228.000 €,42.5812683,18.2175941,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,1.,118,https://www.njuskalo.hr/nekretnine/cavtat-novogradnja-stan-118m2-prvi-kat-s2-oglas-40941870,,
+191,312.000 €,42.5812683,18.2175941,Konavle,U stambenoj zgradi,Jednoetažni,5+ sobni,Potkrovlje,128,https://www.njuskalo.hr/nekretnine/cavtat-novogradnja-stan-128m2-potkrovlje-s3-oglas-40941965,,
+192,95.760 €,43.054903482761,17.650565984557,Metković,U stambenoj zgradi,Višeetažni,1-sobni,3.,47,https://www.njuskalo.hr/nekretnine/metkovic-przine-jednosobni-stanovi-treci-kat-oglas-39181464,,
+193,106.025 €,42.953599438452,16.680373598497,Vela Luka,U stambenoj zgradi,Jednoetažni,2-sobni,1.,42,https://www.njuskalo.hr/nekretnine/oaza-luksuza-more-oglas-42101661,1,
+194,145.425 €,42.954968832574,16.681375942961,Vela Luka,U stambenoj zgradi,Jednoetažni,2-sobni,2.,58,https://www.njuskalo.hr/nekretnine/inovativni-luksuz-more-oglas-42101657,1,
+195,137.175 €,42.953557693693,16.683565745102,Vela Luka,U stambenoj zgradi,Jednoetažni,3-sobni,1.,54,https://www.njuskalo.hr/nekretnine/oaza-luksuza-more-oglas-42101649,1,
+196,133.775 €,42.954046679155,16.682020504835,Vela Luka,U stambenoj zgradi,Jednoetažni,2-sobni,1.,53,https://www.njuskalo.hr/nekretnine/oaza-luksuza-more-oglas-42101647,1,
+197,99.575 €,42.955501375001,16.6821199414,Vela Luka,U stambenoj zgradi,Jednoetažni,2-sobni,2.,39,https://www.njuskalo.hr/nekretnine/inovativni-luksuz-more-oglas-42101646,1,
+198,142.575 €,42.953781540463,16.682965116125,Vela Luka,U stambenoj zgradi,Jednoetažni,2-sobni,,57,https://www.njuskalo.hr/nekretnine/impresivan-stan-more-oglas-42101645,1,
+199,144.200 €,42.953870328771,16.68119345341,Vela Luka,U stambenoj zgradi,Jednoetažni,3-sobni,2.,57,https://www.njuskalo.hr/nekretnine/ekskluzivni-stan-more-oglas-42101644,1,
+200,145.425 €,42.955425435262,16.681741605669,Vela Luka,U stambenoj zgradi,Jednoetažni,2-sobni,,58,https://www.njuskalo.hr/nekretnine/stan-more-oglas-42101643,1,
+201,137.350 €,42.955737707185,16.679203874225,Vela Luka,U stambenoj zgradi,Jednoetažni,2-sobni,2.,54,https://www.njuskalo.hr/nekretnine/raritet-more-oglas-42101640,1,
+202,144.200 €,42.955562024221,16.681328749317,Vela Luka,U stambenoj zgradi,Jednoetažni,3-sobni,,57,https://www.njuskalo.hr/nekretnine/oaza-more-oglas-42101636,1,
+203,1.100.000 €,42.642135498584,18.113214969635,Dubrovnik,U kući,Višeetažni,5+ sobni,1.,154,https://www.njuskalo.hr/nekretnine/dubrovnik-stan-plocama-ekskluzivna-lokacija-154.00-m2-oglas-38215900,5+,
+204,2.990 €,,,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,56,https://www.njuskalo.hr/nekretnine/stanovi-zupi-dubrovackoj-novogradnja-oglas-39181480,1,
+205,11 €,,,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,62,https://www.njuskalo.hr/nekretnine/stan-prodaja-mlini-62.33m2-oglas-36617897,1,
+206,450.000 €,,,Konavle,U kući,Jednoetažni,Garsonijera,Prizemlje,57,https://www.njuskalo.hr/nekretnine/dva-apartmana-centru-cavtata-oglas-33582718,2,
+207,11 €,,,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko potkrovlje,109,https://www.njuskalo.hr/nekretnine/stan-prodaja-mlini-90.93m2-oglas-36617895,3,
+208,480.000 €,,,Konavle,U stambenoj zgradi,Dvoetažni,3-sobni,1.,123,https://www.njuskalo.hr/nekretnine/stan-kamenoj-vili-cavtat-oglas-33995939,3,
+209,167.440 €,42.626918470685,18.163965245517,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,,56,https://www.njuskalo.hr/nekretnine/potpuno-renovirani-namjesteni-obiteljski-stanovi-zupa-dubrovacka-n-oglas-40473410,1,
+210,280.000 €,42.640069230339,18.10776561326,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,,44,https://www.njuskalo.hr/nekretnine/jednosobni-stan-izvrsnoj-lokaciji-centru-dubrovnika-nadomak-glav-oglas-39255463,1,
+211,160.000 €,42.954702627206444,17.137183117303152,Korčula,U stambenoj zgradi,Jednoetažni,2-sobni,1.,57,https://www.njuskalo.hr/nekretnine/stan-korcula-57.00-m2-novogradnja-oglas-41111395,1,
+212,237.500 €,42.9297182,16.888644,Korčula,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,76,https://www.njuskalo.hr/nekretnine/dvosoban-stan-50m-mora-korcula-oglas-40387178,1,
+213,393.812 €,42.9297182,16.888644,Korčula,U stambenoj zgradi,Dvoetažni,3-sobni,2.,126,https://www.njuskalo.hr/nekretnine/trosoban-stan-150m-mora-korcula-oglas-40421164,2,
+214,59.000 €,43.053387480574195,17.65465199412065,Metković,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,100,https://www.njuskalo.hr/nekretnine/metkovic-unka-3-poslovna-prostora-stan-100.4-m2-video-oglas-42073037,,
+215,465.000 €,42.656676738387,18.078439970674,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,101,https://www.njuskalo.hr/nekretnine/dubrovnik-lapad-stan-101-m2-parkign-mjesto-oglas-42070576,1,1
+216,235.000 €,,,Korčula,U kući,Dvoetažni,5+ sobni,2.,160,https://www.njuskalo.hr/nekretnine/korcula-centar-dvoetazni-stan-djeljiv-dvije-stambene-jedinice-oglas-23282921,,
+217,227.000 €,,,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,3-sobni,2.,87,https://www.njuskalo.hr/nekretnine/zaton-trosobni-stan-87-m2-oglas-37387429,,
+218,360.000 €,,,Dubrovnik,U kući,Jednoetažni,5+ sobni,1.,104,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-nuncijata-plus-garaza-oglas-37410740,1,
+219,2.700 €,,,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,1.,75,https://www.njuskalo.hr/nekretnine/zvekovica-novogradnja-oglas-38591614,,
+220,129.000 €,,,Konavle,U kući,Jednoetažni,1-sobni,1.,45,https://www.njuskalo.hr/nekretnine/stan-cavtat-oglas-36568330,,
+221,690.000 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,3.,102,https://www.njuskalo.hr/nekretnine/luksuzna-nekretnina-iskljucivo-posredovanje-oglas-35329766,,
+222,399.000 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,1.,68,https://www.njuskalo.hr/nekretnine/moderni-luksuzni-stan-dubrovnik-ploce-oglas-37495257,1,
+223,176.000 €,42.65487207997571,18.0804705619812,Dubrovnik,U kući,Jednoetažni,4-sobni,Visoko prizemlje,55,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-lapad-dvije-odvojene-stambene-jedinice-30m2-25m2-oglas-41590169,2,2
+224,399.488 €,42.655358655545,18.070044909855,Dubrovnik,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,62,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-62-m2-novogradnja-oglas-41024090,1,
+225,194.250 €,42.549189998442,18.282463331668,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,77,https://www.njuskalo.hr/nekretnine/cilipi-novogradnja-2s-db-77.7m2-oglas-39800695,1,1
+226,10 €,,,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,75,https://www.njuskalo.hr/nekretnine/dvosobni-stan-novogradnji-mlini-oglas-38478026,1,
+227,191.704 €,42.583446218876,18.215243895721,Konavle,U stambenoj zgradi,Višeetažni,2-sobni,1.,61,https://www.njuskalo.hr/nekretnine/stan-cavtat-61.84-m2-novogradnja-oglas-41696758,1,
+228,650.000 €,42.639296463308,18.111718683728,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,1.,93,https://www.njuskalo.hr/nekretnine/dubrovnik-stari-grad-investicija-apartman-hostel-93m2-oglas-41221223,4,4
+229,2.990 €,42.5751526621,18.241593493605,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,2.,75,https://www.njuskalo.hr/nekretnine/stan-a3-novogradnja-prodaja-zvekovica-75.91-m2-3-oglas-42026110,2,2
+230,3.490 €,42.576019184481,18.240445297136,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,3.,61,https://www.njuskalo.hr/nekretnine/stan-a4-novogradnja-prodaja-zvekovica-61.07-m2-3-oglas-42026108,2,2
+231,10 €,,,Dubrovnik,U kući,Dvoetažni,4-sobni,Prizemlje,115,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrovnik-115m2-oglas-38685843,4,
+232,600.000 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,Potkrovlje,90,https://www.njuskalo.hr/nekretnine/dvosobni-stan-plocama-oglas-33582728,1,
+233,175.000 €,,,Konavle,U kući,Jednoetažni,2-sobni,Visoko potkrovlje,64,https://www.njuskalo.hr/nekretnine/dvosobni-stan-cilipi-oglas-40556698,1,
+234,770.000 €,,,Dubrovnik,U kući,Jednoetažni,4-sobni,3.,135,https://www.njuskalo.hr/nekretnine/prostrani-stan-starom-gradu-oglas-33582695,2,
+235,385.000 €,,,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko potkrovlje,83,https://www.njuskalo.hr/nekretnine/penthouse-krovnom-terasom-pogledom-more-cavtat-oglas-40507146,2,
+236,11 €,,,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,72,https://www.njuskalo.hr/nekretnine/stan-prodaja-mlini-72.31m2-oglas-36617898,1,
+237,11 €,,,Konavle,U kući,Dvoetažni,4-sobni,1.,145,https://www.njuskalo.hr/nekretnine/dvoetazni-stan-poluganju-cavtat-oglas-41540836,3,
+238,220.000 €,,,Konavle,U kući,Jednoetažni,2-sobni,Prizemlje,74,https://www.njuskalo.hr/nekretnine/dvosobni-stan-poluganju-cavtat-oglas-41533522,2,
+239,485.000 €,,,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko potkrovlje,84,https://www.njuskalo.hr/nekretnine/trosobni-stan-pogledom-more-oglas-41033602,2,
+240,441.000 €,42.946873315713,17.166847364058,Korčula,U stambenoj zgradi,Jednoetažni,4-sobni,2.,140,https://www.njuskalo.hr/nekretnine/prodaja-stana-40-mt-mora-soline-korcula-oglas-38601190,,
+241,209.120 €,42.628245134968,18.162207750422,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,4-sobni,1.,72,https://www.njuskalo.hr/nekretnine/stan-novogradnja-zupa-dubrovacka-oglas-39532705,1,1
+242,175.000 €,42.679026562385,18.093003865771,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,3-sobni,,57,https://www.njuskalo.hr/nekretnine/dvosobni-obiteljski-stan-izlazom-dvoriste-mokosica-oglas-41917660,1,
+243,494.000 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,2.,95,https://www.njuskalo.hr/nekretnine/komforni-trosobni-stan-nevjerojatnim-pogledom-more-staru-gradsk-oglas-41533644,2,
+244,680.000 €,42.647603903355,18.101919567477,Dubrovnik,U stambenoj zgradi,Jednoetažni,5+ sobni,,172,https://www.njuskalo.hr/nekretnine/dva-trosobna-stana-centru-dubrovnika-agencijska-preporuka-oglas-41170039,4,
+245,696.000 €,42.69344543391,18.048936172517,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,4-sobni,,136,https://www.njuskalo.hr/nekretnine/prekrasan-komforan-stan-novogradnji-otvorenim-pogledom-more-oglas-41134375,2,
+246,291.000 €,42.691759591489,18.047445868908,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,Garsonijera,,57,https://www.njuskalo.hr/nekretnine/studio-apartman-novogradnji-pogledom-more-blizini-dubrovnika-oglas-41134373,1,
+247,445.000 €,42.624425638327,18.209332368871,Župa Dubrovačka,U kući,Jednoetažni,4-sobni,,130,https://www.njuskalo.hr/nekretnine/moderani-dvoetazan-stan-prekrasnim-pogledom-more-dubrovnik-mlini-oglas-40482958,3,
+248,730.000 €,42.655403011152,18.079982819494,Dubrovnik,U stambenoj zgradi,Jednoetažni,5+ sobni,,110,https://www.njuskalo.hr/nekretnine/trosobni-stan-blizini-uvale-lapad-prekrasnom-terasom-pogledom-oglas-40227274,2,
+249,375.000 €,42.975521168458,17.173161400729,Orebić,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,144,https://www.njuskalo.hr/nekretnine/2-apartmana-prodaja-oglas-41666792,1,1
+250,220.000 €,42.948386640187,17.168782386929,Korčula,U stambenoj zgradi,Jednoetažni,3-sobni,1.,90,https://www.njuskalo.hr/nekretnine/dvosobni-stan-blizini-grada-korcule-oglas-40702274,1,1
+251,641.200 €,,,Blato,U stambenoj zgradi,Jednoetažni,3-sobni,Suteren,160,https://www.njuskalo.hr/nekretnine/korcula-luksuzni-stan-prvi-red-mora-oglas-40466262,2,1
+252,536.400 €,,,Blato,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,134,https://www.njuskalo.hr/nekretnine/korcula-luksuzni-stan-bazenom-oglas-40466261,2,1
+253,240.000 €,43.046205191529,17.63336803614,Metković,U kući,Jednoetažni,Garsonijera,,120,https://www.njuskalo.hr/nekretnine/metkovic-strogi-centar-stan-prizemlju-oglas-41154028,,
+254,220.000 €,43.045979795902,17.631669253834,Metković,U stambenoj zgradi,Jednoetažni,4-sobni,,110,https://www.njuskalo.hr/nekretnine/metkovic-centar-stan-110.71m2-oglas-41154036,,
+255,220.000 €,42.649457438314,18.085955193272,Dubrovnik,U kući,Jednoetažni,3-sobni,Prizemlje,61,https://www.njuskalo.hr/nekretnine/dubrovnik-stan-61-m2-terasom-oglas-41154012,1,
+256,210.000 €,42.987916537126,17.167247222659,Orebić,U stambenoj zgradi,Višeetažni,2-sobni,Prizemlje,70,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-oglas-41148869,1,
+257,210.000 €,42.987074089446,17.166959604113,Orebić,U stambenoj zgradi,Višeetažni,3-sobni,Prizemlje,70,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-oglas-41148871,1,
+258,207.000 €,42.98674082891,17.167993967741,Orebić,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,70,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-oglas-41148870,1,
+259,224.000 €,42.987449539879,17.168541707455,Orebić,U stambenoj zgradi,Višeetažni,3-sobni,1.,70,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148868,1,
+260,220.800 €,42.987247022341,17.165351782636,Orebić,U stambenoj zgradi,Višeetažni,3-sobni,1.,69,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148867,1,
+261,238.000 €,42.986971191739,17.168277136891,Orebić,U stambenoj zgradi,Višeetažni,3-sobni,2.,70,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148865,1,
+262,234.600 €,42.989126008691,17.168556131251,Orebić,U stambenoj zgradi,Višeetažni,3-sobni,2.,69,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148864,1,
+263,238.000 €,42.986935408417,17.170757688306,Orebić,U stambenoj zgradi,Jednoetažni,3-sobni,2.,70,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148863,1,
+264,224.000 €,42.986475655577,17.167224895886,Orebić,U stambenoj zgradi,Višeetažni,3-sobni,1.,70,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148862,1,
+265,492.000 €,42.9592365,16.7191104,Vela Luka,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,152,https://www.njuskalo.hr/nekretnine/luksuzan-stan-prvi-red-mora-vela-luka-oglas-39979694,3,
+266,420.000 €,42.98363330676682,17.087399698268626,Orebić,U stambenoj zgradi,Jednoetažni,3-sobni,2.,103,https://www.njuskalo.hr/nekretnine/stan-viganj-vrhunski-opremljen-stan-103.00-m2-3-npp-oglas-35595128,2,2
+267,119.900 €,46.29326306812833,16.326320377579123,Metković,U stambenoj zgradi,Jednoetažni,3-sobni,1.,66,https://www.njuskalo.hr/nekretnine/stan-metkovic-3-soban-66-m2-odlicna-lokacija-2-kata-balkon-parkin-oglas-41982825,1,
+268,6.000 €,42.655543529330416,18.076782929758007,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,,80,https://www.njuskalo.hr/nekretnine/novogradnja-dubrovnik-izvrsna-pjesacka-zona-stanovi-prodaja-oglas-41981480,1,1
+269,340.000 €,42.658760948947,18.08695106289857,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,,69,https://www.njuskalo.hr/nekretnine/stan-69-m2-pogledom-more-novija-gradnja-dubrovnik-oglas-41564300,1,
+270,3.000 €,42.581512838338156,18.21521964712974,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,,60,https://www.njuskalo.hr/nekretnine/novogradnja-stanovi-apartmani-cca-43-m2-cca-82-m2-oglas-41336955,1,
+271,260.000 €,42.58335051940188,18.21530069766961,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,Potkrovlje,91,https://www.njuskalo.hr/nekretnine/atraktivan-stan-91.55-m2-2-spavace-sobe-pogled-more-plaza-oglas-41137379,2,
+272,215.000 €,42.58470969196638,18.21302567602742,Konavle,U stambenoj zgradi,Jednoetažni,1-sobni,,45,https://www.njuskalo.hr/nekretnine/atraktivna-ponuda-novogradnja-stanovi-38-m2-52-m2-pogled-more-oglas-41052566,1,
+273,2.500 €,42.63465029187049,18.19887766361383,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,,60,https://www.njuskalo.hr/nekretnine/novogradnja-kompleks-urbanih-vila-zelenilu-stanovi-kuce-oglas-40375760,,
+274,4.800 €,42.654893796668,18.082290073295,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,2.,70,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-70.00-m2-novogradnja-oglas-36102618,2,
+275,445.000 €,42.654253144172536,18.07916700846158,Dubrovnik,U stambenoj zgradi,Dvoetažni,4-sobni,3.,130,https://www.njuskalo.hr/nekretnine/komforan-stan-cca-130-m2-atraktivnoj-lokaciji-centru-lapada-oglas-39793204,2,
+276,2.790 €,42.62510518008943,18.161907901364845,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,3-sobni,,60,https://www.njuskalo.hr/nekretnine/novogradnja-stanovi-50-m2-89-m2-blizina-sadrzaja-useljivo-oglas-39051881,1,
+277,495.000 €,42.64155099702499,18.111898261779565,Dubrovnik,U kući,Dvoetažni,2-sobni,Prizemlje,95,https://www.njuskalo.hr/nekretnine/atraktivan-stan-95-m2-unutar-zidina-staroga-grada-dubrovnik-oglas-40553252,1,
+278,2.800 €,42.63424871242708,18.193081897783856,Župa Dubrovačka,U stambenoj zgradi,Dvoetažni,3-sobni,,80,https://www.njuskalo.hr/nekretnine/novogradnja-urbane-vile-stan-cca-80-m2-3-spavace-sobe-oglas-40375876,2,
+279,2.700 €,42.5767091572585,18.242596370245032,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,,50,https://www.njuskalo.hr/nekretnine/novogradnja-stanovi-apartmani-cca-37-m2-cca-75-m2-oglas-38582676,1,
+280,101.000 €,43.05692175560609,17.635541613983715,Metković,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,56,https://www.njuskalo.hr/nekretnine/metkovic-jednosoban-stan-56-m2-novogradnja-oglas-41980897,1,
+281,168.919 €,42.583446218876,18.215243895721,Konavle,U stambenoj zgradi,Višeetažni,2-sobni,3.,54,https://www.njuskalo.hr/nekretnine/stan-cavtat-54.49-m2-novogradnja-oglas-41697674,1,
+282,210.000 €,42.641155750244,18.110385081056,Dubrovnik,U kući,Jednoetažni,Garsonijera,Prizemlje,23,https://www.njuskalo.hr/nekretnine/uhodani-apartman-dubrovackim-zidinama-oglas-41949268,1,
+283,340.000 €,42.676425839466,18.078700436873,Dubrovnik - Okolica,U kući,Jednoetažni,2-sobni,Prizemlje,75,https://www.njuskalo.hr/nekretnine/osuncani-stan-75.00-m2-pogledom-taracom-vrtom-2-parkirna-mjesta-oglas-41963289,1,
+284,250.000 €,42.662288713738,18.088635206223,Dubrovnik,U kući,Jednoetažni,2-sobni,Prizemlje,74,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-nuncijate-oglas-41939161,1,1
+285,101.000 €,43.06019145014798,17.63752722422599,Metković,U stambenoj zgradi,Jednoetažni,1-sobni,4.,56,https://www.njuskalo.hr/nekretnine/metkovic-jednosoban-stan-56-m2-novogradnja-oglas-41938258,1,
+286,101.000 €,43.060191450148,17.637527224226,Metković,U stambenoj zgradi,Jednoetažni,1-sobni,3.,56,https://www.njuskalo.hr/nekretnine/metkovic-jednosoban-stan-56-m2-novogradnja-oglas-41938018,1,1
+287,141.400 €,43.0578860183334,17.635165841273622,Metković,U stambenoj zgradi,Jednoetažni,3-sobni,2.,78,https://www.njuskalo.hr/nekretnine/metkovic-trosoban-stan-78-m2-novogradnja-oglas-41936866,1,
+288,309.000 €,42.9793465,17.4901485,Slivno,U stambenoj zgradi,Jednoetažni,4-sobni,Potkrovlje,102,https://www.njuskalo.hr/nekretnine/prodaja-novogradnja-stan-duba-slivno-2s-2db-102-m2-oglas-41925411,2,
+289,204.606 €,42.626387975999,18.16214565459,Župa Dubrovačka,U stambenoj zgradi,Dvoetažni,2-sobni,1.,80,https://www.njuskalo.hr/nekretnine/jednosoban-stan-potkrovljem-zupa-dubrovacka-oglas-40635798,1,
+290,201.810 €,42.626980914905,18.1649027305,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,1.,79,https://www.njuskalo.hr/nekretnine/stan-blizina-dubrovnika-zupa-dubrovacka-oglas-40635797,1,
+291,125.000 €,43.017182136682884,17.530646715249894,Opuzen,U stambenoj zgradi,Višeetažni,1-sobni,4.,38,https://www.njuskalo.hr/nekretnine/stan-opuzen-38.45-m2-novogradnja-oglas-36113583,1,1
+292,96.000 €,43.01928890994791,17.53104698016929,Opuzen,U kući,Jednoetažni,2-sobni,1.,85,https://www.njuskalo.hr/nekretnine/opuzen-centar-dvosoban-stan-apartman-85.18-m2-video-oglas-41889882,1,
+293,170.000 €,42.95865772884967,17.136719830773433,Korčula,U kući,Jednoetažni,2-sobni,Prizemlje,40,https://www.njuskalo.hr/nekretnine/stan-grad-korcula-50-metara-mora-40.00-m2-oglas-41807655,1,1
+294,299.000 €,42.956707668746,16.679873623393,Vela Luka,U stambenoj zgradi,Jednoetažni,4-sobni,2.,130,https://www.njuskalo.hr/nekretnine/deluxe-penthouse-bazenom-ekskluzivna-oaza-plazi-srcu-korc-oglas-38372956,3,
+295,85.000 €,42.827761437238,17.703200190904,Ston,U stambenoj zgradi,Jednoetažni,1-sobni,1.,33,https://www.njuskalo.hr/nekretnine/peljesac-mali-stan-velikim-pogledom-more-stonu-oglas-41518191,1,
+296,100.000 €,42.938317238765,17.101104794426,Korčula,U stambenoj zgradi,Jednoetažni,2-sobni,,45,https://www.njuskalo.hr/nekretnine/jednosobni-stan-zrnovu-oglas-41302250,1,
+297,119.000 €,42.962053893275,16.821848732091,Blato,U stambenoj zgradi,Jednoetažni,3-sobni,,84,https://www.njuskalo.hr/nekretnine/dvosobni-stan-blato-oglas-41795753,1,
+298,119.000 €,42.960873306835,16.822736024893,Blato,U kući,Jednoetažni,2-sobni,,79,https://www.njuskalo.hr/nekretnine/jednosobni-stan-blato-oglas-41795746,1,
+299,2.278.017 €,42.6462138,18.1039521,Dubrovnik,U stambenoj zgradi,Jednoetažni,5+ sobni,Penthouse,258,https://www.njuskalo.hr/nekretnine/dubrovnik-penthouse-pogledom-more-stari-grad-oglas-39216994,4,
+300,232.500 €,42.654309470733,18.080102263715,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,4.,66,https://www.njuskalo.hr/nekretnine/dubrovnik-stan-renovaciju-korak-svih-sadrzaja-oglas-39468823,1,
+301,100.000 €,42.94566612126,17.166037324379,Korčula,U stambenoj zgradi,Jednoetažni,2-sobni,,45,https://www.njuskalo.hr/nekretnine/stan-blizini-grada-korcule-oglas-40810684,1,
+302,150.000 €,43.05538632797081,17.431988316313067,Ploče,U kući,Jednoetažni,3-sobni,,128,https://www.njuskalo.hr/nekretnine/stablina-ploce-apartman-stan-128.62-m2-garazom-vrtom-oglas-41749809,1,
+303,170.000 €,42.94600368612578,17.568026150673873,Slivno,U stambenoj zgradi,Jednoetažni,2-sobni,1.,55,https://www.njuskalo.hr/nekretnine/klek-slivno-dvosoban-apartman-55.06-m2-broj-9-oglas-41733694,1,
+304,595.000 €,,,Dubrovnik,U kući,Jednoetažni,4-sobni,Prizemlje,100,https://www.njuskalo.hr/nekretnine/stan-pravom-nadogradnje-odlicnoj-lokaciji-oglas-33933833,2,
+305,11 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,1.,90,https://www.njuskalo.hr/nekretnine/trosobni-stan-babin-kuk-oglas-37589420,2,
+306,11 €,,,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,62,https://www.njuskalo.hr/nekretnine/stan-prodaja-mlini-62.24m2-oglas-36617899,1,
+307,1.030.000 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,5+ sobni,2.,138,https://www.njuskalo.hr/nekretnine/luksuzno-ureden-stan-oglas-33591549,5+,
+308,296.701 €,42.583446218876,18.215243895721,Konavle,U stambenoj zgradi,Višeetažni,4-sobni,1.,95,https://www.njuskalo.hr/nekretnine/stan-cavtat-95.71-m2-novogradnja-oglas-41697930,1,2
+309,296.701 €,42.583446218876,18.215243895721,Konavle,U stambenoj zgradi,Višeetažni,4-sobni,2.,95,https://www.njuskalo.hr/nekretnine/stan-cavtat-95.71-m2-novogradnja-oglas-41697484,1,1
+310,193.502 €,42.583446218876,18.215243895721,Konavle,U stambenoj zgradi,Višeetažni,2-sobni,2.,62,https://www.njuskalo.hr/nekretnine/stan-cavtat-62.42-m2-novogradnja-oglas-41696641,1,
+311,186.248 €,42.583446218876,18.215243895721,Konavle,U stambenoj zgradi,Višeetažni,2-sobni,2.,60,https://www.njuskalo.hr/nekretnine/stan-cavtat-60.08-m2-novogradnja-oglas-41696533,1,
+312,3.100 €,42.583446218876,18.215243895721,Konavle,U stambenoj zgradi,Višeetažni,3-sobni,1.,95,https://www.njuskalo.hr/nekretnine/pilot-residance-dubrovnik-cavtat-54-95m2-oglas-41696211,1,1
+313,266.170 €,42.62682073746,18.162498167052,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,3-sobni,1.,89,https://www.njuskalo.hr/nekretnine/dvosobni-stan-tavanskim-prostorom-zupa-dubrovacka-oglas-40132694,1,
+314,268.443 €,42.626722183744,18.163309106243,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,3-sobni,1.,89,https://www.njuskalo.hr/nekretnine/dvosobni-stan-potkrovlje-blizina-dubrovnika-oglas-40132684,1,
+315,1 €,42.642889407256,18.109532260612,Dubrovnik,U stambenoj zgradi,Dvoetažni,4-sobni,2.,103,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-103.00-m2-oglas-37664900,4,
+316,1 €,42.65805931596877,18.077380936782273,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,3.,120,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-120.00-m2-oglas-40041130,2,
+317,1 €,42.6414512803725,18.114414685086636,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,2.,80,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-80.00-m2-oglas-41005472,1,
+318,339.000 €,,,Dubrovnik,U stambenoj zgradi,Dvoetažni,2-sobni,Visoko potkrovlje,75,https://www.njuskalo.hr/nekretnine/stan-gruzu-75-m2-zgrada-je-novije-gradnje-2017-g-oglas-41211338,1,1
+319,348.600 €,,,Dubrovnik,U stambenoj zgradi,Dvoetažni,2-sobni,Visoko potkrovlje,83,https://www.njuskalo.hr/nekretnine/stan-gruzu-83-m2-zgrada-je-novije-gradnje-2017-g-oglas-41211337,1,1
+320,449.088 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,2.,96,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrovnik-96m2-oglas-41221620,,
+321,135.000 €,43.05269994828,17.646277417793,Metković,U stambenoj zgradi,Višeetažni,4-sobni,,192,https://www.njuskalo.hr/nekretnine/stan-metkovic-77.85-m2-oglas-40095990,2,
+322,11 €,,,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,75,https://www.njuskalo.hr/nekretnine/dvosobni-stan-plocama-oglas-41646059,2,
+323,119.700 €,43.020211195462,17.533552558342,Opuzen,U stambenoj zgradi,Jednoetažni,2-sobni,2.,79,https://www.njuskalo.hr/nekretnine/stan-opuzen-73.00-m2-novogradnja-oglas-38874886,1,
+324,180.000 €,42.951806624158,17.527597924979,Slivno,U stambenoj zgradi,Jednoetažni,2-sobni,1.,60,https://www.njuskalo.hr/nekretnine/stan-komarna-60.00-m2-novogradnja-oglas-41484279,1,
+325,315.000 €,42.660820723644,18.084470646453,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,1.,54,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrovnik-gruz-54-m2-oglas-41230507,1,
+326,700 €,43.04836293398769,17.633616471362092,Metković,U kući,Jednoetažni,2-sobni,2.,130,https://www.njuskalo.hr/nekretnine/stan-metkovic-130.00-m2-roh-bau-oglas-37042899,1,1
+327,140.000 €,42.62309678763,18.192222118378,Župa Dubrovačka,U stambenoj zgradi,Jednoetažni,2-sobni,4.,37,https://www.njuskalo.hr/nekretnine/stan-srebreno-37.00-m2-oglas-38847692,1,
+328,490.000 €,42.644756870070154,18.11835662989741,Dubrovnik,U kući,Jednoetažni,2-sobni,,90,https://www.njuskalo.hr/nekretnine/stan-obitlejskoj-kuci-vrtom-pomocnim-objektom-oglas-41627281,2,
+329,580.000 €,42.656491182164,18.078401647959,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,1.,102,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrovnik-solitudo-102-m2-oglas-41594643,2,
+330,315.000 €,42.97993399483622,17.489456283208767,Slivno,U stambenoj zgradi,Jednoetažni,2-sobni,2.,99,https://www.njuskalo.hr/nekretnine/duba-slivno-penthouse-99.64-m2-terasom-pogledom-more-video-oglas-40781955,2,
+331,220.000 €,42.678874771032,18.091756794015,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,50,https://www.njuskalo.hr/nekretnine/dalmacija-dubrovnik-stan-pogodnoj-lokaciji-oglas-41526689,1,
+332,330.000 €,42.949974068726,17.145311883014,Korčula,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,79,https://www.njuskalo.hr/nekretnine/stan-korcula-79-m2-novogradnja-prodaje-vlasnik-oglas-41499246,2,2
+333,180.000 €,42.581840745764985,18.209555077260337,Konavle,U kući,Jednoetažni,3-sobni,,96,https://www.njuskalo.hr/nekretnine/stan-cavtat-96.00-m2-oglas-41442612,2,
+334,740.000 €,42.640275260909,18.109158173662,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,1.,74,https://www.njuskalo.hr/nekretnine/stari-grad-blizu-straduna-oglas-41394625,1,1
+335,315.000 €,42.65316432744115,18.08925380391935,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,1.,79,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-79.00-m2-oglas-29696461,1,
+336,190.000 €,42.659797571064786,18.074617250693514,Dubrovnik,U kući,Jednoetažni,2-sobni,1.,69,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-45.00-m2-oglas-41328294,,
+337,75.000 €,43.01610228782633,17.562964257122495,Opuzen,U stambenoj zgradi,Jednoetažni,1-sobni,3.,69,https://www.njuskalo.hr/nekretnine/opuzen-stan-69-m2-centar-3-kat-oglas-41292771,1,
+338,840.000 €,42.656482745,18.07956051,Dubrovnik,U stambenoj zgradi,Višeetažni,5+ sobni,,178,https://www.njuskalo.hr/nekretnine/luksuzni-stan-dubrovnik-178.00-m2-garazom-24.36m2-oglas-28936959,3,
+339,650.000 €,42.639465367739,18.113437431072,Dubrovnik,U stambenoj zgradi,Jednoetažni,4-sobni,,93,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-93.00-m2-oglas-41250061,,
+340,219.000 €,42.8856006386451,17.45477693642475,Ston,U kući,Jednoetažni,2-sobni,Prizemlje,67,https://www.njuskalo.hr/nekretnine/zuljana-peljesac-dvosoban-apartman-67.95-m2-rstan-zuljana-67.00-m2-oglas-41190334,1,
+341,111.000 €,43.01736841338491,17.562539251968442,Opuzen,U stambenoj zgradi,Jednoetažni,3-sobni,4.,69,https://www.njuskalo.hr/nekretnine/dolina-neretve-opuzen-atraktivno-pozicioniran-3-sobni-stan-oglas-41185715,1,
+342,76.000 €,43.05274839721147,17.643911007182396,Metković,U stambenoj zgradi,Jednoetažni,2-sobni,5.,49,https://www.njuskalo.hr/nekretnine/metkovic-centar-dvosoban-stan-48-m2-oglas-41178189,1,
+343,3.000 €,42.98672556196751,17.165309648590874,Orebić,U stambenoj zgradi,Jednoetažni,2-sobni,2.,70,https://www.njuskalo.hr/nekretnine/orebic-peljesac-apartmani-63m2-prodaju-novogradnja-video-oglas-40808541,1,
+344,238.000 €,45.83143906677221,15.972330418589468,Konavle,U stambenoj zgradi,Dvoetažni,2-sobni,,75,https://www.njuskalo.hr/nekretnine/stan-cavtat-75.00-m2-oglas-32107819,1,
+345,139.000 €,42.9561342491452,17.391030981146198,Janjina,U kući,Jednoetažni,3-sobni,,69,https://www.njuskalo.hr/nekretnine/peljesac-osobjava-apartman-netto-69m2-garaza-22.88m2-video-oglas-40979367,1,
+346,295.000 €,42.947663130220775,17.525360852895766,Slivno,U stambenoj zgradi,Jednoetažni,2-sobni,Suteren,130,https://www.njuskalo.hr/nekretnine/komarna-apartman-129.30-m2-bazenom-pogledom-more-oglas-40955909,1,1
+347,148.000 €,43.05276,17.437479,Ploče,U stambenoj zgradi,Jednoetažni,3-sobni,3.,80,https://www.njuskalo.hr/nekretnine/stan-ploce-80.00-m2-oglas-40719743,1,
+348,1.020.000 €,42.641264099822,18.107950127524,Dubrovnik,U kući,Dvoetažni,5+ sobni,,170,https://www.njuskalo.hr/nekretnine/dvoetazni-stan-prodaja-dubrovnik-pile-170-m2-oglas-40557306,5+,
+349,245.000 €,42.67616040657737,18.09406983005325,Dubrovnik - Okolica,U stambenoj zgradi,Jednoetažni,2-sobni,1.,80,https://www.njuskalo.hr/nekretnine/mokosica-dubrovnik-dvosoban-stan-80.33m2-video-oglas-40520854,1,1
+350,185.000 €,42.946936387826,17.57014481365,Slivno,U stambenoj zgradi,Jednoetažni,2-sobni,2.,55,https://www.njuskalo.hr/nekretnine/klek-apartman-5-55.91m2-video-oglas-40341098,1,
+351,185.000 €,42.946936387826,17.57014481365,Slivno,U stambenoj zgradi,Jednoetažni,2-sobni,1.,55,https://www.njuskalo.hr/nekretnine/klek-apartman-3-55.91m2-video-oglas-40341010,2,
+352,167.000 €,42.946936387826,17.57014481365,Slivno,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,50,https://www.njuskalo.hr/nekretnine/klek-apartman-1-50.44m2-video-oglas-40340829,1,
+353,165.000 €,43.01952749110851,17.563818719593737,Opuzen,U kući,Jednoetažni,4-sobni,1.,158,https://www.njuskalo.hr/nekretnine/opuzen-kuca-stan-158-m2-centar-video-oglas-40316459,1,
+354,880 €,43.043156050869875,17.64914789788451,Metković,U kući,Jednoetažni,3-sobni,2.,114,https://www.njuskalo.hr/nekretnine/metkovic-slatine-stan-3-114.40-m2-okucnicom-oglas-40150280,1,
+355,860 €,43.04315605087,17.649147897885,Metković,U kući,Jednoetažni,3-sobni,1.,117,https://www.njuskalo.hr/nekretnine/metkovic-slatine-stan-2-117-26-m2-okucnicom-oglas-40149992,2,
+356,840 €,43.04315605087,17.649147897885,Metković,U kući,Jednoetažni,3-sobni,,117,https://www.njuskalo.hr/nekretnine/stan-metkovic-117.00-m2-oglas-40149686,2,
+357,590.000 €,42.640110173637,18.106923780853,Dubrovnik,U kući,Jednoetažni,3-sobni,1.,49,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrovnik-stari-grad-49-m2-oglas-39925849,1,
+358,549.000 €,42.660267962427,18.091122944996,Dubrovnik,U kući,Jednoetažni,5+ sobni,Prizemlje,131,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-131.00-m2-oglas-39646271,,
+359,630.000 €,42.656355934481,18.076508249011,Dubrovnik,U stambenoj zgradi,Jednoetažni,2-sobni,,80,https://www.njuskalo.hr/nekretnine/stan-odlicnoj-lokaciji-lapadu-oglas-39403058,2,
+360,289.000 €,42.58432554728251,18.2106960376917,Konavle,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,104,https://www.njuskalo.hr/nekretnine/dvosobni-stan-pogledom-more-cavtatu-oglas-38775087,2,
+361,202.500 €,42.57473717137,18.241172378168,Konavle,U stambenoj zgradi,Jednoetažni,3-sobni,,75,https://www.njuskalo.hr/nekretnine/cavtat-zvekovica-novogradnja-oglas-38400947,1,2
+362,550.000 €,,,Konavle,U stambenoj zgradi,Dvoetažni,3-sobni,Suteren,145,https://www.njuskalo.hr/nekretnine/stan-kamenoj-vili-cavtat-oglas-33973928,3,
+363,440.000 €,,,Konavle,U stambenoj zgradi,Dvoetažni,3-sobni,1.,119,https://www.njuskalo.hr/nekretnine/stan-kamenoj-vili-cavtat-oglas-33983482,3,
+364,143.000 €,43.04799834506873,17.63171939644894,Metković,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,106,https://www.njuskalo.hr/nekretnine/namjesten-stan-metkovicu-106.00-m2-oglas-38221142,2,2
+365,125.000 €,42.947307964407,17.547168396761,Slivno,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,74,https://www.njuskalo.hr/nekretnine/stan-apartman-duboka-komarna-74.50-m2-oglas-37496860,1,1
+366,860.000 €,,,Dubrovnik,U stambenoj zgradi,Dvoetažni,5+ sobni,1.,178,https://www.njuskalo.hr/nekretnine/dubrovnik-prodaja-prvi-red-mora-dvoetazan-stan-garazom-oglas-31458225,3,
+367,1.200.000 €,42.642745300779,18.1157385228,Dubrovnik,U stambenoj zgradi,Jednoetažni,3-sobni,,140,https://www.njuskalo.hr/nekretnine/ploce-novogradnja-oglas-33356996,2,2
+368,700.000 €,42.644108497867,18.099975585938,Dubrovnik,U kući,Jednoetažni,2-sobni,1.,141,https://www.njuskalo.hr/nekretnine/dubrovnik-boninovo-centar-dvosoban-stan-prodaja-oglas-12696623,2,
