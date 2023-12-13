@@ -1,3 +1,4 @@
+from datetime import datetime
 import random
 import urllib3
 import json
@@ -15,8 +16,9 @@ http = urllib3.ProxyManager("https://brd.superproxy.io:22225", proxy_headers=def
 headersfile = open("./user_agents.txt", "r")
 headers = headersfile.read()
 headers = eval(headers)
-filenameread = 'csvovi/njuskalo_scrape_listing_links_done.csv'
-filenamewrite = 'csvovi/njuskalo_scrapeFINAltest.csv'
+global filenameread
+global filenamewrite
+    
 
 
 def random_delay():
@@ -150,6 +152,14 @@ def parseListingsAndToCsv(headerNumber, linenum, url):
 
 
 if __name__ == "__main__":
+    now = datetime.now()
+
+    
+    filenameread = 'csvovi/bjelovarsko-bilogorska/njuskalo_scrape_listing_links_bjelovarsko-bilogorska_13-12-2023_22-45-53.csv'
+    # dd/mm/YYH:M:S
+    dt_string = now.strftime("_%d-%m-%Y_%H-%M-%S")
+    print("date and time =", dt_string)
+    filenamewrite = filenameread.split(".csv")[0] + "obrađena(početak obrade u "+dt_string+")" + ".csv"
     with open(filenamewrite, 'w', newline='', encoding='utf-8') as csvfile:
         spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
         spamwriter.writerow(["linenum","price", "lat", "lng", "location", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "buildingFloorPosition", "livingArea", "url", "bathrooms with toilet", "toilets"])       

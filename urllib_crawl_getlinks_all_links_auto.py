@@ -18,6 +18,7 @@ headersfile = open("./user_agents.txt", "r")
 headers = headersfile.read()
 headers = eval(headers)
 
+global linenum
 linenum = 1
 
 def random_delay():
@@ -94,6 +95,7 @@ if __name__ == "__main__":
     links = soup.findAll(class_="CategoryListing-topCategoryLink")
     for index, link in enumerate(links):
         if "href" in link.attrs:
+            linenum = 1
             zupanija = link["href"].split("stanova/")[1]
             print(zupanija)
     
