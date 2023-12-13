@@ -465,3 +465,632 @@ linenum,price,lat,lng,location,flatBuildingtype,flatFloorCount,numberOfRooms,bui
 463,130.000 €,45.179780806911,14.704381469918,Crikvenica,U stambenoj zgradi,Jednoetažni,Garsonijera,1.,18,https://www.njuskalo.hr/nekretnine/crikvenica-novogradnja-garsonijera-terasom-pogledom-oglas-41646412,1,
 464,466.000 €,45.179796634024,14.703636954637,Crikvenica,U stambenoj zgradi,Jednoetažni,5+ sobni,1.,95,https://www.njuskalo.hr/nekretnine/crikvenica-2-stana-novogradnja-pogled-more-oglas-41562364,2,2
 465,241.900 €,45.181120901976,14.705384366159,Crikvenica,U stambenoj zgradi,Jednoetažni,2-sobni,2.,42,https://www.njuskalo.hr/nekretnine/crikvenica-1s-db-stan-2-kat-120-m-mora-oglas-41222577,1,1
+466,229.000 €,45.181032352798,14.704066697674,Crikvenica,U kući,Jednoetažni,3-sobni,Prizemlje,68,https://www.njuskalo.hr/nekretnine/crikvenica-stan-strogi-centar-oglas-40625545,1,1
+467,197.500 €,45.179956542171,14.702200975153,Crikvenica,U stambenoj zgradi,Jednoetažni,2-sobni,4.,55,https://www.njuskalo.hr/nekretnine/crikvenica-1s-db-stan-55-m2-panoramski-pogled-oglas-41631943,1,1
+468,70.500 €,45.132858143312,14.786237556946,Novi Vinodolski,U stambenoj zgradi,Jednoetažni,Garsonijera,1.,22,https://www.njuskalo.hr/nekretnine/vinodolski-garsonijera-22m2-oglas-40907503,1,
+469,307.000 €,45.179732340136,14.702623065806,Crikvenica,U kući,Jednoetažni,3-sobni,1.,80,https://www.njuskalo.hr/nekretnine/crikvenica-komforan-2s-db-stan-velikim-parkingom-oglas-40029589,1,1
+470,139.000 €,45.180103257879,14.703134099626,Crikvenica,U stambenoj zgradi,Jednoetažni,2-sobni,1.,55,https://www.njuskalo.hr/nekretnine/crikvenica-1skl-55-m2-balkon-pogledom-more-oglas-39516176,1,1
+471,850.000 €,45.82713,15.970974,Gornji Grad - Medveščak,U stambenoj zgradi,Dvoetažni,5+ sobni,1.,268,https://www.njuskalo.hr/nekretnine/tuskanac-stan-268-m2-zagreb-oglas-41561797,1,2
+472,139.000 €,45.364456433689,14.410534928071,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,Visoko prizemlje,52,https://www.njuskalo.hr/nekretnine/rijeka-skurinje-2s-db-52m2-loda-oglas-41917812,1,
+473,450.000 €,45.356080664936,14.366621069113,Rijeka,U stambenoj zgradi,Jednoetažni,4-sobni,2.,116,https://www.njuskalo.hr/nekretnine/rijeka-srdoci-3s-db-stan-novogradnji-garaza-2-kat-oglas-39971171,2,
+474,235.000 €,45.377250797489,14.355944381057,Kastav,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,93,https://www.njuskalo.hr/nekretnine/kastav-zegoti-novogradnja-3s-db-stan-prizemlju-oglas-39809481,2,
+475,235.000 €,45.37915856378,14.354386307583,Kastav,U stambenoj zgradi,Jednoetažni,4-sobni,1.,93,https://www.njuskalo.hr/nekretnine/kastav-zegoti-novogradnja-3s-db-stan-1-kat-oglas-39809480,2,
+476,239.000 €,45.378329457294,14.355280545649,Kastav,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,95,https://www.njuskalo.hr/nekretnine/kastav-zegoti-novogradnja-3s-db-stan-prizemlju-oglas-39809478,2,
+477,249.000 €,45.378094200275,14.355297269634,Kastav,U stambenoj zgradi,Jednoetažni,4-sobni,2.,95,https://www.njuskalo.hr/nekretnine/kastav-zegoti-novogradnja-3s-db-stan-2-kat-oglas-39809476,2,
+478,255.000 €,45.356910193853,14.36733001402,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,85,https://www.njuskalo.hr/nekretnine/rijeka-srdoci-komforan-2s-db-stan-85-m2-oglas-39408832,1,1
+479,490.000 €,45.349891259438,14.321361001858,Opatija,U stambenoj zgradi,Jednoetažni,4-sobni,1.,97,https://www.njuskalo.hr/nekretnine/opatija-volosko-3s-db-stan-1-kat-garaza-oglas-38857408,2,
+480,166.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,,54,https://www.njuskalo.hr/nekretnine/rijeka-vojak-adaptiran-2s-db-stan-oglas-42193553,,
+481,160.000 €,45.377667769125,14.379521671422,Viškovo,U stambenoj zgradi,Jednoetažni,3-sobni,,56,https://www.njuskalo.hr/nekretnine/viskovo-2s-db-56.55-m2-parking-oglas-41942834,1,
+482,160.000 €,45.322245454997,14.472217858213,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,2.,51,https://www.njuskalo.hr/nekretnine/rijeka-donja-vezica-2s-kl-stan-2-kat-pogled-more-oglas-40347800,1,
+483,545.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,5+ sobni,3.,160,https://www.njuskalo.hr/nekretnine/rijeka-bulevard-5s-db-stan-garazom-panoramski-pogled-oglas-39645155,1,1
+484,360.000 €,45.320132868206,14.475013692281,Rijeka,U kući,Jednoetažni,4-sobni,2.,95,https://www.njuskalo.hr/nekretnine/rijeka-donja-vezica-3s-db-stan-etaza-kuce-gradevinskim-zemljistem-oglas-39255733,1,
+485,266.000 €,45.371508547044,14.347960385293,Kastav,U stambenoj zgradi,Jednoetažni,4-sobni,1.,106,https://www.njuskalo.hr/nekretnine/kastav-3s-db-stan-novogradnji-terasa-parking-oglas-39127747,2,
+486,179.000 €,45.825831893007,16.109437059135,Sesvete,U stambenoj zgradi,Jednoetažni,3-sobni,3.,92,https://www.njuskalo.hr/nekretnine/zagreb-sesvete-centar-2-etazni-3-sobni-stan-92-m2-oglas-41264513,2,
+487,177.000 €,45.126391288022,14.526502459445,Malinska-Dubašnica,U stambenoj zgradi,Dvoetažni,3-sobni,2.,56,https://www.njuskalo.hr/nekretnine/otok-krk-malinska-dvoetazni-apartman-blizini-mora-oglas-42145853,2,
+488,208.000 €,45.180176871935,14.704118724536,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,59,https://www.njuskalo.hr/nekretnine/crikvenica-apartman-pogledom-more-novogradnja-oglas-41695042,1,
+489,300.000 €,45.17853549177,14.703980729269,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,75,https://www.njuskalo.hr/nekretnine/crikvenica-trosobni-apartman-150-m-mora-oglas-41281745,1,1
+490,695.000 €,45.027271615333,14.578425640898,Krk,U stambenoj zgradi,Višeetažni,4-sobni,Prizemlje,116,https://www.njuskalo.hr/nekretnine/otok-krk-krk-luksuzan-troetazni-stan-novogradnji-blizu-plaze-oglas-41272772,2,1
+491,495.000 €,45.028604899589,14.57695222576,Krk,U stambenoj zgradi,Višeetažni,4-sobni,Prizemlje,116,https://www.njuskalo.hr/nekretnine/otok-krk-krk-luksuzan-troetazni-stan-novogradnji-blizu-plaze-oglas-41257575,2,1
+492,525.000 €,45.026822969312,14.57865295079,Krk,U stambenoj zgradi,Višeetažni,4-sobni,Prizemlje,117,https://www.njuskalo.hr/nekretnine/otok-krk-krk-ekskluzivni-troetazni-stan-blizu-grada-plaze-oglas-41257574,2,1
+493,985.000 €,45.029034005673,14.577604758764,Krk,U stambenoj zgradi,Jednoetažni,4-sobni,2.,146,https://www.njuskalo.hr/nekretnine/otok-krk-krk-penthouse-pogledom-more-oglas-41066764,3,1
+494,520.000 €,45.028434021886,14.574221044191,Krk,U stambenoj zgradi,Dvoetažni,3-sobni,Prizemlje,79,https://www.njuskalo.hr/nekretnine/otok-krk-krk-dvoetazni-apartman-vrtom-novogradnji-oglas-40965530,2,1
+495,920.767 €,45.204797173227,14.666903962455,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,Suteren,136,https://www.njuskalo.hr/nekretnine/crikvenica-dramalj-apartman-2-red-mora-novogradnja-oglas-40047447,2,1
+496,478.012 €,45.202943756167,14.667005205004,Crikvenica,U stambenoj zgradi,Jednoetažni,2-sobni,Suteren,63,https://www.njuskalo.hr/nekretnine/crikvenica-dramalj-apartman-1-red-mora-oglas-39959636,1,
+497,420.000 €,45.128019295728,14.528537437764,Malinska-Dubašnica,U stambenoj zgradi,Dvoetažni,4-sobni,1.,100,https://www.njuskalo.hr/nekretnine/otok-krk-malinska-dvoetazni-apartman-otvorenim-pogledom-more-oglas-40420825,2,
+498,877.500 €,45.20299051673,14.667664481629,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,130,https://www.njuskalo.hr/nekretnine/crikvenica-dramalj-apartman-2-red-mora-oglas-40339704,2,1
+499,280.000 €,45.180597572912,14.703164820288,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,1.,63,https://www.njuskalo.hr/nekretnine/crikvenica-stan-novogradnji-panoramskim-pogledom-more-oglas-40017276,1,
+500,248.000 €,45.182047242044,14.703184273447,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,69,https://www.njuskalo.hr/nekretnine/crikvenica-ekskluzivan-apartman-vrtom-prizemlju-novogradnje-oglas-38899259,1,
+501,95.000 €,45.846318993698,16.123659632052,Sesvete,U stambenoj zgradi,Jednoetažni,5+ sobni,Prizemlje,93,https://www.njuskalo.hr/nekretnine/stan-zagreb-mokrica-93.00-m2-novogradnja-oglas-33918176,1,1
+502,89.000 €,45.335257690637,14.419034136647,Rijeka,U stambenoj zgradi,Jednoetažni,Garsonijera,Prizemlje,22,https://www.njuskalo.hr/nekretnine/stan-podmurvice-oglas-42259549,1,
+503,185.000 €,45.321123235919,14.451599591625,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,Suteren,70,https://www.njuskalo.hr/nekretnine/stan-gradu-pogodan-najam-oglas-41091087,1,
+504,156.000 €,45.337486540422,14.42155988802,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,3.,67,https://www.njuskalo.hr/nekretnine/rijeka-podmurvice-2s-db-stan-67-m2-oglas-41084586,1,
+505,368.000 €,45.334338958596,14.307644278447,Opatija,U stambenoj zgradi,Jednoetažni,3-sobni,2.,79,https://www.njuskalo.hr/nekretnine/opatija-centar-2s-db-stan-2-kat-oglas-40064028,1,
+506,467.000 €,45.332428261855,14.296021859276,Opatija,U stambenoj zgradi,Jednoetažni,5+ sobni,2.,120,https://www.njuskalo.hr/nekretnine/opatija-plahuti-dvoetazni-4s-db-stan-panoramskim-pogledom-bazen-oglas-39892891,2,
+507,570.000 €,45.336476071288,14.306712817041,Opatija,U stambenoj zgradi,Jednoetažni,4-sobni,2.,108,https://www.njuskalo.hr/nekretnine/opatija-centar-3s-db-stan-villi-3-balkona-oglas-39667976,1,
+508,500.000 €,45.335108302384,14.306720085985,Opatija,U kući,Jednoetažni,4-sobni,2.,129,https://www.njuskalo.hr/nekretnine/opatija-centar-3s-db-stan-okucnicom-129-m2-oglas-39486443,2,
+509,373.500 €,45.334121583558,14.306721181406,Opatija,U stambenoj zgradi,Jednoetažni,3-sobni,1.,90,https://www.njuskalo.hr/nekretnine/opatija-centar-2s-db-stan-staroj-villi-1-kat-oglas-39892895,1,
+510,332.000 €,45.332258587927,14.294243103914,Opatija,U stambenoj zgradi,Jednoetažni,3-sobni,2.,78,https://www.njuskalo.hr/nekretnine/opatija-plahuti-2s-db-stan-pogled-kvarner-2-kat-oglas-39892892,1,
+511,239.000 €,,,Opatija,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,73,https://www.njuskalo.hr/nekretnine/opatija-kosicevo-3s-db-stan-garazom-oglas-38857413,1,
+512,330.000 €,45.8124503,15.962754,Črnomerec,U stambenoj zgradi,Dvoetažni,3-sobni,3.,134,https://www.njuskalo.hr/nekretnine/zagreb-britanac-ilica-dvoetazni-stan-terasa-134m2-oglas-40347315,2,2
+513,260.000 €,45.33491612731,14.304719340847,Opatija,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,60,https://www.njuskalo.hr/nekretnine/opatija-centar-dva-adaptirana-apartmana-100m-mora-oglas-41779694,2,
+514,550.000 €,45.334350488718,14.305283416194,Opatija,U stambenoj zgradi,Jednoetažni,2-sobni,Visoko prizemlje,79,https://www.njuskalo.hr/nekretnine/opatija-centar-ekskluzivan-1s-db-stan-garazom-oglas-42089897,1,
+515,113.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,1-sobni,5.,36,https://www.njuskalo.hr/nekretnine/rijeka-centar-samo-kod-nas-namjesten-1s-kl-stan-idealno-invest-oglas-41104012,1,
+516,650.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,98,https://www.njuskalo.hr/nekretnine/rijeka-bivio-novogradnja-2s-db-stan-bazenom-oglas-41059579,2,
+517,650.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,98,https://www.njuskalo.hr/nekretnine/rijeka-bivio-novogradnja-2s-db-stan-bazenom-oglas-41059578,2,
+518,600.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,1.,98,https://www.njuskalo.hr/nekretnine/rijeka-bivio-novogradnja-2s-db-stan-jacuzzijem-oglas-41059576,2,
+519,115.000 €,45.292188280443,14.273663921238,Lovran,U stambenoj zgradi,Jednoetažni,Garsonijera,Prizemlje,30,https://www.njuskalo.hr/nekretnine/lovran-adaptiran-studio-apartman-galerijom-oglas-40942502,1,
+520,170.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,42,https://www.njuskalo.hr/nekretnine/rijeka-belveder-namjesten-1s-db-stan-42-m2-oglas-40420827,1,
+521,215.000 €,45.356146394452,14.367984367637,Rijeka,U stambenoj zgradi,Dvoetažni,4-sobni,2.,85,https://www.njuskalo.hr/nekretnine/rijeka-srdoci-obiteljski-dvoetazni-3s-db-stan-oglas-40360496,1,1
+522,260.000 €,45.333460807125,14.446201414619,Rijeka,U kući,Jednoetažni,4-sobni,1.,129,https://www.njuskalo.hr/nekretnine/rijeka-kozala-namjesten-3s-db-stan-etaza-kuce-studio-apartman-oglas-40273684,1,
+523,256.000 €,,,Donji Grad,U stambenoj zgradi,Jednoetažni,2-sobni,2.,64,https://www.njuskalo.hr/nekretnine/zagreb-centar-masarykova-stan-64-m2-ureden-oglas-41540821,1,1
+524,220.000 €,45.1907268,14.6725888,Crikvenica,U stambenoj zgradi,Jednoetažni,2-sobni,Suteren,49,https://www.njuskalo.hr/nekretnine/krasan-namjesteni-stan-zatvorenom-terasom-parkingom-oglas-41710095,1,
+525,165.000 €,,,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,3-sobni,2.,57,https://www.njuskalo.hr/nekretnine/zagreb-rudes-jarun-3-soban-stan-57m2-oglas-40242732,1,
+526,300.000 €,45.31760660993,14.464773413485,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,,82,https://www.njuskalo.hr/nekretnine/rijeka-pecine-3skl-82m2-oglas-41756188,1,
+527,265.000 €,45.336191964892,14.421261490998,Rijeka,U kući,Jednoetažni,3-sobni,1.,95,https://www.njuskalo.hr/nekretnine/rijeka-podmurvice-3skl-95m2-oglas-41738861,1,1
+528,130.000 €,45.34093533566,14.408349790739,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,,48,https://www.njuskalo.hr/nekretnine/rijeka-turnic-1s-db-stan-pogledom-more-oglas-41703580,1,
+529,185.000 €,45.324261857148,14.479432017475,Rijeka,U stambenoj zgradi,Jednoetažni,4-sobni,,75,https://www.njuskalo.hr/nekretnine/rijeka-gornja-vezica-3s-db-stan-75-m2-oglas-41703579,1,
+530,740.000 €,,,Trnje,U stambenoj zgradi,Jednoetažni,4-sobni,3.,123,https://www.njuskalo.hr/nekretnine/cvjetno-naselje-veslacka-prodaja-alfa-stan-4-soban-stan-123m2-oglas-42136606,2,
+531,300.000 €,45.2019375,14.6544374,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,74,https://www.njuskalo.hr/nekretnine/stan-prizemlju-pogledom-more-oglas-41810794,1,1
+532,430.000 €,45.1661236,14.7090454,Crikvenica,U stambenoj zgradi,Jednoetažni,4-sobni,1.,124,https://www.njuskalo.hr/nekretnine/prostrana-etaza-modernoj-novogradnji-oglas-41879126,2,1
+533,208.000 €,45.1659602,14.7094874,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,59,https://www.njuskalo.hr/nekretnine/stan-prizemlju-novogradnje-parkingom-pogledom-oglas-41879127,1,
+534,218.500 €,45.1658815,14.70926,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,63,https://www.njuskalo.hr/nekretnine/novogradnja-pogledom-more-oglas-41879128,1,
+535,298.000 €,45.36395359894,14.341979932369,Kastav,U stambenoj zgradi,Dvoetažni,4-sobni,2.,114,https://www.njuskalo.hr/nekretnine/kastav-dvoetazni-3s-db-stan-garazom-oglas-42229904,,
+536,139.000 €,45.340682169725,14.411687113488,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,4.,47,https://www.njuskalo.hr/nekretnine/rijeka-turnic-adaptiran-2s-kl-stan-pogled-more-oglas-42209140,1,
+537,220.000 €,45.361998532063,14.356399908793,Kastav,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,83,https://www.njuskalo.hr/nekretnine/kastav-resetari-stan-2s-db-oglas-42209139,1,1
+538,140.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,,29,https://www.njuskalo.hr/nekretnine/rijeka-belveder-novoureden-apartman-29-m2-oglas-42179750,1,
+539,160.000 €,45.322236641521,14.475993242237,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,4.,48,https://www.njuskalo.hr/nekretnine/rijeka-donja-vezica-stan-oglas-42153862,1,
+540,219.000 €,45.326126378264,14.480164217184,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,4.,68,https://www.njuskalo.hr/nekretnine/rijeka-gornja-vezica-2s-db-stan-68-m2-oglas-42013285,1,1
+541,75.000 €,45.132475372245,14.784668623365,Novi Vinodolski,U stambenoj zgradi,Jednoetažni,Garsonijera,Prizemlje,30,https://www.njuskalo.hr/nekretnine/garsonjera-strogom-centru-oglas-41810795,1,
+542,460.000 €,45.1988529,14.6616626,Crikvenica,U stambenoj zgradi,Dvoetažni,3-sobni,1.,108,https://www.njuskalo.hr/nekretnine/prostrani-stan-panoramskim-pogledom-oglas-41533524,2,
+543,460.000 €,45.1988529,14.6616626,Crikvenica,U stambenoj zgradi,Dvoetažni,3-sobni,Prizemlje,113,https://www.njuskalo.hr/nekretnine/prizemlje-okucnicom-panoramskim-pogledom-oglas-41493144,2,
+544,248.000 €,45.180099034906,14.703318812725,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,78,https://www.njuskalo.hr/nekretnine/luksuzni-stan-novogradnji-okucnicom-pogledom-more-oglas-41462953,1,
+545,165.000 €,45.178746845995,14.703356741332,Crikvenica,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,56,https://www.njuskalo.hr/nekretnine/predivan-apartman-prizemlju-novogradnje-oglas-40990134,1,
+546,169.000 €,45.1671432,14.7064834,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,50,https://www.njuskalo.hr/nekretnine/prizemni-stan-krasnom-terasom-oglas-41175618,1,
+547,499.000 €,43.50093820704,16.445876756881,Split,U stambenoj zgradi,Jednoetažni,3-sobni,1.,71,https://www.njuskalo.hr/nekretnine/split-bacvice-komforan-trosoban-stan-pogledom-more-71.8-m2-oglas-41919593,2,3
+548,285.000 €,45.1733879,14.7041316,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,2.,68,https://www.njuskalo.hr/nekretnine/moderna-gradnja-panoramskim-pogledom-more-oglas-41175619,1,
+549,385.000 €,45.1701053,14.7054234,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,1.,96,https://www.njuskalo.hr/nekretnine/moderni-stan-panoramskim-pogledom-oglas-41288660,2,
+550,124.000 €,45.800252168925,15.948516205615,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,1.,31,https://www.njuskalo.hr/nekretnine/prodaja-zagreb-tresnjevka-moderan-dvosoban-stan-oglas-42025681,1,1
+551,275.000 €,45.1733879,14.7041316,Crikvenica,U stambenoj zgradi,Jednoetažni,3-sobni,1.,68,https://www.njuskalo.hr/nekretnine/moderna-gradnja-panoramski-pogled-more-oglas-41175620,1,
+552,168.000 €,45.799603496948,15.946993447547,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,3.,53,https://www.njuskalo.hr/nekretnine/prodaja-dvosoban-stan-tresnjevka-53m2-oglas-42145566,1,1
+553,154.000 €,45.79830305822,15.950210347833,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,2.,53,https://www.njuskalo.hr/nekretnine/prodaja-tresnjevka-53.23-m2-oglas-42259141,1,1
+554,385.000 €,45.1661236,14.7090454,Crikvenica,U stambenoj zgradi,Jednoetažni,4-sobni,2.,120,https://www.njuskalo.hr/nekretnine/visoko-potkrovlje-panoramskim-pogledom-oglas-41934787,2,1
+555,339.000 €,45.163243,14.7116246,Crikvenica,U stambenoj zgradi,Jednoetažni,4-sobni,Visoko potkrovlje,101,https://www.njuskalo.hr/nekretnine/visoko-potkrovlje-prvi-red-mora-oglas-41934788,2,
+556,101.124 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,Visoko prizemlje,38,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-44.62-m2-2sobni-pm-sprem-oglas-40160965,1,1
+557,138.909 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,1.,48,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-48.74m2-3sobni-pm-sprem-oglas-40069037,1,
+558,116.023 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,2.,40,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-47.17-m2-2sobni-pm-sprem-oglas-40180559,1,1
+559,121.014 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,1.,44,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-52.12-m2-2sobni-pm-sprem-oglas-40179376,1,1
+560,136.472 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,2.,48,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-57.15-m2-3sobni-pm-sprem-oglas-40180298,1,1
+561,116.023 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,2.,40,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-47.17-m2-2sobni-pm-sprem-oglas-40180698,1,1
+562,131.598 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,48,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-56.34-m2-3sobni-pm-sprem-oglas-40160209,1,1
+563,77.000 €,45.859576510432,15.790651104662,Zaprešić,U stambenoj zgradi,Jednoetažni,Garsonijera,2.,28,https://www.njuskalo.hr/nekretnine/zapresic-centar-garsonijera-28.5-m2-oglas-41783009,1,
+564,65.000 €,45.804160167221,15.927825192015,Trešnjevka - Sjever,U kući,Jednoetažni,Garsonijera,Prizemlje,22,https://www.njuskalo.hr/nekretnine/tresnjevka-voltino-garsonijera-22-m2-top-lokacija-oglas-41221168,1,
+565,85.000 €,45.810856206032,15.880234441733,Stenjevec,U stambenoj zgradi,Jednoetažni,2-sobni,6.,34,https://www.njuskalo.hr/nekretnine/zagreb-stenjevec-stan-2s-34-m2-oglas-40996152,1,
+566,145.000 €,45.820112092617,15.812497650908,Sveta Nedelja,U stambenoj zgradi,Jednoetažni,3-sobni,1.,55,https://www.njuskalo.hr/nekretnine/sveta-nedelja-oresje-trosoban-1-kat-novogradnja-oglas-40451917,1,
+567,255.000 €,45.846953481718,15.968874887962,Podsljeme,U kući,Jednoetažni,5+ sobni,,150,https://www.njuskalo.hr/nekretnine/zagreb-sestine-mlinovi-cetverosobni-stan-visoko-potkrovlje-oglas-36691744,2,1
+568,2.600 €,45.75560129788,15.96754039592,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,67,https://www.njuskalo.hr/nekretnine/zagreb-sveta-klara-novogradnja-stan-a1-69.78-m2-oglas-39173384,1,
+569,2.600 €,45.756916969057,15.964993905737,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,56,https://www.njuskalo.hr/nekretnine/zagreb-sveta-klara-novogradnja-stan-a2-56.01-m2-oglas-39173383,1,
+570,2.600 €,45.757195296981,15.969215347276,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,1.,57,https://www.njuskalo.hr/nekretnine/zagreb-sveta-klara-novogradnja-stan-a6-60.65-m2-oglas-39173380,1,
+571,2.600 €,45.757195296981,15.969215347276,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,1.,60,https://www.njuskalo.hr/nekretnine/zagreb-sveta-klara-novogradnja-stan-a7-63.54-m2-oglas-39173379,1,
+572,2.600 €,45.757195296981,15.969215347276,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,1.,65,https://www.njuskalo.hr/nekretnine/zagreb-sveta-klara-novogradnja-stan-a8-70.47-m2-oglas-39173378,1,
+573,2.600 €,45.757195296981,15.969215347276,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,4-sobni,Penthouse,102,https://www.njuskalo.hr/nekretnine/zagreb-sveta-klara-novogradnja-stan-a9-131.50-m2-oglas-39173377,2,
+574,2.600 €,45.757195296981,15.969215347276,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,4-sobni,Penthouse,98,https://www.njuskalo.hr/nekretnine/zagreb-sveta-klara-novogradnja-stan-a10-134.64-m2-oglas-39173376,2,
+575,192.525 €,45.758252262356,15.966408585236,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,1.,75,https://www.njuskalo.hr/nekretnine/zagreb-sveta-klara-3s-stan-vpm-spremistem-oglas-42089452,,
+576,192.245 €,45.755164017369,15.969617026676,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,75,https://www.njuskalo.hr/nekretnine/zagreb-sveta-klara-2024-g-3s-stan-vrtom-oglas-42070276,1,1
+577,237.737 €,,,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,93,https://www.njuskalo.hr/nekretnine/zagreb-blato-novogradnja-04-2024g-3s-stan-vrtom-oglas-41729202,1,1
+578,440.000 €,45.23149823468,13.597895514509,Poreč,U stambenoj zgradi,Jednoetažni,2-sobni,4.,90,https://www.njuskalo.hr/nekretnine/istra-porec-stan-90m2-centru-200m-plaze-oglas-40499946,1,1
+579,254.425 €,45.756425218713,15.96686839879,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,4-sobni,2.,101,https://www.njuskalo.hr/nekretnine/zagreb-sveta-klara-2024-smart-home-penthouse-oglas-42136601,1,1
+580,279.000 €,45.78318450066,15.923912766361,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,3-sobni,2.,69,https://www.njuskalo.hr/nekretnine/zagreb-jarun-trosoban-stan-terasom-2vpm-oglas-41729203,1,
+581,284.000 €,,,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,4-sobni,Visoko prizemlje,124,https://www.njuskalo.hr/nekretnine/zagreb-blato-4s-stan-vrtom-dva-gpma-04-2024g-oglas-41729201,2,1
+582,330.000 €,45.33385930592252,14.42989263294244,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,2.,140,https://www.njuskalo.hr/nekretnine/trosoban-gospodski-stan-rijeci-oglas-42271411,2,
+583,139.000 €,45.78314923089408,15.935744861035289,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,Garsonijera,3.,35,https://www.njuskalo.hr/nekretnine/stan-35m2-kompletno-namjesten-oglas-41796243,1,
+584,98.000 €,45.76578612912696,15.991947445704657,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,2-sobni,5.,31,https://www.njuskalo.hr/nekretnine/stan-zagreb-dugave-dvosobni-oglas-42125384,1,
+585,278.000 €,,,Poreč,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,76,https://www.njuskalo.hr/nekretnine/stan-novogradnji-tar-vabriga-oglas-41795986,,
+586,1 €,45.308428488877,18.413772583008,Đakovo,U stambenoj zgradi,Jednoetažni,5+ sobni,,1,https://www.njuskalo.hr/nekretnine/stan-dakovo-1.00-m2-oglas-38209828,,
+587,237.500 €,45.790844860967,16.002303707705,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,3-sobni,5.,95,https://www.njuskalo.hr/nekretnine/stan-zagreb-ferenscica-95.00-m2-oglas-42048449,1,2
+588,880.000 €,45.028550413149,14.577430912992,Krk,U stambenoj zgradi,Jednoetažni,4-sobni,2.,128,https://www.njuskalo.hr/nekretnine/krk-malinska-novogradnja-luksuzna-penthouse-128m2-oglas-38863370,2,3
+589,780.000 €,45.027925695082,14.578405170358,Krk,U stambenoj zgradi,Jednoetažni,4-sobni,3.,135,https://www.njuskalo.hr/nekretnine/krk-malinska-novogradnja-luksuzna-135m2-oglas-38863369,2,3
+590,452.000 €,45.028648504504,14.57703504211,Krk,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,87,https://www.njuskalo.hr/nekretnine/otok-krk-novogradnja-stan-bazenom-okucnicom-oglas-41250852,2,
+591,830.000 €,45.029094720705,14.57817841766,Krk,U stambenoj zgradi,Dvoetažni,5+ sobni,1.,167,https://www.njuskalo.hr/nekretnine/otok-krk-novogradnja-dvoetazni-stan-dva-parkirna-mjesta-oglas-41250850,3,
+592,780.000 €,45.026457313826,14.577489245306,Krk,U stambenoj zgradi,Jednoetažni,4-sobni,2.,122,https://www.njuskalo.hr/nekretnine/krk-malinska-novogradnja-luksuzna-123m2-3s-db-oglas-38863371,2,2
+593,239.000 €,45.31476660814404,13.56639262776842,Novigrad,U stambenoj zgradi,Jednoetažni,2-sobni,4.,53,https://www.njuskalo.hr/nekretnine/stan-novigrad-52.00-m2-centru-grada-oglas-41408618,1,1
+594,1.799 €,45.31,18.4098,Đakovo,U stambenoj zgradi,Jednoetažni,2-sobni,3.,1,https://www.njuskalo.hr/nekretnine/dakovo-luksuzna-inovogradnja-strogi-centar-oglas-37651272,1,1
+595,214.240 €,45.83199007391927,16.062208651950094,Gornja Dubrava,U stambenoj zgradi,Jednoetažni,3-sobni,4.,66,https://www.njuskalo.hr/nekretnine/stan-zagreb-dubrava-centar-66.00-m2-novogradnja-oglas-39998316,,
+596,163.416 €,45.83539155477959,16.06276479926388,Gornja Dubrava,U stambenoj zgradi,Jednoetažni,2-sobni,4.,49,https://www.njuskalo.hr/nekretnine/stan-zagreb-dubrava-centar-49.00-m2-novogradnja-oglas-39998176,,
+597,159.000 €,45.31,18.4098,Đakovo,U stambenoj zgradi,Jednoetažni,2-sobni,2.,112,https://www.njuskalo.hr/nekretnine/stan-stambeno-poslovnoj-zgradi-dakovu-drugi-kat-lift-oglas-40071276,1,
+598,222.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,8.,68,https://www.njuskalo.hr/nekretnine/stan-vrhunskoj-lokaciji-oglas-42070664,1,
+599,535.000 €,45.809969523759,15.979259565137,Donji Grad,U stambenoj zgradi,Dvoetažni,5+ sobni,1.,324,https://www.njuskalo.hr/nekretnine/zagreb-centar-predivan-dvoetazni-stan-324-m2-oglas-39358613,5+,5+
+600,199.000 €,45.179892492836,14.701492914936,Crikvenica,U stambenoj zgradi,Jednoetažni,2-sobni,4.,55,https://www.njuskalo.hr/nekretnine/crikvenica-stan-55m2.1s-db-pogled-rivijeru-oglas-41431613,1,
+601,395.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,4-sobni,1.,126,https://www.njuskalo.hr/nekretnine/korzo-nulta-zona-gospodski-stan-126.26m2-prvi-kat-2-balkona-oglas-40303962,1,1
+602,299.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,4-sobni,2.,127,https://www.njuskalo.hr/nekretnine/centar-drugi-kat-127m2-podijeljen-dvije-jedinice-oglas-42070665,2,
+603,310.000 €,44.89227227104157,13.870262664831099,Pula,U stambenoj zgradi,Dvoetažni,4-sobni,2.,118,https://www.njuskalo.hr/nekretnine/stan-oglas-40894369,2,
+604,260.000 €,45.807459312131,15.981342291693,Donji Grad,U stambenoj zgradi,Jednoetažni,3-sobni,1.,70,https://www.njuskalo.hr/nekretnine/prodaja-stana-donji-grad-70m2-oglas-42179262,1,1
+605,295.000 €,45.795651630668,15.962017531206,Trnje,U stambenoj zgradi,Jednoetažni,3-sobni,1.,61,https://www.njuskalo.hr/nekretnine/prodaja-stana-trnje-61m2-oglas-42089479,2,2
+606,315.000 €,45.800833383079,15.901186018202,Stenjevec,U stambenoj zgradi,Jednoetažni,4-sobni,4.,119,https://www.njuskalo.hr/nekretnine/atraktivan-stan-spanskom-120m2-oglas-41616003,1,1
+607,280.000 €,45.841231638019,15.94111930581,Črnomerec,U stambenoj zgradi,Jednoetažni,4-sobni,1.,110,https://www.njuskalo.hr/nekretnine/prodaja-stana-bijenik-92m2-oglas-41593936,1,1
+608,2.190 €,45.812985329998,16.185933607442,Sesvete,U stambenoj zgradi,Jednoetažni,2-sobni,,1,https://www.njuskalo.hr/nekretnine/kraljevec-naselje-iver-stanovi-31-85-m2-oglas-32896714,,
+609,275.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,1.,66,https://www.njuskalo.hr/nekretnine/centar-kompletno-adaptiran-2s-db-prvi-kat-oglas-42070671,1,
+610,250.000 €,45.179394965611,14.704772501435,Crikvenica,U stambenoj zgradi,Jednoetažni,2-sobni,2.,44,https://www.njuskalo.hr/nekretnine/crikvenica-stan-44m2.1s-db-pogled-more-oglas-41431612,1,
+611,125.000 €,44.88564421374505,13.877835709348643,Pula,U stambenoj zgradi,Jednoetažni,2-sobni,1.,45,https://www.njuskalo.hr/nekretnine/stan-pula-45.00-m2-novogradnja-oglas-41804962,,
+612,195.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,1.,50,https://www.njuskalo.hr/nekretnine/belveder-1s-db-novoadaptirani-stan-oglas-40125345,1,
+613,280.000 €,43.52074969996404,16.47184252738953,Split,U stambenoj zgradi,Jednoetažni,3-sobni,4.,70,https://www.njuskalo.hr/nekretnine/prodaje-se-trosoban-stan-ravnim-njivama-oglas-41477754,1,
+614,399.000 €,45.357415077992,14.369093437327,Rijeka,U stambenoj zgradi,Jednoetažni,4-sobni,2.,116,https://www.njuskalo.hr/nekretnine/srdoci-novogradnja-3s-db-garazom-oglas-40303965,2,
+615,360.000 €,45.334166838071,14.432613253026,Rijeka,U stambenoj zgradi,Jednoetažni,4-sobni,2.,95,https://www.njuskalo.hr/nekretnine/potok-tri-stana-drugi-kat-dva-balkona-oglas-41624131,3,3
+616,270.000 €,45.108794804666,14.494590359047,Malinska-Dubašnica,U stambenoj zgradi,Jednoetažni,3-sobni,1.,62,https://www.njuskalo.hr/nekretnine/malinska-2sb-db-62-m2-prvi-red-mora-oglas-40990606,1,
+617,330.000 €,45.340288906215,14.385327505126,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,1.,82,https://www.njuskalo.hr/nekretnine/kantrida-prostran-2s-db-1-kat-82m2-oglas-40990609,,
+618,235.000 €,45.35010236636,14.32181253781,Opatija,U stambenoj zgradi,Jednoetažni,3-sobni,2.,60,https://www.njuskalo.hr/nekretnine/volosko-2s-db-60m2-oglas-40421233,1,
+619,120.000 €,45.356247251116,14.368845128628,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,1.,38,https://www.njuskalo.hr/nekretnine/samo-kod-nas-rijeka-srdoci-38.12m2-prvi-kat-oglas-40907305,1,
+620,99.000 €,45.799269785,15.94990962,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,1.,27,https://www.njuskalo.hr/nekretnine/stan-zagreb-voltino-27.00-m2-oglas-42271280,1,
+621,360.000 €,45.797053747281,15.980272536012,Trnje,U stambenoj zgradi,Dvoetažni,3-sobni,3.,88,https://www.njuskalo.hr/nekretnine/zagreb-trnje-2s-db-88m2-oglas-39058433,1,1
+622,252.000 €,43.761685178938,15.774847402485,Vodice,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,140,https://www.njuskalo.hr/nekretnine/vodice-stan-106.58m2-studio-apartman-34.28m2-okucnica-213.90m2-oglas-39223812,2,2
+623,105.000 €,45.31,18.4098,Đakovo,U stambenoj zgradi,Jednoetažni,2-sobni,,64,https://www.njuskalo.hr/nekretnine/stan-dvoristem-podzemnom-garazom-dakovo-oglas-40549925,1,
+624,62.000 €,,,Maksimir,U stambenoj zgradi,Jednoetažni,1-sobni,Suteren,23,https://www.njuskalo.hr/nekretnine/stan-prodaja-maksimir-23m2-oglas-40603820,1,
+625,129.000 €,45.815407236576,15.961875523728,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,2-sobni,,45,https://www.njuskalo.hr/nekretnine/pantovcak-350m-britanaca-2-sobni-45.33m2-balkon-bez-provizije-oglas-42249948,,
+626,95.000 €,45.801764940094,15.940624479229,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,Garsonijera,,28,https://www.njuskalo.hr/nekretnine/tresnjevka-novoadaptiran-zona-tramvaj-parking-bez-provizije-oglas-42250221,,
+627,105.000 €,45.812275040665,15.97537372533,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,1-sobni,2.,27,https://www.njuskalo.hr/nekretnine/strogi-centar-radiceva-200m-trga-b-jelacica-27m2-bez-provizije-oglas-42247357,,
+628,250.000 €,45.335434263029,14.432053371055,Rijeka,U stambenoj zgradi,Jednoetažni,4-sobni,2.,120,https://www.njuskalo.hr/nekretnine/potok-odlican-stan-investiciju-120m2-dva-balkona-oglas-40156673,1,
+629,650.000 €,45.333988153546,14.304018272887,Opatija,U stambenoj zgradi,Jednoetažni,4-sobni,3.,125,https://www.njuskalo.hr/nekretnine/opatija-3s-db-balkonom-pogledom-more-oglas-41387623,2,
+630,155.000 €,45.335069687647,14.305233970136,Opatija,U stambenoj zgradi,Jednoetažni,2-sobni,Visoko potkrovlje,52,https://www.njuskalo.hr/nekretnine/opatija-centar-stan-52-m2-adaptaciju-oglas-36500716,1,
+631,430.000 €,45.334648002456,14.303716609071,Opatija,U stambenoj zgradi,Jednoetažni,2-sobni,2.,56,https://www.njuskalo.hr/nekretnine/opatija-centar-stan-20-metara-plaze-oglas-36148230,1,1
+632,360.000 €,45.3376197,14.305196,Opatija,U stambenoj zgradi,Jednoetažni,5+ sobni,Prizemlje,131,https://www.njuskalo.hr/nekretnine/opatija-stan-131-m2-oglas-28597472,3,
+633,255.000 €,,,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,3-sobni,1.,115,https://www.njuskalo.hr/nekretnine/stan-prodaja-gornji-grad-medvescak-115m2-oglas-41729140,2,
+634,175.000 €,45.364277597939,14.431314700409,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,50,https://www.njuskalo.hr/nekretnine/donja-drenova-novogradnja-1s-db-oglas-40303960,1,
+635,695.000 €,45.333127637903,14.303634572498,Opatija,U stambenoj zgradi,Jednoetažni,3-sobni,,100,https://www.njuskalo.hr/nekretnine/opatija-centar-stan-100-m2-ekskluzivno-samo-nasoj-ponudi-oglas-37643311,1,
+636,99.000 €,45.321741706948,14.471716226396,Rijeka,U stambenoj zgradi,Jednoetažni,Garsonijera,Visoko prizemlje,22,https://www.njuskalo.hr/nekretnine/rijeka-donja-vezica-garsonijera-22m2-oglas-40990612,1,
+637,210.000 €,45.828813023325,15.980354748318,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,3-sobni,,67,https://www.njuskalo.hr/nekretnine/medvedgradska-67-m2-3-sob-3-kat-oglas-42136557,1,1
+638,850.000 €,45.824596457528,15.981029442933,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,5+ sobni,1.,156,https://www.njuskalo.hr/nekretnine/jurjevska-luksuzna-novogradnja-otvorenim-pogledom-oglas-39103197,2,1
+639,1.200.000 €,45.293941274742,14.271825831147,Lovran,U kući,Jednoetažni,5+ sobni,,524,https://www.njuskalo.hr/nekretnine/lovran-stari-grad-dio-kuce-pogledom-more-oglas-41066547,4,
+640,530.000 €,45.323416301323,14.461257613192,Rijeka,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,104,https://www.njuskalo.hr/nekretnine/krimeja-stan-luksuznoj-novogradnji-vrtom-oglas-41756182,2,
+641,230.000 €,45.353317595703,14.400077518326,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,1.,69,https://www.njuskalo.hr/nekretnine/hosti-stan-69-m2-balkonom-oglas-40507673,1,1
+642,476.719 €,45.328796654314,14.458004275902,Rijeka,U stambenoj zgradi,Jednoetažni,4-sobni,1.,120,https://www.njuskalo.hr/nekretnine/rijeka-trsat-luksuzna-novogradnja-3s-db-pogledom-more-prodaja-oglas-39565276,2,1
+643,190.000 €,45.808519809739,15.981181489871,Donji Grad,U stambenoj zgradi,Jednoetažni,3-sobni,1.,70,https://www.njuskalo.hr/nekretnine/centar-kod-frankopanske-mirno-parking-oglas-42236761,1,1
+644,429.000 €,45.852626549385,15.948318624554,Podsljeme,U stambenoj zgradi,Jednoetažni,5+ sobni,,183,https://www.njuskalo.hr/nekretnine/5-sobni-176-m2-terase-pogled-garaza-oglas-41402760,2,
+645,320.000 €,43.508022372863,16.444090407605,Split,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,60,https://www.njuskalo.hr/nekretnine/split-centar-novorenoviran-turizam-3-jedinice-stanovanje-oglas-39255193,3,
+646,190.000 €,43.734707538289,15.889249863119,Šibenik,U stambenoj zgradi,Jednoetažni,3-sobni,2.,66,https://www.njuskalo.hr/nekretnine/sibenik-povjesnoj-jezgri-stan-66.37-m2-2s-2-katu-oglas-41639028,1,1
+647,90.000 €,43.734566472377,15.891341061263,Šibenik,U stambenoj zgradi,Jednoetažni,1-sobni,1.,36,https://www.njuskalo.hr/nekretnine/sibenik-povjesna-jezgra-stan-36.60m2-1s-1-katu-oglas-41631709,1,
+648,250.000 €,45.799858630294,15.927208764979,Trešnjevka - Sjever,U stambenoj zgradi,Višeetažni,3-sobni,1.,56,https://www.njuskalo.hr/nekretnine/stan-zagreb-voltino-65.00-m2-novogradnja-4-kata-4-stana-oglas-37093615,1,1
+649,152.000 €,45.15140666925,14.624069631347,Dobrinj,U stambenoj zgradi,Jednoetažni,2-sobni,2.,45,https://www.njuskalo.hr/nekretnine/krk-klimno-apartman-45m2-1s-db-prizemlje-oglas-41791923,1,
+650,319.050 €,45.818596892079,16.029670553286,Maksimir,U stambenoj zgradi,Jednoetažni,3-sobni,1.,106,https://www.njuskalo.hr/nekretnine/stan-zagreb-ravnice-106.00-m2-oglas-42232445,1,
+651,469.260 €,45.818596892079,16.029670553286,Maksimir,U stambenoj zgradi,Dvoetažni,4-sobni,Visoko prizemlje,135,https://www.njuskalo.hr/nekretnine/stan-zagreb-ravnice-135.00-m2-oglas-42232398,2,
+652,250.000 €,45.810276738947,15.984206000624,Donji Grad,U stambenoj zgradi,Jednoetažni,3-sobni,1.,75,https://www.njuskalo.hr/nekretnine/stan-zagreb-donji-grad-75.00-m2-oglas-41284081,1,1
+653,294.330 €,45.81819879056994,16.028526616019086,Maksimir,U stambenoj zgradi,Jednoetažni,3-sobni,2.,98,https://www.njuskalo.hr/nekretnine/ravnice-3s-2-kat-98-m2-balkon-2-lode-oglas-42232477,1,
+654,277.000 €,45.850007211506,15.995898409246,Maksimir,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,76,https://www.njuskalo.hr/nekretnine/remete-3s-terasa-vrt-parkirno-mjesto-oglas-41690338,1,1
+655,319.000 €,45.801620916729,15.943889465494,Trešnjevka - Sjever,U stambenoj zgradi,Dvoetažni,5+ sobni,4.,197,https://www.njuskalo.hr/nekretnine/peterosoban-velika-terasa-loggia-dupla-garaza-oglas-41573608,3,1
+656,165.000 €,45.791740695527935,15.988071894694004,Novi Zagreb - Istok,U kući,Jednoetažni,2-sobni,Prizemlje,69,https://www.njuskalo.hr/nekretnine/stan-zagreb-bundek-69.00-m2-novogradnja-oglas-41450735,1,
+657,145.000 €,45.79685983042132,15.915586283308574,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,3.,41,https://www.njuskalo.hr/nekretnine/rudes-novogradnja-2soban-stan-vel-40-m2-balkon-oglas-41283932,1,
+658,365.000 €,45.806352279705,15.980422769954,Donji Grad,U stambenoj zgradi,Jednoetažni,4-sobni,2.,146,https://www.njuskalo.hr/nekretnine/stan-zagreb-donji-grad-146.00-m2-oglas-39517239,1,1
+659,290.000 €,45.324690622155,14.462589399589,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,1.,82,https://www.njuskalo.hr/nekretnine/krimeja-kompletno-adaptiran-2s-db-balkon-oglas-41624130,1,
+660,157.000 €,43.78447422307868,15.882509110325431,Šibenik - Okolica,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,73,https://www.njuskalo.hr/nekretnine/extra-top-ponuda-stan-blizina-sibenika-novogradnja-prizemlje-oglas-42164884,1,
+661,189.588,45.817886318013,16.179412979901,Sesvete,U stambenoj zgradi,Jednoetažni,3-sobni,3.,86,https://www.njuskalo.hr/nekretnine/stan-zagreb-sesvetski-kraljevec-86.57-m2-novogradnja-zgrada-s15-oglas-41757420,,
+662,75.000 €,45.31,18.4098,Đakovo,U kući,Jednoetažni,2-sobni,,118,https://www.njuskalo.hr/nekretnine/stan-poslovni-prostor-dakovackom-korzu-oglas-40738232,1,1
+663,197.000 €,,,Podsused - Vrapče,U stambenoj zgradi,Jednoetažni,2-sobni,1.,58,https://www.njuskalo.hr/nekretnine/stan-zagreb-gajnice-58-m2-novogradnja-oglas-41738191,1,
+664,154.000 €,,,Podsused - Vrapče,U stambenoj zgradi,Jednoetažni,2-sobni,5.,50,https://www.njuskalo.hr/nekretnine/stan-zagreb-gajnice-50-m2-oglas-41349789,1,
+665,135.000 €,45.389022905004,14.384229711922,Viškovo,U kući,Jednoetažni,2-sobni,Prizemlje,70,https://www.njuskalo.hr/nekretnine/viskovo-donji-sroki-stan-2s-70-m2-oglas-40990614,,
+666,175.000 €,,,Sesvete,U kući,Jednoetažni,3-sobni,1.,115,https://www.njuskalo.hr/nekretnine/stan-zagreb-sesvete-sopnica-115.49-m2-garaza-prodaja-oglas-41631779,,
+667,156.000 €,45.35888263679547,14.36869636411808,Rijeka,U stambenoj zgradi,Jednoetažni,1-sobni,Visoko prizemlje,61,https://www.njuskalo.hr/nekretnine/rijeka-srdoci-komforan-jednosoban-stan-61.50-m2-visoko-prizemlje-oglas-37209793,1,
+668,180.000 €,45.32190367189,14.462794962342,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,60,https://www.njuskalo.hr/nekretnine/krimeja-1s-db-60m2-oglas-40148729,1,
+669,138.000 €,45.363034592028,14.341936588315,Kastav,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,39,https://www.njuskalo.hr/nekretnine/kastav-rubesi-1s-db-terasa-parking-oglas-41791916,1,
+670,155.000 €,45.337645088563,14.432559851606,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,12.,57,https://www.njuskalo.hr/nekretnine/rastocine-2skl-57m2-oglas-41134579,1,
+671,157.000 €,45.36261139093,14.412507985341,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,58,https://www.njuskalo.hr/nekretnine/skurinje-2sb-db-58-m2-juzna-strana-oglas-40474561,1,
+672,193.000 €,45.815018,15.925398,Črnomerec,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,71,https://www.njuskalo.hr/nekretnine/predivan-3s-stan-ilici-kustosija-bez-ulaganja-novija-gradnja-oglas-41581031,1,1
+673,129.600 €,45.798386,15.901311,Stenjevec,U stambenoj zgradi,Jednoetažni,1-sobni,1.,41,https://www.njuskalo.hr/nekretnine/simpatican-stan-spanskom-nkp-41.9-m2-bez-provizije-oglas-41730601,1,
+674,169.000 €,45.322828870458,14.462544783848,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,17.,81,https://www.njuskalo.hr/nekretnine/rijeka-krimeja-2s-db-81m2-oglas-40990610,1,
+675,145.000 €,45.321612172514,14.452418200667,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,4.,90,https://www.njuskalo.hr/nekretnine/rijeka-brajda-104m2-oglas-40156671,1,
+676,204.042,45.821233987552574,16.177064065882064,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,2.,93,https://www.njuskalo.hr/nekretnine/stan-zagreb-sesvetski-kraljevec-93.17-m2-novogradnja-oglas-41980281,,
+677,205.275 €,43.760312695756,15.777545574725,Vodice,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,50,https://www.njuskalo.hr/nekretnine/vodice-400-m-mora-luksuzni-stan-prizemlje-vrt-s2-oglas-42085039,1,
+678,215.000 €,44.99077267149,14.910627707982,Senj,U kući,Jednoetažni,3-sobni,1.,85,https://www.njuskalo.hr/nekretnine/senj-etaza-kuce-3skl-zaseban-roh-bau-apartman-garaza-oglas-41624127,1,1
+679,147.000 €,45.151401800435,14.622372894895,Dobrinj,U stambenoj zgradi,Jednoetažni,2-sobni,1.,45,https://www.njuskalo.hr/nekretnine/krk-klimno-apartman-45m2-1s-db-prvi-kat-oglas-41791924,1,
+680,260.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,4-sobni,4.,103,https://www.njuskalo.hr/nekretnine/rijeka-centar-stan-3s-db-103-m2-oglas-40984352,,
+681,278.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,5+ sobni,4.,112,https://www.njuskalo.hr/nekretnine/centar-112m2-2-stana-58m2-54m2-oglas-40779785,2,
+682,115.000 €,45.304689638189,14.510448697226,Kostrena,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,29,https://www.njuskalo.hr/nekretnine/kostrena-manji-stan-parkingom-oglas-41272712,1,
+683,200.000 €,,,Pula,U stambenoj zgradi,Jednoetažni,2-sobni,1.,66,https://www.njuskalo.hr/nekretnine/istra-pula-monvidal-useljiv-stan-66.56m2-novogradnji-liftom-p-oglas-42071298,1,
+684,229.000 €,,,Pula,U stambenoj zgradi,Jednoetažni,4-sobni,1.,73,https://www.njuskalo.hr/nekretnine/istra-pula-centar-stan-73.54-m2-adaptaciju-samom-centru-grada-oglas-42071297,1,
+685,134.000 €,,,Pula,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,45,https://www.njuskalo.hr/nekretnine/pula-centar-stan-45.48m2-strogom-centru-grada-prodaja-oglas-42071296,1,
+686,85.000 €,45.391038332231,14.384887488155,Viškovo,U kući,Jednoetažni,1-sobni,Prizemlje,41,https://www.njuskalo.hr/nekretnine/viskovo-donji-sroki-stan-oglas-40984350,,
+687,154.000 €,45.404511790077,14.392104293054,Viškovo,U stambenoj zgradi,Jednoetažni,3-sobni,1.,62,https://www.njuskalo.hr/nekretnine/marcelji-2sb-db-62-m2-oglas-41272714,1,
+688,108.000 €,45.319719461864,14.454386955635,Rijeka,U stambenoj zgradi,Jednoetažni,1-sobni,Visoko potkrovlje,46,https://www.njuskalo.hr/nekretnine/brajda-visoko-potkrovlje-46m2-oglas-41272711,1,
+689,214.340 €,45.821057784808,15.920558172646,Črnomerec,U stambenoj zgradi,Jednoetažni,3-sobni,1.,76,https://www.njuskalo.hr/nekretnine/novogradnja-urbana-villa-kustosija-oglas-39056929,1,2
+690,140.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,4-sobni,Visoko prizemlje,76,https://www.njuskalo.hr/nekretnine/centar-3sb-db-76-m2-renovaciju-oglas-39809467,1,1
+691,365.000 €,45.82789,16.01061,Maksimir,U stambenoj zgradi,Jednoetažni,5+ sobni,4.,184,https://www.njuskalo.hr/nekretnine/penthouse-top-lokacija-oglas-42006998,3,1
+692,73.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,Garsonijera,2.,20,https://www.njuskalo.hr/nekretnine/rijeka-belveder-garsonijera-20m2-oglas-40436546,1,
+693,360.000 €,44.115773668345,15.225806206885,Zadar,U stambenoj zgradi,Jednoetažni,4-sobni,5.,72,https://www.njuskalo.hr/nekretnine/prodaja-stan-72-m2-top-lokacija-zadar-poluotok-oglas-40280993,1,
+694,312.000 €,45.7905526,15.9288237,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,3-sobni,1.,78,https://www.njuskalo.hr/nekretnine/prodaja-stan-garaza-78-m2-zagreb-jarun-oglas-41897142,1,
+695,649.000 €,45.8054772,16.0106085,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,4-sobni,1.,118,https://www.njuskalo.hr/nekretnine/prodaja-stan-novogradnja-112-m2-neto-zagreb-darwinova-oglas-42084837,2,
+696,225.000 €,45.814989533797,15.833217685943,Podsused - Vrapče,U stambenoj zgradi,Višeetažni,4-sobni,Visoko prizemlje,132,https://www.njuskalo.hr/nekretnine/stan-zagreb-podsused-132.00-m2-oglas-41722526,1,1
+697,329.000 €,,,Donji Grad,U stambenoj zgradi,Jednoetažni,4-sobni,3.,111,https://www.njuskalo.hr/nekretnine/zagreb-centar-vlaska-ulica-cetverosobni-stan-prodaja-oglas-41540812,1,1
+698,120.000 €,,,Gornji Grad - Medveščak,U stambenoj zgradi,Dvoetažni,3-sobni,1.,56,https://www.njuskalo.hr/nekretnine/zagreb-tkalciceva-2-sobni-dvoetazni-stan-adaptaciju-56.86-m2-pro-oglas-40420414,2,
+699,257.000 €,45.807716524437,15.96830156689,Donji Grad,U stambenoj zgradi,Jednoetažni,2-sobni,2.,64,https://www.njuskalo.hr/nekretnine/simpatican-dvosobni-gradanski-stan-centru-zagreba-prodaja-oglas-41356410,1,1
+700,85.000 €,,,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,2-sobni,1.,16,https://www.njuskalo.hr/nekretnine/mali-stancic-centru-zagreba-tkalciceva-prodaja-oglas-41147663,1,1
+701,101.124 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,Visoko prizemlje,38,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-44.62-m2-2sobni-pm-sprem-oglas-40160595,1,1
+702,120.624 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,1.,43,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-49.65-m2-2sobni-pm-sprem-oglas-40179657,1,1
+703,116.023 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,1.,40,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-47.17-m2-2sobni-pm-sprem-oglas-40179751,1,1
+704,114.162 €,45.75485698247888,15.926562651018896,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,Visoko prizemlje,43,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-49.55-m2-2sobni-pm-sprem-oglas-40160856,1,1
+705,93.000 €,45.817203965906,15.876452686348,Podsused - Vrapče,U stambenoj zgradi,Jednoetažni,Garsonijera,2.,30,https://www.njuskalo.hr/nekretnine/gajnice-garsonjera-30-m2-1-kat-lift-oglas-42084935,1,
+706,116.023 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,1.,40,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-47.17-m2-2sobni-pm-sprem-oglas-40179612,1,1
+707,969.000 €,43.510895,16.433428,Split,U stambenoj zgradi,Jednoetažni,5+ sobni,3.,151,https://www.njuskalo.hr/nekretnine/split-strogi-centar-komforni-gradanski-peterosobni-stan-151m2-oglas-42065803,1,1
+708,138.909 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,1.,48,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-56.34-m2-3sobni-pm-sprem-oglas-40179855,1,1
+709,229.000 €,45.76520184381,15.985061107833,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,2-sobni,1.,84,https://www.njuskalo.hr/nekretnine/zagreb-slobostina-funkcionalan-trosoban-stan-pogledom-park-84-oglas-41787220,2,1
+710,130.000 €,45.55897722,18.671054435,Osijek,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,72,https://www.njuskalo.hr/nekretnine/trosoban-komforan-stan-osijek-72.50-m2-visoko-prizemlje-oglas-41988355,1,
+711,95.000 €,45.81801047847763,15.87552309036255,Podsused - Vrapče,U stambenoj zgradi,Jednoetažni,Garsonijera,2.,30,https://www.njuskalo.hr/nekretnine/stan-zagreb-gajnice-30-m2-henrija-dunanta-3-kat-lift-loda-oglas-41354471,1,1
+712,345.000 €,45.81018114066,15.968091487885,Donji Grad,U stambenoj zgradi,Jednoetažni,5+ sobni,4.,147,https://www.njuskalo.hr/nekretnine/stan-zagreb-donji-grad-118m2-kod-hnk-predivan-pogled-grad-oglas-39914437,1,2
+713,90.000 €,45.8214200465622,16.05393290519714,Donja Dubrava,U kući,Jednoetažni,2-sobni,Visoko prizemlje,40,https://www.njuskalo.hr/nekretnine/stan-zagreb-donja-dubrava-40m2-jadarska-2sobni-oglas-39807627,1,1
+714,360.000 €,45.841315867324,15.936508082083,Črnomerec,U stambenoj zgradi,Dvoetažni,4-sobni,2.,125,https://www.njuskalo.hr/nekretnine/dvoetazni-stan-bijenik-125m2-2005-godina-parking-oglas-37019846,2,2
+715,214.000 €,45.859349120369,15.795361023734,Zaprešić,U stambenoj zgradi,Jednoetažni,4-sobni,3.,100,https://www.njuskalo.hr/nekretnine/penthouse-zapresic-100.00-m2-novogradnja-ivana-vencla-oglas-39842553,2,2
+716,114.240 €,45.859469333626706,15.794044033938906,Zaprešić,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,51,https://www.njuskalo.hr/nekretnine/stan-zapresic-56.00-m2-novogradnja-oglas-40631464,1,1
+717,199.000 €,45.126161924167,14.788917303085,Novi Vinodolski,U stambenoj zgradi,Jednoetažni,4-sobni,1.,147,https://www.njuskalo.hr/nekretnine/stan-obnovljenoj-vili-vinodolski-50m-mora-investicija-oglas-40097391,2,2
+718,177.232 €,43.4952180271223,16.55715727819326,Podstrana,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,55,https://www.njuskalo.hr/nekretnine/stan-oglas-40937926,1,
+719,212.322 €,43.493090491119695,16.55157018544657,Podstrana,U stambenoj zgradi,Jednoetažni,1-sobni,2.,66,https://www.njuskalo.hr/nekretnine/stan-oglas-40928812,1,
+720,324.984 €,43.48435471002677,16.538239062326394,Podstrana,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,108,https://www.njuskalo.hr/nekretnine/stan-oglas-40928607,2,1
+721,436.110 €,43.484762501827106,16.551319376905493,Podstrana,U stambenoj zgradi,Jednoetažni,3-sobni,2.,145,https://www.njuskalo.hr/nekretnine/stan-oglas-40928451,2,1
+722,235.042 €,43.48715524757088,16.544202188126132,Podstrana,U stambenoj zgradi,Jednoetažni,2-sobni,1.,75,https://www.njuskalo.hr/nekretnine/stan-oglas-40928317,1,
+723,252.360 €,43.48861828399058,16.551986904699678,Podstrana,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,84,https://www.njuskalo.hr/nekretnine/stan-podstrana-projekt-2-spavace-dobra-lokacija-oglas-40928234,1,
+724,503.387 €,44.15156916007984,15.202641913470552,Zadar,U stambenoj zgradi,Jednoetažni,3-sobni,2.,107,https://www.njuskalo.hr/nekretnine/stan-zadar-diklo-prekrasan-pogled-krovna-terasa-250m-mora-123m-oglas-40439290,2,
+725,393.337 €,44.16350694412883,15.197255401802568,Zadar,U stambenoj zgradi,Jednoetažni,2-sobni,2.,79,https://www.njuskalo.hr/nekretnine/stan-zadar-diklo-prekrasan-pogled-250m-mora-2s-krovna-terasa-oglas-40418361,1,
+726,250.000 €,44.84911303465,13.845406547512,Pula,U stambenoj zgradi,Jednoetažni,3-sobni,1.,93,https://www.njuskalo.hr/nekretnine/veruda-porat-prekrasan-prostrani-stan-mirnoj-lokaciji-93-m2-1-oglas-34109879,1,
+727,300.000 €,44.887924877717,13.871853924587,Pula,U stambenoj zgradi,Dvoetažni,3-sobni,,100,https://www.njuskalo.hr/nekretnine/sijana-pula-prekrasan-stan-100-m2-3s-db-2-terase-parking-oglas-34068729,2,
+728,379.000 €,45.791509761781114,15.951159037251479,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,4-sobni,1.,96,https://www.njuskalo.hr/nekretnine/stan-prodaja-zagreb-knezija-96m2-oglas-41757090,2,
+729,123.000 €,45.548142540466344,18.71927735653318,Osijek,U stambenoj zgradi,Jednoetažni,3-sobni,4.,81,https://www.njuskalo.hr/nekretnine/trosoban-stan-jug-ii-oglas-40352599,2,1
+730,549.350 €,43.582842372601,15.921406473298,Primošten,U stambenoj zgradi,Jednoetažni,4-sobni,1.,109,https://www.njuskalo.hr/nekretnine/primosten-penthouse-pogledom-oglas-42025816,2,2
+731,199.255 €,43.583520770994,15.91670068924,Primošten,U stambenoj zgradi,Jednoetažni,2-sobni,1.,56,https://www.njuskalo.hr/nekretnine/primosten-stan-prvom-katu-oglas-40625574,1,1
+732,2.200 €,45.561212293602,18.670706585354,Osijek,U stambenoj zgradi,Jednoetažni,2-sobni,1.,75,https://www.njuskalo.hr/nekretnine/dvosoban-stan-75.20m2-gornji-grad-oglas-40319620,2,
+733,755.000 €,43.585451310371,15.918224036242,Primošten,U stambenoj zgradi,Jednoetažni,4-sobni,Potkrovlje,184,https://www.njuskalo.hr/nekretnine/luksuzni-penthouse-primostenu-164.15-m2-oglas-40199075,2,1
+734,475.000 €,43.584097561111,15.915896376609,Primošten,U stambenoj zgradi,Jednoetažni,3-sobni,1.,124,https://www.njuskalo.hr/nekretnine/luksuzni-apartman-pogledom-more-primosten-oglas-39696781,2,2
+735,550.000 €,43.583355055123,15.918884631003,Primošten,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,203,https://www.njuskalo.hr/nekretnine/apartman-bazenom-pogledom-more-primostenu-oglas-39689331,2,2
+736,171.500 €,44.852394,13.8547,Pula,U kući,Jednoetažni,3-sobni,Prizemlje,49,https://www.njuskalo.hr/nekretnine/stanovi-57-60m2-oglas-41104678,1,
+737,75.000 €,45.56276707578898,18.69522478647596,Osijek,U stambenoj zgradi,Jednoetažni,3-sobni,5.,55,https://www.njuskalo.hr/nekretnine/dvosoban-stan-vij-mestrovica-oglas-40121569,1,
+738,1 €,45.561212293602,18.670706585354,Osijek,U stambenoj zgradi,Jednoetažni,3-sobni,2.,77,https://www.njuskalo.hr/nekretnine/trosoban-stan-1-kat-novogradnja-gornji-grad-oglas-38521957,1,
+739,214.920 €,45.549493489811,18.708239292069923,Osijek,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,108,https://www.njuskalo.hr/nekretnine/prodaja-luksuznog-stana-prizemlje-oglas-42112363,2,2
+740,1 €,45.561212293602,18.670706585354,Osijek,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,56,https://www.njuskalo.hr/nekretnine/dvosoban-stan-2-kat-novogradnja-gornji-grad-oglas-38522005,1,
+741,160.000 €,45.560670966801,18.647370292382,Osijek,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,74,https://www.njuskalo.hr/nekretnine/trosoban-stan-dvoriste-novogradnja-retfala-oglas-42151246,1,
+742,82.000 €,45.56279072636814,18.648294625727907,Osijek,U stambenoj zgradi,Jednoetažni,1-sobni,3.,37,https://www.njuskalo.hr/nekretnine/jednosoban-stan-retfala-oglas-42269612,1,
+743,260.000 €,44.309026662254695,15.062278075003361,Vir,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,81,https://www.njuskalo.hr/nekretnine/zadar-vir-81m2-vrt-40m2-top-lokacija-oglas-40928461,1,
+744,300.000 €,44.30529445543439,15.104004502824608,Vir,U stambenoj zgradi,Jednoetažni,3-sobni,2.,91,https://www.njuskalo.hr/nekretnine/zadar-vir-91m2-k-terasa-top-lokacija-oglas-40928745,1,
+745,170.000 €,45.79640810326,15.982247059495,Trnje,U stambenoj zgradi,Jednoetažni,2-sobni,6.,62,https://www.njuskalo.hr/nekretnine/trnje-naljeskoviceva-ulica-dvosobni-stan-62.00-m2-oglas-41606010,,
+746,285.000 €,44.31689250643964,15.071735586243676,Vir,U stambenoj zgradi,Jednoetažni,3-sobni,1.,91,https://www.njuskalo.hr/nekretnine/zadar-vir-91m2-krovna-terasa-top-lokacija-oglas-40928654,1,
+747,550.000 €,45.818557504332,16.033606153365,Maksimir,U kući,Dvoetažni,5+ sobni,1.,190,https://www.njuskalo.hr/nekretnine/dvoetazni-stan-1-kat-89m-potkrovlje-88m-spremiste-27m-dvoriste-oglas-41565756,,
+748,155.000 €,44.856447056571,13.81354018821,Pula,U stambenoj zgradi,Jednoetažni,2-sobni,1.,70,https://www.njuskalo.hr/nekretnine/stoja-prostran-stan-austrougarskoj-zgradi-oglas-39869646,1,
+749,139.500 €,45.775192,15.988569,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,2-sobni,11.,37,https://www.njuskalo.hr/nekretnine/stan-oglas-42212977,1,
+750,210.000 €,45.789707,15.935393,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,3-sobni,5.,60,https://www.njuskalo.hr/nekretnine/stan-zagreb-srednjaci-3-sobni-60.08m2-5-kat-dizalo-novoureden-oglas-42086941,1,
+751,108.000 €,45.812091538973,15.97926928328,Donji Grad,U stambenoj zgradi,Jednoetažni,3-sobni,Potkrovlje,65,https://www.njuskalo.hr/nekretnine/stan-zagreb-centar-palmoticeva-ulica-65m2-3-sobni-prodaja-oglas-41269137,1,
+752,475.000 €,45.844682531471,15.945995408583,Podsljeme,U stambenoj zgradi,Dvoetažni,5+ sobni,1.,330,https://www.njuskalo.hr/nekretnine/dvoetazan-sedmerosoban-stan-vrtom-garazama-oglas-39469038,3,1
+753,455.000 €,44.85753521602386,13.814812616103762,Pula,U kući,Jednoetažni,4-sobni,Prizemlje,92,https://www.njuskalo.hr/nekretnine/stoja-luksuzni-stan-dvoristem-250-m-mora-call-385993242295-oglas-41395657,1,1
+754,355.000 €,45.818895737644,15.788248339315,Sveta Nedelja,U stambenoj zgradi,Višeetažni,5+ sobni,1.,212,https://www.njuskalo.hr/nekretnine/peterosoban-stan-vrtom-garaznim-2-vanjska-parkirna-mjesta-oglas-40198479,3,1
+755,300.000 €,45.816937900745,15.838088950782,Podsused - Vrapče,U stambenoj zgradi,Jednoetažni,4-sobni,Visoko prizemlje,155,https://www.njuskalo.hr/nekretnine/cetverosoban-stan-terasom-vrtom-2-parkirna-mjesta-oglas-39181575,1,1
+756,240.000 €,45.56132368879,18.674945744387,Osijek,U kući,Višeetažni,5+ sobni,1.,371,https://www.njuskalo.hr/nekretnine/stan-osijek-cca-300.00-m2-novogradnja-oglas-42053442,4,2
+757,125.000 €,45.794609957957,15.900218117317,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,2-sobni,7.,40,https://www.njuskalo.hr/nekretnine/investicijski-stan-40-m2-loggiom-oglas-40101010,1,
+758,116.023 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,2.,40,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-47.08-m2-2sobni-pm-sprem-oglas-40180389,1,1
+759,297.000 €,45.80899009549,15.978485067975,Donji Grad,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,115,https://www.njuskalo.hr/nekretnine/cetverosoban-stan-115-m2-terasom-oglas-39469034,2,
+760,118.470 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,3.,43,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-49.58-m2-2sobni-pm-sprem-oglas-40185072,1,1
+761,116.023 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,3.,40,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-47.28-m2-2sobni-pm-sprem-oglas-40185134,1,1
+762,499.900 €,45.807740704708,15.97986494783,Donji Grad,U stambenoj zgradi,Dvoetažni,5+ sobni,3.,137,https://www.njuskalo.hr/nekretnine/dvoetazni-stan-3-apartmana-dalmatinska-ulica-oglas-40958474,,
+763,259.000 €,45.808811512908,15.981582106414,Donji Grad,U stambenoj zgradi,Dvoetažni,3-sobni,4.,122,https://www.njuskalo.hr/nekretnine/novoureden-dvoetazni-stan-122-m2-oglas-38787941,2,
+764,175.000 €,45.802866932102,15.924856136231,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,3.,58,https://www.njuskalo.hr/nekretnine/stan-zagreb-voltino-58.60-m2-oglas-42144711,1,1
+765,138.909 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,1.,48,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-56.34-m2-3sobni-pm-sprem-oglas-40179585,1,1
+766,116.023 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,3.,40,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-47.28-m2-2sobni-pm-sprem-oglas-40185041,1,1
+767,440.000 €,45.830227,15.969402,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,5+ sobni,2.,146,https://www.njuskalo.hr/nekretnine/penthouse-sestine-133.15-m2-oglas-41465679,2,
+768,228.000 €,45.841407608795,15.921941964393,Črnomerec,U stambenoj zgradi,Dvoetažni,5+ sobni,1.,147,https://www.njuskalo.hr/nekretnine/stan-zagreb-mikulici-147.00-m2-oglas-42263049,,
+769,440.000 €,45.85249,15.95269,Podsljeme,U stambenoj zgradi,Jednoetažni,5+ sobni,2.,146,https://www.njuskalo.hr/nekretnine/penthouse-sestine-133.15-m2-oglas-41425365,2,
+770,248.000 €,45.181130792036,14.70547147775,Crikvenica,U stambenoj zgradi,Jednoetažni,4-sobni,1.,70,https://www.njuskalo.hr/nekretnine/crikvenica-70-m2-vrhunska-novogradnja-pogleda-more-oglas-39699555,1,2
+771,248.000 €,45.181130792036,14.70547147775,Crikvenica,U stambenoj zgradi,Jednoetažni,2-sobni,1.,70,https://www.njuskalo.hr/nekretnine/crikvenica-70-m2-vrhunska-novogradnja-pogleda-more-oglas-39699524,1,1
+772,155.000 €,45.78743796792157,15.948151906058216,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,Garsonijera,1.,34,https://www.njuskalo.hr/nekretnine/garsonijera-knezija-35-m2-prodaja-oglas-40105205,1,
+773,120.000 €,45.807781914675,15.903086442553,Stenjevec,U stambenoj zgradi,Jednoetažni,2-sobni,3.,35,https://www.njuskalo.hr/nekretnine/2-soban-stan-stenjevec-malesnica-prodaja-oglas-40154118,1,
+774,145.000 €,,,Pula,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,50,https://www.njuskalo.hr/nekretnine/video-valdebek-prekrasan-stan-prizemlju-terasom-parking-oglas-42043082,1,1
+775,133.000 €,44.873978917274,13.849961092923,Pula,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,45,https://www.njuskalo.hr/nekretnine/pula-renoviran-stan-blizini-arene-prizemlje-150m-mo-oglas-42013356,1,1
+776,354.000 €,44.872495116842,13.847963292485,Pula,U stambenoj zgradi,Jednoetažni,5+ sobni,1.,123,https://www.njuskalo.hr/nekretnine/uhodani-biznis-puli-stan-centru-4-apartmana-oglas-42153709,4,4
+777,250.000 €,45.333333,14.466667,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,1.,100,https://www.njuskalo.hr/nekretnine/stan-etaza-kuce-rijeka-trsat-70-m2-oglas-28597842,1,
+778,507.000 €,45.074425654383,13.673168389837,Rovinj,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,67,https://www.njuskalo.hr/nekretnine/rovinj-predivan-stan-pogledom-more-oglas-42200981,2,2
+779,195.000 €,45.378458039122,14.354722406032,Kastav,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,71,https://www.njuskalo.hr/nekretnine/kastav-novogradnja-71-m2-garaza-okucnica-oglas-42071326,1,
+780,165.000 €,45.379883183345,14.353647350634,Kastav,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,53,https://www.njuskalo.hr/nekretnine/kastav-novogradnja-53-m2-garaza-okucnica-oglas-42071325,1,
+781,315.000 €,45.377931533351,14.355677554456,Kastav,U stambenoj zgradi,Jednoetažni,4-sobni,1.,129,https://www.njuskalo.hr/nekretnine/kastav-novogradnja-129-m2-garaza-okucnica-oglas-42071324,2,
+782,237.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,4-sobni,,143,https://www.njuskalo.hr/nekretnine/centar-143.21m2-4skl-oglas-28596596,,
+783,250.000 €,45.3376197,14.305196,Opatija,U kući,Jednoetažni,2-sobni,Visoko potkrovlje,100,https://www.njuskalo.hr/nekretnine/opatija-100m2-1s-db-oglas-28596114,1,
+784,450.000 €,43.508333893464396,16.439770083483353,Split,U stambenoj zgradi,Dvoetažni,3-sobni,3.,130,https://www.njuskalo.hr/nekretnine/top-lokacija-pjaca-narodni-trg-citaj-tekst-oglas-42041340,2,
+785,420.000 €,43.503128266346,16.484730968299,Split,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,79,https://www.njuskalo.hr/nekretnine/znjan-novogradnja-useljenje-lipanj-2023-citaj-opis-oglas-39544140,1,
+786,155.000 €,43.508428145097,16.438617483938,Split,U stambenoj zgradi,Jednoetažni,Garsonijera,Visoko prizemlje,17,https://www.njuskalo.hr/nekretnine/centar-manus-adaptiran-apartman-dobra-lokacija-citaj-opis-oglas-42055425,1,
+787,690.000 €,43.520711016927,16.252413472917,Trogir,U stambenoj zgradi,Jednoetažni,3-sobni,4.,123,https://www.njuskalo.hr/nekretnine/seget-donji-lux-penthouse-panoramski-pogled-video-citaj-opis-oglas-40751889,2,
+788,259.000 €,43.493973058338156,16.258790201493923,Okrug,U stambenoj zgradi,Jednoetažni,2-sobni,2.,73,https://www.njuskalo.hr/nekretnine/okrug-gornji-moderan-stan-pogled-more-60m-plaze-citaj-opis-oglas-40737623,1,1
+789,690.000 €,43.520768184773,16.214984617913,Seget,U stambenoj zgradi,Jednoetažni,3-sobni,4.,123,https://www.njuskalo.hr/nekretnine/seget-donji-lux-penthouse-panoramski-pogled-video-citaj-opis-oglas-40751860,2,
+790,210.000 €,44.88097016992,13.851050800942,Pula,U stambenoj zgradi,Jednoetažni,3-sobni,2.,91,https://www.njuskalo.hr/nekretnine/moderan-stan-blizini-arene-91m2-oglas-42111231,1,1
+791,320.000 €,45.80642052312,15.980242395904,Donji Grad,U stambenoj zgradi,Dvoetažni,3-sobni,Prizemlje,62,https://www.njuskalo.hr/nekretnine/buzanova-maksimir-trosobni-stan-61m2-povoljno-prodajem-oglas-40253199,2,2
+792,199.000 €,43.51392129979095,16.463063938590523,Split,U stambenoj zgradi,Jednoetažni,2-sobni,7.,58,https://www.njuskalo.hr/nekretnine/sucidar-velebitsku-2s-stan-adaptaciju-citaj-opis-video-oglas-42094737,1,
+793,450.000 €,43.504204,16.463032,Split,U stambenoj zgradi,Jednoetažni,3-sobni,1.,107,https://www.njuskalo.hr/nekretnine/trstenik-moderan-stan-adaptiran-opremljen-video-citaj-opis-oglas-38589646,1,
+794,207.500 €,,,Pula,U stambenoj zgradi,Jednoetažni,4-sobni,4.,80,https://www.njuskalo.hr/nekretnine/pula-sijana-80-m2-3ss-terasa-panoramskim-pogledom-oglas-38557584,2,2
+795,211.075 €,43.759492468151,15.776781099969,Vodice,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,85,https://www.njuskalo.hr/nekretnine/vodice-dvosoban-stan-prizemlju-zgrade-oglas-41616110,1,
+796,211.380 €,43.760951486211,15.777711032562,Vodice,U stambenoj zgradi,Jednoetažni,3-sobni,2.,70,https://www.njuskalo.hr/nekretnine/vodice-dvosoban-stan-drugom-katu-oglas-41616109,1,
+797,211.380 €,43.76064950553,15.777265887738,Vodice,U stambenoj zgradi,Jednoetažni,3-sobni,2.,71,https://www.njuskalo.hr/nekretnine/vodice-stan-blizini-centra-oglas-41616108,1,
+798,299.432 €,43.7611122,15.7787599,Vodice,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,111,https://www.njuskalo.hr/nekretnine/vodice-stan-prizemlju-blizini-centra-s2-oglas-37790280,2,
+799,273.146 €,43.763083822048,15.777100017672,Vodice,U stambenoj zgradi,Jednoetažni,3-sobni,,101,https://www.njuskalo.hr/nekretnine/vodice-stan-prvom-katu-blizini-centra-s4-oglas-37790278,2,
+800,190.000 €,44.874173349698,13.858384951182,Pula,U stambenoj zgradi,Jednoetažni,3-sobni,3.,79,https://www.njuskalo.hr/nekretnine/monvidal-stan-79m2-renovaciju-3-kat-loda-oglas-42229774,1,2
+801,280.000 €,,,Pula,U stambenoj zgradi,Jednoetažni,4-sobni,2.,126,https://www.njuskalo.hr/nekretnine/prekrasni-moderni-penthouse-3-ss-velika-terasa-oglas-42258934,2,
+802,249.000 €,44.824736222435,13.93655508964,Medulin,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,82,https://www.njuskalo.hr/nekretnine/video-medulin-stan-5-min-mora-prostranim-vrtom-oglas-41639471,1,1
+803,46.805 €,46.306882087466,16.343058010421,Varaždin,U kući,Jednoetažni,2-sobni,Prizemlje,42,https://www.njuskalo.hr/nekretnine/varazdin-blizina-korza-stan-42.55-m2-oglas-42238338,1,
+804,80.000 €,46.307286352340014,16.343045158807655,Varaždin,U stambenoj zgradi,Jednoetažni,1-sobni,1.,36,https://www.njuskalo.hr/nekretnine/varazdin-jednosobni-stan-36.50-m2-oglas-42147068,1,
+805,103.000 €,46.30705253563785,16.337293146192298,Varaždin,U stambenoj zgradi,Jednoetažni,2-sobni,Potkrovlje,56,https://www.njuskalo.hr/nekretnine/varazdin-centar-blizina-ii-osnovne-skole-dvosobni-stan-56-m2-oglas-42105905,1,
+806,110.000 €,46.30408285762577,16.347549626461596,Varaždin,U stambenoj zgradi,Dvoetažni,2-sobni,Prizemlje,48,https://www.njuskalo.hr/nekretnine/varazdin-dvosobni-stan-48.80-m2-oglas-41891919,1,
+807,115.000 €,46.29959567303065,16.34713236344133,Varaždin,U stambenoj zgradi,Jednoetažni,3-sobni,2.,58,https://www.njuskalo.hr/nekretnine/varazdin-v-novaka-trosobni-stan-58.60-m2-oglas-41872073,1,
+808,175.000 €,46.309338303155045,16.34028424444432,Varaždin,U stambenoj zgradi,Dvoetažni,4-sobni,2.,96,https://www.njuskalo.hr/nekretnine/varazdin-centar-cetverosobni-stan-96.00-m2-oglas-41481335,2,
+809,216.675,46.302052737547,16.337239734444,Varaždin,U stambenoj zgradi,Jednoetažni,3-sobni,,72,https://www.njuskalo.hr/nekretnine/stanovi-varazdin-novogradnja-60.55-180.19-m2-oglas-39462021,1,
+810,128.125 €,46.310252544629,16.340078793058,Varaždin,U stambenoj zgradi,Jednoetažni,3-sobni,1.,70,https://www.njuskalo.hr/nekretnine/stan-varazdin-70.00-m2-oglas-36556669,,
+811,610.000 €,43.760863895517,15.777005287773,Vodice,U stambenoj zgradi,Jednoetažni,4-sobni,2.,138,https://www.njuskalo.hr/nekretnine/vodice-stan-blizini-plaze-s11-oglas-40296931,2,1
+812,308.680 €,43.759904418382,15.776258400684,Vodice,U stambenoj zgradi,Jednoetažni,3-sobni,1.,78,https://www.njuskalo.hr/nekretnine/vodice-stan-blizini-plaze-s6-oglas-40273309,1,
+813,510.000 €,43.760639505963,15.775596473084,Vodice,U stambenoj zgradi,Jednoetažni,4-sobni,2.,116,https://www.njuskalo.hr/nekretnine/vodice-stan-blizini-plaze-s10-oglas-40296932,2,
+814,480.000 €,43.761771034184,15.777695143992,Vodice,U stambenoj zgradi,Jednoetažni,4-sobni,1.,138,https://www.njuskalo.hr/nekretnine/vodice-stan-blizini-plaze-s8-oglas-40289081,2,1
+815,540.000 €,43.760790704517,15.777685211785,Vodice,U stambenoj zgradi,Jednoetažni,4-sobni,2.,122,https://www.njuskalo.hr/nekretnine/vodice-stan-blizini-plaze-s9-oglas-40289080,2,1
+816,322.600 €,43.760132829785,15.776817995671,Vodice,U stambenoj zgradi,Jednoetažni,3-sobni,1.,81,https://www.njuskalo.hr/nekretnine/vodice-stan-blizini-plaze-s7-oglas-40273308,1,
+817,275.000 €,44.872622214617,13.846191395139,Pula,U kući,Jednoetažni,3-sobni,,134,https://www.njuskalo.hr/nekretnine/pula-134.00-m2-blizna-centra-3s-db-terasa-400m2-dvorista-oglas-39895716,,
+818,125.000 €,44.86776681564037,13.846638487089779,Pula,U stambenoj zgradi,Jednoetažni,1-sobni,2.,38,https://www.njuskalo.hr/nekretnine/stan-pula-38.00-m2-oglas-40692392,1,
+819,240.000 €,44.85786647985593,13.810792483072703,Pula,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,74,https://www.njuskalo.hr/nekretnine/stoja-74.00-m2-oglas-41235640,1,
+820,150.000 €,44.859152521567,13.81422720143,Pula,U stambenoj zgradi,Jednoetažni,2-sobni,1.,68,https://www.njuskalo.hr/nekretnine/stan-pula-68.00-m2-oglas-40424376,1,
+821,250.000 €,44.87532747600302,13.849926223020459,Pula,U stambenoj zgradi,Jednoetažni,2-sobni,2.,50,https://www.njuskalo.hr/nekretnine/luksuzno-opremljen-stan-centru-pula-oglas-40699213,1,
+822,245.000 €,43.51693318654146,16.455591182838933,Split,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,63,https://www.njuskalo.hr/nekretnine/stan-split-plokite-63.00-m2-ponudi-dobar-stan-oglas-42213021,1,
+823,218.000 €,43.51804355209517,16.46321498907946,Split,U stambenoj zgradi,Jednoetažni,3-sobni,1.,74,https://www.njuskalo.hr/nekretnine/stan-split-sucidar-74.00-m2-jako-dobar-stan-oglas-42195742,1,
+824,195.000 €,44.88291238209711,13.874087269423622,Pula,U stambenoj zgradi,Jednoetažni,3-sobni,,80,https://www.njuskalo.hr/nekretnine/sijana-stan-cistim-vlasnickim-listom-spreman-kredit-oglas-40727138,2,
+825,105.000 €,45.13066159071,14.786511591554,Novi Vinodolski,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,43,https://www.njuskalo.hr/nekretnine/simpaticni-stan-novom-vinodolu-oglas-38326173,1,1
+826,360.000 €,45.235500560043,14.253089158458,Mošćenička Draga,U stambenoj zgradi,Jednoetažni,3-sobni,Suteren,110,https://www.njuskalo.hr/nekretnine/moscenicka-draga-prekrasan-2s-db-kucica-odmor-oglas-41911436,3,
+827,160.000 €,45.826671781892,16.044766161714,Donja Dubrava,U stambenoj zgradi,Jednoetažni,2-sobni,11.,62,https://www.njuskalo.hr/nekretnine/super-lokacija-zagreb-dubrava-2.5-62.00-m2-poseban-pogled-oglas-41611179,1,1
+828,182.000 €,45.359709318758,14.307569097977,Matulji,U stambenoj zgradi,Jednoetažni,3-sobni,Potkrovlje,63,https://www.njuskalo.hr/nekretnine/mihotici-stan-pogledom-more-oglas-41586819,,
+829,280.000 €,45.82831218785199,15.979613984634993,Gornji Grad - Medveščak,U stambenoj zgradi,Dvoetažni,5+ sobni,2.,156,https://www.njuskalo.hr/nekretnine/stan-zagreb-medvescak-156.00-m2-novogradnja-oglas-41297948,2,
+830,2.600 €,45.819292450117,16.096044871209,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,96,https://www.njuskalo.hr/nekretnine/stan-zagreb-sopnica-96.00-m2-novogradnja-dovrsenje-06-2024-oglas-40961362,1,2
+831,280.000 €,45.1291836281,14.528937406431,Malinska-Dubašnica,U stambenoj zgradi,Jednoetažni,5+ sobni,2.,110,https://www.njuskalo.hr/nekretnine/dvoetazni-stan-otok-krk-600m-mora-oglas-38455320,1,2
+832,420.000 €,45.291338249761,14.275818304632,Lovran,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,120,https://www.njuskalo.hr/nekretnine/lovran-stan-bazenom-novogradnji-oglas-35345257,2,1
+833,320.000 €,45.02751511537,14.576438562088,Krk,U stambenoj zgradi,Jednoetažni,4-sobni,2.,89,https://www.njuskalo.hr/nekretnine/dvoetazi-stan-krk-oglas-38365814,2,2
+834,470.000 €,45.373137699879,14.348603844239,Kastav,U stambenoj zgradi,Jednoetažni,5+ sobni,2.,296,https://www.njuskalo.hr/nekretnine/kastav-prekrasan-dvoetazni-stan-oglas-41541644,,
+835,130.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,31,https://www.njuskalo.hr/nekretnine/stan-trazenoj-lokaciji-pogledom-more-parking-vrt-oglas-41942962,1,1
+836,205.000 €,45.341897616306,14.388782116346,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,13.,69,https://www.njuskalo.hr/nekretnine/zamet-dvosobni-stan-prekrasnim-pogledom-more-oglas-41942963,1,
+837,171.000 €,45.354406091761,14.312683224038,Opatija - Okolica,U stambenoj zgradi,Jednoetažni,3-sobni,Potkrovlje,88,https://www.njuskalo.hr/nekretnine/opatija-pobri-stan-2s-db-88-m2-oglas-34671389,1,1
+838,290.000 €,45.313510900966,14.284715509067,Opatija - Okolica,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,78,https://www.njuskalo.hr/nekretnine/icici-drugi-red-mora-stan-prizemlju-oglas-33032294,2,
+839,173.124 €,46.306185512717,16.34214791466,Varaždin,U stambenoj zgradi,Jednoetažni,2-sobni,2.,61,https://www.njuskalo.hr/nekretnine/varazdin-novogradnja-2-sobni-61.83-m2-a-energetski-razred-prodaja-oglas-42210944,1,
+840,107.294 €,46.31421884198,16.328397533895,Varaždin,U stambenoj zgradi,Jednoetažni,2-sobni,1.,48,https://www.njuskalo.hr/nekretnine/varazdin-2-sobni-stan-48.77-m2-temeljito-renoviran-oglas-42205440,1,
+841,151.368 €,46.309111667418,16.337405198105,Varaždin,U stambenoj zgradi,Jednoetažni,2-sobni,1.,54,https://www.njuskalo.hr/nekretnine/varazdin-novogradnja-2-sobni-54.06-m2-a-energetski-razred-prodaja-oglas-42205356,1,
+842,161.504 €,46.309111667418,16.337405198105,Varaždin,U stambenoj zgradi,Jednoetažni,2-sobni,1.,57,https://www.njuskalo.hr/nekretnine/varazdin-novogradnja-2-sobni-57.68-m2-a-energetski-razred-prodaja-oglas-42205129,1,
+843,215.000 €,46.3091067837801,16.34307877838993,Varaždin,U stambenoj zgradi,Jednoetažni,4-sobni,1.,115,https://www.njuskalo.hr/nekretnine/varazdin-5-sobni-stan-100-m2-novija-gradnja-2021-2-parkinga-oglas-42175107,2,
+844,115.128 €,46.305827140508,16.339443048468,Varaždin,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,95,https://www.njuskalo.hr/nekretnine/varazdin-3-soban-stan-95.94-m2-blizina-centra-naslovna-oglas-41982361,2,
+845,115.000 €,46.305827140508,16.339443048468,Varaždin,U stambenoj zgradi,Jednoetažni,2-sobni,,90,https://www.njuskalo.hr/nekretnine/varazdin-2-sobni-stan-90.63-m2-blizini-centra-oglas-41982213,1,
+846,2.400 €,46.30902753919619,16.343140134029287,Varaždin,U stambenoj zgradi,Višeetažni,3-sobni,1.,226,https://www.njuskalo.hr/nekretnine/varazdin-ekskluzivno-stan-145.65-m2-0-provizije-kupca-oglas-41530332,1,2
+847,404.160 €,46.309327039374,16.337605283785,Varaždin,U stambenoj zgradi,Jednoetažni,4-sobni,4.,126,https://www.njuskalo.hr/nekretnine/varazdin-4-sobni-stan-119.80-m2-visokokvalitetnoj-novoradnji-oglas-38674667,2,
+848,231.845 €,46.298910053597,16.337849062583,Varaždin,U stambenoj zgradi,Jednoetažni,3-sobni,2.,76,https://www.njuskalo.hr/nekretnine/stan-varazdin-70.00-m2-novogradnja-oglas-38537326,1,
+849,198.000 €,45.76933648886,15.917877947455,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,1.,61,https://www.njuskalo.hr/nekretnine/stan-zagreb-blato-60.00-m2-novogradnja-oglas-39512955,1,1
+850,374.000 €,45.336270726305,14.304174619708,Opatija,U stambenoj zgradi,Jednoetažni,5+ sobni,Prizemlje,98,https://www.njuskalo.hr/nekretnine/stan-opatiji-135-m2-odlican-iznajmljivanje-oglas-35221205,4,1
+851,729.000 €,45.3363314797,14.307586539813,Opatija,U stambenoj zgradi,Jednoetažni,4-sobni,2.,111,https://www.njuskalo.hr/nekretnine/opatija-centar-3s-db-stan-dvije-garaze-rijetkost-trzistu-oglas-34962843,,
+852,230.000 €,45.204184287877,14.66914786524,Crikvenica,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,99,https://www.njuskalo.hr/nekretnine/dramalj-trosoban-stan-dnevnim-boravkom-ogromnom-terasom-garazom-oglas-40604290,,
+853,400.000 €,45.179692696919,14.703337030068,Crikvenica,U stambenoj zgradi,Jednoetažni,2-sobni,3.,160,https://www.njuskalo.hr/nekretnine/crikvenica-cetiri-apartmana-bazenom-oglas-38757387,4,4
+854,228.696 €,46.307557563045,16.343429020115,Varaždin,U stambenoj zgradi,Jednoetažni,3-sobni,5.,82,https://www.njuskalo.hr/nekretnine/varazdin-centar-3-sobni-stan-84-m2-novogradnja-pretprodaja-oglas-36676680,1,1
+855,182.520 €,46.310254446374,16.340329892247,Varaždin,U stambenoj zgradi,Jednoetažni,3-sobni,1.,81,https://www.njuskalo.hr/nekretnine/varazdin-3-sobni-stan-81.50-m2-blizina-bolnice-a-en-certifikat-oglas-41426944,1,
+856,200.000 €,46.306207878636,16.338288119802,Varaždin,U stambenoj zgradi,Jednoetažni,5+ sobni,1.,180,https://www.njuskalo.hr/nekretnine/varazdin-gradska-jezgra-5-sobni-stan-180-m2-pogodan-ured-oglas-38901922,1,1
+857,2.300 €,46.310254446374,16.340329892247,Varaždin,U stambenoj zgradi,Višeetažni,5+ sobni,1.,255,https://www.njuskalo.hr/nekretnine/varazdin-centar-ekskluzivna-novogradnja-253.70-m2-5-sobni-stan-oglas-34382974,2,2
+858,126.000 €,45.79974061525874,16.01824566553833,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,1-sobni,4.,38,https://www.njuskalo.hr/nekretnine/stan-zagreb-ferenscica-38.00-m2-novogradnja-oglas-42270768,1,
+859,170.000 €,44.302696735835,15.079297697743,Vir,U stambenoj zgradi,Jednoetažni,3-sobni,1.,92,https://www.njuskalo.hr/nekretnine/vir-dalmacija-apartman-e6-92.85m-200m-mora-oglas-39141429,1,
+860,175.000 €,44.305163471996,15.077370635402,Vir,U stambenoj zgradi,Jednoetažni,3-sobni,1.,90,https://www.njuskalo.hr/nekretnine/vir-dalmacija-apartman-e4-90m-200m-mora-oglas-39141434,1,
+861,220.000 €,45.831772885653,16.002579458033,Maksimir,U stambenoj zgradi,Jednoetažni,2-sobni,1.,70,https://www.njuskalo.hr/nekretnine/maksimir-70m2-bukovacka-cesta-oglas-39372914,1,1
+862,175.308 €,45.8103,16.052696,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,3-sobni,2.,69,https://www.njuskalo.hr/nekretnine/stan-zagreb-vukomerec-62.61-m2-novogradnja-oglas-41239770,,
+863,169.737 €,45.810368,16.048918,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,3-sobni,2.,63,https://www.njuskalo.hr/nekretnine/stan-zagreb-vukomerec-63.37-m2-novogradnja-oglas-41759131,,
+864,351.000 €,45.8103,16.052696,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,5+ sobni,3.,197,https://www.njuskalo.hr/nekretnine/stan-zagreb-vukomerec-126.53-m2-novogradnja-oglas-41239824,2,1
+865,175.308 €,45.8103,16.052696,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,3-sobni,1.,69,https://www.njuskalo.hr/nekretnine/stan-zagreb-vukomerec-62.61-m2-novogradnja-oglas-41239708,,
+866,201.879 €,45.8103,16.052696,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,4-sobni,2.,82,https://www.njuskalo.hr/nekretnine/stan-zagreb-vukomerec-74.77-m2-novogradnja-oglas-41239787,,
+867,171.390 €,45.8103,16.052696,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,3-sobni,3.,69,https://www.njuskalo.hr/nekretnine/stan-zagreb-vukomerec-57.13-m2-novogradnja-oglas-39607012,,
+868,170.259 €,45.810368,16.048918,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,3-sobni,1.,65,https://www.njuskalo.hr/nekretnine/stan-zagreb-vukomerec-65.15-m2-novogradnja-oglas-41759071,,
+869,150.000 €,45.807758403125,15.929654392916,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,3-sobni,4.,65,https://www.njuskalo.hr/nekretnine/trosoban-stan-63-m2-voltino-zagrebacka-oglas-42114291,1,
+870,160.000 €,45.80473157067,15.953522056132,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,Visoko prizemlje,60,https://www.njuskalo.hr/nekretnine/stan-60-m2-zagreb-tresnjevka-odlicna-lokacija-oglas-41553885,1,1
+871,260.000 €,45.763566904341,16.001911418846,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,5+ sobni,1.,102,https://www.njuskalo.hr/nekretnine/stan-zagreb-dugave-102.47-m2-oglas-41876339,1,2
+872,193.000 €,43.560309531126,16.524756901521,Split - Okolica,U stambenoj zgradi,Jednoetažni,2-sobni,2.,113,https://www.njuskalo.hr/nekretnine/stan-solin-113.00-m2-novogradnja-oglas-42158230,1,2
+873,259.200 €,45.78872305940913,16.008956593382923,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,75,https://www.njuskalo.hr/nekretnine/stan-zagreb-borovje-75.00-m2-novogradnja-oglas-40395514,2,
+874,252.800 €,45.78582740489256,16.00824145394779,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,3-sobni,1.,79,https://www.njuskalo.hr/nekretnine/stan-zagreb-borovje-75.00-m2-novogradnja-oglas-40395584,1,
+875,782.028 €,45.79774734463,15.952282598506,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,5+ sobni,6.,172,https://www.njuskalo.hr/nekretnine/stan-zagreb-tresnjevka-172.20-m2-oglas-39816113,2,
+876,284.000 €,44.872334561496,13.849837155709,Pula,U stambenoj zgradi,Jednoetažni,4-sobni,1.,94,https://www.njuskalo.hr/nekretnine/stan-centru-94-m2-oglas-40746425,2,
+877,350.000 €,44.872599177876,13.848532599171,Pula,U stambenoj zgradi,Jednoetažni,2-sobni,1.,75,https://www.njuskalo.hr/nekretnine/luksuzan-stan-centru-pule-oglas-40746423,1,
+878,129.000 €,45.80007035811089,15.768925179868544,Sveta Nedelja,U kući,Jednoetažni,4-sobni,1.,105,https://www.njuskalo.hr/nekretnine/stan-sveta-nedelja-105.00-m2-cetverosobni-stan-vrtom-1-kat-oglas-41876238,2,
+879,130.000 €,45.809260134673,15.82155123375,Sveta Nedelja,U kući,Dvoetažni,5+ sobni,1.,130,https://www.njuskalo.hr/nekretnine/stan-bestovje-150-m2-dva-trosobna-stana-oglas-39991740,2,
+880,155.000 €,45.79100490785,15.915299458981,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,2-sobni,2.,48,https://www.njuskalo.hr/nekretnine/stan-zagreb-vrbani-48.00-m2-oglas-41641117,1,
+881,237.000 €,45.146150676268,14.66298090147,Dobrinj,U stambenoj zgradi,Jednoetažni,5+ sobni,Visoko prizemlje,118,https://www.njuskalo.hr/nekretnine/stan-silo-118.00-m2-oglas-41401365,2,1
+882,399.000 €,44.823130649108,13.936563797077,Medulin,U stambenoj zgradi,Jednoetažni,5+ sobni,Prizemlje,140,https://www.njuskalo.hr/nekretnine/medulin-prostran-stan-140-m2-oglas-40802664,3,
+883,279.000 €,44.872407399788,13.849172987061,Pula,U stambenoj zgradi,Jednoetažni,4-sobni,2.,93,https://www.njuskalo.hr/nekretnine/odlican-konforni-stan-dvosoban-stan-centru-oglas-39515838,1,
+884,168.000 €,45.126623394895,14.527803603151,Malinska-Dubašnica,U stambenoj zgradi,Jednoetažni,2-sobni,2.,39,https://www.njuskalo.hr/nekretnine/malinska-jednosobni-apartman-pogledom-more-oglas-41763162,1,
+885,350.000 €,45.850501607611,15.999050529826,Maksimir,U stambenoj zgradi,Jednoetažni,4-sobni,Penthouse,104,https://www.njuskalo.hr/nekretnine/prodaja-stan-penthouse-zagreb-bukovac-4s-oglas-42270719,1,1
+886,220.000 €,44.81770618579,13.870311316069,Medulin,U stambenoj zgradi,Jednoetažni,4-sobni,3.,87,https://www.njuskalo.hr/nekretnine/lijep-stan-blizini-mora-medulin-oglas-40731386,2,
+887,189.000 €,,,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,3-sobni,9.,77,https://www.njuskalo.hr/nekretnine/voltino-77m2-dragutina-golika-prekrasan-3-soban-stan-balkon-oglas-42259435,1,1
+888,1.056.123,,,Podsljeme,U kući,Jednoetažni,5+ sobni,Prizemlje,340,https://www.njuskalo.hr/nekretnine/gracani-230m2-gracanska-prekrasan-troetazni-5soban-stan-parking-oglas-42229877,4,1
+889,205.000 €,45.769198687432,15.942379822754,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,4.,70,https://www.njuskalo.hr/nekretnine/laniste-70m2-jaruscica-lijep-3soban-stan-oglas-42111115,1,1
+890,219.516 €,45.8137522,15.9457878,Maksimir,U stambenoj zgradi,Jednoetažni,3-sobni,1.,66,https://www.njuskalo.hr/nekretnine/ravnice-66.52m2-novogradnja-rabusova-lijep-2soban-stan-oglas-41897328,1,1
+891,500.000 €,,,Donji Grad,U stambenoj zgradi,Jednoetažni,3-sobni,1.,115,https://www.njuskalo.hr/nekretnine/donji-grad-115-m2-savska-cesta-ureden-3.5-soban-stan-oglas-42013312,1,1
+892,153.000 €,,,Velika Gorica,U stambenoj zgradi,Jednoetažni,2-sobni,4.,58,https://www.njuskalo.hr/nekretnine/velika-gorica-centar-57-m2-prekrasan-2-soban-stan-oglas-41994661,1,
+893,162.500 €,,,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,7.,40,https://www.njuskalo.hr/nekretnine/rudes-40-m2-novogradnja-zagrebacka-cesta-prekrasan-2-soban-stan-oglas-41917839,1,1
+894,175.000 €,,,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,3-sobni,14.,62,https://www.njuskalo.hr/nekretnine/zaprude-62-m2-prostoran-3-soban-stan-balkon-panoramski-pogled-oglas-41917836,1,
+895,162.500 €,,,Črnomerec,U stambenoj zgradi,Jednoetažni,2-sobni,7.,40,https://www.njuskalo.hr/nekretnine/kustosija-40-m2-novogradnja-zagrebacka-c-prekrasan-2-soban-stan-oglas-41917834,1,1
+896,330.000 €,,,Stenjevec,U stambenoj zgradi,Jednoetažni,4-sobni,1.,91,https://www.njuskalo.hr/nekretnine/spansko-91-m2-prekrasan-4-soban-stan-oglas-41917826,1,2
+897,320.000 €,45.813518012758,15.95132023373,Črnomerec,U stambenoj zgradi,Jednoetažni,3-sobni,2.,78,https://www.njuskalo.hr/nekretnine/crnomerac-78-m2-nad-lipom-prekrasan-3-soban-stan-oglas-41917825,1,
+898,136.000 €,45.817141280283,15.992459229639,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,1-sobni,1.,25,https://www.njuskalo.hr/nekretnine/salata-27-m2-vocarska-prekrasan-1-soban-stan-oglas-41917824,1,
+899,180.000 €,45.819646045114,15.899525440723,Črnomerec,U stambenoj zgradi,Jednoetažni,3-sobni,1.,75,https://www.njuskalo.hr/nekretnine/gornje-vrapce-75m2-brezanska-3soban-stan-novogradnji-oglas-40914440,1,1
+900,198.000 €,,,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,2-sobni,4.,50,https://www.njuskalo.hr/nekretnine/borovje-50-m2-novogradnja-moderan-namjesten-2-soban-stan-oglas-42209155,1,
+901,599.000 €,,,Črnomerec,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,225,https://www.njuskalo.hr/nekretnine/crnomerec-225m2-luksuzan-4soban-stan-vrt-400-m2-2pm-oglas-41917837,2,2
+902,195.000 €,,,Črnomerec,U stambenoj zgradi,Jednoetažni,3-sobni,1.,55,https://www.njuskalo.hr/nekretnine/crnomerac-55.70-m2-komforan-3-soban-stan-balkon-oglas-41917831,1,
+903,320.000 €,45.813518012758,15.95132023373,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,3-sobni,2.,78,https://www.njuskalo.hr/nekretnine/centar-78-m2-nad-lipom-prekrasan-3-soban-stan-oglas-41917829,1,
+904,480.000 €,,,Donji Grad,U stambenoj zgradi,Jednoetažni,3-sobni,4.,109,https://www.njuskalo.hr/nekretnine/donji-grad-109m2-draskoviceva-kod-hnb-a-prostran-3.5-soban-stan-oglas-41917822,,
+905,349.000 €,,,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,4-sobni,3.,117,https://www.njuskalo.hr/nekretnine/britanac-117m2-kaciceva-prekrasan-dvoetazni-4soban-stan-oglas-41897327,2,3
+906,200.000 €,,,Stenjevec,U stambenoj zgradi,Jednoetažni,5+ sobni,6.,135,https://www.njuskalo.hr/nekretnine/malesnica-135-m2-prekrasan-5-soban-stan-oglas-37596202,1,
+907,240.000 €,,,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,3-sobni,1.,61,https://www.njuskalo.hr/nekretnine/stan-zagreb-tresnjevka-61-m2-gpm-oglas-40635888,1,
+908,230.000 €,44.1332536,15.2337909,Zadar,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,78,https://www.njuskalo.hr/nekretnine/zadar-belafuza-trosobni-stan-novogradnji-78-m2-oglas-42145524,2,
+909,153.000 €,44.856675160935,13.813759647654,Pula,U stambenoj zgradi,Jednoetažni,2-sobni,1.,42,https://www.njuskalo.hr/nekretnine/jednosoban-stan-stoja-oglas-41668849,1,
+910,258.000 €,45.794953813358,15.914034889711,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,61,https://www.njuskalo.hr/nekretnine/vrbani-iii-novogradnja-3-soban-stan-oglas-40223587,1,1
+911,215.000 €,44.1332536,15.2337909,Zadar,U stambenoj zgradi,Jednoetažni,4-sobni,1.,78,https://www.njuskalo.hr/nekretnine/zadar-belafuza-trosobni-stan-novogradnji-78-m2-oglas-41540929,2,
+912,247.300 €,,,Zadar,U stambenoj zgradi,Jednoetažni,3-sobni,2.,95,https://www.njuskalo.hr/nekretnine/zadar-vidikovac-dvosobni-penthouse-novogradnji-krovnom-terasom-oglas-40323224,1,1
+913,370.000 €,43.51214697898,16.460936565884,Split,U stambenoj zgradi,Jednoetažni,2-sobni,,63,https://www.njuskalo.hr/nekretnine/ekskluzivna-prodaja-lokve-novoureden-63m2-oglas-41582490,1,
+914,147.000 €,44.143140557719,15.243791839305,Zadar,U stambenoj zgradi,Jednoetažni,2-sobni,1.,54,https://www.njuskalo.hr/nekretnine/zadar-bokanjac-jednosobni-stan-oznake-s5-54.24-m2-oglas-42236743,1,
+915,163.000 €,44.143425063789,15.243448425534,Zadar,U stambenoj zgradi,Jednoetažni,2-sobni,2.,59,https://www.njuskalo.hr/nekretnine/zadar-bokanjac-jednosobni-stan-oznake-s7-59.03-m2-oglas-42236742,1,
+916,187.793 €,45.817886318013,16.179412979901,Sesvete,U stambenoj zgradi,Jednoetažni,3-sobni,Penthouse,85,https://www.njuskalo.hr/nekretnine/stan-zagreb-sesvetski-kraljevec-85.75-m2-novogradnja-oglas-40102739,,
+917,168.000 €,45.770287,15.995863,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,2-sobni,16.,70,https://www.njuskalo.hr/nekretnine/stan-zagreb-travno-70.50-m2-oglas-41080508,1,
+918,160.000 €,45.8270335911829,15.901316099536842,Podsused - Vrapče,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,56,https://www.njuskalo.hr/nekretnine/prodaja-deluxe-2-soban-skalinova-vrapce-56-m2-2-parkinga-vrt-oglas-42144756,1,
+919,160.000 €,45.82710713557421,15.901285946985638,Črnomerec,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,56,https://www.njuskalo.hr/nekretnine/prodaja-deluxe-2-soban-skalinova-vrapce-56-m2-2-parkinga-vrt-oglas-42144613,1,
+920,100.000 €,45.82707293133976,15.901230601318105,Podsused - Vrapče,U stambenoj zgradi,Jednoetažni,Garsonijera,Prizemlje,33,https://www.njuskalo.hr/nekretnine/prodaja-deluxe-garsonijera-skalinova-vrapce-33.50-m2-2-parkinga-oglas-42144502,1,
+921,100.000 €,45.826948223057514,15.901140804138436,Črnomerec,U stambenoj zgradi,Jednoetažni,Garsonijera,Prizemlje,33,https://www.njuskalo.hr/nekretnine/prodaja-deluxe-garsonijera-skalinova-vrapce-33.50-m2-2-parkinga-oglas-42143818,1,
+922,189.000 €,45.80941085980162,15.96137523651123,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,76,https://www.njuskalo.hr/nekretnine/prodaja-prostran-3-sobni-76m2-centar-klaiceva-193.000-oglas-41124333,1,1
+923,290.000 €,45.819958128805105,15.984152487740609,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,4-sobni,1.,108,https://www.njuskalo.hr/nekretnine/stan-zagreb-salata-108.00-m2-oglas-41089348,1,1
+924,535.000 €,45.813914766553,15.954049959878,Črnomerec,U kući,Dvoetažni,5+ sobni,1.,324,https://www.njuskalo.hr/nekretnine/prodaja-324m2-dvije-etaze-odvojenih-6-stanova-jelenovac-535.000-oglas-40096053,5+,
+925,160.000 €,45.79670476794732,15.925653327446241,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,Visoko prizemlje,46,https://www.njuskalo.hr/nekretnine/prodaja-novogradnja-rudes-2-soban-46.36-m2-160.000-oglas-41054931,1,
+926,225.000 €,45.7714457713827,15.997789982862038,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,2-sobni,5.,70,https://www.njuskalo.hr/nekretnine/prodaja-funkcionalan-novoureden-2.5-70.5m2-travno-225.000-oglas-40959951,1,
+927,190.000 €,45.767162,15.988283,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,3-sobni,5.,72,https://www.njuskalo.hr/nekretnine/prodaja-funkcionalan-3-72m2-slobostina-200.000-oglas-40382727,1,
+928,182.400 €,45.822750917798,15.898439884186,Podsused - Vrapče,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,63,https://www.njuskalo.hr/nekretnine/prodaja-novogradnja-2024-64m2-2-vrapce-jackovina-2650-m2-oglas-40274823,1,
+929,205.000 €,45.81608115452357,15.904018806608065,Podsused - Vrapče,U kući,Jednoetažni,4-sobni,Potkrovlje,92,https://www.njuskalo.hr/nekretnine/prodaja-novoureden-4-soban-vrapce-100m2-2200-m2-oglas-38482437,1,2
+930,103.000 €,45.80008438131991,15.98430275917053,Trnje,U kući,Jednoetažni,3-sobni,Prizemlje,51,https://www.njuskalo.hr/nekretnine/prodaja-3-soban-51m2-nenamjesten-vukovarska-ulica-103.000-inv-oglas-38361607,1,
+931,450.000 €,45.85348668245884,15.95353245735168,Podsljeme,U stambenoj zgradi,Jednoetažni,3-sobni,1.,114,https://www.njuskalo.hr/nekretnine/prodaja-moderan-3-114m2-garaza-vpm-spremiste-30m2-450.000-oglas-39919327,2,
+932,330.000 €,44.267265893019,15.125258550551,Privlaka,U stambenoj zgradi,Dvoetažni,4-sobni,,110,https://www.njuskalo.hr/nekretnine/prodaja-privlaka-deluxe-novogradnja-bazenom-110m2-3000-m2-oglas-37222195,2,2
+933,270.000 €,44.474058123738,14.921882224771,Kolan,U stambenoj zgradi,Jednoetažni,5+ sobni,2.,100,https://www.njuskalo.hr/nekretnine/prodaja-novogradnja-5-soban-mandre-100m2-300.000-oglas-37099293,2,
+934,399.800 €,45.71481123866,16.070185797053,Velika Gorica,U stambenoj zgradi,Jednoetažni,4-sobni,Penthouse,160,https://www.njuskalo.hr/nekretnine/stan-velika-gorica-160.00-m2-novogradnja-oglas-40112909,2,
+935,192.770 €,45.7112461046238,16.058464683397744,Velika Gorica,U stambenoj zgradi,Jednoetažni,3-sobni,1.,74,https://www.njuskalo.hr/nekretnine/stan-velika-gorica-74.00-m2-uskoro-useljivo-oglas-42233101,1,1
+936,190.686 €,45.71481123866,16.070185797053,Velika Gorica,U stambenoj zgradi,Jednoetažni,4-sobni,1.,73,https://www.njuskalo.hr/nekretnine/stan-velika-gorica-73.00-m2-novogradnja-oglas-41544849,2,
+937,122.000 €,45.771936739691,15.993942725661,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,2-sobni,6.,37,https://www.njuskalo.hr/nekretnine/stan-zagreb-travno-37.00-m2-bez-agencijske-provizije-oglas-41517250,1,
+938,270.000 €,45.71479175854472,16.06848647954379,Velika Gorica,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,130,https://www.njuskalo.hr/nekretnine/stan-stan-okucnicom-velikoj-gorici-130.00-m2-oglas-41048484,2,
+939,195.375 €,45.71481123866,16.070185797053,Velika Gorica,U stambenoj zgradi,Jednoetažni,4-sobni,1.,75,https://www.njuskalo.hr/nekretnine/stan-velika-gorica-75.00-m2-novogradnja-direktno-investitora-oglas-40342048,2,
+940,190.686 €,45.71481123866,16.070185797053,Velika Gorica,U stambenoj zgradi,Jednoetažni,4-sobni,1.,73,https://www.njuskalo.hr/nekretnine/stan-velika-gorica-74.00-m2-novogradnja-oglas-40112724,2,
+941,330.000 €,45.8308494,15.9399461,Črnomerec,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,110,https://www.njuskalo.hr/nekretnine/sveti-duh-prostran-4-sob-stan-110.51-m2-terasom-parkirno-mj-oglas-42137235,2,2
+942,430.000 €,45.8266586,15.9278993,Črnomerec,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,125,https://www.njuskalo.hr/nekretnine/sveti-duh-predivan-4-sob-novoureden-namjesten-stan-140m2-oglas-41964013,2,
+943,219.700 €,45.7766729,15.9737166,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,3-sobni,5.,74,https://www.njuskalo.hr/nekretnine/siget-prilaz-visine-funkcionalan-svijetao-3-sob-stan-lift-oglas-42111269,1,1
+944,240.000 €,45.82728318499633,15.901437753386148,Podsused - Vrapče,U stambenoj zgradi,Jednoetažni,3-sobni,2.,89,https://www.njuskalo.hr/nekretnine/prodaja-deluxe-3-soban-skalinova-vrapce-89m2-2-parkinga-oglas-42148451,1,
+945,240.000 €,45.82742610861783,15.901548103910272,Črnomerec,U stambenoj zgradi,Jednoetažni,3-sobni,2.,89,https://www.njuskalo.hr/nekretnine/prodaja-deluxe-3-soban-skalinova-vrapce-89m2-2-parkinga-oglas-42148406,1,
+946,295.000 €,45.827026057157,15.901256751945,Črnomerec,U stambenoj zgradi,Jednoetažni,4-sobni,1.,110,https://www.njuskalo.hr/nekretnine/prodaja-deluxe-4-soban-skalinova-vrapce-110m2-garaza-2-pm-vrt-oglas-42148133,1,
+947,500.000 €,45.81224155471429,15.9903284366261,Donji Grad,U stambenoj zgradi,Jednoetažni,5+ sobni,1.,173,https://www.njuskalo.hr/nekretnine/prodaja-5-soban-marticeva-173m2-500.000-oglas-41732081,2,
+948,295.000 €,45.827157395075034,15.901535616834366,Podsused - Vrapče,U stambenoj zgradi,Jednoetažni,4-sobni,1.,110,https://www.njuskalo.hr/nekretnine/prodaja-deluxe-4-soban-skalinova-vrapce-110m2-garaza-2-pm-vrt-oglas-42148342,1,
+949,173.000 €,45.804310284754,16.052409410477,Peščenica - Žitnjak,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,65,https://www.njuskalo.hr/nekretnine/odlican-opremljen-65-m2-stan-park-mj-prodaja-oglas-41782581,1,
+950,200.000 €,45.797520296495,15.941419611237,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,3-sobni,2.,62,https://www.njuskalo.hr/nekretnine/prodaja-deluxe-3-soban-ozaljska-134-62.30-m2-3500-m2-oglas-41766264,1,
+951,365.000 €,45.79932009579949,15.949383791377812,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,4-sobni,Visoko prizemlje,95,https://www.njuskalo.hr/nekretnine/prodaja-novogradnja-4-soban-95m2-park-stara-tresnjevka-365.000-oglas-41208546,2,1
+952,250.000 €,45.806449757555,15.981141284256,Donji Grad,U stambenoj zgradi,Jednoetažni,5+ sobni,3.,135,https://www.njuskalo.hr/nekretnine/prodaja-roh-bau-135m2-gunduliceva-260.000-oglas-40921250,2,
+953,119.000 €,45.85566863493194,15.80618262290955,Zaprešić,U stambenoj zgradi,Jednoetažni,2-sobni,1.,46,https://www.njuskalo.hr/nekretnine/zapresic-predivan-stan-46.00-m2-119000-oglas-40654227,1,
+954,380.000 €,45.796704767947,15.925653327446,Trešnjevka - Sjever,U stambenoj zgradi,Dvoetažni,5+ sobni,2.,140,https://www.njuskalo.hr/nekretnine/prodaja-5-soban-anina-novogradnja-140m2-2950-m2-oglas-39349491,2,3
+955,252.000 €,45.791394037007,15.915280469247,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,59,https://www.njuskalo.hr/nekretnine/stan-59-m2-vrbani-prilaz-invalide-oglas-40473821,1,
+956,279.000 €,45.80980207756,15.979413399386,Donji Grad,U stambenoj zgradi,Jednoetažni,5+ sobni,Suteren,95,https://www.njuskalo.hr/nekretnine/stan-jukiceva-95m2-oglas-39261877,2,
+957,310.000 €,45.783378448002,15.926141413985,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,4-sobni,Visoko prizemlje,80,https://www.njuskalo.hr/nekretnine/stan-80.35-m2-jarun-gredice-oglas-40534117,1,1
+958,365.000 €,45.8248328,15.9929998,Maksimir,U stambenoj zgradi,Jednoetažni,3-sobni,3.,103,https://www.njuskalo.hr/nekretnine/zagreb-srebrnjak-prostran-trosoban-stan-izvrsnoj-mikrolokaciji-n-oglas-41798088,,
+959,240.000 €,45.809678934276,15.983949553975,Donji Grad,U stambenoj zgradi,Višeetažni,3-sobni,Prizemlje,90,https://www.njuskalo.hr/nekretnine/zagreb-draskoviceva-dva-stana-kuci-nkp-90-m2-oglas-41798085,,
+960,186.000 €,45.800495267098,15.951488487048,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,8.,54,https://www.njuskalo.hr/nekretnine/zagreb-tresnjevka-dvosoban-stan-nkp-54-m2-balkonom-oglas-41798075,,
+961,237.500 €,45.811447266268,15.897814884657,Stenjevec,U stambenoj zgradi,Jednoetažni,3-sobni,1.,52,https://www.njuskalo.hr/nekretnine/zagreb-malesnica-luksuzna-novogradnja-trosoban-stan-nkp-71.97-m2-oglas-41797984,,
+962,271.633 €,45.796640390462,15.922970331694,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,3-sobni,1.,89,https://www.njuskalo.hr/nekretnine/zagreb-tresnjevka-novogradnja-trosobni-stan-nkp-89-m2-pm-oglas-41797979,,
+963,265.000 €,45.2474511,13.6145566,Poreč,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,73,https://www.njuskalo.hr/nekretnine/porec-dvosobni-stan-vrtom-parking-mjestom-nkp-72-m2-oglas-41797969,,
+964,237.500 €,45.811623004478,15.897868528838,Stenjevec,U stambenoj zgradi,Jednoetažni,3-sobni,1.,71,https://www.njuskalo.hr/nekretnine/zagreb-malesnica-luksuzna-novogradnja-trosoban-stan-nkp-71.97-m2-oglas-41798043,,
+965,255.000 €,45.7940703,15.9441752,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,2.,61,https://www.njuskalo.hr/nekretnine/zagreb-tresnjevka-moderan-dvosoban-stan-nkp-61.53-m2-pm-oglas-41798033,,
+966,335.000 €,45.780856169251,15.992289336083,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,3-sobni,7.,86,https://www.njuskalo.hr/nekretnine/ureden-opremljen-stan-zagreb-sredisce-86.00-m2-oglas-40691035,1,
+967,120.000 €,,,Novi Vinodolski,U kući,Jednoetažni,2-sobni,Prizemlje,46,https://www.njuskalo.hr/nekretnine/klenovica-prodaja-stana-46.51-m2-okucnica-oglas-41221541,,
+968,208.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,2.,76,https://www.njuskalo.hr/nekretnine/centar-76-m2-3s-kl-oglas-15056667,,
+969,207.500 €,45.3010931,13.6257418,Tar-Vabriga,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,58,https://www.njuskalo.hr/nekretnine/istra-tar-simpatican-stan-nkp-58.17-m2-jednom-spavacom-sobom-mi-oglas-42071600,,
+970,410.000 €,45.7765314,15.9959558,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,4-sobni,17.,170,https://www.njuskalo.hr/nekretnine/zagreb-utrina-poseban-cetverosoban-penthouse-nkp-170m2-oglas-42071592,,
+971,402.000 €,45.811623004478,15.897868528838,Stenjevec,U stambenoj zgradi,Jednoetažni,4-sobni,2.,121,https://www.njuskalo.hr/nekretnine/zagreb-malesnica-luksuzna-novogradnja-cetverosoban-stan-nkp-121.82-oglas-41798019,,
+972,380.000 €,45.796640390462,15.922970331694,Trešnjevka - Sjever,U stambenoj zgradi,Dvoetažni,5+ sobni,2.,144,https://www.njuskalo.hr/nekretnine/zagreb-tresnjevka-novogradnja-peterosobni-stan-nkp-144-m2-pm-oglas-41797962,,
+973,216.500 €,45.811623004478,15.897868528838,Stenjevec,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,65,https://www.njuskalo.hr/nekretnine/zagreb-malesnica-luksuzna-novogradnja-trosoban-stan-nkp-65.63-m2-oglas-41797954,,
+974,156.000 €,44.8580082,13.8393825,Pula,U stambenoj zgradi,Jednoetažni,2-sobni,Suteren,66,https://www.njuskalo.hr/nekretnine/istra-pula-jednosoban-stan-idealnoj-lokaciji-nkp-66.60-m2-oglas-41797924,,
+975,230.000 €,45.8064532,15.9821102,Donji Grad,U stambenoj zgradi,Jednoetažni,3-sobni,1.,83,https://www.njuskalo.hr/nekretnine/zagreb-donji-grad-trosoban-stan-balkonom-nkp-80-m2-oglas-41797895,,
+976,227.000 €,45.811623004478,15.897868528838,Stenjevec,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,68,https://www.njuskalo.hr/nekretnine/zagreb-malesnica-luksuzna-novogradnja-trosoban-stan-nkp-68.80-m2-oglas-41797849,,
+977,99.000 €,45.832163985667,16.042652758191,Gornja Dubrava,U kući,Dvoetažni,3-sobni,Visoko potkrovlje,56,https://www.njuskalo.hr/nekretnine/stan-56.02-m2-gornja-dubrava-grizanska-oglas-41994706,1,
+978,125.000 €,45.825663604874,15.982058805143,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,28,https://www.njuskalo.hr/nekretnine/stan-28.75-m2-medvescak-kompletno-namjesten-oglas-41917962,1,1
+979,260.000 €,45.807578820933,15.981891034457,Donji Grad,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,67,https://www.njuskalo.hr/nekretnine/donji-grad-67.52-m2-balkon-odlicna-lokacija-oglas-41639333,1,1
+980,135.000 €,45.757867195169,15.967887657812,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,41,https://www.njuskalo.hr/nekretnine/stan-41.76m2-vrt-pm-klara-oglas-40183974,1,
+981,230.120 €,45.827499156192,16.06877854784,Donja Dubrava,U stambenoj zgradi,Jednoetažni,3-sobni,Potkrovlje,83,https://www.njuskalo.hr/nekretnine/stan-83.68m2-potkrovlje-gpm-retkovec-novogradnja-oglas-39993805,1,1
+982,266.987 €,45.816278634907,15.838434631567,Podsused - Vrapče,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,124,https://www.njuskalo.hr/nekretnine/stan-124.18-m2-terasama-podsused-useljiva-novogradnja-oglas-39979475,1,1
+983,310.000 €,45.764827824009,15.998166418282,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,4-sobni,3.,85,https://www.njuskalo.hr/nekretnine/stan-dugave-85m2-terasom-29m2-oglas-39573286,2,
+984,145.000 €,,,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,Visoko prizemlje,62,https://www.njuskalo.hr/nekretnine/stan-sesvete-sopnica-62m2-oglas-39408517,1,1
+985,76.500 €,45.799381767979,15.951614154316,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,Suteren,30,https://www.njuskalo.hr/nekretnine/stan-ili-poslovni-prostor-30.43-m2-remiza-oglas-39103125,1,1
+986,330.000 €,45.852184569175,15.949335728533,Podsljeme,U stambenoj zgradi,Jednoetažni,3-sobni,1.,77,https://www.njuskalo.hr/nekretnine/stan-sestine-77.79-m2-119.60-m2-garazno-mjesto-namjesten-oglas-38600977,1,1
+987,358.000 €,45.812977317657,15.96271000426,Donji Grad,U stambenoj zgradi,Jednoetažni,4-sobni,Visoko prizemlje,128,https://www.njuskalo.hr/nekretnine/stan-128-m2-medvescak-oglas-37486671,1,1
+988,315.675 €,45.808397135741,15.979602170881,Donji Grad,U stambenoj zgradi,Jednoetažni,5+ sobni,4.,126,https://www.njuskalo.hr/nekretnine/stan-marticeva-centar-127-m-oglas-36905855,1,1
+989,215.000 €,45.808627187567,15.983179979211,Donji Grad,U stambenoj zgradi,Jednoetažni,2-sobni,4.,78,https://www.njuskalo.hr/nekretnine/stan-draskoviceva-78m2-oglas-39426343,1,1
+990,574.605 €,45.792498690217,15.955375577076,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,4-sobni,3.,127,https://www.njuskalo.hr/nekretnine/zagreb-knezija-cetverosoban-penthouse-128m2-novogradnja-oglas-42071589,,
+991,135.000 €,45.82279686051,16.011389101304,Maksimir,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,39,https://www.njuskalo.hr/nekretnine/zagreb-maksimir-petrova-ulica-stan-adaptaciju-39-m2-oglas-42071584,,
+992,240.000 €,45.8208084,15.9865622,Gornji Grad - Medveščak,U stambenoj zgradi,Dvoetažni,4-sobni,Prizemlje,151,https://www.njuskalo.hr/nekretnine/zagreb-salata-odlicna-lokacija-cetverosoban-stan-nkp-151-m2-adap-oglas-42071582,,
+993,268.415 €,45.3010931,13.6257418,Tar-Vabriga,U stambenoj zgradi,Dvoetažni,3-sobni,1.,76,https://www.njuskalo.hr/nekretnine/porec-tar-moderan-stan-novogradnja-b3-nkp-76.69-mirna-lokacija-oglas-42071579,,
+994,272.370 €,45.3010931,13.6257418,Tar-Vabriga,U stambenoj zgradi,Dvoetažni,3-sobni,1.,77,https://www.njuskalo.hr/nekretnine/porec-tar-moderan-stan-novogradnja-stan-b4-nkp-77.82-m2-mirna-lok-oglas-42071588,,
+995,365.800 €,43.5189655,16.2286983,Seget,U stambenoj zgradi,Višeetažni,2-sobni,3.,91,https://www.njuskalo.hr/nekretnine/trogir-seget-donji-dvoetazan-dvosoban-stan-s5-drugi-kat-potkrovlje-oglas-42071586,,
+996,203.832 €,45.7077817,16.0579173,Velika Gorica,U stambenoj zgradi,Jednoetažni,3-sobni,2.,84,https://www.njuskalo.hr/nekretnine/velika-gorica-kurilovec-novogradnja-trosoban-stan-85-m2-oglas-42071587,,
+997,1.650.000 €,45.3376197,14.305196,Opatija,U stambenoj zgradi,Višeetažni,3-sobni,2.,139,https://www.njuskalo.hr/nekretnine/opatija-stan-s3-drugom-katu-moderna-novogradnja-218.82-m2-bliz-oglas-42071585,,
+998,280.448 €,45.838970752695,15.947726951283,Črnomerec,U stambenoj zgradi,Jednoetažni,3-sobni,2.,87,https://www.njuskalo.hr/nekretnine/zagreb-sestinski-dol-novogradnja-moderan-trosoban-stan-nkp-87.64-m2-oglas-42071575,,
+999,89.000 €,,,Sesvete,U kući,Jednoetažni,2-sobni,Prizemlje,61,https://www.njuskalo.hr/nekretnine/stan-61.40m2-terasa-16.10m2-sesvete-oglas-40526759,1,1
+1000,159.000 €,45.821134116066,15.91450554478,Črnomerec,U kući,Jednoetažni,3-sobni,Prizemlje,62,https://www.njuskalo.hr/nekretnine/stan-62.34-m2-gornje-vrapce-terasa-42.52m2-garaza-28.12m2-oglas-42217202,1,
+1001,230.000 €,45.843959568928,16.052887519744,Gornja Dubrava,U kući,Jednoetažni,5+ sobni,2.,91,https://www.njuskalo.hr/nekretnine/dva-stan-56.64m2-34.86m2-vrt-terase-garaza-pm-tavan-oglas-41562223,1,
+1002,310.000 €,,,Zadar,U stambenoj zgradi,Jednoetažni,4-sobni,,79,https://www.njuskalo.hr/nekretnine/stan-poluotok-zadar-centar-80-m2-oglas-41170029,1,1
+1003,156.600 €,45.818896210966,15.982950189968,Gornji Grad - Medveščak,U kući,Jednoetažni,2-sobni,Suteren,57,https://www.njuskalo.hr/nekretnine/stan-58-m2-salata-oglas-41103527,1,
+1004,169.000 €,45.808482816572,15.979801213364,Donji Grad,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,53,https://www.njuskalo.hr/nekretnine/stan-centru-53.05-m2-prizemlje-dvoristem-oglas-40896833,1,1
+1005,146.000 €,45.826005798684,16.108347708353,Sesvete,U stambenoj zgradi,Jednoetažni,2-sobni,4.,44,https://www.njuskalo.hr/nekretnine/stan-44.2m2-sesvete-karlovacka-ulica-oglas-40702574,1,
+1006,521.400 €,45.84950661815,15.997324766185,Maksimir,U stambenoj zgradi,Jednoetažni,5+ sobni,1.,131,https://www.njuskalo.hr/nekretnine/stan-donji-rim-131.7-m2-vrt-gpm-parking-oglas-40473818,2,1
+1007,315.000 €,,,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,4-sobni,4.,88,https://www.njuskalo.hr/nekretnine/stan-4-sobni-88.72-m2-rudesu-lift-izgradnji-oglas-40452171,1,1
+1008,158.000 €,45.799998885746,15.948101663534,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,2.,50,https://www.njuskalo.hr/nekretnine/stan-50.04-m2-tresnjevka-oglas-40347396,1,
+1009,140.000 €,45.79858741996,15.950979676106,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,72,https://www.njuskalo.hr/nekretnine/stan-72m2-balkon-2m2-tresnjevka-oglas-40400533,1,1
+1010,271.400 €,,,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,3-sobni,1.,89,https://www.njuskalo.hr/nekretnine/stan-izgradnji-85-m2-rudes-oglas-40347394,1,1
+1011,381.600 €,,,Trešnjevka - Sjever,U stambenoj zgradi,Dvoetažni,5+ sobni,2.,144,https://www.njuskalo.hr/nekretnine/dvoetazni-stan-izgradnji-rudes-140-m2-oglas-40347393,2,3
+1012,390.000 €,45.808162618741,15.979035019893,Donji Grad,U stambenoj zgradi,Jednoetažni,4-sobni,4.,121,https://www.njuskalo.hr/nekretnine/stan-121.61m2-4-kat-lift-pm-podrum-hebrangova-centar-oglas-40347391,2,2
+1013,125.000 €,45.8148,15.939111,Črnomerec,U stambenoj zgradi,Jednoetažni,2-sobni,2.,42,https://www.njuskalo.hr/nekretnine/stan-ilica-42.36-m2-oglas-40347390,1,1
+1014,259.000 €,45.840592698061,15.93933994994,Črnomerec,U stambenoj zgradi,Dvoetažni,4-sobni,2.,121,https://www.njuskalo.hr/nekretnine/stan-121m2-dvoetazni-2-kat-potkrovlje-bijenik-oglas-40156276,2,2
+1015,264.275 €,45.825659796345,16.068345511985,Donja Dubrava,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,96,https://www.njuskalo.hr/nekretnine/stan-96.1m2-prizemlje-gpm-vrt-retkovec-novogradnja-oglas-39993807,1,1
+1016,194.083 €,45.81621934556,15.838247575744,Podsused - Vrapče,U stambenoj zgradi,Jednoetažni,3-sobni,1.,99,https://www.njuskalo.hr/nekretnine/stan-99.53-m2-1-kat-podsused-useljiva-novogradnja-oglas-39979474,1,1
+1017,236.500 €,45.826725368301,16.068031637115,Donja Dubrava,U stambenoj zgradi,Jednoetažni,3-sobni,1.,82,https://www.njuskalo.hr/nekretnine/stan-89m2-prvi-kat-gpm-retkovec-novogradnja-oglas-39993806,1,1
+1018,220.000 €,45.90425556215,16.163474781522,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,Visoko potkrovlje,144,https://www.njuskalo.hr/nekretnine/stan-116m2-sesvete-ulica-vladimira-ruzdjaka-oglas-39840973,1,1
+1019,200.000 €,45.823918417045,16.050837146554,Donja Dubrava,U kući,Jednoetažni,3-sobni,1.,107,https://www.njuskalo.hr/nekretnine/stan-kuci-donja-dubrava-107m2-oglas-39771357,1,1
+1020,159.500 €,45.820474327563,15.913319370171,Črnomerec,U stambenoj zgradi,Jednoetažni,3-sobni,2.,110,https://www.njuskalo.hr/nekretnine/stan-vrapce-110m2-oglas-39771355,2,
+1021,156.000 €,45.812708764883,15.938421446476,Črnomerec,U stambenoj zgradi,Jednoetažni,2-sobni,1.,47,https://www.njuskalo.hr/nekretnine/stan-ilica-47m2-oglas-39771354,1,1
+1022,285.188 €,45.843211245881,15.928530769449,Podsljeme,U stambenoj zgradi,Jednoetažni,3-sobni,2.,76,https://www.njuskalo.hr/nekretnine/luksuzni-stanovi-izgradnji-trescakovec-mikulici-oglas-39660634,1,1
+1023,428.000 €,43.175483094539,16.402943748985,Hvar,U stambenoj zgradi,Višeetažni,4-sobni,Visoko potkrovlje,140,https://www.njuskalo.hr/nekretnine/4-apartmana-pogledom-more-hvar-grad-hvar-oglas-39532770,4,4
+1024,200.000 €,45.799801228968,15.947022585203,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,1.,62,https://www.njuskalo.hr/nekretnine/stan-tresnjevka-62.48-m2-parking-balkon-oglas-38600978,1,
+1025,150.000 €,45.81403639143698,15.988915363508879,Donji Grad,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,38,https://www.njuskalo.hr/nekretnine/centar-draskoviceva-40-donji-grad-45-m2-oglas-30903738,1,
+1026,217.300 €,,,Poreč,U stambenoj zgradi,Jednoetažni,2-sobni,2.,57,https://www.njuskalo.hr/nekretnine/istra-porec-novogradnja-pogledom-staru-jezgru-poreca-more-oglas-42013239,,
+1027,192.000 €,,,Rijeka,U stambenoj zgradi,Jednoetažni,3-sobni,2.,70,https://www.njuskalo.hr/nekretnine/krimeja-prodaja-stana-70m2-parking-odlicna-lokacija-oglas-40360307,,
+1028,215.000 €,,,Pula,U stambenoj zgradi,Jednoetažni,3-sobni,2.,65,https://www.njuskalo.hr/nekretnine/pula-prodaja-stana-65m2-oglas-40347332,,
+1029,310.000 €,,,Rovinj,U stambenoj zgradi,Jednoetažni,2-sobni,Visoko prizemlje,62,https://www.njuskalo.hr/nekretnine/rovinj-predivan-stan-velikom-terasom-izvanredna-lokacija-oglas-40273431,,
+1030,560.000 €,,,Medulin,U stambenoj zgradi,Jednoetažni,3-sobni,1.,110,https://www.njuskalo.hr/nekretnine/pula-pjescana-uvala-luksuzni-stan-200m-mora-parking-oglas-40055254,,
+1031,145.000 €,,,Rovinj,U stambenoj zgradi,Dvoetažni,1-sobni,2.,42,https://www.njuskalo.hr/nekretnine/rovinj-stan-centru-oglas-37396092,,
+1032,249.000 €,,,Lovran,U stambenoj zgradi,Dvoetažni,2-sobni,1.,110,https://www.njuskalo.hr/nekretnine/lovran-novogradnja-predivni-stanovi-pogledom-more-oglas-21062413,,
+1033,295.000 €,43.515463,16.4601953,Split,U stambenoj zgradi,Jednoetažni,3-sobni,1.,122,https://www.njuskalo.hr/nekretnine/split-sucidar-trosoban-stan-oglas-42071569,,
+1034,1.080.000 €,45.3376197,14.305196,Opatija,U stambenoj zgradi,Višeetažni,3-sobni,2.,139,https://www.njuskalo.hr/nekretnine/opatija-stan-s1-drugom-katu-moderna-novogradnja-139.06-m2-bliz-oglas-42071561,,
+1035,230.000 €,45.7978638,15.952803,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,4-sobni,5.,95,https://www.njuskalo.hr/nekretnine/zagreb-tresnjevka-odlican-trosoban-stan-dvije-stambene-jedinice-oglas-42071554,,
+1036,272.370 €,45.3010931,13.6257418,Tar-Vabriga,U stambenoj zgradi,Dvoetažni,3-sobni,1.,77,https://www.njuskalo.hr/nekretnine/porec-tar-moderan-stan-novogradnja-stan-a4-nkp-77.82-m2-mirna-lok-oglas-42071570,,
+1037,258.528 €,45.7077817,16.0579173,Velika Gorica,U stambenoj zgradi,Jednoetažni,4-sobni,1.,107,https://www.njuskalo.hr/nekretnine/velika-gorica-kurilovec-novogradnja-cetverosoban-stan-108-m2-oglas-42071568,,
+1038,204.336 €,45.7077817,16.0579173,Velika Gorica,U stambenoj zgradi,Jednoetažni,3-sobni,1.,85,https://www.njuskalo.hr/nekretnine/velika-gorica-kurilovec-trosoban-stan-novogradnji-85-m2-oglas-42071567,,
+1039,225.750 €,45.7037401,16.0632129,Velika Gorica,U stambenoj zgradi,Jednoetažni,3-sobni,2.,75,https://www.njuskalo.hr/nekretnine/velika-gorica-novogradnja-s3b-luksuzan-trosoban-stan-nkp-75.25-m2-oglas-42071558,,
+1040,265.970 €,45.7877992,15.9224865,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,3-sobni,2.,64,https://www.njuskalo.hr/nekretnine/jarun-novogradnja-3-sob-penthouse-64m2-oglas-42005054,1,
+1041,275.000 €,45.7878714,15.939646,Trešnjevka - Jug,U stambenoj zgradi,Jednoetažni,2-sobni,3.,61,https://www.njuskalo.hr/nekretnine/jarun-gredice-lijep-novoureden-2-sob-stan-61.09m2-3-4-loggia-oglas-41594663,1,
+1042,195.000 €,,,Trešnjevka - Sjever,U kući,Jednoetažni,3-sobni,2.,62,https://www.njuskalo.hr/nekretnine/rudes-uredan-odrzavan-3-sob-stan-62m2-2-kat-balkon-sjenica-oglas-42267356,1,1
+1043,203.286 €,,,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,2.,59,https://www.njuskalo.hr/nekretnine/rudes-medarska-useljiva-novogradnja-stan-2-spavace-sobe-vpm-oglas-42251161,1,
+1044,184.586 €,,,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,54,https://www.njuskalo.hr/nekretnine/novogradnja-rudes-odmah-useljivo-stan-prizemlje-51.29-m2-vpm-oglas-42251163,1,
+1045,203.286 €,,,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,2-sobni,1.,59,https://www.njuskalo.hr/nekretnine/rudes-medarska-useljiv-stan-kvalitetnoj-novogradnji-60-m2-vpm-oglas-42251162,1,
+1046,306.697 €,,,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,3-sobni,3.,90,https://www.njuskalo.hr/nekretnine/rudes-useljiva-novogradnja-kvalitetan-penthouse-tri-terase-vpm-oglas-42251159,1,1
+1047,325.000 €,45.8071886,15.9250026,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,94,https://www.njuskalo.hr/nekretnine/rudes-zagrebacka-prekrasan-3-sob-stan-94.1m2-vpm-novogradnja-oglas-42005058,1,
+1048,295.000 €,45.8071886,15.9250026,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,4-sobni,2.,85,https://www.njuskalo.hr/nekretnine/rudes-zagrebacka-prekrasan-4-sob-stan-85.97m2-vpm-novogradnja-oglas-41898341,2,
+1049,245.000 €,45.8071886,15.9250026,Trešnjevka - Sjever,U stambenoj zgradi,Jednoetažni,3-sobni,2.,70,https://www.njuskalo.hr/nekretnine/rudes-zagrebacka-prekrasan-3-sob-stan-70.42m2-vpm-novogradnja-oglas-41898340,2,
+1050,157.000 €,45.8312433,15.9450486,Črnomerec,U stambenoj zgradi,Jednoetažni,2-sobni,2.,56,https://www.njuskalo.hr/nekretnine/crnomerec-sestinski-dol-funkcionalan-2-sob-stan-velika-garaza-oglas-42201141,1,
+1051,140.000 €,,,Črnomerec,U stambenoj zgradi,Jednoetažni,2-sobni,Suteren,70,https://www.njuskalo.hr/nekretnine/crnomerec-mandalicina-novoureden-svijetao-stan-suterenu-70-m2-oglas-37091842,1,1
+1052,585.000 €,,,Črnomerec,U stambenoj zgradi,Jednoetažni,4-sobni,Visoko prizemlje,210,https://www.njuskalo.hr/nekretnine/crnomerec-4-sob-stan-vrtom-430-m2-2-parking-mjesta-oglas-21985205,1,1
+1053,180.000 €,,,Bakar,U kući,Jednoetažni,3-sobni,1.,80,https://www.njuskalo.hr/nekretnine/skrljevo-etaza-kuce-2s-db-oglas-36578322,,
+1054,251.548 €,45.831956,16.1458806,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,Penthouse,114,https://www.njuskalo.hr/nekretnine/sesvete-novogradnja-4-sob-stan-114.34-m2-p3-s3-penthouse-oglas-42062602,1,1
+1055,181.720 €,45.831956,16.1458806,Sesvete,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,82,https://www.njuskalo.hr/nekretnine/sesvete-novogradnja-3-sob-stan-82.6-m2-p3-s1-prizemlje-vrt-oglas-42062601,1,1
+1056,206.668 €,45.831956,16.1458806,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,1.,93,https://www.njuskalo.hr/nekretnine/sesvete-novogradnja-4-sob-stan-94-m2-p2-s2-pvi-kat-oglas-42026119,1,1
+1057,206.668 €,45.831956,16.1458806,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,1.,93,https://www.njuskalo.hr/nekretnine/sesvete-novogradnja-4-sob-stan-94-m2-p1-s2-pvi-kat-oglas-42026117,1,1
+1058,233.530 €,45.831956,16.1458806,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,106,https://www.njuskalo.hr/nekretnine/sesvete-novogradnja-4-sob-stan-106.15-m2-p1-s1-prizemlje-vrt-oglas-42026114,1,1
+1059,170.324 €,45.831956,16.1458806,Sesvete,U stambenoj zgradi,Jednoetažni,3-sobni,Penthouse,77,https://www.njuskalo.hr/nekretnine/sesvete-novogradnja-3-sob-stan-77.42-m2-p2-s3-penthouse-oglas-42026113,1,1
+1060,228.096 €,45.831956,16.1458806,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,103,https://www.njuskalo.hr/nekretnine/sesvete-novogradnja-4-sob-stan-103.68-m2-p2-s1-prizemlje-vrt-oglas-42026112,1,1
+1061,173.646 €,45.831956,16.1458806,Sesvete,U stambenoj zgradi,Jednoetažni,3-sobni,Penthouse,78,https://www.njuskalo.hr/nekretnine/sesvete-novogradnja-3-sob-stan-78.93m2-p1-s3-oglas-42013391,1,1
+1062,183.251,45.8302096,16.1463414,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,1.,87,https://www.njuskalo.hr/nekretnine/sesvete-ul-mesci-4-sob-stan-87.68m2-1-kat-oglas-41763272,1,1
+1063,194.630,45.8302096,16.1463414,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,1.,89,https://www.njuskalo.hr/nekretnine/sesvete-ul-mesci-4-sob-stan-89.28m2-1-kat-oglas-41763271,1,1
+1064,219.526 €,45.8302096,16.1463414,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,98,https://www.njuskalo.hr/nekretnine/sesvete-ul-mesci-4-sob-stan-98.20m2-prizemlje-oglas-41763270,1,1
+1065,203.873,45.8302096,16.1463414,Sesvete,U stambenoj zgradi,Jednoetažni,4-sobni,Prizemlje,93,https://www.njuskalo.hr/nekretnine/sesvete-ul-mesci-4-sob-stan-93.52m2-prizemlje-oglas-41763268,1,1
+1066,174.220 €,45.8466991,16.1099107,Sesvete,U stambenoj zgradi,Jednoetažni,3-sobni,Suteren,87,https://www.njuskalo.hr/nekretnine/sesvete-novogradnja-3-sob-stan-87.11-m2-s1-a-suteren-oglas-41431645,1,2
+1067,130.000 €,,,Sesvete,U stambenoj zgradi,Jednoetažni,1-sobni,2.,33,https://www.njuskalo.hr/nekretnine/sesvete-naselje-iver-odlicna-namjestena-garsonijera-33-m2-garaza-oglas-41188550,1,
+1068,166.265 €,45.8302096,16.1463414,Sesvete,U stambenoj zgradi,Jednoetažni,3-sobni,2.,72,https://www.njuskalo.hr/nekretnine/sesvete-ul-mesci-3-sob-penthouse-72.29m2-2-kat-oglas-41763267,1,
+1069,150.000 €,,,Sesvete,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,76,https://www.njuskalo.hr/nekretnine/zagreb-sesvete-vugrovec-3-sobni-stan-76-m2-mirna-lokacija-oglas-34426927,1,
+1070,250.666 €,45.8303338,16.0383252,Gornja Dubrava,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,69,https://www.njuskalo.hr/nekretnine/gornja-dubrava-novogradnja-3-sob-stan-70m2-prizemlje-s1-oglas-41244132,1,2
+1071,189.000 €,45.8303338,16.0383252,Gornja Dubrava,U stambenoj zgradi,Jednoetažni,3-sobni,1.,60,https://www.njuskalo.hr/nekretnine/gornja-dubrava-novogradnja-3-sob-stan-61m2-prvi-kat-s2-oglas-41244131,1,
+1072,323.175 €,45.8303338,16.0383252,Gornja Dubrava,U stambenoj zgradi,Jednoetažni,4-sobni,Penthouse,104,https://www.njuskalo.hr/nekretnine/gornja-dubrava-novogradnja-4-sob-stan-104m2-penthouse-s4-oglas-41244129,2,
+1073,275.000 €,45.8260692,16.048742,Donja Dubrava,U stambenoj zgradi,Jednoetažni,4-sobni,2.,149,https://www.njuskalo.hr/nekretnine/dubrava-kapucinska-ul-atraktivan-dvoetazan-stan-bruto-149-m2-oglas-41043821,2,
+1074,195.000 €,45.822043905192,16.052006246002,Donja Dubrava,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko prizemlje,61,https://www.njuskalo.hr/nekretnine/donja-dubrava-vukovarska-prekrasan-3-sob-stan-61.72m2-vis-priz-oglas-41002950,1,
+1075,142.792 €,45.8192529,16.0578119,Donja Dubrava,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,46,https://www.njuskalo.hr/nekretnine/trnava-novogradnja-2-sob-stan-s2-prizemlje-43m2-vrt-67m2-oglas-40951259,1,
+1076,253.467 €,45.8192529,16.0578119,Donja Dubrava,U stambenoj zgradi,Jednoetažni,4-sobni,2.,95,https://www.njuskalo.hr/nekretnine/trnava-novogradnja-4-sob-stan-s5-2-kat-terasom-95m2-oglas-40951258,2,
+1077,210.000 €,45.8281001,16.041538,Gornja Dubrava,U stambenoj zgradi,Jednoetažni,3-sobni,3.,90,https://www.njuskalo.hr/nekretnine/g-dubrava-prijedorska-ul-predivan-namjesten-3-sob-stan-90m2-oglas-40347771,1,1
+1078,477.900 €,45.8351922,16.0015477,Maksimir,U stambenoj zgradi,Jednoetažni,4-sobni,3.,141,https://www.njuskalo.hr/nekretnine/maksimir-barutanski-jarak-atraktivan-4-sob-stan-bruto-141.3-m2-oglas-42070843,2,1
+1079,160.000 €,45.8182205,16.0112004,Maksimir,U stambenoj zgradi,Jednoetažni,2-sobni,3.,57,https://www.njuskalo.hr/nekretnine/maksimir-maksimirska-ul-2-sob-stan-58m2-bez-provizije-kupce-oglas-41784233,1,1
+1080,95.000 €,45.8083602,16.2534992,Dugo Selo,U stambenoj zgradi,Jednoetažni,2-sobni,Prizemlje,43,https://www.njuskalo.hr/nekretnine/dugo-selo-lijep-2-sob-stan-43.08m2-prizemlje-oglas-42201138,1,
+1081,90.000 €,45.8083602,16.2534992,Dugo Selo,U stambenoj zgradi,Jednoetažni,2-sobni,1.,40,https://www.njuskalo.hr/nekretnine/dugo-selo-lijep-2-sob-stan-40.69m2-1-kat-oglas-42201136,1,
+1082,150.000 €,45.8083602,16.2534992,Dugo Selo,U stambenoj zgradi,Jednoetažni,2-sobni,Visoko potkrovlje,67,https://www.njuskalo.hr/nekretnine/dugo-selo-lijep-2-sob-penthouse-67.80m2-3-kat-oglas-42201132,1,
+1083,170.500 €,45.8083602,16.2534992,Dugo Selo,U stambenoj zgradi,Jednoetažni,3-sobni,Visoko potkrovlje,77,https://www.njuskalo.hr/nekretnine/dugo-selo-lijep-3-sob-penthouse-77.38m2-3-kat-oglas-42201131,1,1
+1084,343.000 €,45.829794251297,15.978001471164,Gornji Grad - Medveščak,U stambenoj zgradi,Jednoetažni,4-sobni,1.,110,https://www.njuskalo.hr/nekretnine/prodaja-stan-107-m2-zagreb-ksaverska-cesta-oglas-40678800,1,1
+1085,88.914,45.817886318013,16.179412979901,Sesvete,U stambenoj zgradi,Jednoetažni,1-sobni,Prizemlje,34,https://www.njuskalo.hr/nekretnine/stan-zgrada-s14-zagreb-sesvetski-kraljevec-34.33-m2-novogradnja-oglas-40909720,,
+1086,96.000 €,,,Novi Zagreb - Istok,U stambenoj zgradi,Jednoetažni,Garsonijera,Visoko prizemlje,31,https://www.njuskalo.hr/nekretnine/stan-zagreb-dugave-31.00-m2-oglas-40445446,,
+1087,101.124 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,Visoko prizemlje,38,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-44.62-m2-2sobni-pm-sprem-oglas-40177730,1,1
+1088,116.023,45.75612555866379,15.929090102272301,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,3.,40,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-47.28-m2-2sobni-pm-sprem-oglas-40185095,1,1
+1089,114.162 €,45.7541599495471,15.92818055789789,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,3.,43,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-49.65-m2-2sobni-pm-sprem-oglas-40185119,1,1
+1090,116.023 €,45.756336304841,15.928989220332,Novi Zagreb - Zapad,U stambenoj zgradi,Jednoetažni,2-sobni,2.,40,https://www.njuskalo.hr/nekretnine/projekt-family-dream-stan-botinec-47.17-m2-2sobni-pm-sprem-oglas-40180010,1,1
+1091,183.200 €,45.683550478399,16.139184611747,Velika Gorica - Okolica,U stambenoj zgradi,Jednoetažni,4-sobni,2.,99,https://www.njuskalo.hr/nekretnine/prodaja-novogradnja-stan-velika-gorica-gornje-podotocje-4s-oglas-42176344,1,1
+1092,86.220 €,45.683550478399,16.139184611747,Velika Gorica - Okolica,U stambenoj zgradi,Jednoetažni,2-sobni,1.,43,https://www.njuskalo.hr/nekretnine/prodaja-novogradnja-stan-velika-gorica-gornje-podotocje-43.11m2-oglas-42176224,1,
+1093,143.325 €,45.683550478399,16.139184611747,Velika Gorica - Okolica,U stambenoj zgradi,Jednoetažni,3-sobni,1.,73,https://www.njuskalo.hr/nekretnine/prodaja-novogradnja-stan-velika-gorica-gornje-podotocje-73.48m2-oglas-42176152,1,1
+1094,135.135 €,45.683550478399,16.139184611747,Velika Gorica - Okolica,U stambenoj zgradi,Jednoetažni,3-sobni,Prizemlje,69,https://www.njuskalo.hr/nekretnine/stan-gornje-podotocje-69.30-m2-novogradnja-oglas-42170199,1,1

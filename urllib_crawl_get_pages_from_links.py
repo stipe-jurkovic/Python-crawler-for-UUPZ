@@ -16,7 +16,7 @@ headersfile = open("./user_agents.txt", "r")
 headers = headersfile.read()
 headers = eval(headers)
 filenameread = 'csvovi/njuskalo_scrape_listing_links_done.csv'
-filenamewrite = 'csvovi/njuskalo_scrapeFINAl.csv'
+filenamewrite = 'csvovi/njuskalo_scrapeFINAltest.csv'
 
 
 def random_delay():
