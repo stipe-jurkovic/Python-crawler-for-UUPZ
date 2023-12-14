@@ -5,7 +5,6 @@ import json
 import time
 from bs4 import BeautifulSoup
 import csv
-from torpy.http.requests import TorRequests
 
 
 
