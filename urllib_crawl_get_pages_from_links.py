@@ -61,7 +61,7 @@ def getListingInfo(headerNumber):
             if line_count == 0:
                 line_count += 1
             else:
-                if line_count > startLine and row[1].__contains__("https://www.njuskalo.hr/nekretnine/"):
+                if line_count >= startLine and row[1].__contains__("https://www.njuskalo.hr/nekretnine/"):
                     headerNumber = parseListingsAndToCsv(headerNumber,row[0], row[1])
                     print("processed linenum: ",row[0])
                 line_count += 1
@@ -157,7 +157,7 @@ if __name__ == "__main__":
     now = datetime.now()
 
     filenameread = 'csvovi/zagreb/njuskalo_scrape_listing_links_zagreb_13-12-2023_22-45-53.csv'
-    startLine = 2823
+    startLine = 2823 
 
     # dd/mm/YYH:M:S
     dt_string = now.strftime("_%d-%m-%Y_%H-%M-%S")
