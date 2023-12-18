@@ -83,8 +83,8 @@ def parseListing(response):
         "toilets": ""
     }
 
-    with open("saved_webpage.html", "w", encoding="utf-8") as file:
-        file.write(html_content)
+    #with open("saved_webpage.html", "w", encoding="utf-8") as file:
+    #    file.write(html_content)
     soup = BeautifulSoup(response.data.decode("utf-8"), "html.parser")
     pricet = soup.findAll("dd")
     for index, price in enumerate(pricet):
@@ -156,8 +156,8 @@ def parseListingsAndToCsv(headerNumber, linenum, url):
 if __name__ == "__main__":
     now = datetime.now()
 
-    filenameread = 'csvovi/zagreb/njuskalo_scrape_listing_links_zagreb_13-12-2023_22-45-53.csv'
-    startLine = 2823 
+    filenameread = 'csvovi/primorsko-goranska/njuskalo_scrape_listing_links_primorsko-goranska_13-12-2023_22-45-53.csv'
+    startLine = 5988 
 
     # dd/mm/YYH:M:S
     dt_string = now.strftime("_%d-%m-%Y_%H-%M-%S")
