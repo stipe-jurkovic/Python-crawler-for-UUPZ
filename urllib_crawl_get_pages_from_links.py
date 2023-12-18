@@ -5,7 +5,6 @@ import json
 import time
 from bs4 import BeautifulSoup
 import csv
-from torpy.http.requests import TorRequests
 
 
 
@@ -61,7 +60,7 @@ def getListingInfo(headerNumber):
             if line_count == 0:
                 line_count += 1
             else:
-                if line_count >= startLine and row[1].__contains__("https://www.njuskalo.hr/nekretnine/"):
+                if row[0] >= startLine and row[1].__contains__("https://www.njuskalo.hr/nekretnine/"):
                     headerNumber = parseListingsAndToCsv(headerNumber,row[0], row[1])
                     print("processed linenum: ",row[0])
                 line_count += 1
@@ -84,7 +83,7 @@ def parseListing(response):
     }
 
     #with open("saved_webpage.html", "w", encoding="utf-8") as file:
-    #    file.write(html_content)
+     #   file.write(html_content)
     soup = BeautifulSoup(response.data.decode("utf-8"), "html.parser")
     pricet = soup.findAll("dd")
     for index, price in enumerate(pricet):
