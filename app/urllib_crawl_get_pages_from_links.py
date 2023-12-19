@@ -167,7 +167,7 @@ if __name__ == "__main__":
     
     
 
-    filenameread = 'csvovi/bjelovarsko-bilogorska/njuskalo_scrape_listing_links_bjelovarsko-bilogorska_19-12-2023_17-00-09.csv'
+    filenameread = '../data/csvovi/bjelovarsko-bilogorska/listing_links_bjelovarsko-bilogorska_19-12-2023_17-00-09.csv'
     startLine = 0
 
     # dd/mm/YYH:M:S
