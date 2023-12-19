@@ -5,7 +5,6 @@ import json
 import time
 from bs4 import BeautifulSoup
 import csv
-from torpy.http.requests import TorRequests
 
 
 
@@ -156,8 +155,8 @@ def parseListingsAndToCsv(headerNumber, linenum, url):
 if __name__ == "__main__":
     now = datetime.now()
 
-    filenameread = 'csvovi/zagreb/njuskalo_scrape_listing_links_zagreb_13-12-2023_22-45-53.csv'
-    startLine = 2823 
+    filenameread = 'csvovi/primorsko-goranska/njuskalo_scrape_listing_links_primorsko-goranska_13-12-2023_22-45-53.csv'
+    startLine = 5988 
 
     # dd/mm/YYH:M:S
     dt_string = now.strftime("_%d-%m-%Y_%H-%M-%S")
