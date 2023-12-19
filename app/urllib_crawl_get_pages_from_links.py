@@ -158,15 +158,44 @@ def parseListingsAndToCsv(headerNumber, linenum, url):
             writer.writerow(rowToWrite)
     return headerNumber
 
+def list_directories(directory_path):
+    # print("Directories:")
+    # for directory in directories_list:
+    #    print(directory)
 
+    directories = [d for d in os.listdir(directory_path) if os.path.isdir(os.path.join(directory_path, d))]
+    return directories
+
+def select_directory(directories):
+    print("Select a directory:")
+    for index, directory in enumerate(directories, start=1):
+        print(f"{index}. {directory}")
+
+    # Prompt the user to select a directory
+    selection = int(input("Enter the number of the directory you want to use: ")) - 1
+
+    if 0 <= selection < len(directories):
+        return directories[selection]
+    else:
+        print("Invalid selection.")
+        return None
 
 if __name__ == "__main__":
     now = datetime.now()
-    
-    location = input("Unesite naziv zupanije (npr. primorsko-goranska): ")
 
-    filename = f"listing_links_{location}.csv"
-    file_path = f"../data/csvovi/{location}/{filename}"
+    directory_path = '../data/csvovi/'
+
+    directories_list = list_directories(directory_path)
+    if directories_list:
+        selected_directory = select_directory(directories_list)
+    if selected_directory:
+        print(f"Selected directory: {selected_directory}")
+        # filename = f"listing_links_{selected_directory}.csv"
+    else:
+        print("No directories found.")
+
+    filename = f"listing_links_{selected_directory}.csv"
+    file_path = f"../data/csvovi/{selected_directory}/{filename}"
 
     # filenameread = '../data/csvovi/bjelovarsko-bilogorska/listing_links_bjelovarsko-bilogorska.csv'
     startLine = 0
