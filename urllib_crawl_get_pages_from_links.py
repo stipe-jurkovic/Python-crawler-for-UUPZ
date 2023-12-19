@@ -10,8 +10,8 @@ global host
 global proxyuser
 global proxypass
 host = "https://brd.superproxy.io:22225"
-proxyuser = "brd-customer-hl_9d5c0427-zone-data_center"
-proxypass = "mhz69dt2jqyc"
+proxyuser = "brd-customer-hl_1c53920b-zone-datacenter_proxy1"
+proxypass = "u9piqpc08az5"
 
 # Creating a PoolManager instance for sending requests.
 default_headers = urllib3.make_headers(proxy_basic_auth=proxypass+":"+proxyuser)
