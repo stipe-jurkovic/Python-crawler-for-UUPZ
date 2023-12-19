@@ -24,8 +24,6 @@ global filenameread
 global filenamewrite
 global startLine
     
-
-
 def random_delay():
     random_delay = random.uniform(1, 5)
     print(f"Sleeping for {random_delay:.2f} seconds...")
@@ -56,8 +54,8 @@ def listingFetchParse(url, headerNumber):
         print(f"Failed to fetch the page. Status code: {response.status}")
     return listingjson, headerNumber
 
-def getListingInfo(headerNumber):
-
+def getListingInfo(headerNumber, directory):
+    last_processed_line = get_last_processed_line(directory)
     with open(file_path, 'r', newline='', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile, delimiter=',', quotechar='|')
         line_count = 0
@@ -65,11 +63,25 @@ def getListingInfo(headerNumber):
             if line_count == 0:
                 line_count += 1
             else:
-                if int(row[0]) >= startLine and row[1].__contains__("https://www.njuskalo.hr/nekretnine/"):
+                if line_count > last_processed_line and row[1].__contains__("https://www.njuskalo.hr/nekretnine/"):
                     headerNumber = parseListingsAndToCsv(headerNumber,row[0], row[1])
                     print("processed linenum: ",row[0])
                 line_count += 1
+            update_last_processed_line(directory, line_count - 1)
         print(f'Processed {line_count} lines.')
+
+def get_last_processed_line(directory):
+    file_name = f"../data/csvovi/{directory}/last_processed_line_{directory}.txt"
+    if os.path.exists(file_name):
+        with open(file_name, 'r') as file:
+            last_line = file.read()
+            return int(last_line) if last_line else 0
+    return 0
+
+def update_last_processed_line(directory, line_number):
+    file_name = f"../data/csvovi/{directory}/last_processed_line_{directory}.txt"
+    with open(file_name, 'w') as file:
+        file.write(str(line_number))
 
 def parseListing(response):
     html_content = response.data.decode("utf-8")
@@ -159,10 +171,6 @@ def parseListingsAndToCsv(headerNumber, linenum, url):
     return headerNumber
 
 def list_directories(directory_path):
-    # print("Directories:")
-    # for directory in directories_list:
-    #    print(directory)
-
     directories = [d for d in os.listdir(directory_path) if os.path.isdir(os.path.join(directory_path, d))]
     return directories
 
@@ -195,18 +203,19 @@ if __name__ == "__main__":
         print("No directories found.")
 
     filename = f"listing_links_{selected_directory}.csv"
-    file_path = f"../data/csvovi/{selected_directory}/{filename}"
+    file_path = f"{directory_path}/{selected_directory}/{filename}"
 
-    # filenameread = '../data/csvovi/bjelovarsko-bilogorska/listing_links_bjelovarsko-bilogorska.csv'
-    startLine = 0
+    last_processed_filename = f"{directory_path}/{selected_directory}/last_processed_line_{selected_directory}.txt"
 
     # dd/mm/YYH:M:S
     dt_string = now.strftime("_%d-%m-%Y_%H-%M-%S")
     print("date and time =", dt_string)
-    filenamewrite = file_path.split(".csv")[0] + "_scraped" + dt_string + ".csv"
-    with open(filenamewrite, 'w', newline='', encoding='utf-8') as csvfile:
+    filenamewrite = file_path.split(".csv")[0] + "_scraped" + ".csv"
+
+    with open(filenamewrite, 'a', newline='', encoding='utf-8') as csvfile:
         spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-        spamwriter.writerow(["linenum","price", "livingArea", "lat", "lng", "county", "city", "neighborhood", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "bathrooms with toilet", "toilets", "buildingFloorPosition", "url"])       
+        if os.path.exists(filenamewrite) and os.stat(filenamewrite).st_size == 0:
+            spamwriter.writerow(["linenum","price", "livingArea", "lat", "lng", "county", "city", "neighborhood", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "bathrooms with toilet", "toilets", "buildingFloorPosition", "url"])       
     
-    getListingInfo(0)
+    getListingInfo(0, selected_directory)
     headersfile.close()
