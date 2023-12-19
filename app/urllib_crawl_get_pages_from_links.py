@@ -5,6 +5,7 @@ import json
 import time
 from bs4 import BeautifulSoup
 import csv
+import os
 
 global host
 global proxyuser
@@ -16,7 +17,7 @@ proxypass = "u9piqpc08az5"
 # Creating a PoolManager instance for sending requests.
 default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
 http = urllib3.ProxyManager(host, proxy_headers=default_headers)
-headersfile = open("./user_agents.txt", "r")
+headersfile = open("../utils/user_agents.txt", "r")
 headers = headersfile.read()
 headers = eval(headers)
 global filenameread
@@ -57,7 +58,7 @@ def listingFetchParse(url, headerNumber):
 
 def getListingInfo(headerNumber):
 
-    with open(filenameread, 'r', newline='', encoding='utf-8') as csvfile:
+    with open(file_path, 'r', newline='', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile, delimiter=',', quotechar='|')
         line_count = 0
         for row in reader:
@@ -164,16 +165,18 @@ def parseListingsAndToCsv(headerNumber, linenum, url):
 if __name__ == "__main__":
     now = datetime.now()
     
-    
-    
+    location = input("Unesite naziv zupanije (npr. primorsko-goranska): ")
 
-    filenameread = '../data/csvovi/bjelovarsko-bilogorska/listing_links_bjelovarsko-bilogorska_19-12-2023_17-00-09.csv'
+    filename = f"listing_links_{location}.csv"
+    file_path = f"../data/csvovi/{location}/{filename}"
+
+    # filenameread = '../data/csvovi/bjelovarsko-bilogorska/listing_links_bjelovarsko-bilogorska.csv'
     startLine = 0
 
     # dd/mm/YYH:M:S
     dt_string = now.strftime("_%d-%m-%Y_%H-%M-%S")
     print("date and time =", dt_string)
-    filenamewrite = filenameread.split(".csv")[0] + "obrađena(početak obrade u "+dt_string+")" + ".csv"
+    filenamewrite = file_path.split(".csv")[0] + "scraped" + ".csv"
     with open(filenamewrite, 'w', newline='', encoding='utf-8') as csvfile:
         spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
         spamwriter.writerow(["linenum","price", "livingArea", "lat", "lng", "county", "city", "neighborhood", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "bathrooms with toilet", "toilets", "buildingFloorPosition", "url"])       

@@ -109,7 +109,7 @@ if __name__ == "__main__":
                 print("Folder %s created!" % path)
             except FileExistsError:
                 print("Folder %s already exists" % path)
-            filename = '../data/csvovi/'+zupanija+'/listing_links_'+zupanija+dt_string+'.csv'
+            filename = '../data/csvovi/'+zupanija+'/listing_links_'+zupanija+'.csv'
 
             with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
                 spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
