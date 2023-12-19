@@ -60,7 +60,7 @@ def getListingInfo(headerNumber):
             if line_count == 0:
                 line_count += 1
             else:
-                if row[0] >= startLine and row[1].__contains__("https://www.njuskalo.hr/nekretnine/"):
+                if int(row[0]) >= startLine and row[1].__contains__("https://www.njuskalo.hr/nekretnine/"):
                     headerNumber = parseListingsAndToCsv(headerNumber,row[0], row[1])
                     print("processed linenum: ",row[0])
                 line_count += 1
@@ -72,6 +72,9 @@ def parseListing(response):
         "price": "",
         "lat": "",
         "lng": "",
+        "county": "",
+        "location": "",
+        "neighborhood": "",
         "flatBuildingtype": "",
         "flatFloorCount": "",
         "numberOfRooms": "",
@@ -122,7 +125,9 @@ def parseListing(response):
     for index, span in enumerate(spans):
         if ("data-qa" in span.attrs):
             if ("location" in span["data-qa"]):
-                listingjson["location"] = span.text.rsplit(",")[1].strip()
+                listingjson["county"] = span.text.rsplit(",")[0].strip()
+                listingjson["city"] = span.text.rsplit(",")[1].strip()
+                listingjson["neighborhood"] = span.text.rsplit(",")[2].strip()
             elif ( "flatBuildingType" in span["data-qa"]):
                 listingjson["flatBuildingtype"] = span.text
             elif ("flatFloorCount" in span["data-qa"]):
@@ -145,7 +150,7 @@ def parseListingsAndToCsv(headerNumber, linenum, url):
         print(url)
         rowToWrite, headerNumber = listingFetchParse(url, headerNumber)  
         rowToWrite["url"] = url
-        rowToWrite = (linenum, rowToWrite["price"], rowToWrite["lat"], rowToWrite["lng"], rowToWrite["location"], rowToWrite["flatBuildingtype"], rowToWrite["flatFloorCount"], rowToWrite["numberOfRooms"], rowToWrite["buildingFloorPosition"], rowToWrite["livingArea"], rowToWrite["url"], rowToWrite["bathrooms with toilet"], rowToWrite["toilets"])
+        rowToWrite = (linenum, rowToWrite["price"], rowToWrite["livingArea"], rowToWrite["lat"], rowToWrite["lng"], rowToWrite["county"], rowToWrite["city"], rowToWrite["neighborhood"], rowToWrite["flatBuildingtype"], rowToWrite["flatFloorCount"], rowToWrite["numberOfRooms"], rowToWrite["bathrooms with toilet"], rowToWrite["toilets"], rowToWrite["buildingFloorPosition"], rowToWrite["url"])
         if(rowToWrite):
             writer.writerow(rowToWrite)
     return headerNumber
@@ -155,8 +160,8 @@ def parseListingsAndToCsv(headerNumber, linenum, url):
 if __name__ == "__main__":
     now = datetime.now()
 
-    filenameread = 'csvovi/primorsko-goranska/njuskalo_scrape_listing_links_primorsko-goranska_13-12-2023_22-45-53.csv'
-    startLine = 5988 
+    filenameread = 'csvovi/bjelovarsko-bilogorska/njuskalo_scrape_listing_links_bjelovarsko-bilogorska_19-12-2023_17-00-09.csv'
+    startLine = 0
 
     # dd/mm/YYH:M:S
     dt_string = now.strftime("_%d-%m-%Y_%H-%M-%S")
@@ -164,7 +169,7 @@ if __name__ == "__main__":
     filenamewrite = filenameread.split(".csv")[0] + "obrađena(početak obrade u "+dt_string+")" + ".csv"
     with open(filenamewrite, 'w', newline='', encoding='utf-8') as csvfile:
         spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-        spamwriter.writerow(["linenum","price", "lat", "lng", "location", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "buildingFloorPosition", "livingArea", "url", "bathrooms with toilet", "toilets"])       
+        spamwriter.writerow(["linenum","price", "livingArea", "lat", "lng", "county", "city", "neighborhood", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "bathrooms with toilet", "toilets", "buildingFloorPosition", "url"])       
     
     getListingInfo(0)
     headersfile.close()
