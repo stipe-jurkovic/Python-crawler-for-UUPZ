@@ -90,8 +90,6 @@ def parseListing(response):
         "toilets": ""
     }
 
-    #with open("saved_webpage.html", "w", encoding="utf-8") as file:
-     #   file.write(html_content)
     soup = BeautifulSoup(response.data.decode("utf-8"), "html.parser")
     pricet = soup.findAll("dd")
     for index, price in enumerate(pricet):
@@ -176,7 +174,7 @@ if __name__ == "__main__":
     # dd/mm/YYH:M:S
     dt_string = now.strftime("_%d-%m-%Y_%H-%M-%S")
     print("date and time =", dt_string)
-    filenamewrite = file_path.split(".csv")[0] + "scraped" + dt_string + ".csv"
+    filenamewrite = file_path.split(".csv")[0] + "_scraped" + dt_string + ".csv"
     with open(filenamewrite, 'w', newline='', encoding='utf-8') as csvfile:
         spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
         spamwriter.writerow(["linenum","price", "livingArea", "lat", "lng", "county", "city", "neighborhood", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "bathrooms with toilet", "toilets", "buildingFloorPosition", "url"])       
