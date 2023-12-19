@@ -32,7 +32,7 @@ buildingFloorPositionReplacements = {
     'Visoko prizemlje': 1,
     'Potkrovlje': average_floor+1,
     'Visoko potkrovlje': average_floor+2,
-    'Penthouse': average_floor+4,
+    'Penthouse': average_floor+3,
 }
 
 # Define a dictionary to map the string values to their replacements
