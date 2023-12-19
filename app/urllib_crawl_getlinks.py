@@ -7,8 +7,6 @@ import csv
 from torpy.http.requests import TorRequests
 
 
-
-
 # Creating a PoolManager instance for sending requests.
 default_headers = urllib3.make_headers(proxy_basic_auth='brd-customer-hl_9d5c0427-zone-data_center:mhz69dt2jqyc')
 http = urllib3.ProxyManager("https://brd.superproxy.io:22225", proxy_headers=default_headers)

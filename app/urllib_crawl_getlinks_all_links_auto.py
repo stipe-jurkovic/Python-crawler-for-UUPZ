@@ -8,8 +8,6 @@ import csv
 from datetime import datetime
 
 
-
-
 host = "https://brd.superproxy.io:22225"
 proxyuser = "brd-customer-hl_9d5c0427-zone-data_center"
 proxypass = "mhz69dt2jqyc"
@@ -17,7 +15,7 @@ proxypass = "mhz69dt2jqyc"
 # Creating a PoolManager instance for sending requests.
 default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
 http = urllib3.ProxyManager(host, proxy_headers=default_headers)
-headersfile = open("./user_agents.txt", "r")
+headersfile = open("../utils/user_agents.txt", "r")
 headers = headersfile.read()
 headers = eval(headers)
 
@@ -102,16 +100,16 @@ if __name__ == "__main__":
             zupanija = link["href"].split("stanova/")[1]
             print(zupanija)
     
-            urlinitial = "https://www.njuskalo.hr/prodaja-stanova/"+ zupanija
+            urlinitial = "https://www.njuskalo.hr/prodaja-stanova/" + zupanija
             
             global filename
             try:
-                path = "./csvovi/" + zupanija
+                path = "../data/csvovi/" + zupanija
                 os.mkdir(path)
                 print("Folder %s created!" % path)
             except FileExistsError:
                 print("Folder %s already exists" % path)
-            filename = 'csvovi/'+zupanija+'/njuskalo_scrape_listing_links_'+zupanija+dt_string+'.csv'
+            filename = '../data/csvovi/'+zupanija+'/listing_links_'+zupanija+dt_string+'.csv'
 
             with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
                 spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)

@@ -1,48 +1,47 @@
+from datetime import datetime
 import random
 import urllib3
 import json
-import requests
 import time
 from bs4 import BeautifulSoup
-import os
-import re
 import csv
-from torpy.http.requests import TorRequests
 
-
-
+global host
+global proxyuser
+global proxypass
+host = "https://brd.superproxy.io:22225"
+proxyuser = "brd-customer-hl_1c53920b-zone-datacenter_proxy1"
+proxypass = "u9piqpc08az5"
 
 # Creating a PoolManager instance for sending requests.
-http = urllib3.PoolManager()
+default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
+http = urllib3.ProxyManager(host, proxy_headers=default_headers)
 headersfile = open("./user_agents.txt", "r")
 headers = headersfile.read()
 headers = eval(headers)
-filename = 'njuskalo_scrape89.csv'
+global filenameread
+global filenamewrite
+global startLine
+    
 
 
-def getpage(url, headerNumber):
-    with TorRequests() as tor_requests:
-        with tor_requests.get_session() as sess:
-            response = sess.get(url)
-            print(response.text)
-    print('~~success')
-    return response
+def random_delay():
+    random_delay = random.uniform(1, 5)
+    print(f"Sleeping for {random_delay:.2f} seconds...")
+    time.sleep(random_delay) 
 
 def fetch(url, headerNumber):
-    random_delay = random.uniform(1, 5)
-    #print(f"Sleeping for {random_delay:.2f} seconds...")
-    #time.sleep(random_delay)
-    print('start')
+    default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
+    http = urllib3.ProxyManager(host, proxy_headers=default_headers)
+    response = http.request("GET", url, headers=headers[headerNumber])
 
-    response = getpage(url, headerNumber)
     while BeautifulSoup(response.data.decode("utf-8"), "html.parser").findAll("title")[0].text == "ShieldSquare Captcha":
         print("gotCaptcha")
-     #   random_delay = random.uniform(1, 5)
-      #  print(f"Sleeping for {random_delay:.2f} seconds...")
-        time.sleep(random_delay)
+        default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
+        http = urllib3.ProxyManager(host, proxy_headers=default_headers)
         print("Resuming...")
         headerNumber= headerNumber + 1
-        response = getpage(url, headers=headers[headerNumber])
+        response = http.request("GET", url, headers=headers[headerNumber])
     return response, headerNumber
 
 def listingFetchParse(url, headerNumber):
@@ -56,16 +55,20 @@ def listingFetchParse(url, headerNumber):
         print(f"Failed to fetch the page. Status code: {response.status}")
     return listingjson, headerNumber
 
-def getListingUrls(url, headerNumber):
-    response, headerNumber = fetch(url, headerNumber)
-    # Send an HTTP GET request to the URL
-    
-    # Check if the request was successful (status code 200)
-    if response.status == 200:
-        # Parse the HTML content of the page using BeautifulSoup
-        headerNumber = parseListOfListingsAndToCsv(response, headerNumber)
-    else:
-        print(f"Failed to fetch the page. Status code: {response.status}")
+def getListingInfo(headerNumber):
+
+    with open(filenameread, 'r', newline='', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',', quotechar='|')
+        line_count = 0
+        for row in reader:
+            if line_count == 0:
+                line_count += 1
+            else:
+                if int(row[0]) >= startLine and row[1].__contains__("https://www.njuskalo.hr/nekretnine/"):
+                    headerNumber = parseListingsAndToCsv(headerNumber,row[0], row[1])
+                    print("processed linenum: ",row[0])
+                line_count += 1
+        print(f'Processed {line_count} lines.')
 
 def parseListing(response):
     html_content = response.data.decode("utf-8")
@@ -73,6 +76,9 @@ def parseListing(response):
         "price": "",
         "lat": "",
         "lng": "",
+        "county": "",
+        "location": "",
+        "neighborhood": "",
         "flatBuildingtype": "",
         "flatFloorCount": "",
         "numberOfRooms": "",
@@ -83,8 +89,8 @@ def parseListing(response):
         "toilets": ""
     }
 
-    with open("saved_webpage.html", "w", encoding="utf-8") as file:
-        file.write(html_content)
+    #with open("saved_webpage.html", "w", encoding="utf-8") as file:
+     #   file.write(html_content)
     soup = BeautifulSoup(response.data.decode("utf-8"), "html.parser")
     pricet = soup.findAll("dd")
     for index, price in enumerate(pricet):
@@ -123,7 +129,9 @@ def parseListing(response):
     for index, span in enumerate(spans):
         if ("data-qa" in span.attrs):
             if ("location" in span["data-qa"]):
-                listingjson["location"] = span.text.rsplit(",")[1].strip()
+                listingjson["county"] = span.text.rsplit(",")[0].strip()
+                listingjson["city"] = span.text.rsplit(",")[1].strip()
+                listingjson["neighborhood"] = span.text.rsplit(",")[2].strip()
             elif ( "flatBuildingType" in span["data-qa"]):
                 listingjson["flatBuildingtype"] = span.text
             elif ("flatFloorCount" in span["data-qa"]):
@@ -136,35 +144,39 @@ def parseListing(response):
                 listingjson["livingArea"] = span.text.rsplit(",")[0].strip()
     return listingjson
 
-def parseListOfListingsAndToCsv(response, headerNumber):
-    soup = BeautifulSoup(response.data.decode("utf-8"), "html.parser")
-    EntityListItems = soup.findAll(class_="EntityList--Regular")
-    lis = EntityListItems[0].findAll("li")
-    i = 0
-    with open(filename, 'a', newline='', encoding='utf-8') as csvfile:
-        spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-        for index, li in enumerate(lis):
-            if "data-href" in li.attrs:
-                i += 1
-                if headerNumber < 999:
-                    headerNumber += 1
-                else:
-                    headerNumber = 0
-                print(i, li["data-href"])
-                time.sleep(1)
-                rowToWrite, headerNumber = listingFetchParse("https://www.njuskalo.hr" + li["data-href"], headerNumber)  
-                rowToWrite["url"] = "https://www.njuskalo.hr" + li["data-href"]	
-                rowToWrite = (rowToWrite["price"], rowToWrite["lat"], rowToWrite["lng"], rowToWrite["location"], rowToWrite["flatBuildingtype"], rowToWrite["flatFloorCount"], rowToWrite["numberOfRooms"], rowToWrite["buildingFloorPosition"], rowToWrite["livingArea"], rowToWrite["url"], rowToWrite["bathrooms with toilet"], rowToWrite["toilets"])
-                if(rowToWrite):
-                    spamwriter.writerow(rowToWrite)
+def parseListingsAndToCsv(headerNumber, linenum, url):
+    with open(filenamewrite, 'a', newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+        if headerNumber < 999:
+            headerNumber += 1
+        else:
+            headerNumber = 0
+        print(url)
+        rowToWrite, headerNumber = listingFetchParse(url, headerNumber)  
+        rowToWrite["url"] = url
+        rowToWrite = (linenum, rowToWrite["price"], rowToWrite["livingArea"], rowToWrite["lat"], rowToWrite["lng"], rowToWrite["county"], rowToWrite["city"], rowToWrite["neighborhood"], rowToWrite["flatBuildingtype"], rowToWrite["flatFloorCount"], rowToWrite["numberOfRooms"], rowToWrite["bathrooms with toilet"], rowToWrite["toilets"], rowToWrite["buildingFloorPosition"], rowToWrite["url"])
+        if(rowToWrite):
+            writer.writerow(rowToWrite)
     return headerNumber
 
 
 
 if __name__ == "__main__":
-    with open(filename, 'a', newline='', encoding='utf-8') as csvfile:
-        spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-        spamwriter.writerow(["price", "lat", "lng", "location", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "buildingFloorPosition", "livingArea", "url", "bathrooms with toilet", "toilets"])       
+    now = datetime.now()
     
-    getListingUrls("https://www.njuskalo.hr/prodaja-stanova", 950)
+    
+    
+
+    filenameread = 'csvovi/bjelovarsko-bilogorska/njuskalo_scrape_listing_links_bjelovarsko-bilogorska_19-12-2023_17-00-09.csv'
+    startLine = 0
+
+    # dd/mm/YYH:M:S
+    dt_string = now.strftime("_%d-%m-%Y_%H-%M-%S")
+    print("date and time =", dt_string)
+    filenamewrite = filenameread.split(".csv")[0] + "obrađena(početak obrade u "+dt_string+")" + ".csv"
+    with open(filenamewrite, 'w', newline='', encoding='utf-8') as csvfile:
+        spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+        spamwriter.writerow(["linenum","price", "livingArea", "lat", "lng", "county", "city", "neighborhood", "flatBuildingtype", "flatFloorCount", "numberOfRooms", "bathrooms with toilet", "toilets", "buildingFloorPosition", "url"])       
+    
+    getListingInfo(0)
     headersfile.close()
