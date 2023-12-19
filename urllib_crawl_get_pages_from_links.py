@@ -14,7 +14,7 @@ proxyuser = "brd-customer-hl_9d5c0427-zone-data_center"
 proxypass = "mhz69dt2jqyc"
 
 # Creating a PoolManager instance for sending requests.
-default_headers = urllib3.make_headers(proxy_basic_auth=proxypass+":"+proxyuser)
+default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
 http = urllib3.ProxyManager(host, proxy_headers=default_headers)
 headersfile = open("./user_agents.txt", "r")
 headers = headersfile.read()
@@ -31,13 +31,13 @@ def random_delay():
     time.sleep(random_delay) 
 
 def fetch(url, headerNumber):
-    default_headers = urllib3.make_headers(proxy_basic_auth=proxypass+":"+proxyuser)
+    default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
     http = urllib3.ProxyManager(host, proxy_headers=default_headers)
     response = http.request("GET", url, headers=headers[headerNumber])
 
     while BeautifulSoup(response.data.decode("utf-8"), "html.parser").findAll("title")[0].text == "ShieldSquare Captcha":
         print("gotCaptcha")
-        default_headers = urllib3.make_headers(proxy_basic_auth=proxypass+":"+proxyuser)
+        default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
         http = urllib3.ProxyManager(host, proxy_headers=default_headers)
         print("Resuming...")
         headerNumber= headerNumber + 1
