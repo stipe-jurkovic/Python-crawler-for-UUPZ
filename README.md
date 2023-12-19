@@ -39,13 +39,13 @@ This project is licensed under the [MIT License](LICENSE).
 ## Dictionary
 
 - **Building floor location - key**:
-    Prizemlje: 0
-    Suteren: 0
-    Visoko prizemlje: 1
-    Potkrovlje: average_floor+1
-    Visoko potkrovlje: average_floor+2
-    Penthouse: average_floor+3
+    - Prizemlje: 0
+    - Suteren: 0
+    - Visoko prizemlje: 1
+    - Potkrovlje: average_floor+1
+    - Visoko potkrovlje: average_floor+2
+    - Penthouse: average_floor+3
 
 - **Type of property - key**:
-    U stambenoj zgradi: 0
-    U kući: 1
+    - U stambenoj zgradi: 0
+    - U kući: 1
