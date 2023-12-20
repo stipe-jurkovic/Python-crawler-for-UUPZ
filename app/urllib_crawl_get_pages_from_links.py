@@ -17,7 +17,7 @@ proxypass = "u9piqpc08az5"
 # Creating a PoolManager instance for sending requests.
 default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
 http = urllib3.ProxyManager(host, proxy_headers=default_headers)
-headersfile = open("../utils/user_agents.txt", "r")
+headersfile = open("./utils/user_agents.txt", "r")
 headers = headersfile.read()
 headers = eval(headers)
 global filenameread
@@ -74,7 +74,7 @@ def getListingInfo(headerNumber, directory):
         print(f'Processed {line_count} lines.')
 
 def get_last_processed_line(directory):
-    file_name = f"../data/csvovi/{directory}/last_processed_line_{directory}.txt"
+    file_name = f"./data/csvovi/{directory}/last_processed_line_{directory}.txt"
     if os.path.exists(file_name):
         with open(file_name, 'r') as file:
             last_line = file.read()
@@ -82,7 +82,7 @@ def get_last_processed_line(directory):
     return 0
 
 def update_last_processed_line(directory, line_number):
-    file_name = f"../data/csvovi/{directory}/last_processed_line_{directory}.txt"
+    file_name = f"./data/csvovi/{directory}/last_processed_line_{directory}.txt"
     with open(file_name, 'w') as file:
         file.write(str(line_number))
 
@@ -194,7 +194,7 @@ def select_directory(directories):
 if __name__ == "__main__":
     now = datetime.now()
 
-    directory_path = '../data/csvovi/'
+    directory_path = './data/csvovi/'
 
     directories_list = list_directories(directory_path)
     if directories_list:
