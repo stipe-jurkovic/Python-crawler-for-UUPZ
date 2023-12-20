@@ -17,7 +17,7 @@ proxypass = "u9piqpc08az5"
 # Creating a PoolManager instance for sending requests.
 default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
 http = urllib3.ProxyManager(host, proxy_headers=default_headers)
-headersfile = open("../utils/user_agents.txt", "r")
+headersfile = open("./utils/user_agents.txt", "r")
 headers = headersfile.read()
 headers = eval(headers)
 global filenameread
