@@ -1,0 +1,12 @@
+linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
+1,75.000 €,64,45.335810126538,17.679840873103,Požeško-slavonska,Požega,Centar,U stambenoj zgradi,Jednoetažni,2-sobni,1,1,1.,https://www.njuskalo.hr/nekretnine/stan-gradiska-57-m2-oglas-9857630
+2,100.000 €,96,45.3287640494357,17.670711853245987,Požeško-slavonska,Požega,Centar,U kući,Jednoetažni,3-sobni,1,,1.,https://www.njuskalo.hr/nekretnine/stan-pozega-92.00-m2-mirnom-kvartu-oglas-41173661
+3,40.000 €,72,45.329006225995066,17.677726325265336,Požeško-slavonska,Požega,Centar,U kući,Jednoetažni,5+ sobni,1,1,1.,https://www.njuskalo.hr/nekretnine/stan-pozega-centar-4-sobni-oglas-39549508
+4,29.900 €,76,45.492581843491,16.953359895514,Požeško-slavonska,Lipik,Marino Selo,U kući,Jednoetažni,2-sobni,1,,Prizemlje,https://www.njuskalo.hr/nekretnine/stan-marino-selo-76.00-m2-p-r-l-k-a-oglas-38906335
+5,46.000 €,89,45.415356368335,17.873672246933,Požeško-slavonska,Kutjevo,Kutjevo,U kući,Dvoetažni,5+ sobni,,,,https://www.njuskalo.hr/nekretnine/stan-kutjevo-89.00-m2-oglas-32222609
+6,52.000 €,65,45.339805242661,17.675183415413,Požeško-slavonska,Požega,Sajmište,U stambenoj zgradi,Jednoetažni,4-sobni,,,Potkrovlje,https://www.njuskalo.hr/nekretnine/stan-pozega-65.67-m2-oglas-32229795
+7,50.000 €,58,45.33439782948187,17.6674265265639,Požeško-slavonska,Požega,Babin vir,U stambenoj zgradi,Jednoetažni,2-sobni,,,Prizemlje,https://www.njuskalo.hr/nekretnine/stan-pozega-antuna-gustava-matosa-30-p-58.69-m2-oglas-39442557
+8,50.000 €,58,45.33225289307982,17.66439630782202,Požeško-slavonska,Požega,Babin vir,U stambenoj zgradi,Jednoetažni,2-sobni,,,,https://www.njuskalo.hr/nekretnine/stan-pozega-antuna-gustava-matosa-30-p-58.69-m2-oglas-40503692
+9,45.600 €,57,45.333399954463,17.680106274784,Požeško-slavonska,Požega,Centar,U stambenoj zgradi,Višeetažni,3-sobni,,,,https://www.njuskalo.hr/nekretnine/stan-pozega-90.00-m2-oglas-34359583
+10,67.000 €,63,45.336253386356,17.671578030174,Požeško-slavonska,Požega,Centar,U kući,Jednoetažni,3-sobni,1,,1.,https://www.njuskalo.hr/nekretnine/stan-pozega-63.00-m2-domobranska-10-oglas-41910735
+11,85.000 €,71,45.412867893597465,17.152630836039044,Požeško-slavonska,Lipik,Lipik,U stambenoj zgradi,Jednoetažni,3-sobni,,,,https://www.njuskalo.hr/nekretnine/stan-lipik-71.02-m2-oglas-40373425
