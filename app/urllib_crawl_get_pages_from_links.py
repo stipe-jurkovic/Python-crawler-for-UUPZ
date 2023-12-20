@@ -39,7 +39,10 @@ def fetch(url, headerNumber):
         default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
         http = urllib3.ProxyManager(host, proxy_headers=default_headers)
         print("Resuming...")
-        headerNumber= headerNumber + 1
+        if headerNumber < 999:
+            headerNumber += 1
+        else:
+            headerNumber = 0
         response = http.request("GET", url, headers=headers[headerNumber])
     return response, headerNumber
 
