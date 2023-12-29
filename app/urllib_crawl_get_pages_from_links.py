@@ -17,7 +17,7 @@ proxypass = "u9piqpc08az5"
 # Creating a PoolManager instance for sending requests.
 default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
 http = urllib3.ProxyManager(host, proxy_headers=default_headers)
-headersfile = open("./utils/user_agents.txt", "r")
+headersfile = open("../utils/user_agents.txt", "r")
 headers = headersfile.read()
 headers = eval(headers)
 global filenameread
@@ -74,7 +74,7 @@ def getListingInfo(headerNumber, directory):
         print(f'Processed {line_count} lines.')
 
 def get_last_processed_line(directory):
-    file_name = f"./data/csvovi/{directory}/last_processed_line_{directory}.txt"
+    file_name = f"../data/csvovi/{directory}/last_processed_line_{directory}.txt"
     if os.path.exists(file_name):
         with open(file_name, 'r') as file:
             last_line = file.read()
@@ -82,7 +82,7 @@ def get_last_processed_line(directory):
     return 0
 
 def update_last_processed_line(directory, line_number):
-    file_name = f"./data/csvovi/{directory}/last_processed_line_{directory}.txt"
+    file_name = f"../data/csvovi/{directory}/last_processed_line_{directory}.txt"
     with open(file_name, 'w') as file:
         file.write(str(line_number))
 
@@ -93,6 +93,7 @@ def parseListing(response):
         "lat": "",
         "lng": "",
         "county": "",
+        "city": "",
         "location": "",
         "neighborhood": "",
         "flatBuildingtype": "",
@@ -137,7 +138,7 @@ def parseListing(response):
 
             listingjson["lat"] = defmark["lat"]
             listingjson["lng"] = defmark["lng"]
-    
+    '''
     spans = soup.findAll("span")
     i = 0
     for index, span in enumerate(spans):
@@ -156,6 +157,28 @@ def parseListing(response):
                 listingjson["buildingFloorPosition"] = span.text
             elif ("livingArea" in span["data-qa"]):
                 listingjson["livingArea"] = span.text.rsplit(",")[0].strip()
+    return listingjson
+    '''
+
+    dt_elements = soup.find_all('dt', class_='ClassifiedDetailBasicDetails-listTerm')
+    dd_elements = soup.find_all('dd', class_='ClassifiedDetailBasicDetails-listDefinition')
+
+    for index, dt in enumerate(dt_elements):
+        if dt.text == "Lokacija":
+            listingjson["county"] = dd_elements[index].text.rsplit(",")[0].strip()
+            listingjson["city"] = dd_elements[index].text.rsplit(",")[1].strip()
+            listingjson["neighborhood"] = dd_elements[index].text.rsplit(",")[2].strip()
+        elif dt.text == "Vrsta stana":
+            listingjson["flatBuildingtype"] = dd_elements[index].text
+        elif dt.text == "Broj etaža":
+            listingjson["flatFloorCount"] = dd_elements[index].text
+        elif dt.text == "Broj soba":
+            listingjson["numberOfRooms"] = dd_elements[index].text
+        elif dt.text == "Kat":
+            listingjson["buildingFloorPosition"] = dd_elements[index].text
+        elif dt.text == "Stambena površina":
+            listingjson["livingArea"] = dd_elements[index].text.rsplit(",")[0].strip()
+
     return listingjson
 
 def parseListingsAndToCsv(headerNumber, linenum, url):
@@ -194,7 +217,7 @@ def select_directory(directories):
 if __name__ == "__main__":
     now = datetime.now()
 
-    directory_path = './data/csvovi/'
+    directory_path = '../data/csvovi/'
 
     directories_list = list_directories(directory_path)
     if directories_list:
