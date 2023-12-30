@@ -15,6 +15,16 @@ host = "https://brd.superproxy.io:22225"
 proxyuser = "brd-customer-hl_1c53920b-zone-datacenter_proxy1"
 proxypass = "u9piqpc08az5"
 
+current_directory = os.getcwd()
+folder_name = os.path.basename(current_directory)
+print("Current folder name:", folder_name) 
+if folder_name == "app":
+    os.chdir("..")
+
+current_directory = os.getcwd()
+folder_name = os.path.basename(current_directory)
+print("Current folder name:", folder_name) 
+
 # Creating a PoolManager instance for sending requests.
 default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
 http = urllib3.ProxyManager(host, proxy_headers=default_headers)
@@ -204,15 +214,7 @@ if __name__ == "__main__":
     now = datetime.now()
 
     directory_path = './data/csvovi/'
-    current_directory = os.getcwd()
-    folder_name = os.path.basename(current_directory)
-    print("Current folder name:", folder_name) 
-    if folder_name == "app":
-        os.chdir("..")
-
-    current_directory = os.getcwd()
-    folder_name = os.path.basename(current_directory)
-    print("Current folder name:", folder_name) 
+    
 
     directories_list = list_directories(directory_path)
     if directories_list:
