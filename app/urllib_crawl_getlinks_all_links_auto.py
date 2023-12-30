@@ -7,13 +7,12 @@ from bs4 import BeautifulSoup
 import csv
 from datetime import datetime
 
-
 host = "https://brd.superproxy.io:22225"
 proxyuser = "brd-customer-hl_9d5c0427-zone-data_center"
 proxypass = "mhz69dt2jqyc"
 
 # Creating a PoolManager instance for sending requests.
-default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
+default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser + ":" + proxypass)
 http = urllib3.ProxyManager(host, proxy_headers=default_headers)
 headersfile = open("../utils/user_agents.txt", "r")
 headers = headersfile.read()
@@ -23,37 +22,39 @@ global linenum
 linenum = 1
 
 def random_delay():
-    random_delay = random.uniform(1, 5)
-    print(f"Sleeping for {random_delay:.2f} seconds...")
-    time.sleep(random_delay)
+    random_delay_val = random.uniform(1, 5)
+    print(f"Sleeping for {random_delay_val:.2f} seconds...")
+    time.sleep(random_delay_val)
 
-def fetch(url, headerNumber):
+def fetch(url, header_number):
     flag = 0
-    default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
+    default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser + ":" + proxypass)
     http = urllib3.ProxyManager(host, proxy_headers=default_headers)
-    response = http.request("GET", url, headers=headers[headerNumber])
+    response = http.request("GET", url, headers=headers[header_number])
 
-    while BeautifulSoup(response.data.decode("utf-8"), "html.parser").findAll("title")[0].text == "ShieldSquare Captcha":
+    while BeautifulSoup(response.data.decode("utf-8"), "html.parser").findAll("title")[
+        0].text == "ShieldSquare Captcha":
         print("gotCaptcha")
-        default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser+":"+proxypass)
+        default_headers = urllib3.make_headers(proxy_basic_auth=proxyuser + ":" + proxypass)
         http = urllib3.ProxyManager(host, proxy_headers=default_headers)
         print("Resuming...")
-        headerNumber= headerNumber + 1
-        response = http.request("GET", url, headers=headers[headerNumber])
+        header_number = header_number + 1
+        response = http.request("GET", url, headers=headers[header_number])
 
     ps = BeautifulSoup(response.data.decode("utf-8"), "html.parser").findAll("p")
     for index, p in enumerate(ps):
         if p.text == "Trenutno nema oglasa koji zadovoljavaju postavljene kriterije pretrage.":
             print("no more listings")
-            flag =1
-            return response, headerNumber, flag
+            flag = 1
+            return response, header_number, flag
     divs = BeautifulSoup(response.data.decode("utf-8"), "html.parser").findAll("div")
     for index, div in enumerate(divs):
         if div.text == "Trenutno nema oglasa koji zadovoljavaju postavljene kriterije pretrage.":
             print("no more listings")
-            flag =1
-            return response, headerNumber, flag
-    return response, headerNumber, flag
+            flag = 1
+            return response, header_number, flag
+    return response, header_number, flag
+
 
 def getListingUrls(url, headerNumber):
     response, headerNumber, flag = fetch(url, headerNumber)
@@ -78,7 +79,7 @@ def parseListOfListingsAndTolist(response):
             if "data-href" in li.attrs:
                 i += 1
                 print(linenum, li["data-href"])
-                rowToWrite = (linenum,"https://www.njuskalo.hr" + li["data-href"])
+                rowToWrite = (linenum, "https://www.njuskalo.hr" + li["data-href"])
                 linenum = linenum + 1
                 spamwriter.writerow(rowToWrite)
 
@@ -86,7 +87,6 @@ def parseListOfListingsAndTolist(response):
 if __name__ == "__main__":
     # datetime object containing current date and time
     now = datetime.now()
-
 
     # dd/mm/YYH:M:S
     dt_string = now.strftime("_%d-%m-%Y_%H-%M-%S")
@@ -99,32 +99,32 @@ if __name__ == "__main__":
             linenum = 1
             zupanija = link["href"].split("stanova/")[1]
             print(zupanija)
-    
+
             urlinitial = "https://www.njuskalo.hr/prodaja-stanova/" + zupanija
-            
+
             global filename
+            path = "../data/csvovi/" + zupanija
             try:
-                path = "../data/csvovi/" + zupanija
                 os.mkdir(path)
                 print("Folder %s created!" % path)
             except FileExistsError:
                 print("Folder %s already exists" % path)
-            filename = '../data/csvovi/'+zupanija+'/listing_links_'+zupanija+'.csv'
+            filename = '../data/csvovi/' + zupanija + '/listing_links_' + zupanija + '.csv'
 
             with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
                 spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-                spamwriter.writerow(["linenum","url"])
-            i=1
+                spamwriter.writerow(["linenum", "url"])
+            i = 1
             headerNumber = 0
             while True:
                 if headerNumber < 999:
                     headerNumber += 1
                 else:
                     headerNumber = 0
-                print("\n"+urlinitial+"?page="+str(i)+"\n")
-                if (getListingUrls(urlinitial+"?page="+str(i), headerNumber)):
+                print("\n" + urlinitial + "?page=" + str(i) + "\n")
+                if (getListingUrls(urlinitial + "?page=" + str(i), headerNumber)):
                     print("reached the end")
                     break
-            
-                i+=1
+
+                i += 1
     headersfile.close()
