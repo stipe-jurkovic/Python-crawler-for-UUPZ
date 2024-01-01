@@ -1,0 +1,47 @@
+linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
+1,140.0,80,45.298876481789,18.807067744259,Vukovarsko-srijemska,Vinkovci,Nazorov Blok,0,Jednoetažni,3,1,2,2,https://www.njuskalo.hr/nekretnine/stan-vinkovci-80.26-m2-novogradnja-oglas-42212746
+2,53.0,44,45.35547013948,18.99273276329,Vukovarsko-srijemska,Vukovar,Centar,0,Jednoetažni,2,1,1,4,https://www.njuskalo.hr/nekretnine/126-vukovar-olajnica-17-25-stan-44.20-m2-4-kat-bez-lifta-zatvoreno-oglas-41481257
+3,53.0,54,45.37734472606843,18.95613670349121,Vukovarsko-srijemska,Vukovar,Borovo Naselje,0,Jednoetažni,2,1,1,5,https://www.njuskalo.hr/nekretnine/119-vukovar-vijenac-rudera-boskovica-3-26-stan-54.50-m2-5-kat-zg-oglas-39690663
+4,140.0,71,45.29297346307321,18.807961638785564,Vukovarsko-srijemska,Vinkovci,Centar,0,Dvoetažni,3,1,1,2,https://www.njuskalo.hr/nekretnine/prodajem-stan-76.92-m2-strogi-centar-grada-oglas-41370924
+5,47.0,54,45.374870153866,18.965086516182,Vukovarsko-srijemska,Vukovar,Borovo Naselje,0,Dvoetažni,3,1,1,0,https://www.njuskalo.hr/nekretnine/trosoban-stan-borovo-naselje-oglas-40065661
+6,98.0,257,45.290267614517,18.806535929662,Vukovarsko-srijemska,Vinkovci,Centar,1,Jednoetažni,4,2,1,2,https://www.njuskalo.hr/nekretnine/stan-vinkovci-centar-anina-ulica-257.00-m2-oglas-42052884
+7,60.0,0,45.348490077075,19.011753356146,Vukovarsko-srijemska,Vukovar,Mitnica,0,Jednoetažni,0,1,1,0,https://www.njuskalo.hr/nekretnine/jarun-ulica-ante-pandakovica-oglas-41127056
+8,119.0,74,45.085043250263,18.728563049623,Vukovarsko-srijemska,Županja,Županja,0,Jednoetažni,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-zupanja-74.00-m2-oglas-41180442
+9,86.0,72,45.3532571,18.9938366,Vukovarsko-srijemska,Vukovar,Olajnica,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/vukovar-prodaja-3-soban-stan-72-m2-1-kat-oglas-41103589
+10,52.0,53,45.333406082468,18.993462324142,Vukovarsko-srijemska,Vukovar,Sajmište,0,Dvoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/117-vukovar-vijeca-europe-1-1-odlican-dvoetazni-stan-53.80-m2-prize-oglas-39009258
+11,79.0,59,45.295524231179286,18.80517967180343,Vukovarsko-srijemska,Vinkovci,Lapovci,0,Jednoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-vinkovcima-59m2-visoko-prizemlje-lapovci-oglas-41785432
+12,114.256,58,45.287893507046,18.793283700943,Vukovarsko-srijemska,Vinkovci,Centar,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-vinkovci-53.00-m2-novogradnja-oglas-38459883
+13,79.5,65,45.35703827548252,18.99117708206177,Vukovarsko-srijemska,Vukovar,Centar,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/114-vukovar-centar-m-drzica-17-s4-odlican-stan-65.38-m2-1-kat-par-oglas-41371779
+14,82.5,66,45.30707313821722,18.80563813439983,Vukovarsko-srijemska,Vinkovci,Kolodvor Kvart,0,Jednoetažni,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-vinkovci-66.09-m2-oglas-40769805
+15,93.0,93,45.07277808609404,18.6986231803894,Vukovarsko-srijemska,Županja,Županja,0,Jednoetažni,4,1,1,3,https://www.njuskalo.hr/nekretnine/stan-zupanja-93.00-m2-oglas-40042683
+16,37.0,75,45.295524231179286,18.80517967180343,Vukovarsko-srijemska,Vinkovci,Centar,1,Jednoetažni,3,1,1,0,https://www.njuskalo.hr/nekretnine/vinkovci-blizina-centra-stan-oglas-41295873
+18,71.0,69,45.37459390782963,18.95417332649231,Vukovarsko-srijemska,Vukovar,Borovo Naselje,0,Jednoetažni,3,1,1,0,https://www.njuskalo.hr/nekretnine/125-vukovar-blage-zadre-175-2-predivan-trosoban-stan-69.40-m2-priz-oglas-41052739
+19,65.0,68,45.35246663213775,18.99906043974454,Vukovarsko-srijemska,Vukovar,Centar,0,Jednoetažni,2,1,1,3,https://www.njuskalo.hr/nekretnine/90-vukovar-j-j-strossmayera-5b-23-stan-68-m2-3-kat-zgradi-bez-li-oglas-35378017
+21,62.0,85,45.295524231179286,18.80517967180343,Vukovarsko-srijemska,Vinkovci,Centar,0,Jednoetažni,2,1,1,3,https://www.njuskalo.hr/nekretnine/stan-centru-grada-pjesacka-zona-prodaja-oglas-34403995
+22,67.0,55,45.295524231179286,18.80517967180343,Vukovarsko-srijemska,Vinkovci,Lapovci,0,Jednoetažni,2,1,1,2,https://www.njuskalo.hr/nekretnine/vinkovci-lapovci-stan-56-m-oglas-40603570
+24,51.0,73,45.079703135183046,18.71571694064044,Vukovarsko-srijemska,Županja,Županja,1,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/zupanja-trosoban-stan-73.58-m2-oglas-37403108
+25,195.0,220,45.295524231179286,18.80517967180343,Vukovarsko-srijemska,Vinkovci,Centar,0,Jednoetažni,5,1,1,1,https://www.njuskalo.hr/nekretnine/predivan-luksuzan-dvoetazni-stan-vinkovci-220-m2-prodaja-oglas-34403997
+27,75.0,90,45.357913617723014,18.987261456489364,Vukovarsko-srijemska,Vukovar,Centar,0,Jednoetažni,4,1,1,2,https://www.njuskalo.hr/nekretnine/vukovar-samostojeca-kuca-dvoristem-oglas-42145689
+28,103.75,57,45.295524231179286,18.80517967180343,Vukovarsko-srijemska,Vinkovci,Centar,0,Jednoetažni,2,1,1,2,https://www.njuskalo.hr/nekretnine/vinkovci-stan-58-m2-centar-oglas-42145504
+29,190.0,120,45.295524231179286,18.80517967180343,Vukovarsko-srijemska,Vinkovci,Centar,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-120m2-centru-vinkovaca-oglas-42137003
+30,55.0,52,45.35325367327488,18.99956382559308,Vukovarsko-srijemska,Vukovar,Olajnica,0,Jednoetažni,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-vukovar-52.00-m2-oglas-42114957
+31,97.0,67,45.35483663791901,19.007271743699903,Vukovarsko-srijemska,Vukovar,Centar,0,Jednoetažni,2,1,1,3,https://www.njuskalo.hr/nekretnine/vukovar-centar-2.5-soban-luksuzni-stan-67-m2-prodaja-oglas-38062880
+32,113.0,65,45.089066,18.740004,Vukovarsko-srijemska,Županja,Županja,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/prodajem-namjesten-trosoban-stan-zupanji-65-m-oglas-38251853
+33,39.9,27,45.025823310066,19.043980928652,Vukovarsko-srijemska,Nijemci,Lipovac,0,Jednoetažni,2,1,1,2,https://www.njuskalo.hr/nekretnine/beograd-stan-oglas-42013736
+34,162.03,98,45.353955547426,18.992564912725,Vukovarsko-srijemska,Vukovar,Centar,0,Jednoetažni,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-centru-vukovara-oglas-40003601
+35,147.668,95,45.353955547426,18.992564912725,Vukovarsko-srijemska,Vukovar,Centar,0,Jednoetažni,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-vukovar-89.00-m2-oglas-39995112
+36,193.212,118,45.353955547426,18.992564912725,Vukovarsko-srijemska,Vukovar,Centar,0,Jednoetažni,4,2,1,2,https://www.njuskalo.hr/nekretnine/sta-centru-vukovara-122.00-m2-oglas-40003733
+37,64.0,64,45.290968251891,18.805034009802,Vukovarsko-srijemska,Vinkovci,Centar,1,Jednoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/vinkovci-dvorisni-stan-oglas-40482692
+38,162.03,98,45.357913617723014,18.987261456489364,Vukovarsko-srijemska,Vukovar,Centar,1,Jednoetažni,4,1,1,0,https://www.njuskalo.hr/nekretnine/stan-81.53-m2-urbanoj-vili-vukovar-oglas-41942609
+39,191.68,119,45.357913617723014,18.987261456489364,Vukovarsko-srijemska,Vukovar,Centar,1,Jednoetažni,4,2,1,0,https://www.njuskalo.hr/nekretnine/stan-95.44-m2-urbanoj-vili-vukovar-oglas-41942608
+40,147.668,95,45.357913617723014,18.987261456489364,Vukovarsko-srijemska,Vukovar,Centar,1,Jednoetažni,4,1,1,1,https://www.njuskalo.hr/nekretnine/stan-82.23-m2-urbanoj-vili-vukovar-oglas-41942607
+41,59.0,56,45.377035736718,18.96057844162,Vukovarsko-srijemska,Vukovar,Borovo Naselje,1,Dvoetažni,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-vukovar-56.24-m2-borovo-naselje-oglas-40690780
+42,98.0,75,45.357913617723014,18.987261456489364,Vukovarsko-srijemska,Vukovar,Centar,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/ekskluzivno-stan-odlicnoj-lokaciji-centru-grada-oglas-41109319
+43,93.0,93,45.071925204375134,18.695677532549364,Vukovarsko-srijemska,Županja,Županja,0,Jednoetažni,4,1,1,3,https://www.njuskalo.hr/nekretnine/stan-zupanja-centar-93.77-m2-prodaja-oglas-41681794
+45,49.0,48,45.295524231179286,18.80517967180343,Vukovarsko-srijemska,Vinkovci,Centar,1,Jednoetažni,4,1,1,0,https://www.njuskalo.hr/nekretnine/vinkovci-centar-dvorisni-stan-oglas-40906948
+46,85.0,55,45.288980439974,18.797564506531,Vukovarsko-srijemska,Vinkovci,Centar,0,Jednoetažni,2,1,1,3,https://www.njuskalo.hr/nekretnine/stan-vinkovci-centar-pogledom-bosut-55.00-m2-novogradnja-oglas-37907745
+47,212.9,1,45.189735065768,18.820085805698,Vukovarsko-srijemska,Privlaka,Privlaka,0,Jednoetažni,3,1,1,0,https://www.njuskalo.hr/nekretnine/zadar-privlaka-moderan-stan-novogradnja-oglas-41309343
+48,80.0,66,45.29387100313372,18.80478084102032,Vukovarsko-srijemska,Vinkovci,Centar,0,Jednoetažni,3,1,1,4,https://www.njuskalo.hr/nekretnine/stan-vinkovci-66.00-m2-oglas-41210662
+49,86.0,72,45.352688098971,18.993655443192,Vukovarsko-srijemska,Vukovar,Centar,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/prodajem-stan-olajnici-ulaz-13-stan-prvom-katu-vukovar-centar-oglas-40370872
+50,70.0,70,45.299133,18.80802,Vukovarsko-srijemska,Vinkovci,Centar,0,Jednoetažni,3,1,1,4,https://www.njuskalo.hr/nekretnine/stan-70-m2-centar-oglas-40286152
+51,75.0,62,45.303275043331,18.804997284435,Vukovarsko-srijemska,Vinkovci,Nazorov Blok,0,Jednoetažni,3,1,1,4,https://www.njuskalo.hr/nekretnine/prodajem-stan-vinkovcima-oglas-39726581
