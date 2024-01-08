@@ -17,14 +17,25 @@ for folder in os.listdir():
     # LAT AND LNG CLEANING
 
     # For each city in the dataframe, calculate the average latitude and longitude and fill the missing values with the average values for each city
-    average_lat_lng = df.groupby("city")[["lat", "lng"]].mean()
-    df["lat"] = df.apply(lambda row: average_lat_lng.loc[row["city"], "lat"] if pd.isnull(row["lat"]) else row["lat"], axis=1)
-    df["lng"] = df.apply(lambda row: average_lat_lng.loc[row["city"], "lng"] if pd.isnull(row["lng"]) else row["lng"], axis=1)
+    # average_lat_lng = df.groupby("city")[["lat", "lng"]].mean()
+    # df["lat"] = df.apply(lambda row: average_lat_lng.loc[row["city"], "lat"] if pd.isnull(row["lat"]) else row["lat"], axis=1)
+    # df["lng"] = df.apply(lambda row: average_lat_lng.loc[row["city"], "lng"] if pd.isnull(row["lng"]) else row["lng"], axis=1)
 
+    # # Check if the dataframe has any null values in the 'lat' and 'lng' columns and if it does, print that folder's name
+    # if df["lat"].isnull().values.any() or df["lng"].isnull().values.any():
+    #     # Remove the rows that have null values in the 'lat' and 'lng' columns
+    #     df = df.dropna(subset=["lat", "lng"])
+
+    # For each city and neighborhood in the dataframe, calculate the average latitude and longitude and fill the missing values with the average values for each city and neighborhood
+    average_lat_lng = df.groupby(["city", "neighborhood"])[["lat", "lng"]].mean()
+    df["lat"] = df.apply(lambda row: average_lat_lng.loc[(row["city"], row["neighborhood"]), "lat"] if pd.isnull(row["lat"]) else row["lat"], axis=1)
+    df["lng"] = df.apply(lambda row: average_lat_lng.loc[(row["city"], row["neighborhood"]), "lng"] if pd.isnull(row["lng"]) else row["lng"], axis=1)
     # Check if the dataframe has any null values in the 'lat' and 'lng' columns and if it does, print that folder's name
     if df["lat"].isnull().values.any() or df["lng"].isnull().values.any():
-        # Remove the rows that have null values in the 'lat' and 'lng' columns
+        # Remove the rows that have null values in the 'lat
+        # ' and 'lng' columns
         df = df.dropna(subset=["lat", "lng"])
+
 
     # Brišem ove stupce jer ih ima vrlo malo i ne znam zašto ne želi upisati za njih vrijendosti
     #################################################################################################################################################
@@ -40,6 +51,9 @@ for folder in os.listdir():
     if df["price"].isnull().values.any():
         # Remove the rows that have null values in the 'price' column
         df = df.dropna(subset=["price"])
+
+    # Sort the dataframe by the 'price' column in ascending order
+    df = df.sort_values(by="price", ascending=True)
 
     # Remove the top 1% and bottom 1% of the rows based on the price column
     df = df.iloc[int(len(df)*0.01):int(len(df)*0.99)]
@@ -66,9 +80,9 @@ for folder in os.listdir():
 
     # Define a dictionary to map the string values to their replacements
     flatFloorCountReplacements = {
-        'jednoetažni': 1,
-        'dvoetažni': 2,
-        'višeetažni': 3,
+        'Jednoetažni': 1,
+        'Dvoetažni': 2,
+        'Višeetažni': 3,
     }
 
     # Replace the string values in the 'flatFloorCount' column

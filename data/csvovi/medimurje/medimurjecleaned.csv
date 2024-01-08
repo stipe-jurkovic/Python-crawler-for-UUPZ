@@ -1,144 +1,144 @@
 linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
-2,100000.0,48,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Centar,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-stan-48.84-m2-1-kat-oglas-40778962
-3,100000.0,70,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Centar,0,Jednoetažni,3,1,1,4,https://www.njuskalo.hr/nekretnine/cakovec-stan-70-m2-oglas-40303543
-4,205000.0,69,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Centar,0,Jednoetažni,4,1,1,2,https://www.njuskalo.hr/nekretnine/cakovec-4s-stan-69m2-oglas-41917669
-5,330000.0,188,46.379383656975,16.441006385448,Međimurska,Čakovec,Jug,1,Dvoetažni,5,2,1,0,https://www.njuskalo.hr/nekretnine/cakovec-luksuzna-novogradnja-5-sobni-stan-neto-169.53-m2-80-m2-v-oglas-39511609
-6,310000.0,167,46.379383656975,16.441006385448,Međimurska,Čakovec,Jug,1,Dvoetažni,5,3,1,0,https://www.njuskalo.hr/nekretnine/stan-cakovec-167.00-m2-novogradnja-oglas-39527886
-7,290000.0,183,46.379383656975,16.441006385448,Međimurska,Čakovec,Jug,1,Dvoetažni,5,3,1,0,https://www.njuskalo.hr/nekretnine/cakovec-luksuzna-novogradnja-5-sobni-stan-neto-183.61-m2-oglas-39520043
-8,115400.0,81,46.41003064714136,16.524011418049763,Međimurska,Belica,Belica,0,Jednoetažni,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-belica-81.61-m2-oglas-41186868
-9,49000.0,72,46.51273293377947,16.43799304962158,Međimurska,Mursko Središće,Mursko Središće,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-mursko-sredisce-72.00-m2-oglas-40340882
-10,300000.0,166,46.378483782512816,16.44251458353307,Međimurska,Čakovec,Jug,1,Dvoetažni,5,3,1,0,https://www.njuskalo.hr/nekretnine/pametni-niskoenergetski-stan-166m2-cakovec-oglas-40278162
-11,95000.0,66,46.3879918898081,16.43146819570594,Međimurska,Čakovec,Centar,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-66m2-centru-cakovca-oglas-36356568
-12,223275.0,90,46.39174583452202,16.428030761999572,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-42107032
-13,285740.0,102,46.3934964075934,16.42800092642146,Međimurska,Čakovec,Globetka,0,Jednoetažni,4,2,2,4,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875269
-14,171801.0,63,46.39224124927077,16.428232245885454,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,2,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875228
-15,262656.0,97,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,2,2,2,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875208
-16,229581.0,85,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,1,1,2,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875188
-17,224484.0,86,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,Jednoetažni,4,2,2,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875165
-18,112554.0,43,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875150
-19,127010.0,48,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875133
-20,185198.0,71,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875058
-21,165698.0,63,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875036
-22,265590.0,102,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,2,2,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875021
-23,151075.0,60,46.390678419413,16.426713546738,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41874995
-24,190900.0,76,46.390678419413,16.426713546738,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,1,1,0,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41874975
-25,143575.0,57,46.390678419413,16.426713546738,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-cakovec-56.00-m2-novogradnja-oglas-41874880
-26,195000.0,140,46.406864643421,16.438740145212,Međimurska,Čakovec - Okolica,Mihovljan,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/penthouse-safran-breg-uporabnom-dozvolom-oglas-42288678
-27,147000.0,84,46.398514,16.450281,Međimurska,Čakovec - Okolica,Mihovljan,0,Jednoetažni,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-cakovec-oglas-34056189
-28,175000.0,98,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Centar,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/impresivan-stan-privatnom-penthouse-terasom-oglas-41652714
-29,106154.0,82,46.397000011035,16.488357851922,Međimurska,Čakovec - Okolica,Pribislavec,0,Jednoetažni,4,2,2,0,https://www.njuskalo.hr/nekretnine/pribislavec-cetverosobni-stan-urbanoj-vili-oglas-38487565
-30,2500.0,40,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/bez-provizije-jedinstvena-novogradnja-cakovcu-stanovi-38-230-m2-oglas-42283242
-31,162000.0,107,46.391846605515,16.422120456409,Međimurska,Čakovec,Globetka,0,Dvoetažni,4,2,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-115-m2-novogradnja-oglas-1358768
-32,197500.0,169,46.3831313140206,16.430315881196833,Međimurska,Čakovec,Martane,1,Višeetažni,5,2,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-169.00-m2-oglas-41473034
-33,1350.0,82,46.39342748902928,16.480693019755762,Međimurska,Pribislavec,Pribislavec,0,Jednoetažni,4,2,2,1,https://www.njuskalo.hr/nekretnine/stan-pribislavec-82.29-m2-novogradnja-oglas-39455478
-34,2500.0,55,46.390721393297,16.426103458821,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-galerija-sjever-pretprodaja-dvosoban-stan-55.8m-oglas-42089552
-35,137690.0,49,46.39086964488346,16.42710048769005,Međimurska,Čakovec,Globetka,0,Jednoetažni,1,1,1,4,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41918550
-36,155272.0,59,46.39112464120944,16.422549675292494,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41918503
-37,205465.0,79,46.3929222563856,16.42823892479706,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41918515
-38,330000.0,169,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Jug,0,Dvoetažni,5,3,3,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-cakovec-luksuzna-izvedba-oprema-170-m2-330.000-oglas-39660667
-39,330000.0,167,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Jug,0,Dvoetažni,5,3,3,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-cakovec-luksuzna-izvedba-oprema-168-m2-330.000-oglas-39660670
-40,330000.0,166,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Jug,0,Dvoetažni,5,3,3,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-cakovec-luksuzna-izvedba-oprema-168-m2-330.000-oglas-39660668
-42,169750.0,97,43.25519383288605,19.607553318966183,Međimurska,Čakovec - Okolica,Mihovljan,1,Dvoetažni,4,1,2,0,https://www.njuskalo.hr/nekretnine/kuca-3-stana-pasivna-kuca-mihovljanu-oglas-37082819
-43,76000.0,63,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Centar,0,Jednoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/prodaje-se-stan-centru-cakovca-oglas-37025949
-44,115000.0,72,46.389724781843,16.434701286054,Međimurska,Čakovec,Centar,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-centru-grada-spustena-cijena-oglas-5003145
-45,128150.0,84,46.49992048552767,16.287112801144332,Međimurska,Štrigova,Štrigova,0,Jednoetažni,4,1,1,1,https://www.njuskalo.hr/nekretnine/useljivi-namjesteni-stan-centru-strigove-oglas-28055516
-46,315000.0,167,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Jug,0,Dvoetažni,5,3,1,2,https://www.njuskalo.hr/nekretnine/vrhunski-dvoetazni-stan-cakovec-jug-useljivo-oglas-40526934
-47,225000.0,138,46.390517618175,16.433486779678,Međimurska,Čakovec,Centar,0,Jednoetažni,5,2,2,0,https://www.njuskalo.hr/nekretnine/cakovec-moderno-opremljen-stan-oglas-41581504
-48,75000.0,75,46.390517618175,16.433486779678,Međimurska,Čakovec,Centar,0,Jednoetažni,3,1,1,2,https://www.njuskalo.hr/nekretnine/cakovec-trosoban-stan-renovaciju-oglas-41345046
-49,269660.0,117,46.380781450843,16.431675708253,Međimurska,Čakovec,Martane,0,Jednoetažni,4,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-urbana-vila-travnicka-s4-oglas-41995769
-50,250820.0,105,46.380781450843,16.431675708253,Međimurska,Čakovec,Martane,0,Jednoetažni,4,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-urbana-vila-travnicka-s3-oglas-41995747
-51,298620.0,121,46.380781450843,16.431675708253,Međimurska,Čakovec,Martane,0,Jednoetažni,4,2,2,0,https://www.njuskalo.hr/nekretnine/cakovec-urbana-vila-travnicka-s2-oglas-41995714
-52,330000.0,169,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Jug,0,Dvoetažni,5,3,1,2,https://www.njuskalo.hr/nekretnine/vrhunski-arhitektonski-projekt-vrhunska-izvedba-vrhunska-lokacija-oglas-38454738
-53,149000.0,75,46.381927,16.44042,Međimurska,Čakovec,Centar,0,Dvoetažni,3,1,2,0,https://www.njuskalo.hr/nekretnine/prodajem-stan-75m2-oglas-41913944
-54,154000.0,75,46.385452,16.429771,Međimurska,Čakovec,Centar,0,Dvoetažni,3,1,2,0,https://www.njuskalo.hr/nekretnine/prodajem-stan-75m2-oglas-41913734
-55,90000.0,54,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Centar,0,Jednoetažni,2,1,1,5,https://www.njuskalo.hr/nekretnine/stan-centru-cakovca-54.04m2-oglas-42244298
-56,106000.0,82,46.39290407085843,16.478319448636586,Međimurska,Pribislavec,Pribislavec,0,Jednoetažni,4,2,2,0,https://www.njuskalo.hr/nekretnine/novogradnja-stan-pribislavcu-82.29m2-oglas-40421065
-57,106000.0,82,46.39290407085843,16.478319448636586,Međimurska,Pribislavec,Pribislavec,0,Jednoetažni,4,2,2,1,https://www.njuskalo.hr/nekretnine/novogradnja-stan-pribislavcu-82.29m2-oglas-40421064
-58,60000.0,71,46.39574876341739,16.445224837125952,Međimurska,Čakovec,Vojni Vrtovi,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-71-m2-oglas-22192148
-59,63000.0,63,46.34319884316413,16.739941946401295,Međimurska,Sveta Marija,Sveta Marija,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-sveta-marija-63.49-m2-oglas-41588668
-60,91000.0,54,46.38717047713573,16.437375299550464,Međimurska,Čakovec,Centar,0,Jednoetažni,2,1,1,5,https://www.njuskalo.hr/nekretnine/stan-cakovec-54.04-m2-oglas-41747664
-61,160000.0,130,46.38661477513202,16.43660647908248,Međimurska,Čakovec,Centar,0,Dvoetažni,4,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-130.73-m2-oglas-41743393
-62,59000.0,71,46.53502166882487,16.364857723804217,Međimurska,Sveti Martin Na Muri,Sveti Martin na Muri,0,Jednoetažni,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-sveti-martin-muri-71.29-m2-oglas-40395220
-63,169000.0,104,46.38617369746468,16.434671239253145,Međimurska,Čakovec,Centar,0,Dvoetažni,4,2,1,2,https://www.njuskalo.hr/nekretnine/stan-cakovec-104.80-m2-oglas-40104973
-64,120000.0,174,46.388229743613,16.437915072849,Međimurska,Čakovec,Centar,0,Jednoetažni,4,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-174.27-m2-oglas-37329620
-65,130000.0,169,46.38650646956,16.436374021735,Međimurska,Čakovec,Centar,1,Dvoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-strogi-centar-komotan-stan-prvom-katu-kod-crkve-oglas-32761117
-66,102000.0,49,46.385624222505,16.440923135569,Međimurska,Čakovec,Centar,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-49.90-m2-oglas-42238883
-67,78990.0,40,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Centar,0,Jednoetažni,1,1,1,2,https://www.njuskalo.hr/nekretnine/stan-cakovec-40-m2-2-spremista-parking-renoviran-namjesten-oglas-41181827
-68,108000.0,40,46.38717803921545,16.42913254632216,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,4,https://www.njuskalo.hr/nekretnine/prodaje-se-dvosoban-stan-centru-cakovca-oglas-42065160
-69,79943.0,46,46.38675161068164,16.448241837145183,Međimurska,Čakovec,Sajmište,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-46.00-m2-oglas-42220708
-70,175000.0,97,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Martane,0,Dvoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-martane-2.5-sobni-stan-velikom-terasom-oglas-40643903
-71,179900.0,89,46.388426201963,16.449347813168,Međimurska,Čakovec,Sajmište,0,Jednoetažni,4,1,1,2,https://www.njuskalo.hr/nekretnine/top-ponuda-stan-cakovec-89-m2-namjesten-parking-novija-zgrada-oglas-41295835
-72,40000.0,48,46.499921328762,16.285326814851,Međimurska,Štrigova,Štrigova,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/prodaja-stana-strigova-48.00-m2-oglas-42203169
-73,265125.0,101,46.39495298046883,16.439191852962352,Međimurska,Čakovec,Vojni Vrtovi,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-urbana-vila-zavnoh-a-s4-oglas-42196708
-74,221250.0,83,46.39537477548658,16.43885094422941,Međimurska,Čakovec,Vojni Vrtovi,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-urbana-vila-zavnoh-a-s3-oglas-42196679
-75,210000.0,80,46.394952980469,16.439191852962,Međimurska,Čakovec,Vojni Vrtovi,0,Jednoetažni,4,2,2,0,https://www.njuskalo.hr/nekretnine/novogradnja-urbana-vila-zavnoh-a-s2-oglas-42196652
-76,148000.0,140,46.38978920940246,16.43725511703643,Međimurska,Čakovec,Centar,1,Dvoetažni,4,2,2,1,https://www.njuskalo.hr/nekretnine/cakovec-cetverosoban-stan-140m-oglas-40855058
-77,157065.0,77,46.4090364665,16.449873679509,Međimurska,Čakovec - Okolica,Mihovljan,0,Jednoetažni,3,1,2,1,https://www.njuskalo.hr/nekretnine/novogradnja-mihovljan-trosoban-stan-prizemlje-17-oglas-38626103
-78,175000.0,127,46.453014846088,16.436007741586,Međimurska,Čakovec - Okolica,Žiškovec,1,Dvoetažni,4,2,2,0,https://www.njuskalo.hr/nekretnine/stan-ziskovec-novogradnja-urbana-vila-127.00-m2-oglas-35942769
-79,95000.0,66,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Centar,0,Dvoetažni,3,2,1,1,https://www.njuskalo.hr/nekretnine/top-lokacija-cakovec-stan-66m2-centar-2-parkirna-mjesta-oglas-39230566
-80,127855.0,50,46.394382623227,16.423033175218,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-top-lokacia-2-sobni-stan-49.18-m2-novogradnja-galerija-sjever-oglas-42183519
-81,191625.0,78,46.394382623227,16.423033175218,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,1,1,0,https://www.njuskalo.hr/nekretnine/cakovec-top-lokacia-3-sobni-stan-76.65-m2-novogradnja-galerija-sjever-oglas-42183415
-82,113100.0,43,46.391585358334,16.426170301403,Međimurska,Čakovec,Globetka,0,Jednoetažni,1,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42179216
-83,185965.0,71,46.391516628402,16.426147162281,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42179202
-84,185965.0,71,46.391760817842,16.424172078851,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42179200
-85,113425.0,43,46.391129428909,16.423536738004,Međimurska,Čakovec,Globetka,0,Jednoetažni,1,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42179188
-86,258570.0,99,46.39343375849,16.42517749781,Međimurska,Čakovec,Globetka,0,Jednoetažni,4,2,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42179187
-87,167765.0,64,46.392642632524,16.424842130587,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42179186
-88,138975.0,111,46.49992048552767,16.287112801144332,Međimurska,Štrigova,Štrigova,0,Dvoetažni,4,2,2,1,https://www.njuskalo.hr/nekretnine/stan-novogradnja-strigova-111.18m2-oglas-38470967
-89,128150.0,102,46.49992048552767,16.287112801144332,Međimurska,Štrigova,Štrigova,0,Dvoetažni,4,2,1,1,https://www.njuskalo.hr/nekretnine/stan-novogradnja-strigova-102.52m2-oglas-38470968
-90,2600.0,81,46.392334978282,16.42635557659,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-galerija-sjever-pretprodaja-trosoban-stan-81.05-oglas-42153430
-91,2600.0,95,46.392910897426,16.426992310508,Međimurska,Čakovec,Globetka,0,Jednoetažni,4,2,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-galerija-sjever-pretprodaja-trosoban-stan-95-oglas-42153429
-92,155285.0,59,46.39080123345,16.423697248586,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42145434
-93,175980.0,125,46.45459456515,16.430766792203,Međimurska,Čakovec - Okolica,Žiškovec,0,Dvoetažni,4,1,1,2,https://www.njuskalo.hr/nekretnine/posljednja-kuca-nizu-ziskovec-oglas-42145398
-94,254800.0,98,46.392323699275,16.425828749217,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,2,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42145395
-95,185965.0,71,46.391642833474,16.423516628466,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42145387
-96,185965.0,71,46.391231222412,16.427046238453,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42145386
-97,229320.0,88,46.392544969782,16.425101345967,Međimurska,Čakovec,Globetka,0,Jednoetažni,4,2,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42145385
-98,135000.0,100,46.39359118207114,16.422089902704712,Međimurska,Čakovec,Globetka,0,Dvoetažni,4,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-globetka-dvoetazan-stan-100m-oglas-42130739
-99,138975.0,111,46.500658238938,16.288281356316,Međimurska,Štrigova,Štrigova,0,Dvoetažni,4,2,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-izvrsne-kvalitete-strigovi-oglas-36011154
-100,128150.0,102,46.499181888883,16.287730232266,Međimurska,Štrigova,Štrigova,0,Dvoetažni,4,2,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-izvrsne-kvalitete-strigovi-oglas-36011150
-101,1.0,47,46.396772670523,16.430278895468,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,2,https://www.njuskalo.hr/nekretnine/cakovec-20-m-galerije-sjever-47.00-m2-novogradnja-oglas-42129709
-102,163799.0,79,46.40604459247734,16.449206901423963,Međimurska,Čakovec - Okolica,Mihovljan,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-mihovljan-trosoban-stan-prizemlje-s6-oglas-41061521
-103,163336.0,78,46.406044592477,16.449206901424,Međimurska,Čakovec - Okolica,Mihovljan,0,Jednoetažni,4,2,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-mihovljan-dvosoban-stan-2-kat-s8-oglas-39631282
-104,270000.0,115,46.39036270512769,16.430153645770528,Međimurska,Čakovec,Centar,0,Jednoetažni,4,1,1,1,https://www.njuskalo.hr/nekretnine/potpuno-renoviran-stan-kod-trga-republike-oglas-42101627
-105,106154.0,82,46.396481315553,16.484707399222,Međimurska,Čakovec - Okolica,Pribislavec,0,Jednoetažni,4,2,2,0,https://www.njuskalo.hr/nekretnine/pribislavec-cetverosobni-stan-urbanoj-vili-oglas-38487567
-106,106154.0,82,46.397069540751,16.489157461246,Međimurska,Čakovec - Okolica,Pribislavec,0,Jednoetažni,4,2,2,0,https://www.njuskalo.hr/nekretnine/pribislavec-cetverosobni-stan-urbanoj-vili-oglas-38487566
-107,113425.0,45,46.394382623227,16.423033175218,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-top-lokacija-2-sobni-stan-43.5-m2-novogradnja-galerija-sjever-oglas-42069928
-108,163872.0,91,46.408804252637,16.450069313513,Međimurska,Čakovec - Okolica,Mihovljan,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/mihovljan-3-sobni-stan-88.54-m2-novogradnja-pogledom-prema-cakovcu-oglas-40821352
-109,228254.0,126,46.407126026701,16.444043173965,Međimurska,Čakovec - Okolica,Mihovljan,0,Jednoetažni,4,2,2,3,https://www.njuskalo.hr/nekretnine/mihovljan-penthouse-135-m2-novogradnja-pogledom-prema-cakovcu-oglas-40142826
-110,147000.0,124,16.4410346,46.4040305,Međimurska,Čakovec - Okolica,Mihovljan,1,Dvoetažni,4,1,2,2,https://www.njuskalo.hr/nekretnine/stan-mihovljan-novogradnja-124.00-m2-izdana-uporabna-dozvola-oglas-39843474
-111,390350.0,211,16.441034,46.40403,Međimurska,Čakovec - Okolica,Mihovljan,0,Jednoetažni,4,3,1,3,https://www.njuskalo.hr/nekretnine/mihovljan-penthouse-211-m2-vrhunski-dozivljaj-prvoklasnim-pogledom-oglas-38467631
-112,240170.0,90,46.392225199042,16.428228432695,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,1,1,3,https://www.njuskalo.hr/nekretnine/cakovec-top-lokacija-penthouse-85.78-m2-novogradnja-galerija-sjever-oglas-42069773
-113,118000.0,65,46.381916038365,16.4475372506,Međimurska,Čakovec,Jug,0,Dvoetažni,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-cakovec-118.000-oglas-42003793
-114,166950.0,63,46.392225199042,16.428228432695,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,3,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-penthouse-59.63-m2-novogradnja-oglas-41979868
-115,302680.0,122,46.392225199042,16.428228432695,Međimurska,Čakovec,Globetka,0,Jednoetažni,4,2,2,3,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-penthouse-108.10-m2-novogradnja-oglas-41979644
-116,254800.0,101,46.392225199042,16.428228432695,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,2,2,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-3-sobni-stan-98.00-m2-oglas-41979390
-117,113100.0,43,46.394382623227,16.423033175218,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-2-sobni-stan-43.50-m2-novogradnja-oglas-41979195
-118,155285.0,63,46.392225199042,16.428228432695,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-2-sobni-stan-58.70-m2-oglas-41979022
-119,150000.0,107,46.40648451680865,16.444505522727543,Međimurska,Čakovec - Okolica,Mihovljan,0,Dvoetažni,4,2,2,0,https://www.njuskalo.hr/nekretnine/mihovljan-novogradnja-2-stana-ponudi-oglas-39801941
-120,97500.0,49,46.39007740236985,16.432461859199602,Međimurska,Čakovec,Centar,0,Jednoetažni,2,1,1,5,https://www.njuskalo.hr/nekretnine/stan-cakovec-49.00-m2-oglas-41922546
-121,299520.0,115,46.392981560792,16.427336316843,Međimurska,Čakovec,Globetka,0,Jednoetažni,4,2,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41911848
-122,155298.0,59,46.39298260151,16.422651802152,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41911838
-123,113425.0,43,46.391316896637,16.425814688592,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41911831
-124,88000.0,137,46.51273293377947,16.43799304962158,Međimurska,Mursko Središće,Mursko Središće,0,Jednoetažni,3,2,1,1,https://www.njuskalo.hr/nekretnine/stan-mursko-sredisce-137.00-m2-oglas-40340852
-125,143125.0,57,46.391568733149,16.425357188481,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871149
-126,143125.0,57,46.392844278369,16.424643068033,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871148
-127,191625.0,76,46.393708285178,16.427397264053,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871147
-128,151938.0,60,46.391951336471,16.42644861844,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871146
-129,286000.0,114,46.39279785757,16.424873035644,Međimurska,Čakovec,Globetka,0,Jednoetažni,4,2,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871145
-130,191625.0,76,46.392221524366,16.424254926843,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871143
-131,144438.0,57,46.392566799929,16.426181239367,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871141
-132,144438.0,57,46.394516565107,16.424823497421,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871140
-133,246813.0,98,46.393132960198,16.426777476282,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,2,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871139
-134,191625.0,76,46.392344311666,16.425094122931,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871137
-135,246813.0,98,46.392197622463,16.422538653611,Međimurska,Čakovec,Globetka,0,Jednoetažni,3,2,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871136
-136,191625.0,76,46.391808557118,16.427059312255,Međimurska,Čakovec,Globetka,0,Jednoetažni,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871134
-137,106154.0,82,46.393827375845,16.479281761482,Međimurska,Pribislavec,Pribislavec,0,Jednoetažni,4,2,2,0,https://www.njuskalo.hr/nekretnine/stan-pribislavec-87.09-m2-novogradnja-oglas-35681927
-138,106154.0,82,46.396130062227,16.484281135042,Međimurska,Čakovec - Okolica,Pribislavec,0,Jednoetažni,4,2,2,2,https://www.njuskalo.hr/nekretnine/pribislavec-cetverosobni-stan-urbanoj-vili-idealan-mladu-obitelj-oglas-36529547
-139,167751.0,88,46.408878962804,16.449342733532,Međimurska,Čakovec - Okolica,Mihovljan,0,Jednoetažni,3,1,1,0,https://www.njuskalo.hr/nekretnine/vrhunska-zapoceta-novogradnja-mihovljanu-oglas-39861300
-140,135000.0,100,46.387954207268,16.423213278084,Međimurska,Čakovec,Globetka,0,Dvoetažni,4,1,1,1,https://www.njuskalo.hr/nekretnine/jedinstveni-dvoetazni-stan-zadnjem-katu-100-m2-oglas-41062536
-141,168359.0,88,46.407075030634,16.448834901749,Međimurska,Čakovec - Okolica,Mihovljan,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/vrhunska-novogradnja-mihovljanu-oglas-39205310
-142,148656.0,78,46.407450799571,16.448069906081,Međimurska,Čakovec - Okolica,Mihovljan,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/vrhunska-novogradnja-mihovljanu-oglas-39205309
-143,110000.0,59,46.414453976487,16.40878612971,Međimurska,Šenkovec,Šenkovec,0,Jednoetažni,3,1,1,1,https://www.njuskalo.hr/nekretnine/trosobni-stan-senkovcu-s4-oglas-41732228
-144,150000.0,67,46.39160492402634,16.432631640027438,Međimurska,Čakovec,Centar,0,Jednoetažni,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-centru-grada-cakovec-67.00-m2-oglas-41529076
-145,110000.0,103,46.38352321866722,16.4459901463662,Međimurska,Čakovec,Buzovec,0,Jednoetažni,4,1,1,1,https://www.njuskalo.hr/nekretnine/4-sobni-stan-cakovcu-s1-oglas-41520678
+33,1350.0,82,46.39342748902928,16.480693019755762,Međimurska,Pribislavec,Pribislavec,0,1,4,2,2,1,https://www.njuskalo.hr/nekretnine/stan-pribislavec-82.29-m2-novogradnja-oglas-39455478
+30,2500.0,40,46.392398758133005,16.42603916155825,Međimurska,Čakovec,Globetka,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/bez-provizije-jedinstvena-novogradnja-cakovcu-stanovi-38-230-m2-oglas-42283242
+34,2500.0,55,46.390721393297,16.426103458821,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-galerija-sjever-pretprodaja-dvosoban-stan-55.8m-oglas-42089552
+90,2600.0,81,46.392334978282,16.42635557659,Međimurska,Čakovec,Globetka,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-galerija-sjever-pretprodaja-trosoban-stan-81.05-oglas-42153430
+91,2600.0,95,46.392910897426,16.426992310508,Međimurska,Čakovec,Globetka,0,1,4,2,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-galerija-sjever-pretprodaja-trosoban-stan-95-oglas-42153429
+72,40000.0,48,46.499921328762,16.285326814851,Međimurska,Štrigova,Štrigova,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/prodaja-stana-strigova-48.00-m2-oglas-42203169
+9,49000.0,72,46.51273293377947,16.43799304962158,Međimurska,Mursko Središće,Mursko Središće,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-mursko-sredisce-72.00-m2-oglas-40340882
+62,59000.0,71,46.53502166882487,16.364857723804217,Međimurska,Sveti Martin Na Muri,Sveti Martin na Muri,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-sveti-martin-muri-71.29-m2-oglas-40395220
+58,60000.0,71,46.39574876341739,16.445224837125952,Međimurska,Čakovec,Vojni Vrtovi,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-71-m2-oglas-22192148
+59,63000.0,63,46.34319884316413,16.739941946401295,Međimurska,Sveta Marija,Sveta Marija,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-sveta-marija-63.49-m2-oglas-41588668
+48,75000.0,75,46.390517618175,16.433486779678,Međimurska,Čakovec,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-trosoban-stan-renovaciju-oglas-41345046
+43,76000.0,63,46.387855399641325,16.435458277312595,Međimurska,Čakovec,Centar,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/prodaje-se-stan-centru-cakovca-oglas-37025949
+67,78990.0,40,46.387855399641325,16.435458277312595,Međimurska,Čakovec,Centar,0,1,1,1,1,2,https://www.njuskalo.hr/nekretnine/stan-cakovec-40-m2-2-spremista-parking-renoviran-namjesten-oglas-41181827
+146,79000.0,79,46.387855399641325,16.435458277312595,Međimurska,Čakovec,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/dvosoban-stan-cakovcu-oglas-41187846
+69,79943.0,46,46.38675161068164,16.448241837145183,Međimurska,Čakovec,Sajmište,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-46.00-m2-oglas-42220708
+124,88000.0,137,46.51273293377947,16.43799304962158,Međimurska,Mursko Središće,Mursko Središće,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/stan-mursko-sredisce-137.00-m2-oglas-40340852
+55,90000.0,54,46.387855399641325,16.435458277312595,Međimurska,Čakovec,Centar,0,1,2,1,1,5,https://www.njuskalo.hr/nekretnine/stan-centru-cakovca-54.04m2-oglas-42244298
+60,91000.0,54,46.38717047713573,16.437375299550464,Međimurska,Čakovec,Centar,0,1,2,1,1,5,https://www.njuskalo.hr/nekretnine/stan-cakovec-54.04-m2-oglas-41747664
+11,95000.0,66,46.3879918898081,16.43146819570594,Međimurska,Čakovec,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-66m2-centru-cakovca-oglas-36356568
+79,95000.0,66,46.387855399641325,16.435458277312595,Međimurska,Čakovec,Centar,0,2,3,2,1,1,https://www.njuskalo.hr/nekretnine/top-lokacija-cakovec-stan-66m2-centar-2-parkirna-mjesta-oglas-39230566
+120,97500.0,49,46.39007740236985,16.432461859199602,Međimurska,Čakovec,Centar,0,1,2,1,1,5,https://www.njuskalo.hr/nekretnine/stan-cakovec-49.00-m2-oglas-41922546
+3,100000.0,70,46.387855399641325,16.435458277312595,Međimurska,Čakovec,Centar,0,1,3,1,1,4,https://www.njuskalo.hr/nekretnine/cakovec-stan-70-m2-oglas-40303543
+2,100000.0,48,46.387855399641325,16.435458277312595,Međimurska,Čakovec,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-stan-48.84-m2-1-kat-oglas-40778962
+66,102000.0,49,46.385624222505,16.440923135569,Međimurska,Čakovec,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-49.90-m2-oglas-42238883
+57,106000.0,82,46.39290407085843,16.478319448636586,Međimurska,Pribislavec,Pribislavec,0,1,4,2,2,1,https://www.njuskalo.hr/nekretnine/novogradnja-stan-pribislavcu-82.29m2-oglas-40421064
+56,106000.0,82,46.39290407085843,16.478319448636586,Međimurska,Pribislavec,Pribislavec,0,1,4,2,2,0,https://www.njuskalo.hr/nekretnine/novogradnja-stan-pribislavcu-82.29m2-oglas-40421065
+29,106154.0,82,46.397000011035,16.488357851922,Međimurska,Čakovec - Okolica,Pribislavec,0,1,4,2,2,0,https://www.njuskalo.hr/nekretnine/pribislavec-cetverosobni-stan-urbanoj-vili-oglas-38487565
+1,106154.0,82,46.391457347701,16.474983564672,Međimurska,Pribislavec,Pribislavec,0,1,4,2,2,0,https://www.njuskalo.hr/nekretnine/stan-pribislavec-82.29-m2-novogradnja-oglas-37637977
+105,106154.0,82,46.396481315553,16.484707399222,Međimurska,Čakovec - Okolica,Pribislavec,0,1,4,2,2,0,https://www.njuskalo.hr/nekretnine/pribislavec-cetverosobni-stan-urbanoj-vili-oglas-38487567
+106,106154.0,82,46.397069540751,16.489157461246,Međimurska,Čakovec - Okolica,Pribislavec,0,1,4,2,2,0,https://www.njuskalo.hr/nekretnine/pribislavec-cetverosobni-stan-urbanoj-vili-oglas-38487566
+138,106154.0,82,46.396130062227,16.484281135042,Međimurska,Čakovec - Okolica,Pribislavec,0,1,4,2,2,1,https://www.njuskalo.hr/nekretnine/pribislavec-cetverosobni-stan-urbanoj-vili-idealan-mladu-obitelj-oglas-36529547
+137,106154.0,82,46.393827375845,16.479281761482,Međimurska,Pribislavec,Pribislavec,0,1,4,2,2,0,https://www.njuskalo.hr/nekretnine/stan-pribislavec-87.09-m2-novogradnja-oglas-35681927
+68,108000.0,40,46.38717803921545,16.42913254632216,Međimurska,Čakovec,Globetka,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/prodaje-se-dvosoban-stan-centru-cakovca-oglas-42065160
+145,110000.0,103,46.38352321866722,16.4459901463662,Međimurska,Čakovec,Buzovec,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/4-sobni-stan-cakovcu-s1-oglas-41520678
+143,110000.0,59,46.414453976487,16.40878612971,Međimurska,Šenkovec,Šenkovec,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/trosobni-stan-senkovcu-s4-oglas-41732228
+18,112554.0,43,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875150
+117,113100.0,43,46.394382623227,16.423033175218,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-2-sobni-stan-43.50-m2-novogradnja-oglas-41979195
+82,113100.0,43,46.391585358334,16.426170301403,Međimurska,Čakovec,Globetka,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42179216
+123,113425.0,43,46.391316896637,16.425814688592,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41911831
+107,113425.0,45,46.394382623227,16.423033175218,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-top-lokacija-2-sobni-stan-43.5-m2-novogradnja-galerija-sjever-oglas-42069928
+85,113425.0,43,46.391129428909,16.423536738004,Međimurska,Čakovec,Globetka,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42179188
+44,115000.0,72,46.389724781843,16.434701286054,Međimurska,Čakovec,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-centru-grada-spustena-cijena-oglas-5003145
+8,115400.0,81,46.41003064714136,16.524011418049763,Međimurska,Belica,Belica,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-belica-81.61-m2-oglas-41186868
+113,118000.0,65,46.381916038365,16.4475372506,Međimurska,Čakovec,Jug,0,2,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-cakovec-118.000-oglas-42003793
+64,120000.0,174,46.388229743613,16.437915072849,Međimurska,Čakovec,Centar,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-174.27-m2-oglas-37329620
+147,120000.0,297,46.387764565051,16.437784531583,Međimurska,Čakovec,Centar,1,1,3,2,2,1,https://www.njuskalo.hr/nekretnine/stan-dvoristem-cakovcu-s41-oglas-34369809
+19,127010.0,48,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875133
+80,127855.0,50,46.394382623227,16.423033175218,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-top-lokacia-2-sobni-stan-49.18-m2-novogradnja-galerija-sjever-oglas-42183519
+89,128150.0,102,46.49992048552767,16.287112801144332,Međimurska,Štrigova,Štrigova,0,2,4,2,1,1,https://www.njuskalo.hr/nekretnine/stan-novogradnja-strigova-102.52m2-oglas-38470968
+100,128150.0,102,46.499181888883,16.287730232266,Međimurska,Štrigova,Štrigova,0,2,4,2,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-izvrsne-kvalitete-strigovi-oglas-36011150
+45,128150.0,84,46.49992048552767,16.287112801144332,Međimurska,Štrigova,Štrigova,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/useljivi-namjesteni-stan-centru-strigove-oglas-28055516
+65,130000.0,169,46.38650646956,16.436374021735,Međimurska,Čakovec,Centar,1,2,3,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-strogi-centar-komotan-stan-prvom-katu-kod-crkve-oglas-32761117
+98,135000.0,100,46.39359118207114,16.422089902704712,Međimurska,Čakovec,Globetka,0,2,4,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-globetka-dvoetazan-stan-100m-oglas-42130739
+140,135000.0,100,46.387954207268,16.423213278084,Međimurska,Čakovec,Globetka,0,2,4,1,1,1,https://www.njuskalo.hr/nekretnine/jedinstveni-dvoetazni-stan-zadnjem-katu-100-m2-oglas-41062536
+35,137690.0,49,46.39086964488346,16.42710048769005,Međimurska,Čakovec,Globetka,0,1,1,1,1,4,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41918550
+88,138975.0,111,46.49992048552767,16.287112801144332,Međimurska,Štrigova,Štrigova,0,2,4,2,2,1,https://www.njuskalo.hr/nekretnine/stan-novogradnja-strigova-111.18m2-oglas-38470967
+99,138975.0,111,46.500658238938,16.288281356316,Međimurska,Štrigova,Štrigova,0,2,4,2,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-izvrsne-kvalitete-strigovi-oglas-36011154
+125,143125.0,57,46.391568733149,16.425357188481,Međimurska,Čakovec,Globetka,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871149
+126,143125.0,57,46.392844278369,16.424643068033,Međimurska,Čakovec,Globetka,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871148
+25,143575.0,57,46.390678419413,16.426713546738,Međimurska,Čakovec,Globetka,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-cakovec-56.00-m2-novogradnja-oglas-41874880
+131,144438.0,57,46.392566799929,16.426181239367,Međimurska,Čakovec,Globetka,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871141
+132,144438.0,57,46.394516565107,16.424823497421,Međimurska,Čakovec,Globetka,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871140
+110,147000.0,124,16.4410346,46.4040305,Međimurska,Čakovec - Okolica,Mihovljan,1,2,4,1,2,1,https://www.njuskalo.hr/nekretnine/stan-mihovljan-novogradnja-124.00-m2-izdana-uporabna-dozvola-oglas-39843474
+27,147000.0,84,46.398514,16.450281,Međimurska,Čakovec - Okolica,Mihovljan,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-cakovec-oglas-34056189
+76,148000.0,140,46.38978920940246,16.43725511703643,Međimurska,Čakovec,Centar,1,2,4,2,2,1,https://www.njuskalo.hr/nekretnine/cakovec-cetverosoban-stan-140m-oglas-40855058
+142,148656.0,78,46.407450799571,16.448069906081,Međimurska,Čakovec - Okolica,Mihovljan,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/vrhunska-novogradnja-mihovljanu-oglas-39205309
+53,149000.0,75,46.381927,16.44042,Međimurska,Čakovec,Centar,0,2,3,1,2,0,https://www.njuskalo.hr/nekretnine/prodajem-stan-75m2-oglas-41913944
+144,150000.0,67,46.39160492402634,16.432631640027438,Međimurska,Čakovec,Centar,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-centru-grada-cakovec-67.00-m2-oglas-41529076
+119,150000.0,107,46.40648451680865,16.444505522727543,Međimurska,Čakovec - Okolica,Mihovljan,0,2,4,2,2,0,https://www.njuskalo.hr/nekretnine/mihovljan-novogradnja-2-stana-ponudi-oglas-39801941
+23,151075.0,60,46.390678419413,16.426713546738,Međimurska,Čakovec,Globetka,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41874995
+128,151938.0,60,46.391951336471,16.42644861844,Međimurska,Čakovec,Globetka,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871146
+54,154000.0,75,46.385452,16.429771,Međimurska,Čakovec,Centar,0,2,3,1,2,0,https://www.njuskalo.hr/nekretnine/prodajem-stan-75m2-oglas-41913734
+36,155272.0,59,46.39112464120944,16.422549675292494,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41918503
+92,155285.0,59,46.39080123345,16.423697248586,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42145434
+118,155285.0,63,46.392225199042,16.428228432695,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-2-sobni-stan-58.70-m2-oglas-41979022
+122,155298.0,59,46.39298260151,16.422651802152,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41911838
+77,157065.0,77,46.4090364665,16.449873679509,Međimurska,Čakovec - Okolica,Mihovljan,0,1,3,1,2,1,https://www.njuskalo.hr/nekretnine/novogradnja-mihovljan-trosoban-stan-prizemlje-17-oglas-38626103
+61,160000.0,130,46.38661477513202,16.43660647908248,Međimurska,Čakovec,Centar,0,2,4,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-130.73-m2-oglas-41743393
+31,162000.0,107,46.391846605515,16.422120456409,Međimurska,Čakovec,Globetka,0,2,4,2,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-115-m2-novogradnja-oglas-1358768
+103,163336.0,78,46.406044592477,16.449206901424,Međimurska,Čakovec - Okolica,Mihovljan,0,1,4,2,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-mihovljan-dvosoban-stan-2-kat-s8-oglas-39631282
+102,163799.0,79,46.40604459247734,16.449206901423963,Međimurska,Čakovec - Okolica,Mihovljan,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-mihovljan-trosoban-stan-prizemlje-s6-oglas-41061521
+108,163872.0,91,46.408804252637,16.450069313513,Međimurska,Čakovec - Okolica,Mihovljan,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/mihovljan-3-sobni-stan-88.54-m2-novogradnja-pogledom-prema-cakovcu-oglas-40821352
+21,165698.0,63,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875036
+114,166950.0,63,46.392225199042,16.428228432695,Međimurska,Čakovec,Globetka,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-penthouse-59.63-m2-novogradnja-oglas-41979868
+139,167751.0,88,46.408878962804,16.449342733532,Međimurska,Čakovec - Okolica,Mihovljan,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/vrhunska-zapoceta-novogradnja-mihovljanu-oglas-39861300
+87,167765.0,64,46.392642632524,16.424842130587,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42179186
+141,168359.0,88,46.407075030634,16.448834901749,Međimurska,Čakovec - Okolica,Mihovljan,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/vrhunska-novogradnja-mihovljanu-oglas-39205310
+63,169000.0,104,46.38617369746468,16.434671239253145,Međimurska,Čakovec,Centar,0,2,4,2,1,2,https://www.njuskalo.hr/nekretnine/stan-cakovec-104.80-m2-oglas-40104973
+42,169750.0,97,41.79649172954085,21.056171898395117,Međimurska,Čakovec - Okolica,Mihovljan,1,2,4,1,2,0,https://www.njuskalo.hr/nekretnine/kuca-3-stana-pasivna-kuca-mihovljanu-oglas-37082819
+14,171801.0,63,46.39224124927077,16.428232245885454,Međimurska,Čakovec,Globetka,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875228
+78,175000.0,127,46.453014846088,16.436007741586,Međimurska,Čakovec - Okolica,Žiškovec,1,2,4,2,2,0,https://www.njuskalo.hr/nekretnine/stan-ziskovec-novogradnja-urbana-vila-127.00-m2-oglas-35942769
+28,175000.0,98,46.387855399641325,16.435458277312595,Međimurska,Čakovec,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/impresivan-stan-privatnom-penthouse-terasom-oglas-41652714
+70,175000.0,97,46.3813689166374,16.43133575148896,Međimurska,Čakovec,Martane,0,2,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-martane-2.5-sobni-stan-velikom-terasom-oglas-40643903
+93,175980.0,125,46.45459456515,16.430766792203,Međimurska,Čakovec - Okolica,Žiškovec,0,2,4,1,1,1,https://www.njuskalo.hr/nekretnine/posljednja-kuca-nizu-ziskovec-oglas-42145398
+71,179900.0,89,46.388426201963,16.449347813168,Međimurska,Čakovec,Sajmište,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/top-ponuda-stan-cakovec-89-m2-namjesten-parking-novija-zgrada-oglas-41295835
+20,185198.0,71,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875058
+84,185965.0,71,46.391760817842,16.424172078851,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42179200
+96,185965.0,71,46.391231222412,16.427046238453,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42145386
+95,185965.0,71,46.391642833474,16.423516628466,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42145387
+83,185965.0,71,46.391516628402,16.426147162281,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42179202
+24,190900.0,76,46.390678419413,16.426713546738,Međimurska,Čakovec,Globetka,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41874975
+127,191625.0,76,46.393708285178,16.427397264053,Međimurska,Čakovec,Globetka,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871147
+134,191625.0,76,46.392344311666,16.425094122931,Međimurska,Čakovec,Globetka,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871137
+130,191625.0,76,46.392221524366,16.424254926843,Međimurska,Čakovec,Globetka,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871143
+136,191625.0,76,46.391808557118,16.427059312255,Međimurska,Čakovec,Globetka,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871134
+81,191625.0,78,46.394382623227,16.423033175218,Međimurska,Čakovec,Globetka,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/cakovec-top-lokacia-3-sobni-stan-76.65-m2-novogradnja-galerija-sjever-oglas-42183415
+26,195000.0,140,46.406864643421,16.438740145212,Međimurska,Čakovec - Okolica,Mihovljan,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/penthouse-safran-breg-uporabnom-dozvolom-oglas-42288678
+32,197500.0,169,46.3831313140206,16.430315881196833,Međimurska,Čakovec,Martane,1,3,5,2,1,1,https://www.njuskalo.hr/nekretnine/stan-cakovec-169.00-m2-oglas-41473034
+4,205000.0,69,46.387855399641325,16.435458277312595,Međimurska,Čakovec,Centar,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/cakovec-4s-stan-69m2-oglas-41917669
+37,205465.0,79,46.3929222563856,16.42823892479706,Međimurska,Čakovec,Globetka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41918515
+75,210000.0,80,46.394952980469,16.439191852962,Međimurska,Čakovec,Vojni Vrtovi,0,1,4,2,2,0,https://www.njuskalo.hr/nekretnine/novogradnja-urbana-vila-zavnoh-a-s2-oglas-42196652
+74,221250.0,83,46.39537477548658,16.43885094422941,Međimurska,Čakovec,Vojni Vrtovi,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-urbana-vila-zavnoh-a-s3-oglas-42196679
+12,223275.0,90,46.39174583452202,16.428030761999572,Međimurska,Čakovec,Globetka,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-42107032
+17,224484.0,86,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,1,4,2,2,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875165
+47,225000.0,138,46.390517618175,16.433486779678,Međimurska,Čakovec,Centar,0,1,5,2,2,0,https://www.njuskalo.hr/nekretnine/cakovec-moderno-opremljen-stan-oglas-41581504
+109,228254.0,126,46.407126026701,16.444043173965,Međimurska,Čakovec - Okolica,Mihovljan,0,1,4,2,2,3,https://www.njuskalo.hr/nekretnine/mihovljan-penthouse-135-m2-novogradnja-pogledom-prema-cakovcu-oglas-40142826
+97,229320.0,88,46.392544969782,16.425101345967,Međimurska,Čakovec,Globetka,0,1,4,2,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42145385
+16,229581.0,85,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875188
+112,240170.0,90,46.392225199042,16.428228432695,Međimurska,Čakovec,Globetka,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/cakovec-top-lokacija-penthouse-85.78-m2-novogradnja-galerija-sjever-oglas-42069773
+135,246813.0,98,46.392197622463,16.422538653611,Međimurska,Čakovec,Globetka,0,1,3,2,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871136
+133,246813.0,98,46.393132960198,16.426777476282,Međimurska,Čakovec,Globetka,0,1,3,2,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871139
+50,250820.0,105,46.380781450843,16.431675708253,Međimurska,Čakovec,Martane,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-urbana-vila-travnicka-s3-oglas-41995747
+116,254800.0,101,46.392225199042,16.428228432695,Međimurska,Čakovec,Globetka,0,1,3,2,2,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-3-sobni-stan-98.00-m2-oglas-41979390
+94,254800.0,98,46.392323699275,16.425828749217,Međimurska,Čakovec,Globetka,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42145395
+86,258570.0,99,46.39343375849,16.42517749781,Međimurska,Čakovec,Globetka,0,1,4,2,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-42179187
+15,262656.0,97,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,1,3,2,2,2,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875208
+73,265125.0,101,46.39495298046883,16.439191852962352,Međimurska,Čakovec,Vojni Vrtovi,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-urbana-vila-zavnoh-a-s4-oglas-42196708
+22,265590.0,102,46.393496407593,16.428000926421,Međimurska,Čakovec,Globetka,0,1,3,2,2,1,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875021
+49,269660.0,117,46.380781450843,16.431675708253,Međimurska,Čakovec,Martane,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/cakovec-urbana-vila-travnicka-s4-oglas-41995769
+104,270000.0,115,46.387855399641325,16.435458277312595,Međimurska,Čakovec,Centar,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/potpuno-renoviran-stan-kod-trga-republike-oglas-42101627
+13,285740.0,102,46.3934964075934,16.42800092642146,Međimurska,Čakovec,Globetka,0,1,4,2,2,4,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-novogradnja-oglas-41875269
+129,286000.0,114,46.39279785757,16.424873035644,Međimurska,Čakovec,Globetka,0,1,4,2,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41871145
+7,290000.0,183,46.379383656975,16.441006385448,Međimurska,Čakovec,Jug,1,2,5,3,1,0,https://www.njuskalo.hr/nekretnine/cakovec-luksuzna-novogradnja-5-sobni-stan-neto-183.61-m2-oglas-39520043
+51,298620.0,121,46.380781450843,16.431675708253,Međimurska,Čakovec,Martane,0,1,4,2,2,0,https://www.njuskalo.hr/nekretnine/cakovec-urbana-vila-travnicka-s2-oglas-41995714
+121,299520.0,115,46.392981560792,16.427336316843,Međimurska,Čakovec,Globetka,0,1,4,2,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-cakovec-kod-galerije-sjever-oglas-41911848
+10,300000.0,166,46.378483782512816,16.44251458353307,Međimurska,Čakovec,Jug,1,2,5,3,1,0,https://www.njuskalo.hr/nekretnine/pametni-niskoenergetski-stan-166m2-cakovec-oglas-40278162
+115,302680.0,122,46.392225199042,16.428228432695,Međimurska,Čakovec,Globetka,0,1,4,2,2,3,https://www.njuskalo.hr/nekretnine/cakovec-galerija-sjever-penthouse-108.10-m2-novogradnja-oglas-41979644
+6,310000.0,167,46.379383656975,16.441006385448,Međimurska,Čakovec,Jug,1,2,5,3,1,0,https://www.njuskalo.hr/nekretnine/stan-cakovec-167.00-m2-novogradnja-oglas-39527886
+46,315000.0,167,46.37971015836057,16.442614198095413,Međimurska,Čakovec,Jug,0,2,5,3,1,1,https://www.njuskalo.hr/nekretnine/vrhunski-dvoetazni-stan-cakovec-jug-useljivo-oglas-40526934
+38,330000.0,169,46.37971015836057,16.442614198095413,Međimurska,Čakovec,Jug,0,2,5,3,3,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-cakovec-luksuzna-izvedba-oprema-170-m2-330.000-oglas-39660667
+39,330000.0,167,46.37971015836057,16.442614198095413,Međimurska,Čakovec,Jug,0,2,5,3,3,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-cakovec-luksuzna-izvedba-oprema-168-m2-330.000-oglas-39660670
+40,330000.0,166,46.37971015836057,16.442614198095413,Međimurska,Čakovec,Jug,0,2,5,3,3,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-cakovec-luksuzna-izvedba-oprema-168-m2-330.000-oglas-39660668
+52,330000.0,169,46.37971015836057,16.442614198095413,Međimurska,Čakovec,Jug,0,2,5,3,1,1,https://www.njuskalo.hr/nekretnine/vrhunski-arhitektonski-projekt-vrhunska-izvedba-vrhunska-lokacija-oglas-38454738
