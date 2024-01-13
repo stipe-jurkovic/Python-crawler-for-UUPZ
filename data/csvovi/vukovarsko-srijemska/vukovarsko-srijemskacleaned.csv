@@ -10,7 +10,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 3,53000.0,54,45.37734472606843,18.95613670349121,Vukovarsko-srijemska,Vukovar,Borovo Naselje,0,1,2,1,1,5,https://www.njuskalo.hr/nekretnine/119-vukovar-vijenac-rudera-boskovica-3-26-stan-54.50-m2-5-kat-zg-oglas-39690663
 30,55000.0,52,45.35325367327488,18.99956382559308,Vukovarsko-srijemska,Vukovar,Olajnica,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-vukovar-52.00-m2-oglas-42114957
 41,59000.0,56,45.377035736718,18.96057844162,Vukovarsko-srijemska,Vukovar,Borovo Naselje,1,2,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-vukovar-56.24-m2-borovo-naselje-oglas-40690780
-7,60000.0,0,45.348490077075,19.011753356146,Vukovarsko-srijemska,Vukovar,Mitnica,0,1,0,1,1,0,https://www.njuskalo.hr/nekretnine/jarun-ulica-ante-pandakovica-oglas-41127056
 21,62000.0,85,45.292012468519275,18.803311518106266,Vukovarsko-srijemska,Vinkovci,Centar,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/stan-centru-grada-pjesacka-zona-prodaja-oglas-34403995
 37,64000.0,64,45.290968251891,18.805034009802,Vukovarsko-srijemska,Vinkovci,Centar,1,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/vinkovci-dvorisni-stan-oglas-40482692
 19,65000.0,68,45.35246663213775,18.99906043974454,Vukovarsko-srijemska,Vukovar,Centar,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/90-vukovar-j-j-strossmayera-5b-23-stan-68-m2-3-kat-zgradi-bez-li-oglas-35378017
@@ -43,4 +42,3 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 39,191680.0,119,45.354295803283534,18.995199026270402,Vukovarsko-srijemska,Vukovar,Centar,1,1,4,2,1,0,https://www.njuskalo.hr/nekretnine/stan-95.44-m2-urbanoj-vili-vukovar-oglas-41942608
 36,193212.0,118,45.353955547426,18.992564912725,Vukovarsko-srijemska,Vukovar,Centar,0,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/sta-centru-vukovara-122.00-m2-oglas-40003733
 25,195000.0,220,45.292012468519275,18.803311518106266,Vukovarsko-srijemska,Vinkovci,Centar,0,1,5,1,1,1,https://www.njuskalo.hr/nekretnine/predivan-luksuzan-dvoetazni-stan-vinkovci-220-m2-prodaja-oglas-34403997
-47,212900.0,1,45.189735065768,18.820085805698,Vukovarsko-srijemska,Privlaka,Privlaka,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/zadar-privlaka-moderan-stan-novogradnja-oglas-41309343

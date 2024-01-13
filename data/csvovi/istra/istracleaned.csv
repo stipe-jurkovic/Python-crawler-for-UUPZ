@@ -1,6 +1,4 @@
 linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
-8785,53000.0,13.0,45.074125230535,13.672260732131,Istarska,Rovinj,Rovinj,0,1,0,1,1,4,https://www.njuskalo.hr/nekretnine/rovinj-studio-apartman-pogledom-more-oglas-40802256
-9528,59000.0,10.0,45.075362036978,13.67205204821,Istarska,Rovinj,Rovinj,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/rovinj-fantastican-podrum-pregrst-potencijala-10.5m2-oglas-41057619
 30,63000.0,20.0,45.231796126009,13.597986028013,Istarska,Poreč,Poreč,0,1,0,1,1,1,https://www.njuskalo.hr/nekretnine/porec-garsonijera-terasom-oglas-42058168
 2616,65000.0,20.0,45.106143666003,13.711408715033,Istarska,Rovinj,Rovinjsko Selo,0,1,1,1,1,2,https://www.njuskalo.hr/nekretnine/slatki-manji-stan-rovinjskom-selu-oglas-40234881
 1159,65000.0,20.0,45.073402942095,13.672794066248,Istarska,Rovinj,Rovinj,0,1,0,1,1,2,https://www.njuskalo.hr/nekretnine/rovinj-studio-apartman-pogledom-more-oglas-41803408
@@ -1783,7 +1781,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 9183,172000.0,55.0,45.431738360697,13.534320655858,Istarska,Umag,Umag,1,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/istra-umag-prekrasan-jednosoban-stan-obiteljskoj-kuci-700-m-m-oglas-41357263
 3962,172000.0,55.0,44.85308545257284,13.846074445222136,Istarska,Pula,Vidikovac,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/pula-vidikovac-prodaja-stana-55m2-pogled-grad-oglas-41570457
 2705,172000.0,40.0,44.823265051003,13.936125066062,Istarska,Medulin,Medulin,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/luksuzna-novogradnja-300m-mora-zgrada-a-prizemlje-oglas-41548162
-4532,172000.0,1.0,44.951694208697,13.796600818896,Istarska,Vodnjan,Peroj,0,1,1,1,1,2,https://www.njuskalo.hr/nekretnine/prekrasan-stan-novogradnji-jedinstvenim-pogledom-more-oglas-41755923
 6825,172000.0,79.0,44.815432799916,13.972580358862,Istarska,Ližnjan,Ližnjan,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-dvije-spavace-sobe-oglas-40125042
 3452,172000.0,59.0,44.853653988606695,13.876840459908989,Istarska,Pula,Valdebek,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/izvrstan-dvosoban-stan-okolici-pule-novogradnja-oglas-42259909
 8633,172000.0,56.0,44.76992248526972,13.0866474648706,Istarska,Ližnjan,Ližnjan,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/liznjan-stan-dvije-spavace-sobe-56.03m2-1000-m-mora-oglas-37870909
@@ -7159,7 +7156,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 6187,310000.0,165.0,45.23165056056331,13.598695014322148,Istarska,Poreč,Poreč,0,1,3,1,1,4,https://www.njuskalo.hr/nekretnine/stan-kuca-kod-centra-brtonigli-oglas-36392136
 428,310000.0,90.0,44.82342217244558,13.935509211877328,Istarska,Medulin,Medulin,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/medulin-vrhunska-novogradnja-kraj-mora-oglas-36663761
 9310,310000.0,126.0,44.80544441783376,13.88073887522531,Istarska,Medulin,Banjole,0,3,4,1,1,2,https://www.njuskalo.hr/nekretnine/medulin-apartman-volme-idealno-odmor-zivot-oglas-41246215
-2481,310000.0,1.126,44.869863783163,13.861786018251,Istarska,Pula,Kaštanjer,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-pula-114m2-atraktivno-penthaus-oglas-35437209
 7727,310000.0,65.0,44.85800949772279,13.816434527903331,Istarska,Pula,Stoja,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/pula-stoja-ekskluzivni-stan-novogradnji-liftom-podzemnom-garaz-oglas-42062015
 3826,310000.0,67.0,45.074250078632,13.6708866692,Istarska,Rovinj,Rovinj,0,1,2,1,1,5,https://www.njuskalo.hr/nekretnine/rovinj-centar-suncani-stan-pogledom-more-oglas-38040608
 5008,310000.0,62.0,44.861908,13.8187885,Istarska,Pula,Stoja,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/istra-pula-predivan-stan-novogradnji-200-m-mora-oglas-41737754
@@ -9816,7 +9812,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 7461,895000.0,162.0,45.074425548696,13.672573076344,Istarska,Rovinj,Rovinj,0,1,4,3,1,0,https://www.njuskalo.hr/nekretnine/moderan-stan-vrtom-bazenom-rovinju-oglas-40273784
 4118,895000.0,162.0,45.07671685803039,13.66544519679269,Istarska,Rovinj,Rovinj,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-projekt-luksuzni-stanovi-rovinju-oglas-39933812
 1541,895000.0,178.0,45.074276144049,13.668716601638,Istarska,Rovinj,Rovinj,0,1,4,3,1,0,https://www.njuskalo.hr/nekretnine/rovinj-luksuzni-stan-178.00-m2-rovinj-novogradnja-sunset-residence-oglas-40163585
-8388,895318.0,1.0,44.871304519786285,13.87415906754835,Istarska,Pula,Šikići,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-pula-javna-drazba-oglas-41678884
 5793,898380.0,210.0,45.074574485525,13.670292010738,Istarska,Rovinj,Rovinj,0,1,5,3,1,1,https://www.njuskalo.hr/nekretnine/rovinj-dvoetazni-stan-150m-mora-oglas-40198329
 7671,900000.0,338.0,44.86991460233816,13.853623746321798,Istarska,Pula,Centar,0,1,5,5,1,2,https://www.njuskalo.hr/nekretnine/prodaja-kuce-pogledom-more-prodaja-oglas-28653184
 6715,900000.0,233.0,45.231011537211,13.596886596597,Istarska,Poreč,Poreč,0,1,4,3,1,2,https://www.njuskalo.hr/nekretnine/moderan-dvoetazni-stan-bazenom-kraj-mora-oglas-41783463
@@ -9929,4 +9924,3 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 9206,1410000.0,227.0,45.073410688995,13.671403547713,Istarska,Rovinj,Rovinj,0,1,4,3,1,2,https://www.njuskalo.hr/nekretnine/istra-rovinj-prekrasan-luksuzan-penthouse-krovnom-terasom-pogl-oglas-39982998
 4949,1425000.0,226.0,45.314209547772,13.61897362308,Istarska,Tar-Vabriga,Tar,0,1,4,1,1,3,https://www.njuskalo.hr/nekretnine/tar-penthouse-liftom-vlastitim-bazenom-3-km-mora-oglas-41230821
 6590,2300000.0,552.0,44.822121102243,13.935419393786,Istarska,Medulin,Medulin,0,1,5,5,1,2,https://www.njuskalo.hr/nekretnine/medulin-senzacionalno-zgrada-8-stanova-50-m-plaze-pogled-m-oglas-41586720
-5375,15000000.0,3.735,44.929690413091,13.819651514825,Istarska,Fažana,Fažana,0,3,5,1,1,2,https://www.njuskalo.hr/nekretnine/fazana-hotel-54-sobe-6-apartmana-3735-m2-oglas-37396083

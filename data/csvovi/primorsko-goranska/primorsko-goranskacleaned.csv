@@ -1,5 +1,4 @@
 linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
-6025,3500.0,1.0,45.357007569872,14.368802538727,Primorsko-goranska,Rijeka,Srdoči,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/projekt-krlezina-ulica-srdoci-ekskluzivno-kod-nas-oglas-40428491
 1459,10000.0,74.0,45.374235217421,14.377261920505,Primorsko-goranska,Viškovo,Viškovo,0,1,4,1,1,0,https://www.njuskalo.hr/nekretnine/viskovo-74.70m2-novogradnja-3s-db-balkon-oglas-41471029
 8882,10000.0,153.0,45.330257444237766,14.457599945469937,Primorsko-goranska,Rijeka,Trsat,0,1,3,2,3,3,https://www.njuskalo.hr/nekretnine/trsat-moderna-luksuzna-novogradnja-3-db-penthouse-oglas-40234983
 1464,10000.0,74.0,45.375909875685,14.379584470759,Primorsko-goranska,Viškovo,Viškovo,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/viskovo-74.70m2-novogradnja-3s-db-balkon-oglas-41471023
@@ -192,7 +191,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 4522,93000.0,24.0,45.357908408765,14.370513482934,Primorsko-goranska,Rijeka,Srdoči,0,1,0,1,1,1,https://www.njuskalo.hr/nekretnine/srdoci-garsonijera-1-katu-oglas-41431502
 1358,93000.0,139.0,45.433118482795,14.271340387773,Primorsko-goranska,Matulji,Veli Brgud,0,1,0,1,1,2,https://www.njuskalo.hr/nekretnine/veli-brgud-gospodarska-zgrada-oglas-37883838
 8423,93000.0,33.0,45.37732292447,14.381159180913,Primorsko-goranska,Viškovo,Viškovo,0,1,0,1,1,2,https://www.njuskalo.hr/nekretnine/viskovo-suncana-garsonijera-okucnicom-33-m2-oglas-41295965
-1780,93500.0,15.0,45.334247772267,14.303872952731,Primorsko-goranska,Opatija,Opatija - Centar,0,1,0,1,1,1,https://www.njuskalo.hr/nekretnine/stan-opatija-20-m-garsonijera-oglas-34332162
 9963,94000.0,44.0,44.776031298167,14.704764105161,Primorsko-goranska,Rab,Kampor,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/rab-44.37m2-94000-oglas-40926652
 5671,94000.0,43.0,45.132249815235,14.788614575114,Primorsko-goranska,Novi Vinodolski,Novi Vinodolski,0,2,2,1,1,0,https://www.njuskalo.hr/nekretnine/vinodolski-dvosobni-stan-250-m-mora-oglas-41356504
 9964,94000.0,44.0,44.775372863315,14.705253946182,Primorsko-goranska,Rab,Kampor,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/rab-44.37m2-94000-oglas-40926651
@@ -622,7 +620,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 2382,126000.0,37.0,45.354651806595,14.367860242294,Primorsko-goranska,Rijeka,Srdoči,0,1,0,1,1,2,https://www.njuskalo.hr/nekretnine/srdoci-adaptirani-manji-stan-37-m2-2-kat-balkon-oglas-41677160
 6922,126000.0,40.0,45.3407206270155,14.421194212805,Primorsko-goranska,Rijeka,Banderovo,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-40m2-okucnica-oglas-37740830
 9258,126500.0,86.0,45.367663298955,14.326855313493,Primorsko-goranska,Matulji,Matulji,1,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-kuci-matulji-oglas-39073352
-2760,127000.0,3.064,45.20830428294,14.797613732277,Primorsko-goranska,Vinodolska Općina,Bribir,0,1,5,1,1,2,https://www.njuskalo.hr/nekretnine/crikvenica-bribir-gradevinsko-zemljiste-3064-m2-oglas-40604351
 9112,128000.0,39.0,45.17944244023234,14.702406319357427,Primorsko-goranska,Crikvenica,Crikvenica,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/crikvenica-lijep-apartman-odlicnim-pogledom-more-oglas-40452710
 5882,128000.0,60.0,45.32559549106074,14.443644719568242,Primorsko-goranska,Rijeka,Centar,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-centar-60-m2-oglas-30705394
 9132,128000.0,40.0,45.365385712052,14.41295187084,Primorsko-goranska,Rijeka,Škurinje,0,1,1,1,1,4,https://www.njuskalo.hr/nekretnine/skurinje-jednosoban-stan-oglas-40550078

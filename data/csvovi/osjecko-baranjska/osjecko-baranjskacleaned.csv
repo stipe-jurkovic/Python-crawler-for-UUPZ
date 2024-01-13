@@ -1,5 +1,4 @@
 linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
-174,1799.0,1.0,45.31,18.4098,Osječko-baranjska,Đakovo,Đakovo,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/dakovo-luksuzna-inovogradnja-strogi-centar-oglas-37651272
 183,17280.0,62.0,45.63353851327547,18.695335190766983,Osječko-baranjska,Darda,Švajcarnica,1,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-svajcarnica-62.00-m2-oglas-42269077
 501,30000.0,105.0,45.57035469772777,18.60721020986605,Osječko-baranjska,Osijek - Okolica,Višnjevac,1,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/3-sobni-stan-visnjevac-105.00-m2-oglas-40944327
 204,32000.0,24.0,45.54818643140294,18.67994477408425,Osječko-baranjska,Osijek,Bosutsko naselje,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-osijek-27.00-m2-oglas-41757679
@@ -82,7 +81,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 103,80000.0,52.0,45.54729,18.716307,Osječko-baranjska,Osijek,Jug II,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-osijek-52.26-m2-oglas-37137945
 499,80000.0,46.0,45.558544724398,18.674205512582,Osječko-baranjska,Osijek,Gornji grad / Centar,1,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/stan-osijek-46.00-m2-oglas-39561308
 254,80000.0,56.0,45.544522094213534,18.72864435917168,Osječko-baranjska,Osijek,Jug II,0,1,3,1,1,4,https://www.njuskalo.hr/nekretnine/trosoban-stan-56.41m2-jug-2-umaska-9-4-kat-adaptaciju-oglas-41321882
-379,80456.0,3.983,45.55873442989,18.681321011741,Osječko-baranjska,Osijek,Gornji grad / Centar,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-centar-1-sobni-40m2-3-sobni-70m2-4-sobni-97m2-1-kat-oglas-39520065
 300,81000.0,74.0,45.557040046977,18.672684219607,Osječko-baranjska,Osijek,Gornji grad / Centar,1,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/centar-grada-reisnerova-ulica-oglas-11314947
 438,82000.0,51.0,45.55751,18.70149,Osječko-baranjska,Osijek,Vij. Ivana Meštrovića,0,1,2,1,1,5,https://www.njuskalo.hr/nekretnine/dvosobni-moguce-trosobni-51-m2-5-kat-bez-lifta-v-mestrovica-oglas-41728799
 362,82000.0,120.0,45.556603620657,18.717422723374,Osječko-baranjska,Osijek,Donji grad,1,1,4,1,1,0,https://www.njuskalo.hr/nekretnine/cetverosoban-dvorisni-120m2-donji-grad-c-plinsko-oglas-41757754

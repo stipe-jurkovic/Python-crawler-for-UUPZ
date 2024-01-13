@@ -168,6 +168,9 @@ for folder in os.listdir():
 
     #################################################################################################################################################
 
+    # Remove rows that have a 'livingArea' value less than 15
+    df = df[df["livingArea"] > 15]
+
     # Generate a new CSV file with the cleaned data and name the file folder's name + 'cleaned.csv'
     df.to_csv(folder + "cleaned.csv", index=False)
     # Print the number of rows in the dataframe

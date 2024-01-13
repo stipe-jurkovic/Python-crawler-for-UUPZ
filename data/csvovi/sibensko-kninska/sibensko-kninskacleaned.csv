@@ -1,7 +1,4 @@
 linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
-85,3300.0,1.0,43.76073390974073,15.777424129535444,Šibensko-kninska,Vodice,Vodice,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/najnovija-ponuda-ekskluzivnih-stanova-blizini-mora-vodice-oglas-41326158
-88,3500.0,1.0,43.68484711191754,15.921632108742573,Šibensko-kninska,Šibenik - Okolica,Brodarica,0,1,5,1,1,2,https://www.njuskalo.hr/nekretnine/stanovi-izgradnji-brodarica-prodaja-oglas-39849362
-59,3600.0,1.0,43.76073390974073,15.777424129535444,Šibensko-kninska,Vodice,Vodice,0,1,5,1,1,2,https://www.njuskalo.hr/nekretnine/ekskluzivni-luksuz-vodicama-prestizni-projekt-apartmana-proda-oglas-40625429
 2147,50000.0,48.0,44.042496,16.199583,Šibensko-kninska,Knin,Knin,0,1,2,1,1,5,https://www.njuskalo.hr/nekretnine/stan-kninu-oglas-29248287
 736,54000.0,17.0,43.734074267901995,15.895611143259385,Šibensko-kninska,Šibenik,Grad,1,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/studio-apartman-nedaleko-centra-grada-sibenik-17-m2-oglas-41616184
 597,55000.0,83.0,43.819913438826,15.922096967697,Šibensko-kninska,Skradin,Skradin,1,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-skradin-83.13-m2-terasa-28.51-m2-oglas-33378438
@@ -2119,4 +2116,3 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 1613,1150000.0,217.0,43.73897424777,15.900844989366,Šibensko-kninska,Šibenik,Šubićevac,0,1,5,2,1,1,https://www.njuskalo.hr/nekretnine/sibenik-ekskluzivni-stan-bazenom-oglas-41356357
 1861,1150000.0,217.0,43.741009035922,15.901647515795,Šibensko-kninska,Šibenik,Šubićevac,0,1,4,3,1,1,https://www.njuskalo.hr/nekretnine/prostrani-stan-pogledom-more-bazenom-sibenik-oglas-38417997
 1350,1150000.0,234.0,43.7437908,15.9009639,Šibensko-kninska,Šibenik,Šubićevac,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/sibenik-cetverosoban-luksuzan-stan-bazenom-oglas-41341686
-614,1600000.0,1.2,43.82187546058707,15.588026295930034,Šibensko-kninska,Murter,Murter,0,1,1,1,1,2,https://www.njuskalo.hr/nekretnine/sibenik-murter-super-investicija-1-red-more-prodaja-oglas-28653156

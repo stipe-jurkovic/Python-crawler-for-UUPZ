@@ -1,8 +1,4 @@
 linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
-2846,2190.0,1.0,45.812985329998,16.185933607442,Grad Zagreb,Sesvete,Iver,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/kraljevec-naselje-iver-stanovi-31-85-m2-oglas-32896714
-9972,2500.0,1.0,45.741751496395,16.012385732982,Grad Zagreb,Novi Zagreb - Istok,Veliko Polje,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-zagreb-veliko-polje-1.00-m2-novogradnja-oglas-41751395
-3930,2800.0,1.0,45.72861153198372,16.003995760770433,Grad Zagreb,Novi Zagreb - Zapad,Hrašće Turopoljsko,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/zagreb-hrasce-projekt-oglas-40500005
-1967,3300.0,1.0,45.7718465749614,15.959444748438614,Grad Zagreb,Novi Zagreb - Zapad,Trokut,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/projekt-trokut-zagreb-novogradnja-8-7-15-stanova-30-65m2-oglas-41430995
 3186,10000.0,88.0,45.797788791438,16.021252606885,Grad Zagreb,Peščenica - Žitnjak,Ferenščica,0,1,2,2,2,6,https://www.njuskalo.hr/nekretnine/stan-zagreb-ferenscica-88.00-m2-novogradnja-oglas-41807197
 6524,39900.0,33.0,45.845028764586,16.053323758001,Grad Zagreb,Gornja Dubrava,Granešina,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/vikendica-vocnjak-vinograd-dubrava-oglas-41431044
 1114,40000.0,38.0,45.83096050490629,16.04715241512312,Grad Zagreb,Gornja Dubrava,Gornja Dubrava,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/apartmani-dnevni-najam-oglas-39388311
@@ -28,7 +24,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 9080,58000.0,20.0,45.808174280072,15.899793200749,Grad Zagreb,Stenjevec,Malešnica,0,2,0,1,1,0,https://www.njuskalo.hr/nekretnine/minimalisticka-garsonijera-malesnici-oglas-42025467
 1036,58000.0,23.0,45.8144814,15.9377056,Grad Zagreb,Črnomerec,Črnomerec,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/crnomerec-ilica-garsonjera-super-lokacija-oglas-41326286
 4745,58000.0,19.0,45.797180265711,15.948905009335,Grad Zagreb,Trešnjevka - Sjever,Trešnjevka,0,1,0,1,1,0,https://www.njuskalo.hr/nekretnine/garsonijera-19m2-tresnjevka-lokacija-oglas-39516004
-6382,59000.0,12.0,45.816395901921,15.979812253268,Grad Zagreb,Donji Grad,Donji grad,0,1,0,1,1,1,https://www.njuskalo.hr/nekretnine/prodaja-garsonijere-oglas-37254649
 8770,59500.0,35.0,45.820697769782,16.17826480197,Grad Zagreb,Sesvete,Sesvetski Kraljevec,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/zagreb-sesvete-35-m2-oglas-42089181
 2237,59500.0,35.0,45.82043399404429,16.174974655957183,Grad Zagreb,Sesvete,Sesvetski Kraljevec,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-zagreb-sesvetski-kraljevec-33.00-m2-prodaja-oglas-42101897
 5332,59993.0,35.0,45.829745277867,16.150612402899,Grad Zagreb,Sesvete,Kraljevečki Novaki,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/2-soban-stan-sesvete-kraljevecki-novaki-35-m2-prodaja-oglas-41698841
@@ -5613,7 +5608,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 4963,238000.0,70.0,45.806815955393,16.010437408159,Grad Zagreb,Peščenica - Žitnjak,Donje Svetice,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/planinska-trosobni-70-m2-lift-novogradnja-oglas-41276133
 6647,238000.0,64.0,45.797991949017,15.948871136749,Grad Zagreb,Trešnjevka - Sjever,Trešnjevka,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/zagreb-tresnjevka-3.5sstan-62m2.1-kat-novogradnja22-odlican-raspored-oglas-38916286
 9293,238000.0,102.0,45.825143004369,16.131948537152,Grad Zagreb,Sesvete,Sesvetska sela,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-4-sobni-stan-102.95-m2-sesvete-oglas-39993827
-7075,238000.0,7.93,45.814976,15.994272,Grad Zagreb,Donji Grad,Donji grad,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-nodilova-79.30m2-balkonom-spremistem-oglas-42204627
 1068,238000.0,85.0,45.816418628469,15.876243605085,Grad Zagreb,Podsused - Vrapče,Gajnice,0,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/stan-novogradnja-prodaja-gajnice-85-m2-4-soban-oglas-42136587
 3429,238000.0,68.0,45.804671,15.941401,Grad Zagreb,Trešnjevka - Sjever,Trešnjevka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/prodaja-stan-tresnjevka-hrusevecka-2s-68m2-oglas-42290410
 4827,238000.0,67.0,45.764036947559,15.999915519828,Grad Zagreb,Novi Zagreb - Istok,Dugave,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/ureden-trosoban-stan-dugavama-70m2-oglas-41677153

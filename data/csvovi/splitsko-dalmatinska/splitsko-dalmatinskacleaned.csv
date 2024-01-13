@@ -1,9 +1,4 @@
 linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
-3336,3400.0,1.0,43.513269812194,16.487853572779,Splitsko-dalmatinska,Split,Dragovode,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-dragovode-planirani-pocetak-gradnje-5-2023-oglas-40076466
-4018,3500.0,1.0,43.461164272286,16.595942654717,Splitsko-dalmatinska,Dugi Rat,Jesenice,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-jesenice-1.00-m2-novogradnja-oglas-41778268
-3338,3700.0,1.0,43.513269812194,16.487853572779,Splitsko-dalmatinska,Split,Dragovode,0,1,1,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-dragovode-planirani-pocetak-gradnje-5-2023-oglas-40076669
-3337,3700.0,1.0,43.513269812194,16.487853572779,Splitsko-dalmatinska,Split,Dragovode,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-dragovode-planirani-pocetak-gradnje-5-2023-oglas-40076580
-3339,3800.0,1.0,43.513269812194,16.487853572779,Splitsko-dalmatinska,Split,Dragovode,0,1,1,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-3-kat-planirani-pocetak-gradnje-5-2023-oglas-40076809
 4633,10000.0,137.0,43.501468405412,16.540421247482,Splitsko-dalmatinska,Podstrana,Strožanac,0,1,4,3,1,2,https://www.njuskalo.hr/nekretnine/prodaja-cetverosobni-stan-oglas-32943256
 4750,10000.0,101.0,43.492419,16.540545,Splitsko-dalmatinska,Split - Okolica,Stobreč,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/penthouse-luksuzno-ureden-pogledom-more-oglas-27838802
 4493,10000.0,141.0,43.50101517175322,16.54079991474231,Splitsko-dalmatinska,Podstrana,Strožanac,0,1,3,3,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-podstrana-141.5m2-oglas-40483123
@@ -2932,7 +2927,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 4681,280000.0,80.0,43.509722301629324,16.2557488917948,Splitsko-dalmatinska,Trogir,Čiovo,0,2,2,1,1,2,https://www.njuskalo.hr/nekretnine/dvosobni-penthouse-stan-drugom-katu-65m2-krovna-terasa-oglas-38009111
 4688,280000.0,70.0,43.509722301629324,16.2557488917948,Splitsko-dalmatinska,Trogir,Čiovo,0,2,2,1,1,2,https://www.njuskalo.hr/nekretnine/trogir-ciovo-dvosobni-penthouse-70-m2-50-m2-krovna-terasa-oglas-37908341
 87,280000.0,44.0,43.5062906529236,16.491166673471024,Splitsko-dalmatinska,Split,Pazdigrad,0,1,1,1,1,2,https://www.njuskalo.hr/nekretnine/split-pazdigrad-predivan-jednosoban-stan-44m2-pogled-more-oglas-41107935
-1654,280000.0,1.0,43.56416796964343,16.33690579846431,Splitsko-dalmatinska,Kaštela,Kaštel Stari,0,2,3,1,1,2,https://www.njuskalo.hr/nekretnine/trosobni-penthouse-novogradnji-zgrade-kastel-starom-top-ponuda-oglas-40511861
 4728,280000.0,70.0,43.49332016595285,16.262098262418704,Splitsko-dalmatinska,Okrug,Okrug Gornji,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/okrug-gornji-dvosoban-stan-prizemlju-novogradnje-70m2-oglas-37161279
 191,280000.0,70.0,43.52074969996404,16.47184252738953,Splitsko-dalmatinska,Split,Ravne njive,0,1,3,1,1,4,https://www.njuskalo.hr/nekretnine/prodaje-se-trosoban-stan-ravnim-njivama-oglas-41477754
 4697,280000.0,68.0,43.509722301629324,16.2557488917948,Splitsko-dalmatinska,Trogir,Čiovo,0,2,2,1,1,2,https://www.njuskalo.hr/nekretnine/trogir-ciovo-dvosobni-penthouse-stan-68.36-m2-74.34m2-terasa-oglas-37898231

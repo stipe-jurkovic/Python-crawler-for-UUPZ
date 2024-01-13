@@ -8,7 +8,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 3031,21394.0,38.0,43.96219248897,15.431415617085,Zadarska,Sveti Filip I Jakov,Sveti Filip i Jakov,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-split-38.40-m2-oglas-42008559
 3538,54500.0,53.0,44.156510695,15.201149715,Zadarska,Zadar,Diklo,0,3,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-zadar-53.00-m2-oglas-39898282
 1240,54500.0,53.0,44.156496343587,15.201118403521,Zadarska,Zadar,Diklo,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/adaptaciju-diklo-stan-53m2-oglas-40133094
-438,55500.0,13.0,44.12025215305426,15.230557002873857,Zadarska,Zadar,Branimirova obala,0,1,0,1,1,0,https://www.njuskalo.hr/nekretnine/garsonijera-zadar-branimir-13-m2-top-pozicija-oglas-42219244
 3514,58800.0,66.0,43.914225958439,15.508819474095,Zadarska,Pakoštane,Pakoštane,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/pakostane-tavan-dachboden-podstresje-66.50-m2-parking-58800-eur-oglas-40473235
 2940,69000.0,57.0,44.286641884093,15.793409959716,Zadarska,Gračac,Gračac,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/gracac-prostrani-stan-oglas-42101527
 2952,69000.0,56.0,44.286641884093,15.793409959716,Zadarska,Gračac,Gračac,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-prodaja-gracac-56m2-oglas-42089747
@@ -3729,7 +3728,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 70,1200000.0,234.0,44.160347854408,15.193565374097,Zadarska,Zadar - Okolica,Kožino,0,1,4,2,2,0,https://www.njuskalo.hr/nekretnine/prodaja-stan-luksuznoj-vili-kozino-oglas-36963493
 361,1200000.0,153.0,44.041611914936,15.298694569189,Zadarska,Sukošan,Sukošan,0,1,4,4,4,1,https://www.njuskalo.hr/nekretnine/zadar-skuosan-luksuzan-4soban-stan-1-kat-bazen-2-pm-prvi-red-oglas-38261714
 2505,1200000.0,157.0,44.055029567674,15.321699306739,Zadarska,Sukošan,Sukošan,0,1,4,3,1,1,https://www.njuskalo.hr/nekretnine/sukosan-157.96-m2-bazen-prvi-red-mora-oglas-41188596
-2202,1200000.0,2.237,44.125912600200856,15.23651704230829,Zadarska,Zadar,Melada (Maslina),0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/zadar-melada-prodaja-grad-zemljista-2237-m2-projekti-75-stanova-oglas-34662656
 3377,1200000.0,115.0,44.053644422303,15.323571168591,Zadarska,Sukošan,Sukošan,0,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/zadar-sukosan-penthouse-iznimnoj-lokaciji-oglas-41783079
 3029,1200000.0,202.0,44.174846805525,15.193893125048,Zadarska,Zadar - Okolica,Kožino,0,1,4,2,2,0,https://www.njuskalo.hr/nekretnine/kozino-dalmacija-luksuzan-apartman-more-kuca-a-s1-oglas-39158670
 2758,1200000.0,234.0,44.170935674358724,15.191749513160955,Zadarska,Zadar - Okolica,Kožino,0,1,4,2,4,0,https://www.njuskalo.hr/nekretnine/luksuzni-apartman-20m-mora-velikim-vrtom-bazenom-zadar-kozino-oglas-37358299
@@ -3761,7 +3759,6 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 429,1606350.0,267.0,44.10050167520839,15.24172305045132,Zadarska,Zadar,Arbanasi,0,3,3,4,1,1,https://www.njuskalo.hr/nekretnine/penthouse-zadar-arbanasi-267-m2-novogradnja-wellness-s1-oglas-40691359
 92,1606350.0,267.0,44.101490135344,15.242175185382,Zadarska,Zadar,Kolovare,0,2,4,3,1,2,https://www.njuskalo.hr/nekretnine/penthouse-bazenom-oglas-41127586
 3770,1606350.0,267.0,44.104889212632,15.234368874097,Zadarska,Zadar,Kolovare,0,1,3,3,1,1,https://www.njuskalo.hr/nekretnine/stan-vili-kraj-mora-267-m2-zadar-oglas-40347367
-3634,2000000.0,2.226,44.258380933874,15.138270700048,Zadarska,Privlaka,Privlaka,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/zadar-privlaka-projekt-dozvolama-26-stanova-pored-mora-oglas-41289572
 2499,2100000.0,241.0,44.053884961718,15.324426425435,Zadarska,Sukošan,Sukošan,0,2,5,4,1,2,https://www.njuskalo.hr/nekretnine/sukosan-penthouse-bazen-otvoreni-pogled-more-oglas-41188584
 362,2100000.0,198.0,44.044079788011,15.297859668769,Zadarska,Sukošan,Sukošan,0,1,4,4,4,2,https://www.njuskalo.hr/nekretnine/zadar-sukosa-penthouse-prvi-red-mora-oglas-38261713
 1754,3280000.0,105.0,44.129623322974,15.217199321199,Zadarska,Zadar,Borik,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/prestizan-stan-zadar-108.00-m2-novogradnja-oglas-42004296

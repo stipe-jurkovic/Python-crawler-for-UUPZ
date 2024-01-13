@@ -1,6 +1,4 @@
 linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
-108,2000.0,1,45.69086127824843,15.695998665944659,Zagrebačka,Jastrebarsko - Okolica,Gornji Desinec,0,3,3,1,1,1,https://www.njuskalo.hr/nekretnine/projekt-novogradnje-17-stanova-liftom-gornji-desinec-50-100-m2-oglas-40354179
-1062,9200.0,4,45.885893,16.416262,Zagrebačka,Vrbovec,Vrbovec,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/suvlasnicki-udio-roh-bau-stana-etazno-vlasnistvo-e-11-vrbovec-45.6-oglas-42110610
 1357,25000.0,47,45.64648532891973,16.140939593811378,Zagrebačka,Velika Gorica - Okolica,Turopolje,1,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-turopolje-47.00-m2-oglas-39703362
 844,35000.0,68,45.87852915192462,16.38559341430664,Zagrebačka,Vrbovec,Martinska Ves,1,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-luka-vrbovec-luka-14-68.00-m2-oglas-35492840
 1064,55000.0,50,45.71707,16.474394,Zagrebačka,Ivanić-Grad - Okolica,Graberje Ivanićko,0,2,2,2,1,1,https://www.njuskalo.hr/nekretnine/stan-oglas-41066070
