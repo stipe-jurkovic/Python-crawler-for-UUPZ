@@ -43,20 +43,26 @@ for folder in os.listdir():
     #################################################################################################################################################
     # PRICE CLEANING
 
-    # Check if the 'price' column is a string and if it is, remove the currency symbol from the price column and convert it to a float
-    if df["price"].dtype == "O":
-        # Remove the euro symbol from the price column and convert it to a float
-        df["price"] = df["price"].str.replace("kn", "").str.replace("€", "").str.replace("\xa0", "").str.replace(".", "").str.replace(",", ".").astype(float)
-    # Check if there are any null values in the 'price' column and if there are, print that folder's name
     if df["price"].isnull().values.any():
         # Remove the rows that have null values in the 'price' column
         df = df.dropna(subset=["price"])
 
+
+    # Check if the price column is a string and if it is, remove the '€' and '.' characters and convert the column to an integer
+    if df["price"].dtype == "O":
+        df['price'] = df['price'].apply(lambda x: round(float(x.replace("€", "").replace(".", "").replace(" ", "")), 3) if isinstance(x, str) else x)
+
+    # Move the decimal point 3 places to the right in the 'price' column
+    df['price'] = df['price'].apply(lambda x: x*1000 if x < 1000 else x)
+
+    # Remove the rows that have a price less than 1000
+    df = df[df["price"] > 1000]
+
+    # If the price is between 1000 and 10000, multiply the price by living area
+    df['price'] = df.apply(lambda row: row["price"]*row["livingArea"] if row["price"] < 10000 else row["price"], axis=1)
+    
     # Sort the dataframe by the 'price' column in ascending order
     df = df.sort_values(by="price", ascending=True)
-
-    # Remove the top 1% and bottom 1% of the rows based on the price column
-    df = df.iloc[int(len(df)*0.01):int(len(df)*0.99)]
 
     #################################################################################################################################################
 
@@ -138,7 +144,8 @@ for folder in os.listdir():
     df['buildingFloorPosition'] = df['buildingFloorPosition'].apply(lambda x: int(str(x)[0]) if str(x)[0].isdigit() else x)
 
     # Calculate the average of the 'buildingFloorPosition' column and round it to the nearest integer
-    average_floor = df['buildingFloorPosition'][df['buildingFloorPosition'].apply(lambda x: isinstance(x, int))].mean().__round__()
+    mean_floor = df['buildingFloorPosition'][df['buildingFloorPosition'].apply(lambda x: isinstance(x, int))].mean()
+    average_floor = mean_floor.__round__() if not pd.isnull(mean_floor) else 2
 
     # Define a dictionary to map the string values to their replacements
     buildingFloorPositionReplacements = {

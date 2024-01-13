@@ -1,84 +1,81 @@
 linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
-56,1.0,139,46.166549039656,15.75713799006,Krapinsko-zagorska,Pregrada,Vrhi Pregradski,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/vrhovi-pregrade-resonant-living-oglas-38890394
-57,1.0,103,46.166653123566,15.757221789131,Krapinsko-zagorska,Pregrada,Pregrada,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-pregrada-72.00-m2-novogradnja-oglas-38977693
-8,1.0,82,46.018540151649,15.838330417407,Krapinsko-zagorska,Veliko Trgovišće,Družilovec,0,1,4,1,1,0,https://www.njuskalo.hr/nekretnine/stan-druzilovec-82.00-m2-novogradnja-oglas-41591691
-69,1.0,107,46.166653123566,15.757221789131,Krapinsko-zagorska,Pregrada,Pregrada,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/vrhovi-pregrade-stan-87m2-oglas-38977305
-85,1.5,88,45.9774,15.910526,Krapinsko-zagorska,Stubičke Toplice,Strmec Stubički,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-88.00-m2-oglas-37043530
-83,1.79,109,45.972228186661,15.929379537532,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,2,4,3,1,0,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-109.00-m2-novogradnja-oglas-38895519
-74,1.79,80,45.97222818666098,15.929379537531846,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,3,2,1,0,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-80.00-m2-novogradnja-oglas-38895834
-53,1.8,80,45.96202,15.929884,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,4,2,1,0,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-80-m2-novogradnja-oglas-42124846
-59,1.9,60,46.021957797344,15.914960384965,Krapinsko-zagorska,Zabok,Lug Zabočki,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-lug-zabocki-60.00-m2-novogradnja-potkrovlje-oglas-41966301
-7,1.95,60,46.0213836410253,15.91041875286391,Krapinsko-zagorska,Zabok,Lug Zabočki,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-zabok-lug-zabocki-56.00-m2-novogradnja-oglas-39617598
-61,2.0,55,46.021957797344,15.914960384965,Krapinsko-zagorska,Zabok,Lug Zabočki,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-lug-zabocki-55.00-m2-novogradnja-prizemlje-oglas-41966157
-60,2.0,60,46.021957797344,15.914960384965,Krapinsko-zagorska,Zabok,Lug Zabočki,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-lug-zabocki-60.00-m2-novogradnja-kat-oglas-41966217
-44,45.0,54,46.121454095,16.19445525,Krapinsko-zagorska,Budinščina,Budinšćina,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-budinscina-54.15-m2-oglas-42184644
-14,65.0,36,45.9954311918955,15.91740730917075,Krapinsko-zagorska,Oroslavje,Oroslavje,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-novogradnja-36m2-oroslavje-oglas-40296837
-82,65.0,43,46.090717,15.837908,Krapinsko-zagorska,Krapinske Toplice,Krapinske Toplice,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stanovi-adresi-zagrebacka-ul-4-krapinske-toplice-oglas-39480704
-54,65.0,36,45.995889451904,15.919004799744,Krapinsko-zagorska,Oroslavje,Oroslavje,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-moguca-kupnja-preko-apn-a-oglas-40183841
-62,70.0,40,45.9775722280279,15.92999339103699,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,1,1,1,5,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-40.12-m2-oglas-41095902
-42,70.0,32,45.992482012596,15.914758443832,Krapinsko-zagorska,Oroslavje,Oroslavje,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-oroslavje-andrije-gredicaka-3h-32.00-m2-oglas-33954524
-48,71.0,57,46.054840230182,16.179468482252,Krapinsko-zagorska,Konjščina,Konjščina,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/konjscina-stan-57-m2-1-kat-oglas-41729750
-26,80.0,50,45.97671611768884,15.93468813196329,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,1,1,1,5,https://www.njuskalo.hr/nekretnine/stubicke-toplice-centar-2-sobni-stan-potkrovlju-50m2-parking-oglas-34320184
-5,83.5,60,46.094733015,15.8433647,Krapinsko-zagorska,Krapinske Toplice,Krapinske Toplice,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-krapinske-toplice-60.00-m2-oglas-40973152
-75,85.0,63,45.977123,15.932182,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,2,1,1,5,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-63.00-m2-oglas-38886360
-64,85.0,55,46.081780948565765,15.911255596761295,Krapinsko-zagorska,Sveti Križ Začretje,Sveti Križ Začretje,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/sveti-kriz-zacretje-dvosoban-stan-1-katu-55.00-m2-oglas-39887204
-9,88.0,37,45.971964780968094,15.931532926347515,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/prekrasan-novoadaptirani-stan-37.71m2-st-toplice-oglas-41295980
-29,88.435,116,45.99822379768463,15.883895150558995,Krapinsko-zagorska,Oroslavje,Mokrice,1,1,4,1,1,0,https://www.njuskalo.hr/nekretnine/stan-mokrice-116.00-m2-oglas-41399732
-15,89.9,50,45.9954311918955,15.91740730917075,Krapinsko-zagorska,Oroslavje,Oroslavje,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/zagorje-oroslavje-2s-stan-adaptiran-oglas-41784154
-52,95.0,68,45.974047782026,15.932637371447,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-52.00-m2-oglas-41384497
-31,105.0,65,46.091015,15.838282,Krapinsko-zagorska,Krapinske Toplice,Krapinske Toplice,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-65-m2-centru-krapinskih-toplica-oglas-40397082
-76,105.0,75,46.05177649230163,16.178603836339533,Krapinsko-zagorska,Konjščina,Konjščina,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-konjscina-zagrebacka-cesta-10a-oglas-38344485
-78,117.3,69,46.088082135148056,15.839550735288212,Krapinsko-zagorska,Krapinske Toplice,Krapinske Toplice,0,3,2,1,1,1,https://www.njuskalo.hr/nekretnine/krapinske-toplice-stan-69m2-sjajna-lokacija-mirna-ulica-zelenilo-oglas-40992628
-79,120.0,65,46.167046304176665,15.868008960584856,Krapinsko-zagorska,Krapina,Centar,0,3,2,1,1,7,https://www.njuskalo.hr/nekretnine/stan-krapina-65.00-m2-oglas-40867996
-50,123.0,69,46.148283815293,15.765587732298,Krapinsko-zagorska,Pregrada,Pregrada,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-pregrada-69.39-m2-novogradnja-oglas-39474319
-45,126.0,69,46.15497315663,15.760173396364,Krapinsko-zagorska,Pregrada,Pregrada,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-pregrada-69.39m2-oglas-41694940
-32,130.0,150,46.023070339378,15.905716605091,Krapinsko-zagorska,Zabok,Zabok,0,2,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-centar-zaboka-dvoristem-spremistem-parkirnim-mjestom-oglas-41989061
-6,130.0,150,46.025295603368,15.905574799632,Krapinsko-zagorska,Zabok,Zabok,0,2,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-uzem-centru-zaboka-oglas-39127445
-72,135.0,123,46.09453583652792,16.0793924331665,Krapinsko-zagorska,Zlatar,Zlatar,0,2,4,2,1,1,https://www.njuskalo.hr/nekretnine/stan-zlatar-123.00-m2-novogradnja-oglas-41590893
-49,135.0,78,46.148283815293,15.765587732298,Krapinsko-zagorska,Pregrada,Pregrada,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-pregrada-78.53-m2-novogradnja-oglas-39474358
-77,136.0,80,46.18431601957238,15.863512369369646,Krapinsko-zagorska,Krapina - Okolica,Podgora Krapinska,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-podgora-krapinska-80.86-m2-oglas-41329071
-47,137.0,78,46.15486916282,15.75731387813,Krapinsko-zagorska,Pregrada,Pregrada,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-pregrada-78.53-m2-oglas-41694942
-40,140.0,77,45.997108968276,15.849038139104,Krapinsko-zagorska,Veliko Trgovišće,Veliko Trgovišće,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/zgrada-b-stan-veliko-trgovisce-81.62-m2-prizemlje-iii-kat-oglas-41473694
-34,140.0,77,45.99576579737501,15.843731458529666,Krapinsko-zagorska,Veliko Trgovišće,Veliko Trgovišće,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-77.86m2-veliko-trgovisce-novogradnja-oglas-42216865
-35,140.0,77,45.99576579737501,15.843731458529666,Krapinsko-zagorska,Veliko Trgovišće,Veliko Trgovišće,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-77.86m2-veliko-trgovisce-novogradnja-oglas-42216864
-33,140.0,77,45.99576579737501,15.843731458529666,Krapinsko-zagorska,Veliko Trgovišće,Veliko Trgovišće,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-77.86m2-veliko-trgovisce-novogradnja-useljiv-oglas-42216868
-41,140.0,77,45.997108968276,15.849038139104,Krapinsko-zagorska,Veliko Trgovišće,Veliko Trgovišće,0,3,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-veliko-trgovisce-68.00-m2-novogradnja-oglas-39691177
-51,142.0,80,46.148283815293,15.765587732298,Krapinsko-zagorska,Pregrada,Pregrada,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-pregrada-80.17-m2-novogradnja-oglas-39473673
-71,145.0,140,46.09453583652792,16.0793924331665,Krapinsko-zagorska,Zlatar,Zlatar,0,2,4,3,1,1,https://www.njuskalo.hr/nekretnine/stan-zlatar-140.00-m2-novogradnja-oglas-41590983
-46,145.0,80,46.157046790435,15.759432303529,Krapinsko-zagorska,Pregrada,Pregrada,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-pregrada-80.17-m2-oglas-41694943
-25,145.0,61,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stanovi-61m2-90m2-centar-zaboka-novogradnja-oglas-42283714
-23,145.0,61,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-61.28m2-centar-zaboka-novogradnja-dostupno-oglas-42283716
-38,145.0,61,46.027367018023,15.903808575992,Krapinsko-zagorska,Zabok,Zabok,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-zabok-61.00-m2-novogradnja-oglas-41510631
-4,145.656,80,45.993079455573,15.833118097381,Krapinsko-zagorska,Veliko Trgovišće,Veliko Trgovišće,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/veliko-trgovisce-stan-92.32-m-novogradnja-oglas-37486762
-20,147.0,61,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-61.28m2-centar-zaboka-novogradnja-dostupno-oglas-42283719
-30,147.0,95,46.025848500362,15.906754431052,Krapinsko-zagorska,Zabok,Zabok,1,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-zaboku-oglas-41769446
-24,147.0,61,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/stan-61.28m2-centar-zaboka-novogradnja-dostupan-oglas-42283715
-70,147.1,95,46.02521078,15.904725715,Krapinsko-zagorska,Zabok,Zabok,1,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-zabok-88.00-m2-oglas-41587888
-17,149.0,62,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-62.12m2-centar-zaboka-novogradnja-dostupan-oglas-42283722
-19,149.0,62,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-62.12m2-centar-zaboka-novogradnja-dostupan-oglas-42283720
-39,149.0,62,46.027367018023,15.903808575992,Krapinsko-zagorska,Zabok,Zabok,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-zabok-62.00-m2-novogradnja-oglas-41510590
-81,150.0,150,46.027058,15.908856,Krapinsko-zagorska,Zabok,Zabok,0,2,4,1,1,1,https://www.njuskalo.hr/nekretnine/stan-zabok-65-m2-oglas-26178111
-36,150.0,82,46.01956169531192,15.83795540643134,Krapinsko-zagorska,Veliko Trgovišće,Družilovec,1,1,4,1,1,0,https://www.njuskalo.hr/nekretnine/stan-druzilovec-82.00-m2-oglas-41202336
-58,150.64,74,46.092488214961,15.843183766707,Krapinsko-zagorska,Krapinske Toplice,Krapinske Toplice,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-krapinske-toplice-71.00-m2-novogradnja-oglas-40908324
-22,151.0,62,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,3,1,1,4,https://www.njuskalo.hr/nekretnine/stan-62.12m2-centar-zaboka-novogradnja-dostupan-oglas-42283717
-18,151.0,62,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-62.12m2-centar-zaboka-novogradnja-dostupan-oglas-42283721
-84,152.0,129,46.025417722565,15.902178750316,Krapinsko-zagorska,Zabok,Zabok,0,2,4,1,1,3,https://www.njuskalo.hr/nekretnine/zabok-centar-dvoetazni-stan-129m2-oglas-38852061
-63,152.0,89,45.996372,15.915971,Krapinsko-zagorska,Oroslavje,Oroslavje,0,1,4,1,1,6,https://www.njuskalo.hr/nekretnine/stan-oroslavje-89.00-m2-oglas-38595001
-65,155.0,87,45.977183,15.948276,Krapinsko-zagorska,Donja Stubica,Donja Stubica,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/prodaja-stan-donja-stubica-toplicka-3s-87m2-oglas-41926571
-66,155.0,87,45.977183,15.948276,Krapinsko-zagorska,Donja Stubica,Donja Stubica,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/prodaja-stan-donja-stubica-toplicka-3s-87m2-oglas-41926561
-67,155.0,87,45.979656,15.971414,Krapinsko-zagorska,Donja Stubica,Donja Stubica,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/prodaja-stan-donja-stubica-toplicka-3s-87m2-oglas-41926557
-12,155.0,86,45.97800733333333,15.955988666666665,Krapinsko-zagorska,Donja Stubica,Donja Stubica,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-prvi-kat-87m2-novogradnja-donja-stubica-oglas-41784155
-11,155.0,86,45.97800733333333,15.955988666666665,Krapinsko-zagorska,Donja Stubica,Donja Stubica,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prizemlje-87m2-novogradnja-donja-stubica-oglas-41784156
-10,155.0,86,45.97800733333333,15.955988666666665,Krapinsko-zagorska,Donja Stubica,Donja Stubica,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-drugi-kat-87m2-novogradnja-donja-stubica-oglas-41784157
-80,160.0,98,46.080839603013,15.906416908385,Krapinsko-zagorska,Sveti Križ Začretje,Sveti Križ Začretje,0,1,3,1,2,1,https://www.njuskalo.hr/nekretnine/stan-sveti-kriz-zacretje-98.18-m2-oglas-39997939
-16,165.0,72,46.09616731093843,15.845861425584552,Krapinsko-zagorska,Krapinske Toplice,Krapinske Toplice,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-krapinske-toplice-72.00-m2-novogradnja-oglas-42271734
-68,165.0,80,45.96378274668,15.934119441269,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,1,1,4,2,1,0,https://www.njuskalo.hr/nekretnine/stubicke-toplice-oaza-parku-prirode-medvednica-samo-40-km-zagreb-oglas-41917390
-37,200.0,90,46.0236154274615,15.90700728171763,Krapinsko-zagorska,Zabok,Zabok,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-zabok-90.00-m2-novogradnja-oglas-41510672
-21,201.0,90,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-90.51m2-centar-zaboka-novogradnja-dostupan-oglas-42283718
-43,210.0,118,46.162754325914,15.869472731005,Krapinsko-zagorska,Krapina,Centar,1,1,5,1,1,2,https://www.njuskalo.hr/nekretnine/stan-kuci-dvoriste-centru-krapine-369.41m2-oglas-37795165
-3,220.0,160,46.082394675159,15.911281259378,Krapinsko-zagorska,Sveti Križ Začretje,Sveti Križ Začretje,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/sveti-kriz-zacretje-stan-prodaju-oglas-40657945
-55,295.0,153,45.992157326957,15.914952197112,Krapinsko-zagorska,Oroslavje,Oroslavje,0,2,3,2,2,2,https://www.njuskalo.hr/nekretnine/stan-oroslavje-160.00-m2-dvoetazni-open-space-privatna-garaza-oglas-39997765
-28,295.0,160,45.996363125048,15.917432685709,Krapinsko-zagorska,Oroslavje,Oroslavje,0,2,4,2,1,2,https://www.njuskalo.hr/nekretnine/prodaja-stan-oroslavje-160m2-oglas-42089778
-27,295.0,153,45.997661375217,15.919890179353,Krapinsko-zagorska,Oroslavje,Oroslavje,0,2,4,2,1,2,https://www.njuskalo.hr/nekretnine/prostran-cetverosobni-stan-153m2-gpm-oroslavje-oglas-41784180
-73,295.0,163,45.99615482052,15.918321991085,Krapinsko-zagorska,Oroslavje,Oroslavje,0,1,5,2,2,2,https://www.njuskalo.hr/nekretnine/oroslavje-prekrasan-dvoetazni-stan-3s-db-163m2-oglas-40124995
-1,295.0,160,45.996369422922,15.918927176531,Krapinsko-zagorska,Oroslavje,Oroslavje,1,2,4,2,1,2,https://www.njuskalo.hr/nekretnine/stan-prodaja-oroslavje-160-m2-4-soban-oglas-42101756
+44,45000.0,54,46.121454095,16.19445525,Krapinsko-zagorska,Budinščina,Budinšćina,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-budinscina-54.15-m2-oglas-42184644
+82,65000.0,43,46.090717,15.837908,Krapinsko-zagorska,Krapinske Toplice,Krapinske Toplice,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stanovi-adresi-zagrebacka-ul-4-krapinske-toplice-oglas-39480704
+54,65000.0,36,45.995889451904,15.919004799744,Krapinsko-zagorska,Oroslavje,Oroslavje,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-moguca-kupnja-preko-apn-a-oglas-40183841
+14,65000.0,36,45.9954311918955,15.91740730917075,Krapinsko-zagorska,Oroslavje,Oroslavje,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-novogradnja-36m2-oroslavje-oglas-40296837
+42,70000.0,32,45.992482012596,15.914758443832,Krapinsko-zagorska,Oroslavje,Oroslavje,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-oroslavje-andrije-gredicaka-3h-32.00-m2-oglas-33954524
+62,70000.0,40,45.9775722280279,15.92999339103699,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,1,1,1,5,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-40.12-m2-oglas-41095902
+48,71000.0,57,46.054840230182,16.179468482252,Krapinsko-zagorska,Konjščina,Konjščina,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/konjscina-stan-57-m2-1-kat-oglas-41729750
+26,80000.0,50,45.97671611768884,15.93468813196329,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,1,1,1,5,https://www.njuskalo.hr/nekretnine/stubicke-toplice-centar-2-sobni-stan-potkrovlju-50m2-parking-oglas-34320184
+5,83500.0,60,46.094733015,15.8433647,Krapinsko-zagorska,Krapinske Toplice,Krapinske Toplice,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-krapinske-toplice-60.00-m2-oglas-40973152
+75,85000.0,63,45.977123,15.932182,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,2,1,1,5,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-63.00-m2-oglas-38886360
+64,85000.0,55,46.081780948565765,15.911255596761295,Krapinsko-zagorska,Sveti Križ Začretje,Sveti Križ Začretje,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/sveti-kriz-zacretje-dvosoban-stan-1-katu-55.00-m2-oglas-39887204
+9,88000.0,37,45.971964780968094,15.931532926347515,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/prekrasan-novoadaptirani-stan-37.71m2-st-toplice-oglas-41295980
+29,88435.0,116,45.99822379768463,15.883895150558995,Krapinsko-zagorska,Oroslavje,Mokrice,1,1,4,1,1,0,https://www.njuskalo.hr/nekretnine/stan-mokrice-116.00-m2-oglas-41399732
+15,89900.0,50,45.9954311918955,15.91740730917075,Krapinsko-zagorska,Oroslavje,Oroslavje,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/zagorje-oroslavje-2s-stan-adaptiran-oglas-41784154
+52,95000.0,68,45.974047782026,15.932637371447,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-52.00-m2-oglas-41384497
+76,105000.0,75,46.05177649230163,16.178603836339533,Krapinsko-zagorska,Konjščina,Konjščina,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-konjscina-zagrebacka-cesta-10a-oglas-38344485
+31,105000.0,65,46.091015,15.838282,Krapinsko-zagorska,Krapinske Toplice,Krapinske Toplice,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-65-m2-centru-krapinskih-toplica-oglas-40397082
+61,110000.0,55,46.021957797344,15.914960384965,Krapinsko-zagorska,Zabok,Lug Zabočki,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-lug-zabocki-55.00-m2-novogradnja-prizemlje-oglas-41966157
+59,114000.0,60,46.021957797344,15.914960384965,Krapinsko-zagorska,Zabok,Lug Zabočki,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-lug-zabocki-60.00-m2-novogradnja-potkrovlje-oglas-41966301
+7,117000.0,60,46.0213836410253,15.91041875286391,Krapinsko-zagorska,Zabok,Lug Zabočki,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-zabok-lug-zabocki-56.00-m2-novogradnja-oglas-39617598
+78,117300.0,69,46.088082135148056,15.839550735288212,Krapinsko-zagorska,Krapinske Toplice,Krapinske Toplice,0,3,2,1,1,1,https://www.njuskalo.hr/nekretnine/krapinske-toplice-stan-69m2-sjajna-lokacija-mirna-ulica-zelenilo-oglas-40992628
+79,120000.0,65,46.167046304176665,15.868008960584856,Krapinsko-zagorska,Krapina,Centar,0,3,2,1,1,7,https://www.njuskalo.hr/nekretnine/stan-krapina-65.00-m2-oglas-40867996
+60,120000.0,60,46.021957797344,15.914960384965,Krapinsko-zagorska,Zabok,Lug Zabočki,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-lug-zabocki-60.00-m2-novogradnja-kat-oglas-41966217
+50,123000.0,69,46.148283815293,15.765587732298,Krapinsko-zagorska,Pregrada,Pregrada,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-pregrada-69.39-m2-novogradnja-oglas-39474319
+45,126000.0,69,46.15497315663,15.760173396364,Krapinsko-zagorska,Pregrada,Pregrada,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-pregrada-69.39m2-oglas-41694940
+6,130000.0,150,46.025295603368,15.905574799632,Krapinsko-zagorska,Zabok,Zabok,0,2,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-uzem-centru-zaboka-oglas-39127445
+32,130000.0,150,46.023070339378,15.905716605091,Krapinsko-zagorska,Zabok,Zabok,0,2,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-centar-zaboka-dvoristem-spremistem-parkirnim-mjestom-oglas-41989061
+85,132000.0,88,45.9774,15.910526,Krapinsko-zagorska,Stubičke Toplice,Strmec Stubički,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-88.00-m2-oglas-37043530
+49,135000.0,78,46.148283815293,15.765587732298,Krapinsko-zagorska,Pregrada,Pregrada,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-pregrada-78.53-m2-novogradnja-oglas-39474358
+72,135000.0,123,46.09453583652792,16.0793924331665,Krapinsko-zagorska,Zlatar,Zlatar,0,2,4,2,1,1,https://www.njuskalo.hr/nekretnine/stan-zlatar-123.00-m2-novogradnja-oglas-41590893
+77,136000.0,80,46.18431601957238,15.863512369369646,Krapinsko-zagorska,Krapina - Okolica,Podgora Krapinska,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-podgora-krapinska-80.86-m2-oglas-41329071
+47,137000.0,78,46.15486916282,15.75731387813,Krapinsko-zagorska,Pregrada,Pregrada,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-pregrada-78.53-m2-oglas-41694942
+33,140000.0,77,45.99576579737501,15.843731458529666,Krapinsko-zagorska,Veliko Trgovišće,Veliko Trgovišće,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-77.86m2-veliko-trgovisce-novogradnja-useljiv-oglas-42216868
+34,140000.0,77,45.99576579737501,15.843731458529666,Krapinsko-zagorska,Veliko Trgovišće,Veliko Trgovišće,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-77.86m2-veliko-trgovisce-novogradnja-oglas-42216865
+35,140000.0,77,45.99576579737501,15.843731458529666,Krapinsko-zagorska,Veliko Trgovišće,Veliko Trgovišće,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-77.86m2-veliko-trgovisce-novogradnja-oglas-42216864
+40,140000.0,77,45.997108968276,15.849038139104,Krapinsko-zagorska,Veliko Trgovišće,Veliko Trgovišće,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/zgrada-b-stan-veliko-trgovisce-81.62-m2-prizemlje-iii-kat-oglas-41473694
+41,140000.0,77,45.997108968276,15.849038139104,Krapinsko-zagorska,Veliko Trgovišće,Veliko Trgovišće,0,3,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-veliko-trgovisce-68.00-m2-novogradnja-oglas-39691177
+51,142000.0,80,46.148283815293,15.765587732298,Krapinsko-zagorska,Pregrada,Pregrada,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-pregrada-80.17-m2-novogradnja-oglas-39473673
+74,143200.0,80,45.97222818666098,15.929379537531846,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,3,2,1,0,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-80.00-m2-novogradnja-oglas-38895834
+53,144000.0,80,45.96202,15.929884,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,1,4,2,1,0,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-80-m2-novogradnja-oglas-42124846
+23,145000.0,61,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-61.28m2-centar-zaboka-novogradnja-dostupno-oglas-42283716
+46,145000.0,80,46.157046790435,15.759432303529,Krapinsko-zagorska,Pregrada,Pregrada,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-pregrada-80.17-m2-oglas-41694943
+25,145000.0,61,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stanovi-61m2-90m2-centar-zaboka-novogradnja-oglas-42283714
+71,145000.0,140,46.09453583652792,16.0793924331665,Krapinsko-zagorska,Zlatar,Zlatar,0,2,4,3,1,1,https://www.njuskalo.hr/nekretnine/stan-zlatar-140.00-m2-novogradnja-oglas-41590983
+38,145000.0,61,46.027367018023,15.903808575992,Krapinsko-zagorska,Zabok,Zabok,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-zabok-61.00-m2-novogradnja-oglas-41510631
+4,145656.0,80,45.993079455573,15.833118097381,Krapinsko-zagorska,Veliko Trgovišće,Veliko Trgovišće,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/veliko-trgovisce-stan-92.32-m-novogradnja-oglas-37486762
+30,147000.0,95,46.025848500362,15.906754431052,Krapinsko-zagorska,Zabok,Zabok,1,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-zaboku-oglas-41769446
+20,147000.0,61,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-61.28m2-centar-zaboka-novogradnja-dostupno-oglas-42283719
+24,147000.0,61,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/stan-61.28m2-centar-zaboka-novogradnja-dostupan-oglas-42283715
+70,147100.0,95,46.02521078,15.904725715,Krapinsko-zagorska,Zabok,Zabok,1,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-zabok-88.00-m2-oglas-41587888
+39,149000.0,62,46.027367018023,15.903808575992,Krapinsko-zagorska,Zabok,Zabok,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-zabok-62.00-m2-novogradnja-oglas-41510590
+17,149000.0,62,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-62.12m2-centar-zaboka-novogradnja-dostupan-oglas-42283722
+19,149000.0,62,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-62.12m2-centar-zaboka-novogradnja-dostupan-oglas-42283720
+36,150000.0,82,46.01956169531192,15.83795540643134,Krapinsko-zagorska,Veliko Trgovišće,Družilovec,1,1,4,1,1,0,https://www.njuskalo.hr/nekretnine/stan-druzilovec-82.00-m2-oglas-41202336
+81,150000.0,150,46.027058,15.908856,Krapinsko-zagorska,Zabok,Zabok,0,2,4,1,1,1,https://www.njuskalo.hr/nekretnine/stan-zabok-65-m2-oglas-26178111
+58,150640.0,74,46.092488214961,15.843183766707,Krapinsko-zagorska,Krapinske Toplice,Krapinske Toplice,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-krapinske-toplice-71.00-m2-novogradnja-oglas-40908324
+22,151000.0,62,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,3,1,1,4,https://www.njuskalo.hr/nekretnine/stan-62.12m2-centar-zaboka-novogradnja-dostupan-oglas-42283717
+18,151000.0,62,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-62.12m2-centar-zaboka-novogradnja-dostupan-oglas-42283721
+63,152000.0,89,45.996372,15.915971,Krapinsko-zagorska,Oroslavje,Oroslavje,0,1,4,1,1,6,https://www.njuskalo.hr/nekretnine/stan-oroslavje-89.00-m2-oglas-38595001
+84,152000.0,129,46.025417722565,15.902178750316,Krapinsko-zagorska,Zabok,Zabok,0,2,4,1,1,3,https://www.njuskalo.hr/nekretnine/zabok-centar-dvoetazni-stan-129m2-oglas-38852061
+12,155000.0,86,45.97800733333333,15.955988666666665,Krapinsko-zagorska,Donja Stubica,Donja Stubica,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-prvi-kat-87m2-novogradnja-donja-stubica-oglas-41784155
+65,155000.0,87,45.977183,15.948276,Krapinsko-zagorska,Donja Stubica,Donja Stubica,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/prodaja-stan-donja-stubica-toplicka-3s-87m2-oglas-41926571
+66,155000.0,87,45.977183,15.948276,Krapinsko-zagorska,Donja Stubica,Donja Stubica,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/prodaja-stan-donja-stubica-toplicka-3s-87m2-oglas-41926561
+67,155000.0,87,45.979656,15.971414,Krapinsko-zagorska,Donja Stubica,Donja Stubica,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/prodaja-stan-donja-stubica-toplicka-3s-87m2-oglas-41926557
+11,155000.0,86,45.97800733333333,15.955988666666665,Krapinsko-zagorska,Donja Stubica,Donja Stubica,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prizemlje-87m2-novogradnja-donja-stubica-oglas-41784156
+10,155000.0,86,45.97800733333333,15.955988666666665,Krapinsko-zagorska,Donja Stubica,Donja Stubica,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-drugi-kat-87m2-novogradnja-donja-stubica-oglas-41784157
+80,160000.0,98,46.080839603013,15.906416908385,Krapinsko-zagorska,Sveti Križ Začretje,Sveti Križ Začretje,0,1,3,1,2,1,https://www.njuskalo.hr/nekretnine/stan-sveti-kriz-zacretje-98.18-m2-oglas-39997939
+16,165000.0,72,46.09616731093843,15.845861425584552,Krapinsko-zagorska,Krapinske Toplice,Krapinske Toplice,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-krapinske-toplice-72.00-m2-novogradnja-oglas-42271734
+68,165000.0,80,45.96378274668,15.934119441269,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,1,1,4,2,1,0,https://www.njuskalo.hr/nekretnine/stubicke-toplice-oaza-parku-prirode-medvednica-samo-40-km-zagreb-oglas-41917390
+83,195110.0,109,45.972228186661,15.929379537532,Krapinsko-zagorska,Stubičke Toplice,Stubičke Toplice,0,2,4,3,1,0,https://www.njuskalo.hr/nekretnine/stan-stubicke-toplice-109.00-m2-novogradnja-oglas-38895519
+37,200000.0,90,46.0236154274615,15.90700728171763,Krapinsko-zagorska,Zabok,Zabok,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-zabok-90.00-m2-novogradnja-oglas-41510672
+21,201000.0,90,46.025766708665046,15.905306146354864,Krapinsko-zagorska,Zabok,Zabok,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-90.51m2-centar-zaboka-novogradnja-dostupan-oglas-42283718
+43,210000.0,118,46.162754325914,15.869472731005,Krapinsko-zagorska,Krapina,Centar,1,1,5,1,1,2,https://www.njuskalo.hr/nekretnine/stan-kuci-dvoriste-centru-krapine-369.41m2-oglas-37795165
+3,220000.0,160,46.082394675159,15.911281259378,Krapinsko-zagorska,Sveti Križ Začretje,Sveti Križ Začretje,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/sveti-kriz-zacretje-stan-prodaju-oglas-40657945
+28,295000.0,160,45.996363125048,15.917432685709,Krapinsko-zagorska,Oroslavje,Oroslavje,0,2,4,2,1,2,https://www.njuskalo.hr/nekretnine/prodaja-stan-oroslavje-160m2-oglas-42089778
+55,295000.0,153,45.992157326957,15.914952197112,Krapinsko-zagorska,Oroslavje,Oroslavje,0,2,3,2,2,2,https://www.njuskalo.hr/nekretnine/stan-oroslavje-160.00-m2-dvoetazni-open-space-privatna-garaza-oglas-39997765
+27,295000.0,153,45.997661375217,15.919890179353,Krapinsko-zagorska,Oroslavje,Oroslavje,0,2,4,2,1,2,https://www.njuskalo.hr/nekretnine/prostran-cetverosobni-stan-153m2-gpm-oroslavje-oglas-41784180
+73,295000.0,163,45.99615482052,15.918321991085,Krapinsko-zagorska,Oroslavje,Oroslavje,0,1,5,2,2,2,https://www.njuskalo.hr/nekretnine/oroslavje-prekrasan-dvoetazni-stan-3s-db-163m2-oglas-40124995
+1,295000.0,160,45.996369422922,15.918927176531,Krapinsko-zagorska,Oroslavje,Oroslavje,1,2,4,2,1,2,https://www.njuskalo.hr/nekretnine/stan-prodaja-oroslavje-160-m2-4-soban-oglas-42101756
+2,350000.0,197,46.02741667747,15.904630728756,Krapinsko-zagorska,Zabok,Zabok,0,2,4,2,2,2,https://www.njuskalo.hr/nekretnine/zabok-stan-197.87-m2-prodaju-oglas-42089551

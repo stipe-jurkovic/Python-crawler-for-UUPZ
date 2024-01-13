@@ -1,20 +1,21 @@
 linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
-15,1.8,81,45.833477505334,17.407364798469,Virovitičko-podravska,Virovitica,Centar,0,3,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-urbanoj-vili-virovitica-81m-novogradnja-oglas-41565683
-14,1.8,84,45.833477505334,17.407364798469,Virovitičko-podravska,Virovitica,Centar,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-virovitica-81.00-m2-novogradnja-oglas-36873423
-20,18.0,134,45.58389796620669,17.95246481895447,Virovitičko-podravska,Zdenci,Zdenci,1,1,4,1,1,3,https://www.njuskalo.hr/nekretnine/stan-kuci-zdenci-134.00-m2-oglas-40980892
-19,27.0,58,45.922519645,17.272992835,Virovitičko-podravska,Pitomača,Stari Gradac,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-stari-gradac-58.00-m2-oglas-41389225
-3,53.999,58,45.827384096889006,17.387321802423195,Virovitičko-podravska,Virovitica,Suvara,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/dvosoban-stan-58m2-virovitica-oglas-42205208
-9,71.0,90,45.701788592921,17.706828117371,Virovitičko-podravska,Slatina,Slatina,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-slatina-90.00-m2-kolodvorska-16-oglas-37095579
-16,88.0,70,45.748668452393,17.696168348215,Virovitičko-podravska,Slatina,Bakić,1,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-centru-slatine-oglas-40787165
-8,93.92,46,45.828913221249,17.387374139762,Virovitičko-podravska,Virovitica,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-virovitica-65.00-m2-novogradnja-oglas-33322430
-4,95.64,47,45.833552413978,17.389011629611,Virovitičko-podravska,Virovitica,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-virovitica-72.00-m2-novogradnja-oglas-33322219
-13,96.0,95,45.734919247128,17.751966209284,Virovitičko-podravska,Slatina,Slatina,0,2,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-slatina-86.00-m2-novogradnja-oglas-32583354
-18,112.556,59,45.83764254259567,17.38801002502441,Virovitičko-podravska,Virovitica,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-59-m2-centar-virovitice-novogradnja-oglas-41797028
-7,116.3,58,45.828913221249,17.387374139762,Virovitičko-podravska,Virovitica,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-virovitica-53.00-m2-novogradnja-oglas-33322617
-2,125.0,75,45.954061150991,17.264837352729,Virovitičko-podravska,Pitomača,Pitomača,0,1,4,1,1,0,https://www.njuskalo.hr/nekretnine/stan-pitomaca-75.00-m2-oglas-41596216
-1,127.5,75,45.831804483804,17.387199997902,Virovitičko-podravska,Virovitica,Centar,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-virovitica-75.00-m2-oglas-41290599
-10,135.0,94,45.83391429844146,17.381325756502278,Virovitičko-podravska,Virovitica,Centar,0,3,3,2,2,1,https://www.njuskalo.hr/nekretnine/stan-virovitica-94.00-m2-oglas-41664648
-5,139.232,73,45.833552413978,17.389011629611,Virovitičko-podravska,Virovitica,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-virovitica-42.00-m2-novogradnja-oglas-33322485
-11,147.0,84,45.845712885371,17.437342849655,Virovitičko-podravska,Virovitica - Okolica,Požari,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/virovitica-stanovi-vilama-cca-80m2-oglas-41684607
-17,147.0,71,45.833923748911,17.383005778267,Virovitičko-podravska,Virovitica,Centar,0,1,3,2,1,4,https://www.njuskalo.hr/nekretnine/prodaja-novogradnja-virovitica-stan-63.30m2-oglas-40295986
-6,162.127,85,45.83014212868846,17.38922352573123,Virovitičko-podravska,Virovitica,Suvara,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-virovitica-96.00-m2-novogradnja-oglas-33322667
+20,18000.0,134,45.58389796620669,17.95246481895447,Virovitičko-podravska,Zdenci,Zdenci,1,1,4,1,1,3,https://www.njuskalo.hr/nekretnine/stan-kuci-zdenci-134.00-m2-oglas-40980892
+19,27000.0,58,45.922519645,17.272992835,Virovitičko-podravska,Pitomača,Stari Gradac,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-stari-gradac-58.00-m2-oglas-41389225
+3,53999.0,58,45.827384096889006,17.387321802423195,Virovitičko-podravska,Virovitica,Suvara,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/dvosoban-stan-58m2-virovitica-oglas-42205208
+9,71000.0,90,45.701788592921,17.706828117371,Virovitičko-podravska,Slatina,Slatina,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-slatina-90.00-m2-kolodvorska-16-oglas-37095579
+16,88000.0,70,45.748668452393,17.696168348215,Virovitičko-podravska,Slatina,Bakić,1,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-centru-slatine-oglas-40787165
+8,93920.0,46,45.828913221249,17.387374139762,Virovitičko-podravska,Virovitica,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-virovitica-65.00-m2-novogradnja-oglas-33322430
+4,95640.0,47,45.833552413978,17.389011629611,Virovitičko-podravska,Virovitica,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-virovitica-72.00-m2-novogradnja-oglas-33322219
+13,96000.0,95,45.734919247128,17.751966209284,Virovitičko-podravska,Slatina,Slatina,0,2,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-slatina-86.00-m2-novogradnja-oglas-32583354
+18,112556.0,59,45.83764254259567,17.38801002502441,Virovitičko-podravska,Virovitica,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-59-m2-centar-virovitice-novogradnja-oglas-41797028
+7,116300.0,58,45.828913221249,17.387374139762,Virovitičko-podravska,Virovitica,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-virovitica-53.00-m2-novogradnja-oglas-33322617
+2,125000.0,75,45.954061150991,17.264837352729,Virovitičko-podravska,Pitomača,Pitomača,0,1,4,1,1,0,https://www.njuskalo.hr/nekretnine/stan-pitomaca-75.00-m2-oglas-41596216
+1,127500.0,75,45.831804483804,17.387199997902,Virovitičko-podravska,Virovitica,Centar,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-virovitica-75.00-m2-oglas-41290599
+10,135000.0,94,45.83391429844146,17.381325756502278,Virovitičko-podravska,Virovitica,Centar,0,3,3,2,2,1,https://www.njuskalo.hr/nekretnine/stan-virovitica-94.00-m2-oglas-41664648
+5,139232.0,73,45.833552413978,17.389011629611,Virovitičko-podravska,Virovitica,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-virovitica-42.00-m2-novogradnja-oglas-33322485
+15,145800.0,81,45.833477505334,17.407364798469,Virovitičko-podravska,Virovitica,Centar,0,3,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-urbanoj-vili-virovitica-81m-novogradnja-oglas-41565683
+11,147000.0,84,45.845712885371,17.437342849655,Virovitičko-podravska,Virovitica - Okolica,Požari,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/virovitica-stanovi-vilama-cca-80m2-oglas-41684607
+17,147000.0,71,45.833923748911,17.383005778267,Virovitičko-podravska,Virovitica,Centar,0,1,3,2,1,4,https://www.njuskalo.hr/nekretnine/prodaja-novogradnja-virovitica-stan-63.30m2-oglas-40295986
+14,151200.0,84,45.833477505334,17.407364798469,Virovitičko-podravska,Virovitica,Centar,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-virovitica-81.00-m2-novogradnja-oglas-36873423
+6,162127.0,85,45.83014212868846,17.38922352573123,Virovitičko-podravska,Virovitica,Suvara,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-virovitica-96.00-m2-novogradnja-oglas-33322667
+12,220000.0,111,45.83291713548741,17.39070426933797,Virovitičko-podravska,Virovitica,Centar,0,1,3,2,2,2,https://www.njuskalo.hr/nekretnine/virovitica-penthause-111m2-oglas-41349349

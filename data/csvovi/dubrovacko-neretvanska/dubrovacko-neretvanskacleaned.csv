@@ -1,182 +1,168 @@
 linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
-42,1.0,1.06,42.730387518857,17.646827353967,Dubrovačko-neretvanska,Mljet,Prožurska Luka,0,1,5,5,1,2,https://www.njuskalo.hr/nekretnine/mljet-projekt-luksuzni-kompleks-dvije-stambene-zgrade-11-sta-oglas-40958833
-322,1.0,120.0,42.65805931596877,18.077380936782276,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,4,2,1,3,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-120.00-m2-oglas-40041130
-41,10.0,115.0,42.64110471066648,18.108616899226522,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,2,4,4,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrovnik-115m2-oglas-38685843
-152,10.0,110.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,3,3,1,3,https://www.njuskalo.hr/nekretnine/novogradnja-penthouse-mlinima-oglas-38494735
-71,10.0,75.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/dvosobni-stan-novogradnji-mlini-oglas-38478026
-163,10.0,70.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-dvosobni-stan-mlinima-zupa-dubrovacka-oglas-38478028
-164,10.0,65.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-dvosobni-stan-mlinima-zupa-dubrovacka-oglas-38478025
-165,10.0,71.0,42.65632844287215,18.077929365325442,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/prostrani-obiteljski-stan-tik-uvale-lapad-oglas-38180734
-40,10.0,89.0,42.65314530726539,18.09043787146746,Dubrovačko-neretvanska,Dubrovnik,Šipčine,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/prostrani-stan-mirnom-dijelu-grada-oglas-40964780
-151,10.0,59.0,42.64110471066648,18.108616899226522,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/trosobni-stan-starom-gradu-oglas-39448881
-95,11.0,72.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-mlini-72.31m2-oglas-36617898
-314,11.0,90.0,42.65979757106479,18.074617250693517,Dubrovačko-neretvanska,Dubrovnik,Babin kuk,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/trosobni-stan-babin-kuk-oglas-37589420
-328,11.0,75.0,42.64332676266102,18.115816590098188,Dubrovačko-neretvanska,Dubrovnik,Ploče,0,1,3,2,1,0,https://www.njuskalo.hr/nekretnine/dvosobni-stan-plocama-oglas-41646059
-91,11.0,145.0,42.667262994540216,18.157406785490014,Dubrovačko-neretvanska,Konavle,Cavtat,1,2,4,3,1,1,https://www.njuskalo.hr/nekretnine/dvoetazni-stan-poluganju-cavtat-oglas-41540836
-241,11.0,109.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,3,3,1,4,https://www.njuskalo.hr/nekretnine/stan-prodaja-mlini-90.93m2-oglas-36617895
-315,11.0,62.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-mlini-62.24m2-oglas-36617899
-96,11.0,62.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-mlini-62.33m2-oglas-36617897
-222,267.0,86.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,4,1,1,3,https://www.njuskalo.hr/nekretnine/stan-cavtat-86.44-m2-novogradnja-oglas-41698042
-332,700.0,130.0,43.04836293398769,17.633616471362092,Dubrovačko-neretvanska,Metković,Metković,1,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-metkovic-130.00-m2-roh-bau-oglas-37042899
-362,840.0,117.0,43.04315605087,17.649147897885,Dubrovačko-neretvanska,Metković,Metković,1,1,3,2,1,2,https://www.njuskalo.hr/nekretnine/stan-metkovic-117.00-m2-oglas-40149686
-361,860.0,117.0,43.04315605087,17.649147897885,Dubrovačko-neretvanska,Metković,Metković,1,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/metkovic-slatine-stan-2-117-26-m2-okucnicom-oglas-40149992
-360,880.0,114.0,43.04315605086988,17.64914789788451,Dubrovačko-neretvanska,Metković,Metković,1,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/metkovic-slatine-stan-3-114.40-m2-okucnicom-oglas-40150280
-104,1500.0,136.0,43.04804999020212,17.631832117355945,Dubrovačko-neretvanska,Metković,Metković,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stambeno-poslovni-prostor-136-m2-oglas-41033005
-105,1800.0,260.0,43.04396332400551,17.634280184767633,Dubrovačko-neretvanska,Metković,Metković,1,1,1,1,1,2,https://www.njuskalo.hr/nekretnine/stambeni-prostor-260-m2-oglas-41033040
-228,2000.0,90.0,43.025578253445,17.604830598885,Dubrovačko-neretvanska,Metković,Metković,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-metkovic-90.00-m2-novogradnja-oglas-41806259
-282,2500.0,60.0,42.63465029187049,18.19887766361383,Dubrovačko-neretvanska,Župa Dubrovačka,Petrača,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-kompleks-urbanih-vila-zelenilu-stanovi-kuce-oglas-40375760
-288,2700.0,50.0,42.5767091572585,18.242596370245032,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-stanovi-apartmani-cca-37-m2-cca-75-m2-oglas-38582676
-64,2700.0,75.0,42.57592388592118,18.24195425082043,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/zvekovica-novogradnja-oglas-38591614
-285,2790.0,60.0,42.62510518008943,18.161907901364845,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-stanovi-50-m2-89-m2-blizina-sadrzaja-useljivo-oglas-39051881
-287,2800.0,80.0,42.63424871242708,18.193081897783856,Dubrovačko-neretvanska,Župa Dubrovačka,Petrača,0,2,3,2,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-urbane-vile-stan-cca-80-m2-3-spavace-sobe-oglas-40375876
-117,2990.0,75.0,42.574880774207,18.240605390447,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,2,2,1,https://www.njuskalo.hr/nekretnine/stan-a2-novogradnja-prodaja-zvekovica-75.91-m2-3-oglas-42267277
-79,2990.0,75.0,42.57469721558,18.24074477549,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,2,2,2,https://www.njuskalo.hr/nekretnine/stan-a3-novogradnja-prodaja-zvekovica-75.91-m2-3-oglas-42283923
-99,2990.0,56.0,42.626658595828296,18.16385761028979,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/stanovi-zupi-dubrovackoj-novogradnja-oglas-39181480
-279,3000.0,60.0,42.58151283833816,18.21521964712974,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-stanovi-apartmani-cca-43-m2-cca-82-m2-oglas-41336955
-349,3000.0,70.0,42.98672556196751,17.165309648590874,Dubrovačko-neretvanska,Orebić,Orebić,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/orebic-peljesac-apartmani-63m2-prodaju-novogradnja-video-oglas-40808541
-68,3100.0,95.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,3,1,1,1,https://www.njuskalo.hr/nekretnine/pilot-residance-dubrovnik-cavtat-54-95m2-oglas-41696211
-6,3300.0,42.0,42.838232615163,17.691858631865,Dubrovačko-neretvanska,Ston,Ston,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/ston-novogradnja-jednosobni-stanovi-42-56m2-vrhunska-lokacija-oglas-42326336
-5,3300.0,67.0,42.838232615163,17.691858631865,Dubrovačko-neretvanska,Ston,Ston,0,1,2,1,2,1,https://www.njuskalo.hr/nekretnine/ston-novogradnja-dvosobni-stanovi-povrsine-67m2-odlicna-lokacija-oglas-42326371
-4,3300.0,94.0,42.82643087897,17.700380757378,Dubrovačko-neretvanska,Ston,Ston,0,1,3,2,3,1,https://www.njuskalo.hr/nekretnine/stan-ston-94.00-m2-novogradnja-oglas-42326434
-142,3300.0,90.0,42.627556538898,18.162136668504,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,4,2,1,1,https://www.njuskalo.hr/nekretnine/zupa-dubrovacka-cibaca-dvosoban-stan-garsonijera-parkirno-mjesto-oglas-40996632
-250,3490.0,61.0,42.576019184481,18.240445297136,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,2,2,3,https://www.njuskalo.hr/nekretnine/stan-a4-novogradnja-prodaja-zvekovica-61.07-m2-3-oglas-42026108
-283,4800.0,70.0,42.654893796668,18.082290073295,Dubrovačko-neretvanska,Dubrovnik,Batala,0,1,2,2,1,2,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-70.00-m2-novogradnja-oglas-36102618
-277,6000.0,80.0,42.655543529330416,18.076782929758007,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-dubrovnik-izvrsna-pjesacka-zona-stanovi-prodaja-oglas-41981480
-74,6500.0,79.0,42.656515412688,18.079664716617,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-komforni-stan-blizini-setnice-lapad-dubrovnik-oglas-42101865
-343,75000.0,69.0,43.01610228782633,17.562964257122495,Dubrovačko-neretvanska,Opuzen,Opuzen,0,1,1,1,1,3,https://www.njuskalo.hr/nekretnine/opuzen-stan-69-m2-centar-3-kat-oglas-41292771
+163,10000.0,70.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/novogradnja-dvosobni-stan-mlinima-zupa-dubrovacka-oglas-38478028
+71,10000.0,75.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/dvosobni-stan-novogradnji-mlini-oglas-38478026
+151,10000.0,59.0,42.64110471066648,18.108616899226522,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/trosobni-stan-starom-gradu-oglas-39448881
+152,10000.0,110.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,3,3,1,3,https://www.njuskalo.hr/nekretnine/novogradnja-penthouse-mlinima-oglas-38494735
+164,10000.0,65.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/novogradnja-dvosobni-stan-mlinima-zupa-dubrovacka-oglas-38478025
+165,10000.0,71.0,42.65632844287215,18.077929365325442,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/prostrani-obiteljski-stan-tik-uvale-lapad-oglas-38180734
+41,10000.0,115.0,42.64110471066648,18.108616899226522,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,2,4,4,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrovnik-115m2-oglas-38685843
+40,10000.0,89.0,42.65314530726539,18.09043787146746,Dubrovačko-neretvanska,Dubrovnik,Šipčine,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/prostrani-stan-mirnom-dijelu-grada-oglas-40964780
+96,11000.0,62.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-mlini-62.33m2-oglas-36617897
+95,11000.0,72.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-mlini-72.31m2-oglas-36617898
+91,11000.0,145.0,42.667262994540216,18.157406785490014,Dubrovačko-neretvanska,Konavle,Cavtat,1,2,4,3,1,1,https://www.njuskalo.hr/nekretnine/dvoetazni-stan-poluganju-cavtat-oglas-41540836
+241,11000.0,109.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,3,3,1,4,https://www.njuskalo.hr/nekretnine/stan-prodaja-mlini-90.93m2-oglas-36617895
+315,11000.0,62.0,42.6249342083178,18.2087657497822,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-mlini-62.24m2-oglas-36617899
+328,11000.0,75.0,42.64332676266102,18.115816590098188,Dubrovačko-neretvanska,Dubrovnik,Ploče,0,1,3,2,1,0,https://www.njuskalo.hr/nekretnine/dvosobni-stan-plocama-oglas-41646059
+314,11000.0,90.0,42.65979757106479,18.074617250693517,Dubrovačko-neretvanska,Dubrovnik,Babin kuk,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/trosobni-stan-babin-kuk-oglas-37589420
 201,75000.0,60.0,43.032152458136,17.500726087406,Dubrovačko-neretvanska,Ploče,Komin,1,2,1,2,1,2,https://www.njuskalo.hr/nekretnine/stan-komin-60.00-m2-oglas-42157824
+343,75000.0,69.0,43.01610228782633,17.562964257122495,Dubrovačko-neretvanska,Opuzen,Opuzen,0,1,1,1,1,3,https://www.njuskalo.hr/nekretnine/opuzen-stan-69-m2-centar-3-kat-oglas-41292771
 348,76000.0,49.0,43.05274839721147,17.643911007182396,Dubrovačko-neretvanska,Metković,Metković,0,1,2,1,1,5,https://www.njuskalo.hr/nekretnine/metkovic-centar-dvosoban-stan-48-m2-oglas-41178189
 304,85000.0,33.0,42.827761437238,17.703200190904,Dubrovačko-neretvanska,Ston,Ston,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/peljesac-mali-stan-velikim-pogledom-more-stonu-oglas-41518191
 161,95000.0,69.0,43.045789299466,17.631485160003,Dubrovačko-neretvanska,Metković,Metković,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/prodaje-se-stan-centru-metkovica-iznad-fine-2s-db-zamjena-manj-oglas-40589542
 167,95000.0,77.0,43.04997911225884,17.641517195797277,Dubrovačko-neretvanska,Metković,Metković,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-metkovic-77.00-m2-oglas-38885861
-26,95760.0,47.0,43.054903482761,17.650565984557,Dubrovačko-neretvanska,Metković,Metković,0,3,1,1,1,3,https://www.njuskalo.hr/nekretnine/metkovic-przine-jednosobni-stanovi-treci-kat-oglas-39181464
 25,95760.0,47.0,43.054903482761,17.650565984557,Dubrovačko-neretvanska,Metković,Metković,0,3,1,1,1,1,https://www.njuskalo.hr/nekretnine/metkovic-przine-jednosobni-stanovi-prvi-kat-oglas-39181476
+26,95760.0,47.0,43.054903482761,17.650565984557,Dubrovačko-neretvanska,Metković,Metković,0,3,1,1,1,3,https://www.njuskalo.hr/nekretnine/metkovic-przine-jednosobni-stanovi-treci-kat-oglas-39181464
 301,96000.0,85.0,43.01928890994791,17.53104698016929,Dubrovačko-neretvanska,Opuzen,Opuzen,1,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/opuzen-centar-dvosoban-stan-apartman-85.18-m2-video-oglas-41889882
-233,99575.0,39.0,42.955501375001,16.6821199414,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/inovativni-luksuz-more-oglas-42101646
 118,99575.0,39.0,42.9592365,16.7191104,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/prekrasan-jednosobni-stan-novogradnji-vela-luka-oglas-42267171
-305,100000.0,45.0,42.938317238765,17.101104794426,Dubrovačko-neretvanska,Korčula,Žrnovo,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/jednosobni-stan-zrnovu-oglas-41302250
+233,99575.0,39.0,42.955501375001,16.6821199414,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/inovativni-luksuz-more-oglas-42101646
 28,100000.0,35.0,42.946922345317,17.167794997488,Dubrovačko-neretvanska,Korčula,Korčula,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/jednosoban-stan-atraktivnoj-lokaciji-otok-korcula-oglas-42258853
 310,100000.0,45.0,42.94566612126,17.166037324379,Dubrovačko-neretvanska,Korčula,Korčula,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-blizini-grada-korcule-oglas-40810684
-295,101000.0,56.0,43.060191450148,17.637527224226,Dubrovačko-neretvanska,Metković,Metković,0,1,1,1,1,3,https://www.njuskalo.hr/nekretnine/metkovic-jednosoban-stan-56-m2-novogradnja-oglas-41938018
-289,101000.0,56.0,43.05692175560609,17.635541613983715,Dubrovačko-neretvanska,Metković,Metković,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/metkovic-jednosoban-stan-56-m2-novogradnja-oglas-41980897
+305,100000.0,45.0,42.938317238765,17.101104794426,Dubrovačko-neretvanska,Korčula,Žrnovo,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/jednosobni-stan-zrnovu-oglas-41302250
 294,101000.0,56.0,43.06019145014798,17.63752722422599,Dubrovačko-neretvanska,Metković,Metković,0,1,1,1,1,4,https://www.njuskalo.hr/nekretnine/metkovic-jednosoban-stan-56-m2-novogradnja-oglas-41938258
+289,101000.0,56.0,43.05692175560609,17.635541613983715,Dubrovačko-neretvanska,Metković,Metković,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/metkovic-jednosoban-stan-56-m2-novogradnja-oglas-41980897
+295,101000.0,56.0,43.060191450148,17.637527224226,Dubrovačko-neretvanska,Metković,Metković,0,1,1,1,1,3,https://www.njuskalo.hr/nekretnine/metkovic-jednosoban-stan-56-m2-novogradnja-oglas-41938018
 229,106025.0,42.0,42.953599438452,16.680373598497,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/oaza-luksuza-more-oglas-42101661
 119,110000.0,110.0,43.055238404379,17.450559608033,Dubrovačko-neretvanska,Ploče,Ploče,1,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stablina-ploce-stan-apartman-110-m2-okucnicom-video-oglas-42263430
 347,111000.0,69.0,43.01736841338491,17.562539251968442,Dubrovačko-neretvanska,Opuzen,Opuzen,0,1,3,1,1,4,https://www.njuskalo.hr/nekretnine/dolina-neretve-opuzen-atraktivno-pozicioniran-3-sobni-stan-oglas-41185715
-141,115000.0,184.0,42.99908298794405,17.28388541791187,Dubrovačko-neretvanska,Trpanj,Trpanj,1,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/trpanj-peljesac-stan-apartman-renovaciju-pogledom-more-oglas-42259885
 223,115000.0,69.0,43.05232432699035,17.64549136161804,Dubrovačko-neretvanska,Metković,Metković,0,1,3,1,1,4,https://www.njuskalo.hr/nekretnine/povoljno-trosoban-stan-metkovic-69.52m2-odlican-raspored-soba-oglas-40338704
-307,119000.0,79.0,42.960873306835,16.822736024893,Dubrovačko-neretvanska,Blato,Blato,1,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/jednosobni-stan-blato-oglas-41795746
+141,115000.0,184.0,42.99908298794405,17.28388541791187,Dubrovačko-neretvanska,Trpanj,Trpanj,1,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/trpanj-peljesac-stan-apartman-renovaciju-pogledom-more-oglas-42259885
 306,119000.0,84.0,42.962053893275,16.821848732091,Dubrovačko-neretvanska,Blato,Blato,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/dvosobni-stan-blato-oglas-41795753
+307,119000.0,79.0,42.960873306835,16.822736024893,Dubrovačko-neretvanska,Blato,Blato,1,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/jednosobni-stan-blato-oglas-41795746
 329,119700.0,79.0,43.020211195462,17.533552558342,Dubrovačko-neretvanska,Opuzen,Opuzen,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-opuzen-73.00-m2-novogradnja-oglas-38874886
 276,119900.0,66.0,46.29326306812833,16.326320377579123,Dubrovačko-neretvanska,Metković,Metković,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-metkovic-3-soban-66-m2-odlicna-lokacija-2-kata-balkon-parkin-oglas-41982825
-9,120000.0,37.0,42.945654,17.133677,Dubrovačko-neretvanska,Korčula,Žrnovo,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/stan-zrnovu-korcula-moguca-kupnja-putem-kredita-oglas-42324914
 101,120000.0,58.0,42.653604362459,18.160454173373,Dubrovačko-neretvanska,Župa Dubrovačka,Brgat Donji,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-brgat-donji-58.00-m2-novogradnja-oglas-40320878
+9,120000.0,37.0,42.945654,17.133677,Dubrovačko-neretvanska,Korčula,Žrnovo,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/stan-zrnovu-korcula-moguca-kupnja-putem-kredita-oglas-42324914
 227,123125.0,49.0,42.953792950264,16.680051719602,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-more-oglas-42110497
 371,125000.0,74.0,42.947307964407,17.547168396761,Dubrovačko-neretvanska,Slivno,Duboka,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/stan-apartman-duboka-komarna-74.50-m2-oglas-37496860
 300,125000.0,38.0,43.01718213668288,17.530646715249894,Dubrovačko-neretvanska,Opuzen,Opuzen,0,3,1,1,1,4,https://www.njuskalo.hr/nekretnine/stan-opuzen-38.45-m2-novogradnja-oglas-36113583
 109,126925.0,50.0,42.944663742645,17.533134485584,Dubrovačko-neretvanska,Slivno,Komarna,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/prodaja-stan-38.94m2-komarna-oglas-41593895
 63,129000.0,45.0,42.667262994540216,18.157406785490014,Dubrovačko-neretvanska,Konavle,Cavtat,1,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cavtat-oglas-36568330
-138,131200.0,65.0,43.054903482761,17.650565984557,Dubrovačko-neretvanska,Metković,Metković,0,3,2,1,1,4,https://www.njuskalo.hr/nekretnine/metkovic-przine-dvosobni-stanovi-cetvrti-kat-oglas-39181491
 137,131200.0,65.0,43.054903482761,17.650565984557,Dubrovačko-neretvanska,Metković,Metković,0,3,2,1,1,1,https://www.njuskalo.hr/nekretnine/metkovic-przine-dvosobni-stanovi-prvi-kat-oglas-39181507
-130,131200.0,65.0,43.054903482761,17.650565984557,Dubrovačko-neretvanska,Metković,Metković,0,3,2,1,1,3,https://www.njuskalo.hr/nekretnine/metkovic-przine-dvosobni-stanovi-treci-kat-oglas-39181503
 131,131200.0,65.0,43.054903482761,17.650565984557,Dubrovačko-neretvanska,Metković,Metković,0,3,2,1,1,2,https://www.njuskalo.hr/nekretnine/metkovic-przine-dvosobni-stanovi-drugi-kat-oglas-39181486
+130,131200.0,65.0,43.054903482761,17.650565984557,Dubrovačko-neretvanska,Metković,Metković,0,3,2,1,1,3,https://www.njuskalo.hr/nekretnine/metkovic-przine-dvosobni-stanovi-treci-kat-oglas-39181503
+138,131200.0,65.0,43.054903482761,17.650565984557,Dubrovačko-neretvanska,Metković,Metković,0,3,2,1,1,4,https://www.njuskalo.hr/nekretnine/metkovic-przine-dvosobni-stanovi-cetvrti-kat-oglas-39181491
 232,133775.0,53.0,42.954046679155,16.682020504835,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/oaza-luksuza-more-oglas-42101647
+288,135000.0,50.0,42.5767091572585,18.242596370245032,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-stanovi-apartmani-cca-37-m2-cca-75-m2-oglas-38582676
 327,135000.0,192.0,43.05269994828,17.646277417793,Dubrovačko-neretvanska,Metković,Metković,0,3,4,2,1,2,https://www.njuskalo.hr/nekretnine/stan-metkovic-77.85-m2-oglas-40095990
 108,135375.0,54.0,42.944632328089,17.533134485584,Dubrovačko-neretvanska,Slivno,Komarna,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/prodaja-stan-43.26m2-komarna-oglas-41593896
 231,137175.0,54.0,42.953557693693,16.683565745102,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/oaza-luksuza-more-oglas-42101649
 237,137350.0,54.0,42.955737707185,16.679203874225,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/raritet-more-oglas-42101640
 48,138000.0,93.0,43.03591242115006,17.639744035176538,Dubrovačko-neretvanska,Metković,Metković,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-metkovic-93.00-m2-oglas-38394113
+6,138600.0,42.0,42.838232615163,17.691858631865,Dubrovačko-neretvanska,Ston,Ston,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/ston-novogradnja-jednosobni-stanovi-42-56m2-vrhunska-lokacija-oglas-42326336
 351,139000.0,69.0,42.9561342491452,17.391030981146198,Dubrovačko-neretvanska,Janjina,Osobjava,1,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/peljesac-osobjava-apartman-netto-69m2-garaza-22.88m2-video-oglas-40979367
 333,140000.0,37.0,42.62309678763,18.192222118378,Dubrovačko-neretvanska,Župa Dubrovačka,Srebreno,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-srebreno-37.00-m2-oglas-38847692
 296,141400.0,78.0,43.0578860183334,17.635165841273622,Dubrovačko-neretvanska,Metković,Metković,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/metkovic-trosoban-stan-78-m2-novogradnja-oglas-41936866
 234,142575.0,57.0,42.953781540463,16.682965116125,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/impresivan-stan-more-oglas-42101645
 370,143000.0,106.0,43.04799834506873,17.63171939644894,Dubrovačko-neretvanska,Metković,Metković,0,1,3,2,2,0,https://www.njuskalo.hr/nekretnine/namjesten-stan-metkovicu-106.00-m2-oglas-38221142
 221,144000.0,43.0,42.5762101,18.2424217,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-43-m2-oglas-39674568
-235,144200.0,57.0,42.953870328771,16.68119345341,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/ekskluzivni-stan-more-oglas-42101644
 80,144200.0,57.0,42.9592365,16.7191104,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/dvosoban-stan-blizu-centra-vela-luka-oglas-42283791
+235,144200.0,57.0,42.953870328771,16.68119345341,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/ekskluzivni-stan-more-oglas-42101644
 238,144200.0,57.0,42.955562024221,16.681328749317,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/oaza-more-oglas-42101636
 230,145425.0,58.0,42.954968832574,16.681375942961,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/inovativni-luksuz-more-oglas-42101657
 236,145425.0,58.0,42.955425435262,16.681741605669,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-more-oglas-42101643
 353,148000.0,80.0,43.05276,17.437479,Dubrovačko-neretvanska,Ploče,Ploče,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/stan-ploce-80.00-m2-oglas-40719743
 182,150000.0,60.0,42.95129641987026,17.14523976841797,Dubrovačko-neretvanska,Korčula,Korčula,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-korcula-60.00-m2-oglas-42194736
 311,150000.0,128.0,43.05538632797081,17.431988316313067,Dubrovačko-neretvanska,Ploče,Ploče,1,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stablina-ploce-apartman-stan-128.62-m2-garazom-vrtom-oglas-41749809
-10,153000.0,90.0,42.945709,17.145225,Dubrovačko-neretvanska,Korčula,Korčula,1,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/veliki-stan-pogledom-prirodu-korcula-90-m2-oglas-42324911
+282,150000.0,60.0,42.63465029187049,18.19887766361383,Dubrovačko-neretvanska,Župa Dubrovačka,Petrača,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-kompleks-urbanih-vila-zelenilu-stanovi-kuce-oglas-40375760
 225,153000.0,47.0,42.5762101,18.2424217,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-47-m2-oglas-39674611
+10,153000.0,90.0,42.945709,17.145225,Dubrovačko-neretvanska,Korčula,Korčula,1,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/veliki-stan-pogledom-prirodu-korcula-90-m2-oglas-42324911
 43,158500.0,85.0,42.627872,18.175581,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,2,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-zupi-cibaca-povoljno-prodaje-vlasnik-oglas-41983154
-90,160000.0,57.0,42.95470262720645,17.137183117303152,Dubrovačko-neretvanska,Korčula,Korčula,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-korcula-57.00-m2-novogradnja-oglas-41111395
 115,160000.0,47.0,42.62678624042225,18.160298517535885,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/prodaje-se-potpuno-namjesten-stan-zupi-dubrovackoj-oglas-41988381
-20,165000.0,50.0,42.5762101,18.2424217,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-50.56-m2-oglas-39674599
-359,165000.0,158.0,43.01952749110851,17.563818719593737,Dubrovačko-neretvanska,Opuzen,Opuzen,1,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/opuzen-kuca-stan-158-m2-centar-video-oglas-40316459
-56,165000.0,50.0,42.582281707004,18.215514375769,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cavtat-50.00-m2-oglas-41621964
+90,160000.0,57.0,42.95470262720645,17.137183117303152,Dubrovačko-neretvanska,Korčula,Korčula,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-korcula-57.00-m2-novogradnja-oglas-41111395
 3,165000.0,43.0,42.658924,18.091072,Dubrovačko-neretvanska,Dubrovnik,Gruž,0,1,2,1,1,8,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-gruz-43.19m-oglas-41365970
 2,165000.0,54.0,42.94815368271478,17.1331797351421,Dubrovačko-neretvanska,Korčula,Korčula,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/korcula-domince-jednosoban-stan-novogradnja-54m-oglas-40399204
+359,165000.0,158.0,43.01952749110851,17.563818719593737,Dubrovačko-neretvanska,Opuzen,Opuzen,1,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/opuzen-kuca-stan-158-m2-centar-video-oglas-40316459
+20,165000.0,50.0,42.5762101,18.2424217,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-50.56-m2-oglas-39674599
+56,165000.0,50.0,42.582281707004,18.215514375769,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cavtat-50.00-m2-oglas-41621964
 358,167000.0,50.0,42.946936387826,17.57014481365,Dubrovačko-neretvanska,Slivno,Klek,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/klek-apartman-1-50.44m2-video-oglas-40340829
+285,167400.0,60.0,42.62510518008943,18.161907901364845,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-stanovi-50-m2-89-m2-blizina-sadrzaja-useljivo-oglas-39051881
+99,167440.0,56.0,42.626658595828296,18.16385761028979,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/stanovi-zupi-dubrovackoj-novogradnja-oglas-39181480
 36,167440.0,56.0,42.626918470685,18.163965245517,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/potpuno-renovirani-namjesteni-obiteljski-stanovi-zupa-dubrovacka-n-oglas-40473410
-290,168919.0,54.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,2,1,1,3,https://www.njuskalo.hr/nekretnine/stan-cavtat-54.49-m2-novogradnja-oglas-41697674
 191,168919.0,54.0,42.582494249807,18.217309060521,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/cavtat-moderan-2s-stan-54.00-m2-novogradnja-parking-oglas-40800332
+290,168919.0,54.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,2,1,1,3,https://www.njuskalo.hr/nekretnine/stan-cavtat-54.49-m2-novogradnja-oglas-41697674
 207,168919.0,57.0,42.580550233735,18.211471048533,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/stanovi-cavtatu-novogradnja-oglas-40787212
 302,170000.0,40.0,42.95865772884967,17.136719830773433,Dubrovačko-neretvanska,Korčula,Korčula,1,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-grad-korcula-50-metara-mora-40.00-m2-oglas-41807655
 312,170000.0,55.0,42.94600368612578,17.568026150673873,Dubrovačko-neretvanska,Slivno,Klek,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/klek-slivno-dvosoban-apartman-55.06-m2-broj-9-oglas-41733694
-162,175000.0,64.0,42.5553016,18.268837,Dubrovačko-neretvanska,Konavle,Čilipi,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/cilipi-stan-dvije-spavace-sobe-parking-mjestom-oglas-39611276
 98,175000.0,64.0,42.552245799221,18.275650165834,Dubrovačko-neretvanska,Konavle,Čilipi,1,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/dvosobni-stan-cilipi-oglas-40556698
+162,175000.0,64.0,42.5553016,18.268837,Dubrovačko-neretvanska,Konavle,Čilipi,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/cilipi-stan-dvije-spavace-sobe-parking-mjestom-oglas-39611276
 247,176000.0,55.0,42.65487207997571,18.0804705619812,Dubrovačko-neretvanska,Dubrovnik,Lapad,1,1,4,2,2,1,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-lapad-dvije-odvojene-stambene-jedinice-30m2-25m2-oglas-41590169
 150,176280.0,90.0,43.0532801,17.6493431,Dubrovačko-neretvanska,Metković,Metković,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/metkovic-centar-prekrasan-dvoetazni-stan-oglas-42025532
 110,178025.0,71.0,42.944255352161,17.533220316272,Dubrovačko-neretvanska,Slivno,Komarna,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/prodaja-stan-71.21m2-komarna-oglas-41593894
-107,178374.0,57.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,2,1,1,3,https://www.njuskalo.hr/nekretnine/stan-cavtat-57.54-m2-novogradnja-oglas-41696457
 192,178374.0,57.0,42.582494249807,18.217309060521,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/cavtat-moderan-2s-stan-57.00-m2-novogradnja-parking-oglas-40800272
+107,178374.0,57.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,2,1,1,3,https://www.njuskalo.hr/nekretnine/stan-cavtat-57.54-m2-novogradnja-oglas-41696457
 339,180000.0,96.0,42.581840745764985,18.209555077260337,Dubrovačko-neretvanska,Konavle,Cavtat,1,1,3,2,1,2,https://www.njuskalo.hr/nekretnine/stan-cavtat-96.00-m2-oglas-41442612
-113,185000.0,58.0,42.991092696902,17.128703959402,Dubrovačko-neretvanska,Orebić,Kučište,0,3,2,1,2,0,https://www.njuskalo.hr/nekretnine/peljesac-kuciste-lijepi-jednosobni-stan-blizu-plaze-58-m2-oglas-40072134
-82,185000.0,54.0,42.676493701171,18.110834357741,Dubrovačko-neretvanska,Dubrovnik - Okolica,Nova Mokošica,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/jednosobni-stan-novogradnji-mokosici-oglas-42283577
+228,180000.0,90.0,43.025578253445,17.604830598885,Dubrovačko-neretvanska,Metković,Metković,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-metkovic-90.00-m2-novogradnja-oglas-41806259
+279,180000.0,60.0,42.58151283833816,18.21521964712974,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-stanovi-apartmani-cca-43-m2-cca-82-m2-oglas-41336955
 357,185000.0,55.0,42.946936387826,17.57014481365,Dubrovačko-neretvanska,Slivno,Klek,0,1,2,2,1,1,https://www.njuskalo.hr/nekretnine/klek-apartman-3-55.91m2-video-oglas-40341010
+82,185000.0,54.0,42.676493701171,18.110834357741,Dubrovačko-neretvanska,Dubrovnik - Okolica,Nova Mokošica,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/jednosobni-stan-novogradnji-mokosici-oglas-42283577
+113,185000.0,58.0,42.991092696902,17.128703959402,Dubrovačko-neretvanska,Orebić,Kučište,0,3,2,1,2,0,https://www.njuskalo.hr/nekretnine/peljesac-kuciste-lijepi-jednosobni-stan-blizu-plaze-58-m2-oglas-40072134
 356,185000.0,55.0,42.946936387826,17.57014481365,Dubrovačko-neretvanska,Slivno,Klek,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/klek-apartman-5-55.91m2-video-oglas-40341098
-72,186248.0,60.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-cavtat-60.08-m2-novogradnja-oglas-41696533
 193,186248.0,60.0,42.582494249807,18.217309060521,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/cavtat-moderan-2s-stan-60.00-m2-novogradnja-parking-balkon-oglas-40800217
+72,186248.0,60.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-cavtat-60.08-m2-novogradnja-oglas-41696533
 114,188000.0,51.0,42.67663398689,18.112344715677,Dubrovačko-neretvanska,Dubrovnik - Okolica,Nova Mokošica,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/dubrovnik-mokosica-jednosoban-prostrani-stan-51-m2-oglas-41326255
-342,190000.0,69.0,42.65979757106479,18.074617250693517,Dubrovačko-neretvanska,Dubrovnik,Babin kuk,1,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-45.00-m2-oglas-41328294
 21,190000.0,60.0,42.5762101,18.2424217,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-60-m2-oglas-39674536
+342,190000.0,69.0,42.65979757106479,18.074617250693517,Dubrovačko-neretvanska,Dubrovnik,Babin kuk,1,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-45.00-m2-oglas-41328294
 195,191704.0,61.0,42.582494249807,18.217309060521,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cavtat-moderni-2s-stan-61.00-m2-novogradnja-parking-balkon-oglas-40800142
 69,191704.0,61.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cavtat-61.84-m2-novogradnja-oglas-41696758
 16,192200.0,62.0,42.57412491186393,18.22692523458536,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cavtat-62.00-m2-novogradnja-oglas-40791354
+166,193502.0,62.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cavtat-62.42-m2-novogradnja-oglas-41697817
+194,193502.0,62.0,42.582494249807,18.217309060521,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/cavtat-moderan-2s-stan-62.00-m2-novogradnja-parking-balkon-oglas-40800180
 196,193502.0,62.0,42.582494249807,18.217309060521,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/cavtat-moderni-2s-stan-62.00-m2-novogradnja-parking-balkon-oglas-40800093
 318,193502.0,62.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-cavtat-62.42-m2-novogradnja-oglas-41696641
-194,193502.0,62.0,42.582494249807,18.217309060521,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/cavtat-moderan-2s-stan-62.00-m2-novogradnja-parking-balkon-oglas-40800180
-166,193502.0,62.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-cavtat-62.42-m2-novogradnja-oglas-41697817
 37,194250.0,77.0,42.549189998442,18.282463331668,Dubrovačko-neretvanska,Konavle,Čilipi,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/cilipi-novogradnja-2s-db-77.7m2-oglas-39800695
 330,199000.0,57.0,42.951806624158,17.527597924979,Dubrovačko-neretvanska,Slivno,Komarna,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-komarna-60.00-m2-novogradnja-oglas-41484279
 144,201350.0,67.0,42.62695404972,18.162524477002,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/dvosobni-stan-zupa-dubrovacka-blizina-dubrovnika-oglas-40100998
 299,201810.0,79.0,42.626980914905,18.1649027305,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-blizina-dubrovnika-zupa-dubrovacka-oglas-40635797
 367,202500.0,75.0,42.57473717137,18.241172378168,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,1,2,2,https://www.njuskalo.hr/nekretnine/cavtat-zvekovica-novogradnja-oglas-38400947
+64,202500.0,75.0,42.57592388592118,18.24195425082043,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/zvekovica-novogradnja-oglas-38591614
+104,204000.0,136.0,43.04804999020212,17.631832117355945,Dubrovačko-neretvanska,Metković,Metković,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stambeno-poslovni-prostor-136-m2-oglas-41033005
 298,204606.0,80.0,42.626387975999,18.16214565459,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,2,2,1,1,1,https://www.njuskalo.hr/nekretnine/jednosoban-stan-potkrovljem-zupa-dubrovacka-oglas-40635798
 268,207000.0,70.0,42.98674082891,17.167993967741,Dubrovačko-neretvanska,Orebić,Orebić,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-oglas-41148870
 253,209120.0,72.0,42.628245134968,18.162207750422,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/stan-novogradnja-zupa-dubrovacka-oglas-39532705
-266,210000.0,70.0,42.987916537126,17.167247222659,Dubrovačko-neretvanska,Orebić,Orebić,0,3,2,1,1,0,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-oglas-41148869
-208,210000.0,23.0,42.640098904422,18.107794039739,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,1,0,1,1,0,https://www.njuskalo.hr/nekretnine/apartman-staroj-gradskoj-jezgri-oglas-39393080
 112,210000.0,150.0,42.856324807506,17.684336722118,Dubrovačko-neretvanska,Ston,Hodilje,1,3,3,1,1,0,https://www.njuskalo.hr/nekretnine/ston-hodilje-stan-kamenoj-kuci-rivi-oglas-40984251
 291,210000.0,23.0,42.641155750244,18.110385081056,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,1,0,1,1,0,https://www.njuskalo.hr/nekretnine/uhodani-apartman-dubrovackim-zidinama-oglas-41949268
+208,210000.0,23.0,42.640098904422,18.107794039739,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,1,0,1,1,0,https://www.njuskalo.hr/nekretnine/apartman-staroj-gradskoj-jezgri-oglas-39393080
 267,210000.0,70.0,42.987074089446,17.166959604113,Dubrovačko-neretvanska,Orebić,Orebić,0,3,3,1,1,0,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-oglas-41148871
+266,210000.0,70.0,42.987916537126,17.167247222659,Dubrovačko-neretvanska,Orebić,Orebić,0,3,2,1,1,0,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-oglas-41148869
+349,210000.0,70.0,42.98672556196751,17.165309648590874,Dubrovačko-neretvanska,Orebić,Orebić,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/orebic-peljesac-apartmani-63m2-prodaju-novogradnja-video-oglas-40808541
+250,212890.0,61.0,42.576019184481,18.240445297136,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,2,2,3,https://www.njuskalo.hr/nekretnine/stan-a4-novogradnja-prodaja-zvekovica-61.07-m2-3-oglas-42026108
 281,215000.0,45.0,42.58470969196638,18.21302567602742,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,1,1,1,2,https://www.njuskalo.hr/nekretnine/atraktivna-ponuda-novogradnja-stanovi-38-m2-52-m2-pogled-more-oglas-41052566
-50,218000.0,63.0,42.655033,18.09175,Dubrovačko-neretvanska,Dubrovnik,Šipčine,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/jedinstvena-dvosobni-stan-prekrasnim-pogledom-oglas-41659689
 77,218000.0,62.0,42.644108497867,18.099975585938,Dubrovačko-neretvanska,Dubrovnik,Boninovo,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/dvosobni-stan-prekrasnom-terasom-pogledom-more-vrhunskoj-lok-oglas-41676314
+50,218000.0,63.0,42.655033,18.09175,Dubrovačko-neretvanska,Dubrovnik,Šipčine,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/jedinstvena-dvosobni-stan-prekrasnim-pogledom-oglas-41659689
 218,219000.0,70.0,42.5762101,18.2424217,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-70-m2-oglas-39674610
-122,219000.0,84.0,42.675425720824,18.113392710613,Dubrovačko-neretvanska,Dubrovnik - Okolica,Gornje Obuljeno,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/dubrovnik-okolica-obuljeno-trosoban-stan-nkp-84-m2-oglas-41109330
 346,219000.0,67.0,42.8856006386451,17.45477693642475,Dubrovačko-neretvanska,Ston,Žuljana,1,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/zuljana-peljesac-dvosoban-apartman-67.95-m2-rstan-zuljana-67.00-m2-oglas-41190334
-264,220000.0,110.0,43.045979795902,17.631669253834,Dubrovačko-neretvanska,Metković,Metković,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/metkovic-centar-stan-110.71m2-oglas-41154036
+122,219000.0,84.0,42.675425720824,18.113392710613,Dubrovačko-neretvanska,Dubrovnik - Okolica,Gornje Obuljeno,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/dubrovnik-okolica-obuljeno-trosoban-stan-nkp-84-m2-oglas-41109330
+337,220000.0,50.0,42.678874771032,18.091756794015,Dubrovačko-neretvanska,Dubrovnik - Okolica,Mokošica,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/dalmacija-dubrovnik-stan-pogodnoj-lokaciji-oglas-41526689
+27,220000.0,77.0,42.948669795438,17.169417013023,Dubrovačko-neretvanska,Korčula,Korčula,0,1,3,2,2,1,https://www.njuskalo.hr/nekretnine/dvosoban-stan-atraktivnoj-lokaciji-otok-korcula-oglas-42258854
+92,220000.0,74.0,42.57592388592118,18.24195425082043,Dubrovačko-neretvanska,Konavle,Zvekovica,1,1,2,2,1,0,https://www.njuskalo.hr/nekretnine/dvosobni-stan-poluganju-cavtat-oglas-41533522
 265,220000.0,61.0,42.649457438314,18.085955193272,Dubrovačko-neretvanska,Dubrovnik,Montovjerna,1,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/dubrovnik-stan-61-m2-terasom-oglas-41154012
 260,220000.0,90.0,42.948386640187,17.168782386929,Dubrovačko-neretvanska,Korčula,Korčula,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/dvosobni-stan-blizini-grada-korcule-oglas-40702274
-27,220000.0,77.0,42.948669795438,17.169417013023,Dubrovačko-neretvanska,Korčula,Korčula,0,1,3,2,2,1,https://www.njuskalo.hr/nekretnine/dvosoban-stan-atraktivnoj-lokaciji-otok-korcula-oglas-42258854
-183,220000.0,85.0,42.58032,18.21173,Dubrovačko-neretvanska,Konavle,Cavtat,1,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/stan-cavtat-65.00-m2-novogradnja-oglas-40046228
 179,220000.0,87.0,42.69269040378511,18.04739634513198,Dubrovačko-neretvanska,Dubrovnik - Okolica,Zaton,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-zaton-novogradnja-oglas-41917809
-92,220000.0,74.0,42.57592388592118,18.24195425082043,Dubrovačko-neretvanska,Konavle,Zvekovica,1,1,2,2,1,0,https://www.njuskalo.hr/nekretnine/dvosobni-stan-poluganju-cavtat-oglas-41533522
-337,220000.0,50.0,42.678874771032,18.091756794015,Dubrovačko-neretvanska,Dubrovnik - Okolica,Mokošica,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/dalmacija-dubrovnik-stan-pogodnoj-lokaciji-oglas-41526689
+183,220000.0,85.0,42.58032,18.21173,Dubrovačko-neretvanska,Konavle,Cavtat,1,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/stan-cavtat-65.00-m2-novogradnja-oglas-40046228
+264,220000.0,110.0,43.045979795902,17.631669253834,Dubrovačko-neretvanska,Metković,Metković,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/metkovic-centar-stan-110.71m2-oglas-41154036
 270,220800.0,69.0,42.987247022341,17.165351782636,Dubrovačko-neretvanska,Orebić,Orebić,0,3,3,1,1,1,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148867
+5,221100.0,67.0,42.838232615163,17.691858631865,Dubrovačko-neretvanska,Ston,Ston,0,1,2,1,2,1,https://www.njuskalo.hr/nekretnine/ston-novogradnja-dvosobni-stanovi-povrsine-67m2-odlicna-lokacija-oglas-42326371
 224,222000.0,71.0,42.5762101,18.2424217,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-71-m2-oglas-39674587
+287,224000.0,80.0,42.63424871242708,18.193081897783856,Dubrovačko-neretvanska,Župa Dubrovačka,Petrača,0,2,3,2,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-urbane-vile-stan-cca-80-m2-3-spavace-sobe-oglas-40375876
 269,224000.0,70.0,42.987449539879,17.168541707455,Dubrovačko-neretvanska,Orebić,Orebić,0,3,3,1,1,1,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148868
 274,224000.0,70.0,42.986475655577,17.167224895886,Dubrovačko-neretvanska,Orebić,Orebić,0,3,3,1,1,1,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148862
-51,225000.0,87.0,42.69273359508051,18.045715061525897,Dubrovačko-neretvanska,Dubrovnik - Okolica,Zaton,0,1,3,2,1,2,https://www.njuskalo.hr/nekretnine/trosobni-stan-balkonom-parkingom-zaton-87m2-novogradnja-1kat-oglas-41054441
+79,224250.0,75.0,42.57469721558,18.24074477549,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,2,2,2,https://www.njuskalo.hr/nekretnine/stan-a3-novogradnja-prodaja-zvekovica-75.91-m2-3-oglas-42283923
+117,224250.0,75.0,42.574880774207,18.240605390447,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,2,2,1,https://www.njuskalo.hr/nekretnine/stan-a2-novogradnja-prodaja-zvekovica-75.91-m2-3-oglas-42267277
 220,225000.0,72.0,42.5762101,18.2424217,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-72-m2-oglas-39674540
+51,225000.0,87.0,42.69273359508051,18.045715061525897,Dubrovačko-neretvanska,Dubrovnik - Okolica,Zaton,0,1,3,2,1,2,https://www.njuskalo.hr/nekretnine/trosobni-stan-balkonom-parkingom-zaton-87m2-novogradnja-1kat-oglas-41054441
 66,227000.0,87.0,42.69269040378511,18.04739634513198,Dubrovačko-neretvanska,Dubrovnik - Okolica,Zaton,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/zaton-trosobni-stan-87-m2-oglas-37387429
-38,228000.0,118.0,42.5812683,18.2175941,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/cavtat-novogradnja-stan-118m2-prvi-kat-s2-oglas-40941870
 44,228000.0,56.0,42.676138077814,18.110285840469,Dubrovačko-neretvanska,Dubrovnik - Okolica,Nova Mokošica,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/dubrovnik-mokosica-moderan-stan-parkirnim-mjestom-56-m2-oglas-39242778
+38,228000.0,118.0,42.5812683,18.2175941,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/cavtat-novogradnja-stan-118m2-prvi-kat-s2-oglas-40941870
 143,229500.0,82.0,42.627547878568,18.160525629533,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-dvosobni-stan-oglas-39268411
 102,230000.0,76.0,42.946687297677,17.170036687064,Dubrovačko-neretvanska,Korčula,Korčula,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/korcula-dvosobni-stan-novogradnji-pogled-more-76-m2-oglas-42259062
 309,232500.0,66.0,42.654309470733,18.080102263715,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,3,1,1,4,https://www.njuskalo.hr/nekretnine/dubrovnik-stan-renovaciju-korak-svih-sadrzaja-oglas-39468823
@@ -184,41 +170,44 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 272,234600.0,69.0,42.989126008691,17.168556131251,Dubrovačko-neretvanska,Orebić,Orebić,0,3,3,1,1,2,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148864
 22,235000.0,160.0,42.941759771075446,17.078510121866007,Dubrovačko-neretvanska,Korčula,Korčula,1,2,5,1,1,2,https://www.njuskalo.hr/nekretnine/korcula-centar-dvoetazni-stan-djeljiv-dvije-stambene-jedinice-oglas-23282921
 244,237500.0,76.0,42.9297182,16.888644,Dubrovačko-neretvanska,Korčula,Korčula,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/dvosoban-stan-50m-mora-korcula-oglas-40387178
-350,238000.0,75.0,45.83143906677221,15.972330418589468,Dubrovačko-neretvanska,Konavle,Cavtat,0,2,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-cavtat-75.00-m2-oglas-32107819
-273,238000.0,70.0,42.986935408417,17.170757688306,Dubrovačko-neretvanska,Orebić,Orebić,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148863
 271,238000.0,70.0,42.986971191739,17.168277136891,Dubrovačko-neretvanska,Orebić,Orebić,0,3,3,1,1,2,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148865
-13,239925.0,68.0,42.9592365,16.7191104,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/dvosoban-stan-bazenom-vela-luka-oglas-42324582
+273,238000.0,70.0,42.986935408417,17.170757688306,Dubrovačko-neretvanska,Orebić,Orebić,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/orebic-novogradnja-stan-70m2-pogledom-more-oglas-41148863
+350,238000.0,75.0,45.83143906677221,15.972330418589468,Dubrovačko-neretvanska,Konavle,Cavtat,0,2,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-cavtat-75.00-m2-oglas-32107819
 187,239925.0,70.0,42.954521855116,16.68284995819,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/deluxe-stan-bazenom-ekskluzivna-oaza-plazi-srcu-korcule-oglas-42179183
-178,240000.0,61.0,42.70125593761184,18.01053871430894,Dubrovačko-neretvanska,Dubrovnik - Okolica,Orašac,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-orasac-61-m2-oglas-39849388
+13,239925.0,68.0,42.9592365,16.7191104,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/dvosoban-stan-bazenom-vela-luka-oglas-42324582
 263,240000.0,120.0,43.046205191529,17.63336803614,Dubrovačko-neretvanska,Metković,Metković,1,1,0,1,1,2,https://www.njuskalo.hr/nekretnine/metkovic-strogi-centar-stan-prizemlju-oglas-41154028
-355,245000.0,80.0,42.67616040657737,18.09406983005325,Dubrovačko-neretvanska,Dubrovnik - Okolica,Mokošica,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/mokosica-dubrovnik-dvosoban-stan-80.33m2-video-oglas-40520854
+178,240000.0,61.0,42.70125593761184,18.01053871430894,Dubrovačko-neretvanska,Dubrovnik - Okolica,Orašac,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-orasac-61-m2-oglas-39849388
 55,245000.0,69.0,42.694649434592,18.046898414543,Dubrovačko-neretvanska,Dubrovnik - Okolica,Zaton,0,1,2,2,1,2,https://www.njuskalo.hr/nekretnine/stan-zaton-69.00-m2-novogradnja-oglas-42066048
+355,245000.0,80.0,42.67616040657737,18.09406983005325,Dubrovačko-neretvanska,Dubrovnik - Okolica,Mokošica,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/mokosica-dubrovnik-dvosoban-stan-80.33m2-video-oglas-40520854
+15,250000.0,75.0,42.949955837515,17.143750696008,Dubrovačko-neretvanska,Korčula,Korčula,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/korcula-domince-prekrasan-stan-novogradnji-73-m2-oglas-41982822
 146,250000.0,57.0,42.654649597652,18.092825081934,Dubrovačko-neretvanska,Dubrovnik,Šipčine,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/dvosobni-stan-parkirnim-mjestom-oglas-42258755
 293,250000.0,74.0,42.662288713738,18.088635206223,Dubrovačko-neretvanska,Dubrovnik,Nuncijata,1,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-nuncijate-oglas-41939161
-15,250000.0,75.0,42.949955837515,17.143750696008,Dubrovačko-neretvanska,Korčula,Korčula,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/korcula-domince-prekrasan-stan-novogradnji-73-m2-oglas-41982822
-169,260000.0,86.0,42.652647243399,18.085620079815,Dubrovačko-neretvanska,Dubrovnik,Montovjerna,0,1,4,1,1,0,https://www.njuskalo.hr/nekretnine/stan-ulica-ante-starcevica-69-dubrovnik-86.00-m2-oglas-40230719
 280,260000.0,91.0,42.58335051940188,18.21530069766961,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,2,1,3,https://www.njuskalo.hr/nekretnine/atraktivan-stan-91.55-m2-2-spavace-sobe-pogled-more-plaza-oglas-41137379
+169,260000.0,86.0,42.652647243399,18.085620079815,Dubrovačko-neretvanska,Dubrovnik,Montovjerna,0,1,4,1,1,0,https://www.njuskalo.hr/nekretnine/stan-ulica-ante-starcevica-69-dubrovnik-86.00-m2-oglas-40230719
 219,265000.0,82.0,42.5762101,18.2424217,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-82.83-m2-oglas-39674600
 217,265000.0,82.0,42.5762101,18.2424217,Dubrovačko-neretvanska,Konavle,Zvekovica,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/zvekovica-ispod-magistrale-novogradnja-stambena-jedinica-82.83-m2-oglas-39674570
 319,266170.0,89.0,42.62682073746,18.162498167052,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/dvosobni-stan-tavanskim-prostorom-zupa-dubrovacka-oglas-40132694
-197,267964.0,86.0,42.582494249807,18.217309060521,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,4,1,1,3,https://www.njuskalo.hr/nekretnine/cavtat-4s-stan-86.00-m2-novogradnja-parking-oglas-40799768
+222,267000.0,86.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,4,1,1,3,https://www.njuskalo.hr/nekretnine/stan-cavtat-86.44-m2-novogradnja-oglas-41698042
 17,267964.0,86.0,42.574124911864,18.226925234585,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,4,2,1,4,https://www.njuskalo.hr/nekretnine/stan-cavtat-86.00-m2-novogradnja-visoko-potkrovlje-oglas-40781664
+197,267964.0,86.0,42.582494249807,18.217309060521,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,4,1,1,3,https://www.njuskalo.hr/nekretnine/cavtat-4s-stan-86.00-m2-novogradnja-parking-oglas-40799768
 320,268443.0,89.0,42.626722183744,18.163309106243,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/dvosobni-stan-potkrovlje-blizina-dubrovnika-oglas-40132684
 199,269997.0,95.0,42.582494249807,18.217309060521,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/cavtat-4s-stan-95.00-m2-novogradnja-balkoni-parking-oglas-40799559
 24,270000.0,140.0,42.5812683,18.2175941,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/cavtat-novogradnja-stan-140m2-prizemlje-s1-oglas-40941962
 14,279000.0,37.0,42.659134,18.076555,Dubrovačko-neretvanska,Dubrovnik,Lazaret,0,1,1,1,1,3,https://www.njuskalo.hr/nekretnine/atraktivan-apartman-parking-garaza-top-recenzije-oglas-41485160
-45,280000.0,85.0,42.584402082549,18.212169441196,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,4,2,1,0,https://www.njuskalo.hr/nekretnine/cavtat-moderan-obiteljski-stan-65-m2-oglas-40950233
 243,280000.0,44.0,42.640069230339,18.10776561326,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/jednosobni-stan-izvrsnoj-lokaciji-centru-dubrovnika-nadomak-glav-oglas-39255463
+45,280000.0,85.0,42.584402082549,18.212169441196,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,4,2,1,0,https://www.njuskalo.hr/nekretnine/cavtat-moderan-obiteljski-stan-65-m2-oglas-40950233
 160,285000.0,66.0,42.65278974459,18.088156430008,Dubrovačko-neretvanska,Dubrovnik,Gruž,0,2,2,1,1,4,https://www.njuskalo.hr/nekretnine/dubrovnik-stan-66-m2-izvrsnoj-lokaciji-pogledom-more-oglas-42244498
 366,289000.0,104.0,42.58432554728251,18.2106960376917,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,2,2,1,0,https://www.njuskalo.hr/nekretnine/dvosobni-stan-pogledom-more-cavtatu-oglas-38775087
 211,290000.0,158.0,42.62439060431,18.207351002853,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,1,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/stan-mlinima-pogled-more-oglas-38728928
 256,291000.0,57.0,42.691759591489,18.047445868908,Dubrovačko-neretvanska,Dubrovnik - Okolica,Zaton,0,1,0,1,1,2,https://www.njuskalo.hr/nekretnine/studio-apartman-novogradnji-pogledom-more-blizini-dubrovnika-oglas-41134373
+68,294500.0,95.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,3,1,1,1,https://www.njuskalo.hr/nekretnine/pilot-residance-dubrovnik-cavtat-54-95m2-oglas-41696211
 352,295000.0,130.0,42.947663130220775,17.525360852895766,Dubrovačko-neretvanska,Slivno,Komarna,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/komarna-apartman-129.30-m2-bazenom-pogledom-more-oglas-40955909
 18,296701.0,95.0,42.574124911864,18.226925234585,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/stan-cavtat-95.00-m2-novogradnja-oglas-40781629
-23,296701.0,95.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-cavtat-95.71-m2-novogradnja-oglas-41697484
-317,296701.0,95.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,4,1,2,1,https://www.njuskalo.hr/nekretnine/stan-cavtat-95.71-m2-novogradnja-oglas-41697930
-198,296701.0,95.0,42.582494249807,18.217309060521,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/cavtat-4s-stan-95.00-m2-novogradnja-parking-balkoni-oglas-40799674
 19,296701.0,95.0,42.574124911864,18.226925234585,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,4,2,1,1,https://www.njuskalo.hr/nekretnine/stan-cavtat-95.00-m2-novogradnja-oglas-40781580
+23,296701.0,95.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-cavtat-95.71-m2-novogradnja-oglas-41697484
+198,296701.0,95.0,42.582494249807,18.217309060521,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/cavtat-4s-stan-95.00-m2-novogradnja-parking-balkoni-oglas-40799674
+317,296701.0,95.0,42.583446218876,18.215243895721,Dubrovačko-neretvanska,Konavle,Cavtat,0,3,4,1,2,1,https://www.njuskalo.hr/nekretnine/stan-cavtat-95.71-m2-novogradnja-oglas-41697930
+142,297000.0,90.0,42.627556538898,18.162136668504,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,4,2,1,1,https://www.njuskalo.hr/nekretnine/zupa-dubrovacka-cibaca-dvosoban-stan-garsonijera-parkirno-mjesto-oglas-40996632
 303,299000.0,130.0,42.956707668746,16.679873623393,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,4,3,1,2,https://www.njuskalo.hr/nekretnine/deluxe-penthouse-bazenom-ekskluzivna-oaza-plazi-srcu-korc-oglas-38372956
 1,300000.0,72.0,42.653831885751,18.092158454557,Dubrovačko-neretvanska,Dubrovnik,Gruž,0,1,3,1,1,5,https://www.njuskalo.hr/nekretnine/stan-gruzu-oglas-41708595
 83,300000.0,90.0,42.57592388592118,18.24195425082043,Dubrovačko-neretvanska,Konavle,Zvekovica,1,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/trosobni-stan-obodu-oglas-42283571
@@ -226,45 +215,47 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 171,309000.0,102.0,42.982280681683,17.490399608772,Dubrovačko-neretvanska,Slivno,Duba,0,1,4,2,1,3,https://www.njuskalo.hr/nekretnine/stan-prodaja-novogradnja-duba-4-soban-102-m2-oglas-41485616
 60,309000.0,79.0,42.64969663486,18.096898173706,Dubrovačko-neretvanska,Dubrovnik,Gornji Kono,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-79.00-m2-oglas-29272571
 209,310000.0,60.0,42.640915796376,18.106295431231,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,1,3,1,1,4,https://www.njuskalo.hr/nekretnine/stan-starom-gradu-oglas-38849575
+4,310200.0,94.0,42.82643087897,17.700380757378,Dubrovačko-neretvanska,Ston,Ston,0,1,3,2,3,1,https://www.njuskalo.hr/nekretnine/stan-ston-94.00-m2-novogradnja-oglas-42326434
 39,312000.0,128.0,42.5812683,18.2175941,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,5,1,1,3,https://www.njuskalo.hr/nekretnine/cavtat-novogradnja-stan-128m2-potkrovlje-s3-oglas-40941965
-189,315000.0,74.0,42.582397658753,18.212329771159,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/moderno-ureden-dvosoban-stan-cavtatu-otvoreni-pogled-more-oglas-39979657
 331,315000.0,54.0,42.660820723644,18.084470646453,Dubrovačko-neretvanska,Dubrovnik,Gruž - Luka,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrovnik-gruz-54-m2-oglas-41230507
-336,315000.0,99.0,42.97993399483622,17.489456283208767,Dubrovačko-neretvanska,Slivno,Duba,0,1,2,2,1,2,https://www.njuskalo.hr/nekretnine/duba-slivno-penthouse-99.64-m2-terasom-pogledom-more-video-oglas-40781955
 11,315000.0,99.0,42.981085,17.489409,Dubrovačko-neretvanska,Slivno,Duba,1,1,4,1,1,3,https://www.njuskalo.hr/nekretnine/prodaja-stan-duba-duba-1-6-4s-99m2-oglas-42324908
+336,315000.0,99.0,42.97993399483622,17.489456283208767,Dubrovačko-neretvanska,Slivno,Duba,0,1,2,2,1,2,https://www.njuskalo.hr/nekretnine/duba-slivno-penthouse-99.64-m2-terasom-pogledom-more-video-oglas-40781955
+189,315000.0,74.0,42.582397658753,18.212329771159,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/moderno-ureden-dvosoban-stan-cavtatu-otvoreni-pogled-more-oglas-39979657
 341,315000.0,79.0,42.65316432744115,18.08925380391935,Dubrovačko-neretvanska,Dubrovnik,Šipčine,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-79.00-m2-oglas-29696461
 210,320000.0,80.0,42.648425705428,18.098720178076,Dubrovačko-neretvanska,Dubrovnik,Gornji Kono,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/dvosoban-stan-ilijinoj-glavici-oglas-38787632
 338,330000.0,79.0,42.949974068726,17.145311883014,Dubrovačko-neretvanska,Korčula,Korčula,0,1,2,2,2,0,https://www.njuskalo.hr/nekretnine/stan-korcula-79-m2-novogradnja-prodaje-vlasnik-oglas-41499246
 30,330000.0,61.0,42.640468897053,18.110988820831,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/sarmantan-stan-potkrovlju-korak-straduna-dubrovnik-centar-oglas-42101867
+283,336000.0,70.0,42.654893796668,18.082290073295,Dubrovačko-neretvanska,Dubrovnik,Batala,0,1,2,2,1,2,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-70.00-m2-novogradnja-oglas-36102618
 87,339000.0,75.0,42.6514398056168,18.08918023574196,Dubrovačko-neretvanska,Dubrovnik,Šipčine,1,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-75.00-m2-oglas-41217004
 324,339000.0,75.0,42.651605659489,18.077142040052653,Dubrovačko-neretvanska,Dubrovnik,Gruž,0,2,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-gruzu-75-m2-zgrada-je-novije-gradnje-2017-g-oglas-41211338
 278,340000.0,69.0,42.658760948947,18.08695106289857,Dubrovačko-neretvanska,Dubrovnik,Gruž,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-69-m2-pogledom-more-novija-gradnja-dubrovnik-oglas-41564300
 292,340000.0,75.0,42.676425839466,18.078700436873,Dubrovačko-neretvanska,Dubrovnik - Okolica,Pobrežje,1,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/osuncani-stan-75.00-m2-pogledom-taracom-vrtom-2-parkirna-mjesta-oglas-41963289
-325,348600.0,83.0,42.651605659489,18.077142040052653,Dubrovačko-neretvanska,Dubrovnik,Gruž,0,2,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-gruzu-83-m2-zgrada-je-novije-gradnje-2017-g-oglas-41211337
 88,348600.0,83.0,42.651439805617,18.089180235742,Dubrovačko-neretvanska,Dubrovnik,Šipčine,1,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-83.00-m2-oglas-41216434
+325,348600.0,83.0,42.651605659489,18.077142040052653,Dubrovačko-neretvanska,Dubrovnik,Gruž,0,2,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-gruzu-83-m2-zgrada-je-novije-gradnje-2017-g-oglas-41211337
 65,360000.0,104.0,42.662288713738,18.088635206223,Dubrovačko-neretvanska,Dubrovnik,Nuncijata,1,1,5,1,1,1,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-nuncijata-plus-garaza-oglas-37410740
-181,360000.0,79.0,42.62266444030913,18.168146085503498,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/dubrovnik-trosoban-stan-80m2-oglas-41135299
 226,360000.0,75.0,42.626658595828296,18.16385761028979,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/dvosobni-stan-garazom-cibaca-oglas-42117969
-7,369000.0,129.0,42.947760472629,17.167760689105,Dubrovačko-neretvanska,Korčula,Korčula,0,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/korcula-dvoetazni-penthouse-novogradnji-pogled-more-129-m2-oglas-40513702
+181,360000.0,79.0,42.62266444030913,18.168146085503498,Dubrovačko-neretvanska,Župa Dubrovačka,Čibača,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/dubrovnik-trosoban-stan-80m2-oglas-41135299
 121,369000.0,126.0,42.946822593672,17.170771347729,Dubrovačko-neretvanska,Korčula,Korčula,0,2,3,2,2,2,https://www.njuskalo.hr/nekretnine/korcula-126.00-m2-novogradnja-dvoetazan-cetverosoban-stan-pogled-oglas-41080531
-49,375000.0,146.0,42.988008284979,17.156487289013,Dubrovačko-neretvanska,Orebić,Podgorje,0,1,5,2,1,0,https://www.njuskalo.hr/nekretnine/korcula-orebic-pogorje-2-stana-88-58-m2-350-m2-okucnice-oglas-36053858
+7,369000.0,129.0,42.947760472629,17.167760689105,Dubrovačko-neretvanska,Korčula,Korčula,0,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/korcula-dvoetazni-penthouse-novogradnji-pogled-more-129-m2-oglas-40513702
 259,375000.0,144.0,42.975521168458,17.173161400729,Dubrovačko-neretvanska,Orebić,Orebić,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/2-apartmana-prodaja-oglas-41666792
+49,375000.0,146.0,42.988008284979,17.156487289013,Dubrovačko-neretvanska,Orebić,Podgorje,0,1,5,2,1,0,https://www.njuskalo.hr/nekretnine/korcula-orebic-pogorje-2-stana-88-58-m2-350-m2-okucnice-oglas-36053858
 175,375915.0,65.0,42.663745611459,18.06898362058,Dubrovačko-neretvanska,Dubrovnik,Solitudo,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-solitudu-oglas-42200691
-12,380000.0,72.0,42.788392,17.885075,Dubrovačko-neretvanska,Dubrovačko Primorje,Slano,1,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-pogledom-pored-plaze-72.54-m2-dubrovacko-primorje-slano-oglas-42324903
 124,380000.0,87.0,42.64332676266102,18.115816590098188,Dubrovačko-neretvanska,Dubrovnik,Ploče,0,1,2,2,1,0,https://www.njuskalo.hr/nekretnine/prostrani-stan-adaptaciju-plocama-dubrovnik-oglas-39080748
-94,385000.0,83.0,42.667262994540216,18.157406785490014,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,3,2,1,4,https://www.njuskalo.hr/nekretnine/penthouse-krovnom-terasom-pogledom-more-cavtat-oglas-40507146
+12,380000.0,72.0,42.788392,17.885075,Dubrovačko-neretvanska,Dubrovačko Primorje,Slano,1,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-pogledom-pored-plaze-72.54-m2-dubrovacko-primorje-slano-oglas-42324903
 58,385000.0,60.0,42.64485482394655,18.11355837062064,Dubrovačko-neretvanska,Dubrovnik,Ploče,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-60.00-m2-oglas-40761604
+94,385000.0,83.0,42.667262994540216,18.157406785490014,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,3,2,1,4,https://www.njuskalo.hr/nekretnine/penthouse-krovnom-terasom-pogledom-more-cavtat-oglas-40507146
 76,392000.0,76.0,42.690863963854,18.047986208166,Dubrovačko-neretvanska,Dubrovnik - Okolica,Zaton,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-pogledom-more-jednosoban-stan-blizini-dubrovnika-z-oglas-42101863
 245,393812.0,126.0,42.9297182,16.888644,Dubrovačko-neretvanska,Korčula,Korčula,0,2,3,2,1,2,https://www.njuskalo.hr/nekretnine/trosoban-stan-150m-mora-korcula-oglas-40421164
 75,395000.0,85.0,42.644224170063,18.115734687341,Dubrovačko-neretvanska,Dubrovnik,Ploče,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/ekskluzivna-ponuda-trosobni-stan-balkonom-pogledom-more-zlat-oglas-42101864
 35,399000.0,68.0,42.644181757512,18.118336839433,Dubrovačko-neretvanska,Dubrovnik,Ploče,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/moderan-dvosoban-stan-ocaravajucim-pogledom-otok-lokrum-oglas-40482960
 62,399000.0,68.0,42.64332676266102,18.115816590098188,Dubrovačko-neretvanska,Dubrovnik,Ploče,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/moderni-luksuzni-stan-dubrovnik-ploce-oglas-37495257
 248,399488.0,62.0,42.655358655545,18.070044909855,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-62-m2-novogradnja-oglas-41024090
-47,400000.0,70.0,42.651605659489,18.077142040052653,Dubrovačko-neretvanska,Dubrovnik,Gruž,0,1,2,1,1,5,https://www.njuskalo.hr/nekretnine/dubrovnik-fantastican-luksuzan-penthouse-terasom-oglas-26310128
 81,400000.0,123.0,42.9297182,16.888644,Dubrovačko-neretvanska,Korčula,Korčula,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/prekrasan-dvosoban-stan-korcula-oglas-42283790
+47,400000.0,70.0,42.651605659489,18.077142040052653,Dubrovačko-neretvanska,Dubrovnik,Gruž,0,1,2,1,1,5,https://www.njuskalo.hr/nekretnine/dubrovnik-fantastican-luksuzan-penthouse-terasom-oglas-26310128
 52,410000.0,115.0,42.658524279578,18.078279862058,Dubrovačko-neretvanska,Dubrovnik,Lapad,1,1,3,2,1,0,https://www.njuskalo.hr/nekretnine/stan-lapadu-zasebnom-garonijerom-115.00-m2-oglas-39115123
 31,415000.0,127.0,42.625416190601,18.209264204653,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,1,1,5,2,1,2,https://www.njuskalo.hr/nekretnine/cetverosobni-stan-renoviran-moderno-ureden-pogledom-more-oko-oglas-42101860
-275,420000.0,103.0,42.98363330676682,17.087399698268626,Dubrovačko-neretvanska,Orebić,Viganj,0,1,3,2,2,2,https://www.njuskalo.hr/nekretnine/stan-viganj-vrhunski-opremljen-stan-103.00-m2-3-npp-oglas-35595128
 215,420000.0,102.0,42.62576699729,18.20923693569,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,1,1,4,3,1,4,https://www.njuskalo.hr/nekretnine/stan-mlinima-oglas-38600483
+275,420000.0,103.0,42.98363330676682,17.087399698268626,Dubrovačko-neretvanska,Orebić,Viganj,0,1,3,2,2,2,https://www.njuskalo.hr/nekretnine/stan-viganj-vrhunski-opremljen-stan-103.00-m2-3-npp-oglas-35595128
 127,422000.0,111.0,42.658056045845,18.075159238573,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,4,1,1,0,https://www.njuskalo.hr/nekretnine/dubrovnik-lapad-dva-stana-ukupne-povrsine-111-m2-oglas-39832622
 32,425000.0,187.0,42.679582538004,18.090343153965,Dubrovačko-neretvanska,Dubrovnik - Okolica,Mokošica,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/dva-stana-mokosici-terasom-80-m2-okolica-dubrovnika-oglas-42101859
 159,425000.0,98.0,42.939410442372,17.098966720543,Dubrovačko-neretvanska,Korčula,Žrnovo,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/otok-korcula-zrnovo-luksuzan-stan-1-katu-pogledom-more-oglas-42251038
@@ -275,15 +266,17 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 70,440000.0,116.0,42.957473826871,17.116703793828,Dubrovačko-neretvanska,Korčula,Žrnovo,0,1,3,2,1,2,https://www.njuskalo.hr/nekretnine/korcula-uvala-vrbovica-dvosoban-stan-novogradnji-oglas-40619878
 204,440000.0,88.0,42.646569708592,18.101502178626,Dubrovačko-neretvanska,Dubrovnik,Srednji Kono,1,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-dubrovniku-oglas-41525919
 252,441000.0,140.0,42.946873315713,17.166847364058,Dubrovačko-neretvanska,Korčula,Korčula,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/prodaja-stana-40-mt-mora-soline-korcula-oglas-38601190
-257,445000.0,130.0,42.624425638327,18.209332368871,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,1,1,4,3,1,2,https://www.njuskalo.hr/nekretnine/moderani-dvoetazan-stan-prekrasnim-pogledom-more-dubrovnik-mlini-oglas-40482958
 284,445000.0,130.0,42.654253144172536,18.07916700846158,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,2,4,2,1,3,https://www.njuskalo.hr/nekretnine/komforan-stan-cca-130-m2-atraktivnoj-lokaciji-centru-lapada-oglas-39793204
+257,445000.0,130.0,42.624425638327,18.209332368871,Dubrovačko-neretvanska,Župa Dubrovačka,Mlini,1,1,4,3,1,2,https://www.njuskalo.hr/nekretnine/moderani-dvoetazan-stan-prekrasnim-pogledom-more-dubrovnik-mlini-oglas-40482958
 326,449088.0,96.0,42.64332676266102,18.115816590098188,Dubrovačko-neretvanska,Dubrovnik,Ploče,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrovnik-96m2-oglas-41221620
 173,449190.0,72.0,42.664749113033,18.068899508554,Dubrovačko-neretvanska,Dubrovnik,Solitudo,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-solitudu-pogled-more-oglas-42200693
 240,450000.0,57.0,42.667262994540216,18.157406785490014,Dubrovačko-neretvanska,Konavle,Cavtat,1,1,0,2,1,0,https://www.njuskalo.hr/nekretnine/dva-apartmana-centru-cavtata-oglas-33582718
 59,456000.0,51.0,42.64200244891,18.10663267598,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,2,2,2,1,1,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-51.00-m2-oglas-36734185
+105,468000.0,260.0,43.04396332400551,17.634280184767633,Dubrovačko-neretvanska,Metković,Metković,1,1,1,1,1,2,https://www.njuskalo.hr/nekretnine/stambeni-prostor-260-m2-oglas-41033040
 46,469000.0,120.0,42.659595461747,18.090962978925,Dubrovačko-neretvanska,Dubrovnik,Gruž,0,2,4,2,1,4,https://www.njuskalo.hr/nekretnine/dubrovnik-gruz-dvoetazni-stan-odlicnim-rasporedom-120-m2-oglas-39713161
-86,480000.0,120.0,42.642120917972,18.117077668747,Dubrovačko-neretvanska,Dubrovnik,Ploče,1,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-115-m2-oglas-26593674
+277,480000.0,80.0,42.655543529330416,18.076782929758007,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-dubrovnik-izvrsna-pjesacka-zona-stanovi-prodaja-oglas-41981480
 242,480000.0,123.0,42.667262994540216,18.157406785490014,Dubrovačko-neretvanska,Konavle,Cavtat,0,2,3,3,1,1,https://www.njuskalo.hr/nekretnine/stan-kamenoj-vili-cavtat-oglas-33995939
+86,480000.0,120.0,42.642120917972,18.117077668747,Dubrovačko-neretvanska,Dubrovnik,Ploče,1,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-115-m2-oglas-26593674
 251,485000.0,84.0,42.667262994540216,18.157406785490014,Dubrovačko-neretvanska,Konavle,Cavtat,0,1,3,2,1,4,https://www.njuskalo.hr/nekretnine/trosobni-stan-pogledom-more-oglas-41033602
 334,490000.0,90.0,42.64475687007016,18.11835662989741,Dubrovačko-neretvanska,Dubrovnik,Ploče,1,1,2,2,1,2,https://www.njuskalo.hr/nekretnine/stan-obitlejskoj-kuci-vrtom-pomocnim-objektom-oglas-41627281
 53,490000.0,60.0,42.642794299988,18.108108752564,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,2,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-gradu-prvi-red-zidina-oglas-37399217
@@ -297,30 +290,31 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 286,495000.0,95.0,42.64155099702499,18.111898261779565,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,2,2,1,1,0,https://www.njuskalo.hr/nekretnine/atraktivan-stan-95-m2-unutar-zidina-staroga-grada-dubrovnik-oglas-40553252
 89,500000.0,59.0,42.64200244891,18.10663267598,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/stan-prodaju-unutar-zidina-59.00-m2-oglas-40319035
 174,502175.0,94.0,42.663212778526,18.066180137682,Dubrovačko-neretvanska,Dubrovnik,Solitudo,0,1,3,2,1,0,https://www.njuskalo.hr/nekretnine/stan-solitudu-oglas-42200692
+74,513500.0,79.0,42.656515412688,18.079664716617,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/novogradnja-komforni-stan-blizini-setnice-lapad-dubrovnik-oglas-42101865
 155,514000.0,152.0,42.956844764726,16.680314792129,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,4,3,1,2,https://www.njuskalo.hr/nekretnine/vela-luka-luksuzan-stan-2a-2-katu-prvi-red-mora-oglas-42251044
 156,514000.0,148.0,42.954154296039,16.68007157519,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,4,3,1,2,https://www.njuskalo.hr/nekretnine/vela-luka-luksuzan-stan-2b-2-katu-prvi-red-mora-oglas-42251043
-129,518000.0,148.0,42.960254120019,16.716728198419,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/korcula-luksuzan-trosoban-stan-more-oglas-37326311
 126,518000.0,148.0,42.958997842951,16.716728206181,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/korcula-prekrasan-stan-zadnjem-katu-pogledom-more-oglas-37326299
+129,518000.0,148.0,42.960254120019,16.716728198419,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/korcula-luksuzan-trosoban-stan-more-oglas-37326311
 128,518000.0,148.0,42.958997842951,16.716728206181,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/korcula-komforan-trosoban-stan-1-red-more-oglas-37326297
-133,528937.0,152.0,42.958997842951,16.716728206181,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/korcula-moderan-trosoban-stan-lijepim-pogledom-more-oglas-37326300
 134,528937.0,152.0,42.960254120019,16.716728198419,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/korcula-moderan-trosoban-stan-lijepoj-poziciji-oglas-37326307
 136,528937.0,153.0,42.958997842951,16.716728206181,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/korcula-moderan-trosoban-stan-otvorenim-pogledom-more-oglas-37326306
-157,535200.0,153.0,42.956659338667,16.682074955265,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,4,3,1,3,https://www.njuskalo.hr/nekretnine/vela-luka-luksuzan-stan-3a-3-katu-prvi-red-mora-oglas-42251042
+133,528937.0,152.0,42.958997842951,16.716728206181,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/korcula-moderan-trosoban-stan-lijepim-pogledom-more-oglas-37326300
 154,535200.0,148.0,42.955610605733,16.681045787079,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,4,3,1,3,https://www.njuskalo.hr/nekretnine/vela-luka-luksuzan-stan-3b-3-katu-prvi-red-mora-oglas-42251046
+157,535200.0,153.0,42.956659338667,16.682074955265,Dubrovačko-neretvanska,Vela Luka,Vela Luka,0,1,4,3,1,3,https://www.njuskalo.hr/nekretnine/vela-luka-luksuzan-stan-3a-3-katu-prvi-red-mora-oglas-42251042
 132,540000.0,99.0,42.942235762126,17.105704121608,Dubrovačko-neretvanska,Korčula,Žrnovo,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/korcula-komforan-jednosoban-stan-pogledom-vrt-izgradnji-oglas-37716130
 135,540000.0,87.0,42.942235762126,17.105704121608,Dubrovačko-neretvanska,Korčula,Žrnovo,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/korcula-komforan-jednosoban-stan-pogledom-vrt-izgradnji-oglas-37716133
 364,549000.0,131.0,42.660267962427,18.091122944996,Dubrovačko-neretvanska,Dubrovnik,Gruž,1,1,5,1,1,0,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-131.00-m2-oglas-39646271
-206,550000.0,140.0,42.674464108874,18.132526753796,Dubrovačko-neretvanska,Dubrovnik - Okolica,Rožat,0,1,3,2,3,2,https://www.njuskalo.hr/nekretnine/stan-rozatu-penthouse-oglas-41272292
-214,550000.0,103.0,42.64347024465,18.115916937323,Dubrovačko-neretvanska,Dubrovnik,Ploče,1,1,4,2,1,1,https://www.njuskalo.hr/nekretnine/stan-plocama-pogled-more-oglas-38600495
-368,550000.0,145.0,42.667262994540216,18.157406785490014,Dubrovačko-neretvanska,Konavle,Cavtat,0,2,3,3,1,0,https://www.njuskalo.hr/nekretnine/stan-kamenoj-vili-cavtat-oglas-33973928
 149,550000.0,140.0,42.70307170710996,18.00916767300896,Dubrovačko-neretvanska,Dubrovnik - Okolica,Orašac,0,3,3,1,1,1,https://www.njuskalo.hr/nekretnine/dubrovnik-sest-stanova-tri-etaze-novogradnji-oglas-24235236
+206,550000.0,140.0,42.674464108874,18.132526753796,Dubrovačko-neretvanska,Dubrovnik - Okolica,Rožat,0,1,3,2,3,2,https://www.njuskalo.hr/nekretnine/stan-rozatu-penthouse-oglas-41272292
+368,550000.0,145.0,42.667262994540216,18.157406785490014,Dubrovačko-neretvanska,Konavle,Cavtat,0,2,3,3,1,0,https://www.njuskalo.hr/nekretnine/stan-kamenoj-vili-cavtat-oglas-33973928
+214,550000.0,103.0,42.64347024465,18.115916937323,Dubrovačko-neretvanska,Dubrovnik,Ploče,1,1,4,2,1,1,https://www.njuskalo.hr/nekretnine/stan-plocama-pogled-more-oglas-38600495
 186,560000.0,134.0,42.941759771075446,17.078510121866007,Dubrovačko-neretvanska,Korčula,Korčula,0,1,3,2,3,1,https://www.njuskalo.hr/nekretnine/otok-korcula-novogradnja-luksuzan-3s-stan-134-m2-terasom-bazen-oglas-41341784
 145,570000.0,160.0,42.675664367003,18.130042630467,Dubrovačko-neretvanska,Dubrovnik - Okolica,Rožat,0,1,3,3,1,2,https://www.njuskalo.hr/nekretnine/veliki-penthouse-prostranom-taracom-oglas-42258756
-57,579000.0,102.0,42.655891540677,18.076610980081,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-102.00-m2-oglas-41543528
 29,579000.0,89.0,42.658377865284,18.078910498588,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/ekskluzivna-prodaja-prekrasan-moderan-stan-pogledom-marinu-frapa-oglas-42101869
-335,580000.0,102.0,42.656491182164,18.078401647959,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,4,2,1,1,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrovnik-solitudo-102-m2-oglas-41594643
+57,579000.0,102.0,42.655891540677,18.076610980081,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-102.00-m2-oglas-41543528
 140,580000.0,102.0,42.664631792658,18.066683891324,Dubrovačko-neretvanska,Dubrovnik,Solitudo,0,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/lapadu-prodaja-trosobnog-stana-pogledom-more-oglas-41528976
 205,580000.0,102.0,42.661950997264,18.070809866868,Dubrovačko-neretvanska,Dubrovnik,Solitudo,0,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/stan-solitudu-pogled-more-oglas-41517960
+335,580000.0,102.0,42.656491182164,18.078401647959,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,4,2,1,1,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrovnik-solitudo-102-m2-oglas-41594643
 73,580000.0,102.0,42.65676087336,18.079842712273,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/luksuzan-trosoban-stan-prekrasnim-pogledom-more-dubrovnik-oglas-42101866
 363,590000.0,49.0,42.640110173637,18.106923780853,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrovnik-stari-grad-49-m2-oglas-39925849
 148,593750.0,91.0,42.93832059173,17.10128644674,Dubrovačko-neretvanska,Korčula,Žrnovo,0,1,4,2,1,1,https://www.njuskalo.hr/nekretnine/zrnovo-otok-korcula-luksuzan-stan-1-katu-pogledom-more-oglas-42258651
@@ -329,10 +323,10 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 203,620000.0,160.0,42.581648716482,18.213411917356,Dubrovačko-neretvanska,Konavle,Cavtat,1,1,4,4,1,1,https://www.njuskalo.hr/nekretnine/stan-cavtatu-pogled-more-oglas-41791675
 365,630000.0,80.0,42.656355934481,18.076508249011,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,2,2,1,2,https://www.njuskalo.hr/nekretnine/stan-odlicnoj-lokaciji-lapadu-oglas-39403058
 180,640000.0,160.0,42.9393916,16.7918946,Dubrovačko-neretvanska,Blato,Blato,0,1,2,2,1,0,https://www.njuskalo.hr/nekretnine/luksuzan-stan-prvi-red-mora-korcula-oglas-40491472
-200,645000.0,93.0,42.6417647,18.1083831,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/dubrovnik-stari-grad-stan-93-m2-oglas-41925125
 54,645000.0,93.0,42.640262664794,18.109179036747,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,4,4,1,1,https://www.njuskalo.hr/nekretnine/dubrovnik-stari-grad-izuzetna-veliki-sta-funkciji-hostela-oglas-41676022
-249,650000.0,93.0,42.639296463308,18.111718683728,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,4,4,4,1,https://www.njuskalo.hr/nekretnine/dubrovnik-stari-grad-investicija-apartman-hostel-93m2-oglas-41221223
+200,645000.0,93.0,42.6417647,18.1083831,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/dubrovnik-stari-grad-stan-93-m2-oglas-41925125
 345,650000.0,93.0,42.639465367739,18.113437431072,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-93.00-m2-oglas-41250061
+249,650000.0,93.0,42.639296463308,18.111718683728,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,4,4,4,1,https://www.njuskalo.hr/nekretnine/dubrovnik-stari-grad-investicija-apartman-hostel-93m2-oglas-41221223
 184,665000.0,160.0,42.941759771075446,17.078510121866007,Dubrovačko-neretvanska,Korčula,Korčula,0,1,3,2,3,0,https://www.njuskalo.hr/nekretnine/otok-korcula-novogradnja-luksuzan-3s-stan-160-m2-terasom-bazen-oglas-41341786
 168,665000.0,160.0,42.9083474147,16.777064106135,Dubrovačko-neretvanska,Korčula,Korčula,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/korcula-novogradnja-stan-nkp-160.3-m2-prvi-red-mora-oglas-40542745
 34,680000.0,172.0,42.647603903355,18.101919567477,Dubrovačko-neretvanska,Dubrovnik,Gornji Kono,0,1,5,4,1,2,https://www.njuskalo.hr/nekretnine/dva-trosobna-stana-centru-dubrovnika-agencijska-preporuka-oglas-41170039
@@ -340,24 +334,32 @@ linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatF
 61,690000.0,102.0,42.660820723644,18.084470646453,Dubrovačko-neretvanska,Dubrovnik,Gruž - Luka,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/luksuzna-nekretnina-iskljucivo-posredovanje-oglas-35329766
 255,696000.0,136.0,42.69344543391,18.048936172517,Dubrovačko-neretvanska,Dubrovnik - Okolica,Zaton,0,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/prekrasan-komforan-stan-novogradnji-otvorenim-pogledom-more-oglas-41134375
 374,700000.0,141.0,42.644108497867,18.099975585938,Dubrovačko-neretvanska,Dubrovnik,Boninovo,1,1,2,2,1,1,https://www.njuskalo.hr/nekretnine/dubrovnik-boninovo-centar-dvosoban-stan-prodaja-oglas-12696623
+332,700000.0,130.0,43.04836293398769,17.633616471362092,Dubrovačko-neretvanska,Metković,Metković,1,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-metkovic-130.00-m2-roh-bau-oglas-37042899
 258,730000.0,110.0,42.655403011152,18.079982819494,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,5,2,1,2,https://www.njuskalo.hr/nekretnine/trosobni-stan-blizini-uvale-lapad-prekrasnom-terasom-pogledom-oglas-40227274
 340,740000.0,74.0,42.640275260909,18.109158173662,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/stari-grad-blizu-straduna-oglas-41394625
 33,750000.0,137.0,42.644108497867,18.099975585938,Dubrovačko-neretvanska,Dubrovnik,Boninovo,0,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/stan-atraktivnoj-lokaciji-velikim-vrtom-centru-grada-dubrovnik-oglas-41250483
-93,770000.0,135.0,42.64110471066648,18.108616899226522,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,1,4,2,1,3,https://www.njuskalo.hr/nekretnine/prostrani-stan-starom-gradu-oglas-33582695
 78,770000.0,134.0,42.642250857924,18.107066198471,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,5,1,1,4,https://www.njuskalo.hr/nekretnine/cetverosoban-stan-jedinstvenoj-lokaciji-neposredna-blizina-straduna-oglas-41237346
+93,770000.0,135.0,42.64110471066648,18.108616899226522,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,1,4,2,1,3,https://www.njuskalo.hr/nekretnine/prostrani-stan-starom-gradu-oglas-33582695
 123,772000.0,193.0,42.9393916,16.7918946,Dubrovačko-neretvanska,Blato,Blato,0,1,2,2,1,2,https://www.njuskalo.hr/nekretnine/penthouse-bazenom-plazu-korcula-oglas-40575532
-213,800000.0,178.0,42.648063026885,18.079772649751,Dubrovačko-neretvanska,Dubrovnik,Gorica,1,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/luksuzan-dvoetazni-stan-gorici-pogled-more-oglas-38600496
-172,800000.0,220.0,42.643072520342,18.081215430732,Dubrovačko-neretvanska,Dubrovnik,Gorica,0,3,5,3,2,1,https://www.njuskalo.hr/nekretnine/top-ponuda-dubrovnik-5s-garaza-pm-red-mora-oglas-41365532
 190,800000.0,110.0,42.65632844287215,18.077929365325442,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/ekskluzivna-prodaja-trosoban-komforan-stan-terasom-pogledom-oglas-41416239
+172,800000.0,220.0,42.643072520342,18.081215430732,Dubrovačko-neretvanska,Dubrovnik,Gorica,0,3,5,3,2,1,https://www.njuskalo.hr/nekretnine/top-ponuda-dubrovnik-5s-garaza-pm-red-mora-oglas-41365532
 185,800000.0,193.0,42.941759771075446,17.078510121866007,Dubrovačko-neretvanska,Korčula,Korčula,0,1,3,2,3,1,https://www.njuskalo.hr/nekretnine/otok-korcula-novogradnja-luksuzan-3s-dvoetazni-penthouse-193-m2-oglas-41341785
+213,800000.0,178.0,42.648063026885,18.079772649751,Dubrovačko-neretvanska,Dubrovnik,Gorica,1,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/luksuzan-dvoetazni-stan-gorici-pogled-more-oglas-38600496
 176,808000.0,135.0,42.641833601402,18.106478351368,Dubrovačko-neretvanska,Dubrovnik,Stari grad,0,1,4,2,1,2,https://www.njuskalo.hr/nekretnine/luksuzan-stan-135m2-stradun-dubrovnik-prodaja-oglas-36197209
 8,829000.0,178.0,42.638729049561,18.107794160502,Dubrovačko-neretvanska,Dubrovnik,Gorica,1,3,5,3,1,2,https://www.njuskalo.hr/nekretnine/dubrovnik-elitni-troetazni-stan-vili-1-red-mora-oglas-32651296
 202,830000.0,178.0,42.645939740798,18.087828632788,Dubrovačko-neretvanska,Dubrovnik,Gorica,0,1,5,3,3,1,https://www.njuskalo.hr/nekretnine/prodaja-dubrovnik-peterosoban-stan-garaza-terasa-oglas-39979585
 344,840000.0,178.0,42.656482745,18.07956051,Dubrovačko-neretvanska,Dubrovnik,Lapad,0,3,5,3,1,2,https://www.njuskalo.hr/nekretnine/luksuzni-stan-dubrovnik-178.00-m2-garazom-24.36m2-oglas-28936959
+362,840000.0,117.0,43.04315605087,17.649147897885,Dubrovačko-neretvanska,Metković,Metković,1,1,3,2,1,2,https://www.njuskalo.hr/nekretnine/stan-metkovic-117.00-m2-oglas-40149686
 84,850000.0,100.0,42.64051773718306,18.10603950410843,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,2,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-stari-grad-2-etazni-stan-renoviranje-odlicna-poz-oglas-40866021
 372,860000.0,178.0,42.6439510843965,18.089152718443252,Dubrovačko-neretvanska,Dubrovnik,Gorica,0,2,5,3,1,1,https://www.njuskalo.hr/nekretnine/dubrovnik-prodaja-prvi-red-mora-dvoetazan-stan-garazom-oglas-31458225
+361,860000.0,117.0,43.04315605087,17.649147897885,Dubrovačko-neretvanska,Metković,Metković,1,1,3,2,1,1,https://www.njuskalo.hr/nekretnine/metkovic-slatine-stan-2-117-26-m2-okucnicom-oglas-40149992
+360,880000.0,114.0,43.04315605086988,17.64914789788451,Dubrovačko-neretvanska,Metković,Metković,1,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/metkovic-slatine-stan-3-114.40-m2-okucnicom-oglas-40150280
 177,966500.0,310.0,42.904083139927565,16.803399932253313,Dubrovačko-neretvanska,Korčula,Korčula,0,2,4,2,1,5,https://www.njuskalo.hr/nekretnine/korcula-luksuzan-penthouse-bazenom-prvi-red-plaze-parking-oglas-41426344
 216,1000000.0,170.0,42.642236387313,18.105225402229,Dubrovačko-neretvanska,Dubrovnik,Pile,1,1,4,4,1,2,https://www.njuskalo.hr/nekretnine/stan-pilama-oglas-38600482
 354,1020000.0,170.0,42.641264099822,18.107950127524,Dubrovačko-neretvanska,Dubrovnik,Pile,1,2,5,5,1,2,https://www.njuskalo.hr/nekretnine/dvoetazni-stan-prodaja-dubrovnik-pile-170-m2-oglas-40557306
 316,1030000.0,138.0,42.643238095711666,18.105709209917666,Dubrovačko-neretvanska,Dubrovnik,Pile,0,1,5,5,1,2,https://www.njuskalo.hr/nekretnine/luksuzno-ureden-stan-oglas-33591549
 239,1100000.0,154.0,42.642135498584,18.113214969635,Dubrovačko-neretvanska,Dubrovnik,Ploče,1,3,5,5,1,1,https://www.njuskalo.hr/nekretnine/dubrovnik-stan-plocama-ekskluzivna-lokacija-154.00-m2-oglas-38215900
+125,1150000.0,168.0,42.942235762126,17.105704121608,Dubrovačko-neretvanska,Korčula,Žrnovo,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/korcula-luksuzan-dvosoban-stan-pogledom-more-nkp-168.76m2-oglas-37716057
+373,1200000.0,140.0,42.642745300779,18.1157385228,Dubrovačko-neretvanska,Dubrovnik,Ploče,0,1,3,2,2,2,https://www.njuskalo.hr/nekretnine/ploce-novogradnja-oglas-33356996
+170,1220000.0,163.0,42.641020298695,18.109299290779,Dubrovačko-neretvanska,Dubrovnik,Stari grad,1,3,5,4,1,2,https://www.njuskalo.hr/nekretnine/stan-dubrovnik-163.00-m2-oglas-41300024
+308,2278017.0,258.0,42.6462138,18.1039521,Dubrovačko-neretvanska,Dubrovnik,Pile,0,1,5,4,1,5,https://www.njuskalo.hr/nekretnine/dubrovnik-penthouse-pogledom-more-stari-grad-oglas-39216994

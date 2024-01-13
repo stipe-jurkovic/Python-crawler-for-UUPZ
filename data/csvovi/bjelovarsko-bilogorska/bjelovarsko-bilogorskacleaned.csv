@@ -1,79 +1,80 @@
 linenum,price,livingArea,lat,lng,county,city,neighborhood,flatBuildingtype,flatFloorCount,numberOfRooms,bathrooms with toilet,toilets,buildingFloorPosition,url
-80,10.0,38,45.662265922346016,17.091905736568712,Bjelovarsko-bilogorska,Grubišno Polje,Veliki Zdenci,0,1,1,1,1,3,https://www.njuskalo.hr/nekretnine/stan-veliki-zdenci-38.46-m2-oglas-13025288
-2,20.0,50,45.901193576547165,16.858852082596012,Bjelovarsko-bilogorska,Bjelovar,Centar,1,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/stan-bjelovar-grgura-ninskog-50.00-m2-oglas-41851465
-78,35.0,65,45.6397661728999,17.165624471507954,Bjelovarsko-bilogorska,Končanica,Končanica,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-daruvar-koncanica-65-m2-useljiv-namjesten-garaza-lokacija-oglas-16407347
-79,35.0,50,45.59376441698328,17.224539739803532,Bjelovarsko-bilogorska,Daruvar,Daruvar,1,2,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-daruvar-useljiv-gradskom-korzu-oglas-14707266
-18,36.5,80,45.910938365,17.01902221,Bjelovarsko-bilogorska,Šandrovac,Šandrovac,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-sandrovac-80.00-m2-oglas-40415125
-63,38.0,56,45.7064453135695,17.187483632201598,Bjelovarsko-bilogorska,Grubišno Polje,Grubišno Polje,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-grubisno-polje-56-m2-visoko-prizemlje-parkirno-mjesto-oglas-41142855
-19,45.0,58,46.31423997525539,16.336972622776415,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-bjelovar-centar-58.00-m2-oglas-42207937
-58,49.0,44,45.57862,16.944643,Bjelovarsko-bilogorska,Garešnica,Garešnica,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/stan-galerijom-oglas-41469812
-75,60.0,54,45.59178154513637,17.219378361039446,Bjelovarsko-bilogorska,Daruvar,Daruvar,1,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-54-m2-strogi-centar-grada-1-kat-namjesten-oglas-26772186
-49,62.0,80,45.91438192522651,16.85913731440551,Bjelovarsko-bilogorska,Bjelovar,Sjever,1,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-stan-prizemlju-kuce-80.47-m2-oglas-40914080
-15,62.0,111,45.9173379,16.8481735,Bjelovarsko-bilogorska,Bjelovar,Sjever,1,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prizemlju-kuce-oglas-38454632
-65,62.5,41,45.59240572718616,17.214898447002867,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-daruvar-42-m2-centar-2-kat-renoviran-useljiv-oglas-38697167
-12,63.0,41,45.591888974514,17.215721557934,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/dvosobni-stan-centru-oglas-41169991
-66,70.0,78,45.591671592043,17.221011483255,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-78.00-m2-oglas-40292108
-5,75.0,67,45.895432037875,16.844602400274,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/prodajem-stan-centru-bjelovar-67.00-m2-oglas-42218303
-70,75.0,85,45.59421335664007,17.220361087675247,Bjelovarsko-bilogorska,Daruvar,Daruvar,1,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-100-m2-katu-kuce-mirna-lokacija-oglas-38688380
-68,75.0,95,45.591389572649,17.215406130846,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-95-m2-visoko-prizemlje-garaza-lokacija-oglas-39953740
-24,76.0,45,45.896201818725,16.839057131481,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/stan-bjelovar-45.00-m2-oglas-41737877
-74,80.0,88,45.590393,17.218565,Bjelovarsko-bilogorska,Daruvar,Daruvar,1,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-kuci-potkrovlje-88-m2-novoureden-odlicna-lokacija-oglas-29943616
-60,80.0,50,45.90593224280919,16.849810257546594,Bjelovarsko-bilogorska,Bjelovar,Naselje kralja Zvonimira,0,3,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-ulica-alojzija-stepinca-20a-50m2-oglas-41498835
-26,84.0,45,45.9049226,16.8399284,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,1,1,1,3,https://www.njuskalo.hr/nekretnine/bjelovar-stan-45.35-m2-oglas-41986095
-67,85.0,72,45.701283,17.172457,Bjelovarsko-bilogorska,Grubišno Polje,Grubišno Polje,0,1,3,1,1,4,https://www.njuskalo.hr/nekretnine/grubisno-polje-prodaja-2s-db-stana-72m2-oglas-40187299
-56,86.0,72,45.5759,16.941841,Bjelovarsko-bilogorska,Garešnica,Garešnica,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-centru-garesnica-72.00-m2-oglas-41768021
-48,89.0,51,45.9004397,16.843799,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-centar-stan-51.90-m2-adaptaciju-oglas-41090686
-62,89.0,111,45.90225713571,16.852994539817,Bjelovarsko-bilogorska,Bjelovar,Centar,1,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/prodajem-stan-bjelovaru-netto-povrsine-stambenog-prostora-111.59-m2-oglas-41260648
-76,90.0,200,45.592558063378576,17.219807184817597,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,5,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-200-m2-oglas-7235269
-11,91.5,61,45.592348231335,17.216850994623,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/trosobni-stan-centru-oglas-41169992
-69,91.5,61,45.591834968075,17.221108859367,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-daruvar-61-m2-centar-grada-renoviran-2-kat-potkrovlje-oglas-38697034
-14,98.0,53,45.8967161,16.8434109,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-centru-oglas-40234825
-47,99.0,67,45.9105502,16.8518444,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-kat-67.45-m2-oglas-37395641
-72,100.0,61,45.591343723786,17.220744107556,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-61.00-m2-novogradnja-oglas-34740148
-51,100.0,86,45.8997674,16.8389858,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-centar-novouredeni-stan-71.14-m2-oglas-35995990
-16,100.0,94,45.895612069294,16.841817382803,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/strogi-centar-trosobni-stan-oglas-23998228
-27,106.0,79,45.9039921,16.8524892,Bjelovarsko-bilogorska,Bjelovar,Naselje kralja Petra Krešimira IV,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-stan-zgradi-kat-79.65-m2-oglas-42200724
-36,106.02,55,45.91377092714,16.86087955783,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-bjelovar-55.8m2-oglas-42070243
-77,110.0,91,45.59336035653621,17.226002159638256,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-daruvar-91-m2-novogradnja-4-sobni-oglas-2011200
-9,115.0,120,45.8939324,16.8409466,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,4,1,1,1,https://www.njuskalo.hr/nekretnine/cetverosobni-stan-centru-oglas-38669249
-44,116.75,75,45.9105502,16.8518444,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-kat-75.32-m2-oglas-37395642
-3,120.0,58,45.592620438902,17.218103610223,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-daruvar-58.00-m2-novogradnja-oglas-41718233
-55,120.0,56,45.898028957711,16.842328470525,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-trosobni-stan-strogom-centru-oglas-40919266
-40,120.1,72,45.91551355547,16.864571600506,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-izgradnji-72.04-m2-oglas-41578209
-23,120.9,62,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/bjelovar-centar-stan-62-m2-drugi-kat-izgradnja-2024-g-oglas-42216836
-38,122.3,72,45.91551355547,16.864571600506,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-izgradnji-72.04-m2-oglas-41578211
-31,124.2,120,45.91438192522651,16.85913731440551,Bjelovarsko-bilogorska,Bjelovar,Sjever,1,1,4,1,1,3,https://www.njuskalo.hr/nekretnine/cetverosobni-stan-potkrovlju-pripadci-bjelovar-120-m-oglas-41639017
-7,133.0,70,45.90033124514733,16.842604429377047,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/trosobni-stan-prvom-katu-spremiste-garaza-prodaja-oglas-42068368
-21,134.55,69,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-centar-stan-69-m2-izgradnja-2024-g-oglas-42216838
-29,135.679,71,45.91377092714,16.86087955783,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-bjelovar-73.34m2-oglas-40338945
-37,142.65,84,45.91551355547,16.864571600506,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-izgradnji-84.16-m2-oglas-41578212
-39,144.4,87,45.91551355547,16.864571600506,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-izgradnji-87.23-m2-oglas-41578210
-61,144.9,69,45.8961855,16.8393499,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/bjelovar-centar-projekt-frankopanska-oglas-41430968
-1,145.0,135,45.9133979,16.8636019,Bjelovarsko-bilogorska,Bjelovar,Sjever,1,2,3,2,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-kuci-135.73-m2-oglas-39058050
-35,147.0,84,45.901498358552,16.834288109019,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-bjelovar-75.00-m2-novogradnja-oglas-30389333
-50,148.68,74,45.8961567,16.843072,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-centar-stan-1-kat-74.34-m2-oglas-39908869
-17,149.5,115,45.708705821419,17.183777834767,Bjelovarsko-bilogorska,Grubišno Polje,Grubišno Polje,0,1,4,2,2,1,https://www.njuskalo.hr/nekretnine/stan-grubisno-polje-115.00-m2-oglas-39490063
-42,150.0,89,45.915740007352,16.86027560105,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,2,2,1,4,https://www.njuskalo.hr/nekretnine/trosobni-dvoetazni-stan-potkrovlju-oglas-38350887
-71,153.562,78,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-centar-2s-db-novogradnja-78.75-m2-oglas-37927738
-59,159.0,78,45.900414977834,16.854135004097,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/prodajem-stan-oglas-41305013
-25,159.0,145,45.89946770280464,16.85908179961371,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-bjelovar-vinkovicevo-naselje-110m2-terasa-25m2-garaza-oglas-42204438
-8,160.0,98,45.911319332987,16.854650304299,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/sjever-novouredeni-stan-oglas-40117448
-41,160.0,140,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,1,2,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-bjelovar-160m2-oglas-41109378
-33,160.0,118,45.91584777828166,16.85926079750061,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,2,5,2,1,1,https://www.njuskalo.hr/nekretnine/stan-bjelovar-118.00-m2-novogradnja-oglas-40293858
-20,163.8,84,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,3,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-centar-dvoetazni-stan-84-m2-izgradnja-2024-godini-oglas-42216839
-30,166.74,79,45.8961855,16.8393499,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/bjelovar-centar-projekt-frankopanska-oglas-41430965
-34,170.0,116,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,4,1,1,4,https://www.njuskalo.hr/nekretnine/bjelovar-centar-4-sobni-stan-116.75-m2-101.33-m2-tavan-oglas-40227550
-32,171.0,90,45.920839283617,16.865518895549,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,3,2,2,1,https://www.njuskalo.hr/nekretnine/novogradnja-oglas-41963799
-22,173.55,89,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,3,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-centar-dvoetazni-stan-89-m2-prvi-drugi-kat-izgradnja-oglas-42216837
-13,180.0,180,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,4,1,1,0,https://www.njuskalo.hr/nekretnine/stan-secesijskoj-kuci-vrtom-centru-bjelovara-oglas-40063240
-45,189.72,94,45.91438192522651,16.85913731440551,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,2,3,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-cetverosobni-stan-oglas-34563643
-46,189.72,94,45.90593224280919,16.849810257546594,Bjelovarsko-bilogorska,Bjelovar,Naselje kralja Zvonimira,0,2,3,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-cetverosobni-stan-oglas-34563642
-43,190.0,143,45.9105502,16.8518444,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,2,2,2,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-prizemlju-143.89-m2-oglas-37395643
-53,212.318,103,45.886848891179,16.859687406748,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,3,2,1,2,https://www.njuskalo.hr/nekretnine/stanovi-izgradnji-kuce-nizu-103.57m2-bjelovar-vidikovac-oglas-42042914
-73,212.8,118,45.8946156,16.8406948,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,2,1,https://www.njuskalo.hr/nekretnine/stan-prodaja-bjelovar-83.26m2-oglas-33272164
-6,220.0,100,45.90348876195164,16.857651817447078,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,2,1,https://www.njuskalo.hr/nekretnine/stan-102-m-oglas-42288276
-54,220.176,100,45.886848891179,16.859687406748,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,4,2,1,2,https://www.njuskalo.hr/nekretnine/stanovi-izgradnji-kuce-nizu-100.08m2-bjelovar-vidikovac-oglas-42042867
-57,230.0,124,45.89438515748575,16.842040464297163,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-stan-125m2-centar-oglas-41238813
-4,235.0,65,43.5422549,16.4919632,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,2,1,1,2,https://www.njuskalo.hr/nekretnine/solin-dvoetazni-stan-65-m2-izvrsnoj-lokaciji-oglas-42013086
-28,244.239,143,45.596796983514,17.224609048483,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,4,1,2,4,https://www.njuskalo.hr/nekretnine/stan-prodaja-daruvar-143.67m2-oglas-39993662
-10,250.0,208,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,4,2,3,1,https://www.njuskalo.hr/nekretnine/luksuzni-penthouse-3s-db-209m-garaza-rostilj-bjelovar-oglas-39120141
+80,10000.0,38,45.662265922346016,17.091905736568712,Bjelovarsko-bilogorska,Grubišno Polje,Veliki Zdenci,0,1,1,1,1,3,https://www.njuskalo.hr/nekretnine/stan-veliki-zdenci-38.46-m2-oglas-13025288
+2,20000.0,50,45.901193576547165,16.858852082596012,Bjelovarsko-bilogorska,Bjelovar,Centar,1,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/stan-bjelovar-grgura-ninskog-50.00-m2-oglas-41851465
+78,35000.0,65,45.6397661728999,17.165624471507954,Bjelovarsko-bilogorska,Končanica,Končanica,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-daruvar-koncanica-65-m2-useljiv-namjesten-garaza-lokacija-oglas-16407347
+79,35000.0,50,45.59376441698328,17.224539739803532,Bjelovarsko-bilogorska,Daruvar,Daruvar,1,2,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-daruvar-useljiv-gradskom-korzu-oglas-14707266
+18,36500.0,80,45.910938365,17.01902221,Bjelovarsko-bilogorska,Šandrovac,Šandrovac,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-sandrovac-80.00-m2-oglas-40415125
+63,38000.0,56,45.7064453135695,17.187483632201598,Bjelovarsko-bilogorska,Grubišno Polje,Grubišno Polje,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-grubisno-polje-56-m2-visoko-prizemlje-parkirno-mjesto-oglas-41142855
+19,45000.0,58,46.31423997525539,16.336972622776415,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/stan-bjelovar-centar-58.00-m2-oglas-42207937
+58,49000.0,44,45.57862,16.944643,Bjelovarsko-bilogorska,Garešnica,Garešnica,0,1,1,1,1,0,https://www.njuskalo.hr/nekretnine/stan-galerijom-oglas-41469812
+75,60000.0,54,45.59178154513637,17.219378361039446,Bjelovarsko-bilogorska,Daruvar,Daruvar,1,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-54-m2-strogi-centar-grada-1-kat-namjesten-oglas-26772186
+49,62000.0,80,45.91438192522651,16.85913731440551,Bjelovarsko-bilogorska,Bjelovar,Sjever,1,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-stan-prizemlju-kuce-80.47-m2-oglas-40914080
+15,62000.0,111,45.9173379,16.8481735,Bjelovarsko-bilogorska,Bjelovar,Sjever,1,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prizemlju-kuce-oglas-38454632
+65,62500.0,41,45.59240572718616,17.214898447002867,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-daruvar-42-m2-centar-2-kat-renoviran-useljiv-oglas-38697167
+12,63000.0,41,45.591888974514,17.215721557934,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/dvosobni-stan-centru-oglas-41169991
+66,70000.0,78,45.591671592043,17.221011483255,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-78.00-m2-oglas-40292108
+5,75000.0,67,45.895432037875,16.844602400274,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/prodajem-stan-centru-bjelovar-67.00-m2-oglas-42218303
+70,75000.0,85,45.59421335664007,17.220361087675247,Bjelovarsko-bilogorska,Daruvar,Daruvar,1,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-100-m2-katu-kuce-mirna-lokacija-oglas-38688380
+68,75000.0,95,45.591389572649,17.215406130846,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-95-m2-visoko-prizemlje-garaza-lokacija-oglas-39953740
+24,76000.0,45,45.896201818725,16.839057131481,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/stan-bjelovar-45.00-m2-oglas-41737877
+74,80000.0,88,45.590393,17.218565,Bjelovarsko-bilogorska,Daruvar,Daruvar,1,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-kuci-potkrovlje-88-m2-novoureden-odlicna-lokacija-oglas-29943616
+60,80000.0,50,45.90593224280919,16.849810257546594,Bjelovarsko-bilogorska,Bjelovar,Naselje kralja Zvonimira,0,3,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-ulica-alojzija-stepinca-20a-50m2-oglas-41498835
+26,84000.0,45,45.9049226,16.8399284,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,1,1,1,3,https://www.njuskalo.hr/nekretnine/bjelovar-stan-45.35-m2-oglas-41986095
+67,85000.0,72,45.701283,17.172457,Bjelovarsko-bilogorska,Grubišno Polje,Grubišno Polje,0,1,3,1,1,4,https://www.njuskalo.hr/nekretnine/grubisno-polje-prodaja-2s-db-stana-72m2-oglas-40187299
+56,86000.0,72,45.5759,16.941841,Bjelovarsko-bilogorska,Garešnica,Garešnica,0,1,2,1,1,4,https://www.njuskalo.hr/nekretnine/stan-centru-garesnica-72.00-m2-oglas-41768021
+48,89000.0,51,45.9004397,16.843799,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,1,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-centar-stan-51.90-m2-adaptaciju-oglas-41090686
+62,89000.0,111,45.90225713571,16.852994539817,Bjelovarsko-bilogorska,Bjelovar,Centar,1,1,4,1,1,1,https://www.njuskalo.hr/nekretnine/prodajem-stan-bjelovaru-netto-povrsine-stambenog-prostora-111.59-m2-oglas-41260648
+76,90000.0,200,45.592558063378576,17.219807184817597,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,5,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-200-m2-oglas-7235269
+11,91500.0,61,45.592348231335,17.216850994623,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/trosobni-stan-centru-oglas-41169992
+69,91500.0,61,45.591834968075,17.221108859367,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/stan-daruvar-61-m2-centar-grada-renoviran-2-kat-potkrovlje-oglas-38697034
+14,98000.0,53,45.8967161,16.8434109,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-centru-oglas-40234825
+47,99000.0,67,45.9105502,16.8518444,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-kat-67.45-m2-oglas-37395641
+72,100000.0,61,45.591343723786,17.220744107556,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/stan-daruvar-61.00-m2-novogradnja-oglas-34740148
+51,100000.0,86,45.8997674,16.8389858,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-centar-novouredeni-stan-71.14-m2-oglas-35995990
+16,100000.0,94,45.895612069294,16.841817382803,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/strogi-centar-trosobni-stan-oglas-23998228
+27,106000.0,79,45.9039921,16.8524892,Bjelovarsko-bilogorska,Bjelovar,Naselje kralja Petra Krešimira IV,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-stan-zgradi-kat-79.65-m2-oglas-42200724
+36,106020.0,55,45.91377092714,16.86087955783,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-bjelovar-55.8m2-oglas-42070243
+77,110000.0,91,45.59336035653621,17.226002159638256,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-daruvar-91-m2-novogradnja-4-sobni-oglas-2011200
+9,115000.0,120,45.8939324,16.8409466,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,4,1,1,1,https://www.njuskalo.hr/nekretnine/cetverosobni-stan-centru-oglas-38669249
+44,116750.0,75,45.9105502,16.8518444,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-kat-75.32-m2-oglas-37395642
+3,120000.0,58,45.592620438902,17.218103610223,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/stan-daruvar-58.00-m2-novogradnja-oglas-41718233
+55,120000.0,56,45.898028957711,16.842328470525,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-trosobni-stan-strogom-centru-oglas-40919266
+40,120100.0,72,45.91551355547,16.864571600506,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-izgradnji-72.04-m2-oglas-41578209
+23,120900.0,62,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,2,https://www.njuskalo.hr/nekretnine/bjelovar-centar-stan-62-m2-drugi-kat-izgradnja-2024-g-oglas-42216836
+38,122300.0,72,45.91551355547,16.864571600506,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-izgradnji-72.04-m2-oglas-41578211
+31,124200.0,120,45.91438192522651,16.85913731440551,Bjelovarsko-bilogorska,Bjelovar,Sjever,1,1,4,1,1,3,https://www.njuskalo.hr/nekretnine/cetverosobni-stan-potkrovlju-pripadci-bjelovar-120-m-oglas-41639017
+7,133000.0,70,45.90033124514733,16.842604429377047,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/trosobni-stan-prvom-katu-spremiste-garaza-prodaja-oglas-42068368
+21,134550.0,69,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-centar-stan-69-m2-izgradnja-2024-g-oglas-42216838
+29,135679.0,71,45.91377092714,16.86087955783,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-bjelovar-73.34m2-oglas-40338945
+37,142650.0,84,45.91551355547,16.864571600506,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-izgradnji-84.16-m2-oglas-41578212
+39,144400.0,87,45.91551355547,16.864571600506,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-izgradnji-87.23-m2-oglas-41578210
+61,144900.0,69,45.8961855,16.8393499,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,3,https://www.njuskalo.hr/nekretnine/bjelovar-centar-projekt-frankopanska-oglas-41430968
+1,145000.0,135,45.9133979,16.8636019,Bjelovarsko-bilogorska,Bjelovar,Sjever,1,2,3,2,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-kuci-135.73-m2-oglas-39058050
+35,147000.0,84,45.901498358552,16.834288109019,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-bjelovar-75.00-m2-novogradnja-oglas-30389333
+50,148680.0,74,45.8961567,16.843072,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-centar-stan-1-kat-74.34-m2-oglas-39908869
+17,149500.0,115,45.708705821419,17.183777834767,Bjelovarsko-bilogorska,Grubišno Polje,Grubišno Polje,0,1,4,2,2,1,https://www.njuskalo.hr/nekretnine/stan-grubisno-polje-115.00-m2-oglas-39490063
+42,150000.0,89,45.915740007352,16.86027560105,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,2,2,1,4,https://www.njuskalo.hr/nekretnine/trosobni-dvoetazni-stan-potkrovlju-oglas-38350887
+71,153562.0,78,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-centar-2s-db-novogradnja-78.75-m2-oglas-37927738
+59,159000.0,78,45.900414977834,16.854135004097,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,1,https://www.njuskalo.hr/nekretnine/prodajem-stan-oglas-41305013
+25,159000.0,145,45.89946770280464,16.85908179961371,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,4,1,1,2,https://www.njuskalo.hr/nekretnine/stan-bjelovar-vinkovicevo-naselje-110m2-terasa-25m2-garaza-oglas-42204438
+8,160000.0,98,45.911319332987,16.854650304299,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,3,1,1,2,https://www.njuskalo.hr/nekretnine/sjever-novouredeni-stan-oglas-40117448
+41,160000.0,140,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,1,2,3,1,1,0,https://www.njuskalo.hr/nekretnine/stan-prodaja-bjelovar-160m2-oglas-41109378
+33,160000.0,118,45.91584777828166,16.85926079750061,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,2,5,2,1,1,https://www.njuskalo.hr/nekretnine/stan-bjelovar-118.00-m2-novogradnja-oglas-40293858
+20,163800.0,84,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,3,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-centar-dvoetazni-stan-84-m2-izgradnja-2024-godini-oglas-42216839
+30,166740.0,79,45.8961855,16.8393499,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,1,3,https://www.njuskalo.hr/nekretnine/bjelovar-centar-projekt-frankopanska-oglas-41430965
+34,170000.0,116,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,4,1,1,4,https://www.njuskalo.hr/nekretnine/bjelovar-centar-4-sobni-stan-116.75-m2-101.33-m2-tavan-oglas-40227550
+32,171000.0,90,45.920839283617,16.865518895549,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,1,3,2,2,1,https://www.njuskalo.hr/nekretnine/novogradnja-oglas-41963799
+22,173550.0,89,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,3,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-centar-dvoetazni-stan-89-m2-prvi-drugi-kat-izgradnja-oglas-42216837
+13,180000.0,180,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,4,1,1,0,https://www.njuskalo.hr/nekretnine/stan-secesijskoj-kuci-vrtom-centru-bjelovara-oglas-40063240
+45,189720.0,94,45.91438192522651,16.85913731440551,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,2,3,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-cetverosobni-stan-oglas-34563643
+46,189720.0,94,45.90593224280919,16.849810257546594,Bjelovarsko-bilogorska,Bjelovar,Naselje kralja Zvonimira,0,2,3,1,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-cetverosobni-stan-oglas-34563642
+43,190000.0,143,45.9105502,16.8518444,Bjelovarsko-bilogorska,Bjelovar,Sjever,0,2,2,2,1,0,https://www.njuskalo.hr/nekretnine/bjelovar-sjever-stan-prizemlju-143.89-m2-oglas-37395643
+53,212318.0,103,45.886848891179,16.859687406748,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,3,2,1,2,https://www.njuskalo.hr/nekretnine/stanovi-izgradnji-kuce-nizu-103.57m2-bjelovar-vidikovac-oglas-42042914
+73,212800.0,118,45.8946156,16.8406948,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,2,1,https://www.njuskalo.hr/nekretnine/stan-prodaja-bjelovar-83.26m2-oglas-33272164
+6,220000.0,100,45.90348876195164,16.857651817447078,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,3,1,2,1,https://www.njuskalo.hr/nekretnine/stan-102-m-oglas-42288276
+54,220176.0,100,45.886848891179,16.859687406748,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,4,2,1,2,https://www.njuskalo.hr/nekretnine/stanovi-izgradnji-kuce-nizu-100.08m2-bjelovar-vidikovac-oglas-42042867
+57,230000.0,124,45.89438515748575,16.842040464297163,Bjelovarsko-bilogorska,Bjelovar,Centar,0,1,2,1,1,1,https://www.njuskalo.hr/nekretnine/bjelovar-stan-125m2-centar-oglas-41238813
+4,235000.0,65,43.5422549,16.4919632,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,2,1,1,2,https://www.njuskalo.hr/nekretnine/solin-dvoetazni-stan-65-m2-izvrsnoj-lokaciji-oglas-42013086
+28,244239.0,143,45.596796983514,17.224609048483,Bjelovarsko-bilogorska,Daruvar,Daruvar,0,1,4,1,2,4,https://www.njuskalo.hr/nekretnine/stan-prodaja-daruvar-143.67m2-oglas-39993662
+10,250000.0,208,45.822472109554994,16.813345729783364,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,4,2,3,1,https://www.njuskalo.hr/nekretnine/luksuzni-penthouse-3s-db-209m-garaza-rostilj-bjelovar-oglas-39120141
+52,294424.0,113,45.886848891179,16.859687406748,Bjelovarsko-bilogorska,Bjelovar,Centar,0,2,4,2,1,2,https://www.njuskalo.hr/nekretnine/stanovi-izgradnji-kuce-nizu-113.24m2-bjelovar-vidikovac-oglas-42042966
