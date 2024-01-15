@@ -13,7 +13,7 @@ file_path = os.path.join(os.pardir, "data", "csvovi", "dubrovacko-neretvanska", 
 df = pd.read_csv(file_path)
 
 # Features and target variable
-X = df.drop(['url', 'linenum', 'price'], axis=1)
+X = df.drop(['url', 'linenum', 'price', 'lat', 'lng'], axis=1)
 y = df['price']
 
 # One-hot encode categorical variables
