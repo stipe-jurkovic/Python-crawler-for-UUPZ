@@ -1,21 +1,34 @@
 import folium
 import pandas as pd
+from folium.plugins import MarkerCluster
 
-# Sample data (replace this with your actual data)
-data = {
-    'Flat': ['Flat1', 'Flat2', 'Flat3'],
-    'Latitude': [45.1, 45.2, 45.3],
-    'Longitude': [15.1, 15.2, 15.3]
-}
+# Read the CSV file
+df = pd.read_csv('../data/merged_data_filtered.csv')
 
-df = pd.DataFrame(data)
+# Create an empty list to store the data
+data = []
+
+# Iterate over each row in the DataFrame
+for index, row in df.iterrows():
+    # Extract the latitude and longitude values
+    latitude = row['lat']
+    longitude = row['lng']
+    
+    # Create a dictionary for each row and append it to the data list
+    data.append({
+        'url': row['url'],
+        'lat': latitude,
+        'lng': longitude
+    })
 
 # Create a folium map centered around Croatia
 croatia_map = folium.Map(location=[45.1, 15.5], zoom_start=7)
 
 # Add markers for each flat
-for index, row in df.iterrows():
-    folium.Marker([row['Latitude'], row['Longitude']], popup=row['Flat']).add_to(croatia_map)
+
+# Add markers for each flat to the cluster, not the map
+for row in data:
+    folium.Marker([row['lat'], row['lng']], popup=row['url']).add_to(croatia_map)
 
 # Save the map to an HTML file
 croatia_map.save('flats_map.html')
